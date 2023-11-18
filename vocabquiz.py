@@ -1,6 +1,5 @@
 # main.py
 import discord
-import openai
 import pandas as pd
 import re
 
