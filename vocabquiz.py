@@ -67,7 +67,6 @@ def get_file_contents(filename):
         print("Ask Gregor for an API Key.")
 
 TOKEN = get_file_contents("token")
-openai.api_key = get_file_contents("apikey")
 
 @client.event
 async def on_ready():
