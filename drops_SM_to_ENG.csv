@@ -1,0 +1,2113 @@
+kofe,coffee,Food & Drinks,Drinks,25
+coke,coke,Food & Drinks,Drinks,26
+koko vevela,hot chocolate,Food & Drinks,Drinks,27
+inu,drink,Food & Drinks,Drinks,28
+susu,milk,Food & Drinks,Drinks,29
+vai suamoli,orange juice,Food & Drinks,Drinks,31
+apa inu,soda,Food & Drinks,Drinks,32
+ti,tea,Food & Drinks,Drinks,33
+vai,water,Food & Drinks,Drinks,34
+suāniu,coconut water,Food & Drinks,Drinks,1854
+falaoa,bread,Food & Drinks,Food,121
+aiga o le taeao,breakfast,Food & Drinks,Food,122
+fuāla'au 'aina suamalie,fruits,Food & Drinks,Food,123
+sisi,cheese,Food & Drinks,Food,124
+fuāmoa,egg,Food & Drinks,Food,125
+i'a,fish,Food & Drinks,Food,126
+supo,soup,Food & Drinks,Food,128
+a'ano manufasi,meat,Food & Drinks,Food,132
+suka,sugar,Food & Drinks,Food,134
+salati,salad,Food & Drinks,Food,135
+mea'ai fai i susu,dairy,Food & Drinks,Food,2879
+aiga o le aoauli,lunch,Food & Drinks,Food,2880
+aiga o le afiafi,dinner,Food & Drinks,Food,2881
+mea 'ai ave i fafo,takeout,Food & Drinks,Food,2892
+palamu,plum,Food & Drinks,Fruits,678
+kiwi,kiwi,Food & Drinks,Fruits,679
+meleni pa'epa'e,honeydew melon,Food & Drinks,Fruits,681
+peach,peach,Food & Drinks,Fruits,682
+cherry,cherry,Food & Drinks,Fruits,683
+apu,apple,Food & Drinks,Fruits,685
+vine,grape,Food & Drinks,Fruits,690
+meleni,watermelon,Food & Drinks,Fruits,691
+pea,pear,Food & Drinks,Fruits,692
+fa'i otā,banana,Food & Drinks,Fruits,694
+pulou āitu,mushroom,Food & Drinks,Vegetables,129
+porokolī,broccoli,Food & Drinks,Vegetables,697
+kapisi,cabbage,Food & Drinks,Vegetables,698
+kolifalaoa,cauliflower,Food & Drinks,Vegetables,700
+sana,corn,Food & Drinks,Vegetables,701
+kukama,cucumber,Food & Drinks,Vegetables,702
+latisi lau,lettuce,Food & Drinks,Vegetables,704
+pasilī,parsley,Food & Drinks,Vegetables,706
+latisi a'a,radish,Food & Drinks,Vegetables,709
+pi,pea,Food & Drinks,Vegetables,3187
+brussels sprout,brussels sprout,Food & Drinks,Vegetables,3188
+pili,bill,Food & Drinks,Restaurant,730
+fagu,bottle,Food & Drinks,Restaurant,731
+fa'amanogi mea 'ai,condiments,Food & Drinks,Restaurant,733
+mea 'ai suamalie,dessert,Food & Drinks,Restaurant,734
+lisi o mea 'ai,menu,Food & Drinks,Restaurant,738
+solo gutu,napkin,Food & Drinks,Restaurant,739
+mea 'ai fa'atau i tafā ala,street food,Food & Drinks,Restaurant,740
+ie laulau,tablecloth,Food & Drinks,Restaurant,741
+tupe mo lē aumaia mea'ai,tip,Food & Drinks,Restaurant,742
+tuinifo,toothpick,Food & Drinks,Restaurant,743
+tray,tray,Food & Drinks,Restaurant,744
+bacon,bacon,Food & Drinks,More_Foods,764
+pata,butter,Food & Drinks,More_Foods,765
+ham,ham,Food & Drinks,More_Foods,768
+hamupaka,hamburger,Food & Drinks,More_Foods,769
+sosisi hotdog,hotdog,Food & Drinks,More_Foods,771
+samani,salmon,Food & Drinks,More_Foods,776
+sosisi,sausage,Food & Drinks,More_Foods,777
+ioka,yogurt,Food & Drinks,More_Foods,779
+pasili,basil,Food & Drinks,Spices_and_Sweets,848
+keke,cake,Food & Drinks,Spices_and_Sweets,850
+polo feū,chili,Food & Drinks,Spices_and_Sweets,851
+sukalati,chocolate,Food & Drinks,Spices_and_Sweets,852
+kināmoni,cinnamon,Food & Drinks,Spices_and_Sweets,853
+kuki,cookie,Food & Drinks,Spices_and_Sweets,854
+fiu,ginger,Food & Drinks,Spices_and_Sweets,855
+sikoni,muffin,Food & Drinks,Spices_and_Sweets,856
+tonati,donut,Food & Drinks,Spices_and_Sweets,857
+falaoa mata,flour,Food & Drinks,Spices_and_Sweets,858
+meli,honey,Food & Drinks,Spices_and_Sweets,859
+aisikulimi,ice cream,Food & Drinks,Spices_and_Sweets,860
+lole la'au,lollipop,Food & Drinks,Spices_and_Sweets,861
+pepa fai mea 'ai,pepper,Food & Drinks,Spices_and_Sweets,862
+masima,salt,Food & Drinks,Spices_and_Sweets,863
+vanila,vanilla,Food & Drinks,Spices_and_Sweets,864
+masini vili mea 'ai,blender,Food & Drinks,Cooking,950
+apa,can,Food & Drinks,Cooking,951
+tusi kuka,cookbook,Food & Drinks,Cooking,952
+tala fagu,corkscrew,Food & Drinks,Cooking,953
+lapa,grater,Food & Drinks,Cooking,954
+tatau tipolo,juicer,Food & Drinks,Cooking,955
+asu sua,ladle,Food & Drinks,Cooking,956
+vili fuāmoa uila,mixer,Food & Drinks,Cooking,957
+ipu e palu ai,mixing bowl,Food & Drinks,Cooking,958
+tata'e nati,nutcracker,Food & Drinks,Cooking,959
+vili pepa 'aina,pepper mill,Food & Drinks,Cooking,960
+momi,sponge,Food & Drinks,Cooking,961
+fa'amamā,strainer,Food & Drinks,Cooking,962
+fua ai le vevela,thermometer,Food & Drinks,Cooking,963
+fua taimi,timer,Food & Drinks,Cooking,964
+mea fai fa'apa'u,toaster,Food & Drinks,Cooking,965
+ta fuāmoa,whisk,Food & Drinks,Cooking,966
+falaoa Falani,baguette,Food & Drinks,Pastries,1494
+pani,bun,Food & Drinks,Pastries,1496
+lole,candy,Food & Drinks,Pastries,1497
+masi,crackers,Food & Drinks,Pastries,1499
+pani Falani,croissant,Food & Drinks,Pastries,1500
+pata pinati,peanut butter,Food & Drinks,Pastries,1502
+pai,pie,Food & Drinks,Pastries,1504
+pisa,pizza,Food & Drinks,Pastries,1505
+pretzel,pretzel,Food & Drinks,Pastries,1506
+sikoni,scone,Food & Drinks,Pastries,1509
+tagata fai kofe,barista,Food & Drinks,Tea_and_Coffee,1852
+umi e tunu ai le kofe,brew time,Food & Drinks,Tea_and_Coffee,1853
+fatu kofe,coffee bean,Food & Drinks,Tea_and_Coffee,1855
+masini vili kofe,coffee grinder,Food & Drinks,Tea_and_Coffee,1856
+kofe toto'o,espresso,Food & Drinks,Tea_and_Coffee,1857
+masini fai kofe,espresso machine,Food & Drinks,Tea_and_Coffee,1858
+kofe tunu fa'amamā,filter coffee,Food & Drinks,Tea_and_Coffee,1859
+tipoti tunu kofe Falani,French press,Food & Drinks,Tea_and_Coffee,1860
+kofe fa'asusu,latte,Food & Drinks,Tea_and_Coffee,1863
+taga lauti,tea bag,Food & Drinks,Tea_and_Coffee,1865
+lau ti,tea leaf,Food & Drinks,Tea_and_Coffee,1867
+avoka,avocado,Food & Drinks,More_Vegetables,695
+liki,leek,Food & Drinks,More_Vegetables,3185
+kapisi Saina,bok choy,Food & Drinks,More_Vegetables,3189
+Isalaelu,eggplant,Food & Drinks,More_Vegetables,3191
+tatupu,sprouts,Food & Drinks,More_Vegetables,3194
+kale,kale,Food & Drinks,More_Vegetables,3195
+beetroot,beetroot,Food & Drinks,More_Vegetables,3196
+pi soi,soybeans,Food & Drinks,More_Vegetables,3198
+olive,olive,Food & Drinks,Exotic_Fruits,686
+vai 'aiga,snack,Food & Drinks,Snacks,2882
+ioe,yes,Study with Amber,Essentials,1
+leai,no,Study with Amber,Essentials,2
+ua lelei,ok,Study with Amber,Essentials,3
+Ua a mai?,hi,Study with Amber,Essentials,4
+Fa'afetai,thank you,Study with Amber,Essentials,5
+fa,bye,Study with Amber,Essentials,6
+fa'amolemole,please,Study with Amber,Essentials,7
+O a'u,I,Study with Amber,Essentials,9
+ma,and,Study with Amber,Essentials,16
+po'o,or,Study with Amber,Essentials,17
+lea,this,Study with Amber,Essentials,18
+kofe,coffee,Study with Amber,Drinks,25
+coke,coke,Study with Amber,Drinks,26
+koko vevela,hot chocolate,Study with Amber,Drinks,27
+inu,drink,Study with Amber,Drinks,28
+susu,milk,Study with Amber,Drinks,29
+vai suamoli,orange juice,Study with Amber,Drinks,31
+apa inu,soda,Study with Amber,Drinks,32
+ti,tea,Study with Amber,Drinks,33
+vai,water,Study with Amber,Drinks,34
+suāniu,coconut water,Study with Amber,Drinks,1854
+siro,zero,Study with Amber,Numbers,41
+tasi,one,Study with Amber,Numbers,42
+lua,two,Study with Amber,Numbers,43
+tolu,three,Study with Amber,Numbers,44
+fa,four,Study with Amber,Numbers,45
+lima,five,Study with Amber,Numbers,46
+ono,six,Study with Amber,Numbers,47
+fitu,seven,Study with Amber,Numbers,48
+valu,eight,Study with Amber,Numbers,49
+iva,nine,Study with Amber,Numbers,50
+sefulu,ten,Study with Amber,Numbers,51
+sefulutasi,eleven,Study with Amber,Numbers,52
+sefululua,twelve,Study with Amber,Numbers,53
+luasefulu,twenty,Study with Amber,Numbers,54
+selau,hundred,Study with Amber,Numbers,55
+Ou te manatu,I think,Study with Amber,Numbers,56
+Ou te faitau,I count,Study with Amber,Numbers,58
+falaoa,bread,Study with Amber,Food,121
+aiga o le taeao,breakfast,Study with Amber,Food,122
+fuāla'au 'aina suamalie,fruits,Study with Amber,Food,123
+sisi,cheese,Study with Amber,Food,124
+fuāmoa,egg,Study with Amber,Food,125
+i'a,fish,Study with Amber,Food,126
+supo,soup,Study with Amber,Food,128
+a'ano manufasi,meat,Study with Amber,Food,132
+suka,sugar,Study with Amber,Food,134
+salati,salad,Study with Amber,Food,135
+mea'ai fai i susu,dairy,Study with Amber,Food,2879
+aiga o le aoauli,lunch,Study with Amber,Food,2880
+aiga o le afiafi,dinner,Study with Amber,Food,2881
+mea 'ai ave i fafo,takeout,Study with Amber,Food,2892
+pelē,cards,Study with Amber,Fun,401
+fale tifaga,cinema,Study with Amber,Fun,403
+koneseti,concert,Study with Amber,Fun,404
+mata'aga,exhibition,Study with Amber,Fun,405
+nusipepa,newspaper,Study with Amber,Fun,406
+patī,party,Study with Amber,Fun,407
+fetāuiga,match,Study with Amber,Fun,409
+talanoa,chat,Study with Amber,Fun,410
+ta'aloga video,video games,Study with Amber,Fun,411
+fale'aiga,restaurant,Study with Amber,Fun,412
+matamata,sightseeing,Study with Amber,Fun,414
+siva,dance,Study with Amber,Fun,415
+tino,body,Study with Amber,Body,421
+ulu,head,Study with Amber,Body,422
+lauulu,hair,Study with Amber,Body,423
+foliga,face,Study with Amber,Body,424
+taliga,ears,Study with Amber,Body,425
+mata,eyes,Study with Amber,Body,426
+isu,nose,Study with Amber,Body,427
+gutu,mouth,Study with Amber,Body,428
+nifo,tooth,Study with Amber,Body,429
+laugutu,lips,Study with Amber,Body,431
+lima,hand,Study with Amber,Body,432
+tamatama'ilima,finger,Study with Amber,Body,433
+atigilima,nail,Study with Amber,Body,434
+vae,foot,Study with Amber,Body,435
+Ou te oso,I jump,Study with Amber,Body,437
+Ou te tamo'e,I run,Study with Amber,Body,438
+ita,angry,Study with Amber,Emotions,576
+lē ua'i,bored,Study with Amber,Emotions,577
+fa'avalevalea,crazy,Study with Amber,Emotions,579
+oso fiafia,excited,Study with Amber,Emotions,582
+fiafia,happy,Study with Amber,Emotions,585
+po'epo'evale,nervous,Study with Amber,Emotions,587
+lē lavā,tired,Study with Amber,Emotions,592
+palamu,plum,Study with Amber,Fruits,678
+kiwi,kiwi,Study with Amber,Fruits,679
+meleni pa'epa'e,honeydew melon,Study with Amber,Fruits,681
+peach,peach,Study with Amber,Fruits,682
+cherry,cherry,Study with Amber,Fruits,683
+apu,apple,Study with Amber,Fruits,685
+vine,grape,Study with Amber,Fruits,690
+meleni,watermelon,Study with Amber,Fruits,691
+pea,pear,Study with Amber,Fruits,692
+fa'i otā,banana,Study with Amber,Fruits,694
+pulou āitu,mushroom,Study with Amber,Vegetables,129
+porokolī,broccoli,Study with Amber,Vegetables,697
+kapisi,cabbage,Study with Amber,Vegetables,698
+kolifalaoa,cauliflower,Study with Amber,Vegetables,700
+sana,corn,Study with Amber,Vegetables,701
+kukama,cucumber,Study with Amber,Vegetables,702
+latisi lau,lettuce,Study with Amber,Vegetables,704
+pasilī,parsley,Study with Amber,Vegetables,706
+latisi a'a,radish,Study with Amber,Vegetables,709
+pi,pea,Study with Amber,Vegetables,3187
+brussels sprout,brussels sprout,Study with Amber,Vegetables,3188
+pesipolo,baseball,Study with Amber,Sports,882
+pasiketipolo,basketball,Study with Amber,Sports,883
+faipelē,boxing,Study with Amber,Sports,884
+lakapī Amerika,football,Study with Amber,Sports,887
+soka,soccer,Study with Amber,Sports,894
+tenisi,tennis,Study with Amber,Sports,897
+ioka,yoga,Study with Amber,Sports,898
+tā  polo,golf,Study with Amber,Sports,1174
+voli,volleyball,Study with Amber,Sports,1186
+patipati,applause,Study with Amber,Music,1052
+aofia,audience,Study with Amber,Music,1053
+aufaipese,choir,Study with Amber,Music,1054
+fuataimi,conductor,Study with Amber,Music,1055
+talipalau,drum,Study with Amber,Music,1057
+mea fa'aleotele,microphone,Study with Amber,Music,1059
+pese ua pu'e,music album,Study with Amber,Music,1060
+tagata pese siva,rockstar,Study with Amber,Music,1062
+tagata pese,singer,Study with Amber,Music,1063
+pese,song,Study with Amber,Music,1064
+tulaga,stage,Study with Amber,Music,1065
+tipoti uila,electric kettle,Study with Amber,Household_Items,1222
+masini fa'amago lauulu,hair dryer,Study with Amber,Household_Items,1224
+auli,iron,Study with Amber,Household_Items,1228
+laupapa auli,ironing board,Study with Amber,Household_Items,1229
+moavao,lawnmower,Study with Amber,Household_Items,1230
+matāuila,lightbulb,Study with Amber,Household_Items,1231
+nila,needle,Study with Amber,Household_Items,1234
+la'au su'isu'i,sewing machine,Study with Amber,Household_Items,1235
+filo,thread,Study with Amber,Household_Items,1237
+miti pefu,vacuum cleaner,Study with Amber,Household_Items,1238
+uati fa'atatagi,alarm clock,Study with Amber,Sleep,1239
+pola,blinds,Study with Amber,Sleep,1240
+moega fa'afogāfale,bunk bed,Study with Amber,Sleep,1241
+miti,dream,Study with Amber,Sleep,1242
+moega fa'alue,hammock,Study with Amber,Sleep,1243
+masini fa'asusū ai le 'ea,humidifier,Study with Amber,Sleep,1244
+lē mafai ona moe,insomnia,Study with Amber,Sleep,1245
+moe pu'upu'u,nap,Study with Amber,Sleep,1246
+po,night,Study with Amber,Sleep,1247
+miti leaga,nightmare,Study with Amber,Sleep,1248
+laulau po,nightstand,Study with Amber,Sleep,1249
+faitoto'a pa ulufale,entry gate,Study with Amber,Traveling,1276
+tagata savali ma a'e,hiker,Study with Amber,Traveling,1277
+tagata su'e lifi,hitchhiking,Study with Amber,Traveling,1278
+pepa totogi o le nofoaafi,rail ticket,Study with Amber,Traveling,1282
+ta'avale ta'itasi o le nofoaafi,railroad car,Study with Amber,Traveling,1283
+masini mo pepa totogi,ticket machine,Study with Amber,Traveling,1285
+tagata fa'asino malaga,tour guide,Study with Amber,Traveling,1286
+turisi,tourist,Study with Amber,Traveling,1287
+malaga,travel,Study with Amber,Traveling,1288
+ta'avale la'u uta,wagon,Study with Amber,Traveling,1289
+tagata fai kofe,barista,Study with Amber,Tea_and_Coffee,1852
+umi e tunu ai le kofe,brew time,Study with Amber,Tea_and_Coffee,1853
+fatu kofe,coffee bean,Study with Amber,Tea_and_Coffee,1855
+masini vili kofe,coffee grinder,Study with Amber,Tea_and_Coffee,1856
+kofe toto'o,espresso,Study with Amber,Tea_and_Coffee,1857
+masini fai kofe,espresso machine,Study with Amber,Tea_and_Coffee,1858
+kofe tunu fa'amamā,filter coffee,Study with Amber,Tea_and_Coffee,1859
+tipoti tunu kofe Falani,French press,Study with Amber,Tea_and_Coffee,1860
+kofe fa'asusu,latte,Study with Amber,Tea_and_Coffee,1863
+taga lauti,tea bag,Study with Amber,Tea_and_Coffee,1865
+lau ti,tea leaf,Study with Amber,Tea_and_Coffee,1867
+vali foliga,makeup,Study with Amber,Makeup,383
+fulumata,eyelash,Study with Amber,Makeup,1343
+vali laugutu,lipstick,Study with Amber,Makeup,1347
+palasi mo vali foliga,makeup brush,Study with Amber,Makeup,1348
+vali fulufulumata,mascara,Study with Amber,Makeup,1350
+vali mata,eye shadow,Study with Amber,Makeup,2519
+vali tosi laumata,eye liner,Study with Amber,Makeup,2520
+taga o vali foliga,makeup bag,Study with Amber,Makeup,2521
+fulumata fa'apipi'i,fake eyelashes,Study with Amber,Makeup,2522
+fa'asūsū laugutu,chapstick,Study with Amber,Makeup,2523
+tafi pauta lanu,blush,Study with Amber,Makeup,2524
+fufulu vali foliga,makeup remover,Study with Amber,Makeup,2525
+vali laugutu,lip gloss,Study with Amber,Makeup,2527
+taofi lauulu,hairband,Study with Amber,Beauty_Salon,2533
+masini fa'amago ulu,blowdry,Study with Amber,Beauty_Salon,2722
+spray lauulu,hairspray,Study with Amber,Beauty_Salon,2725
+vali lauulu,hair dye,Study with Amber,Beauty_Salon,2726
+u'u lauulu,hair gel,Study with Amber,Beauty_Salon,2727
+lola lauulu,hair roller,Study with Amber,Beauty_Salon,2728
+kilipa 'oti ulu,hair clipper,Study with Amber,Beauty_Salon,2729
+fa'amago ulu tu,stand dryer,Study with Amber,Beauty_Salon,2730
+palasi fai sikaili,styling brush,Study with Amber,Beauty_Salon,2731
+avoka,avocado,Study with Amber,More_Vegetables,695
+liki,leek,Study with Amber,More_Vegetables,3185
+kapisi Saina,bok choy,Study with Amber,More_Vegetables,3189
+Isalaelu,eggplant,Study with Amber,More_Vegetables,3191
+tatupu,sprouts,Study with Amber,More_Vegetables,3194
+kale,kale,Study with Amber,More_Vegetables,3195
+beetroot,beetroot,Study with Amber,More_Vegetables,3196
+pi soi,soybeans,Study with Amber,More_Vegetables,3198
+vai 'aiga,snack,Study with Amber,Snacks,2882
+fa'amalu,umbrella,Study with Amber,Essential_Products,288
+fa'afanua,map,Study with Amber,Essential_Products,508
+uaea e fafaga ai ma'a,charger,Study with Amber,Essential_Products,629
+tioata mo le la,sunglasses,Study with Amber,Essential_Products,724
+pepa totogi o le nofoaafi,rail ticket,Study with Amber,Essential_Products,1282
+kulimi mo le la,sunscreen,Study with Amber,Essential_Products,1627
+fa'afetaui,adaptor,Study with Amber,Essential_Products,3009
+malae va'alele,airport,Study with Amber,Staying_Safe,81
+faletalimālō,hotel,Study with Amber,Staying_Safe,141
+faletupe,bank,Study with Amber,Staying_Safe,241
+fale fa'atali nofoaafi,train station,Study with Amber,Staying_Safe,253
+falemeli,post office,Study with Amber,Staying_Safe,309
+foma'i,doctor,Study with Amber,Staying_Safe,525
+fale fa'atali pasi,bus station,Study with Amber,Staying_Safe,2907
+i'inei,here,Study with Amber,Meet_the_Locals,650
+i 'ō,there,Study with Amber,Meet_the_Locals,660
+ioe,yes,Travel Talk,Essentials_01_-_Daytripper,1
+leai,no,Travel Talk,Essentials_01_-_Daytripper,2
+Ua a mai?,hi,Travel Talk,Essentials_01_-_Daytripper,4
+Fa'afetai,thank you,Travel Talk,Essentials_01_-_Daytripper,5
+fa'amolemole,please,Travel Talk,Essentials_01_-_Daytripper,7
+po faleuila,toilet,Travel Talk,Essentials_01_-_Daytripper,390
+fale'aiga,restaurant,Travel Talk,Essentials_01_-_Daytripper,412
+fa,bye,Travel Talk,Essentials_02_-_Sightseer,6
+masini e aumai ai tupe,ATM machine,Travel Talk,Essentials_02_-_Sightseer,201
+card tupe,credit card,Travel Talk,Essentials_02_-_Sightseer,205
+falema'i,hospital,Travel Talk,Essentials_02_-_Sightseer,310
+tasi,one,Travel Talk,Essentials_03_-_Nomad,42
+lua,two,Travel Talk,Essentials_03_-_Nomad,43
+tolu,three,Travel Talk,Essentials_03_-_Nomad,44
+fa,four,Travel Talk,Essentials_03_-_Nomad,45
+lima,five,Travel Talk,Essentials_03_-_Nomad,46
+ono,six,Travel Talk,Essentials_03_-_Nomad,47
+fitu,seven,Travel Talk,Essentials_03_-_Nomad,48
+valu,eight,Travel Talk,Essentials_03_-_Nomad,49
+iva,nine,Travel Talk,Essentials_03_-_Nomad,50
+sefulu,ten,Travel Talk,Essentials_03_-_Nomad,51
+luasefulu,twenty,Travel Talk,Essentials_04_-_Globetrotter,54
+selau,hundred,Travel Talk,Essentials_04_-_Globetrotter,55
+agavale,left,Travel Talk,Essentials_04_-_Globetrotter,654
+taumatau,right,Travel Talk,Essentials_04_-_Globetrotter,656
+fa'asa'o i luma,straight ahead,Travel Talk,Essentials_04_-_Globetrotter,658
+fasefulu,forty,Travel Talk,Essentials_04_-_Globetrotter,665
+tolusefulu,thirty,Travel Talk,Essentials_04_-_Globetrotter,674
+afe,thousand,Travel Talk,Essentials_04_-_Globetrotter,675
+aua le ulu atu,do not enter,Travel Talk,Essentials_04_-_Globetrotter,3262
+Ou te sau mai,I'm from,Travel Talk,Essentials_04_-_Globetrotter,3057
+fa'amalu,umbrella,Travel Talk,Essential_Products,288
+fa'afanua,map,Travel Talk,Essential_Products,508
+uaea e fafaga ai ma'a,charger,Travel Talk,Essential_Products,629
+tioata mo le la,sunglasses,Travel Talk,Essential_Products,724
+pepa totogi o le nofoaafi,rail ticket,Travel Talk,Essential_Products,1282
+kulimi mo le la,sunscreen,Travel Talk,Essential_Products,1627
+fa'afetaui,adaptor,Travel Talk,Essential_Products,3009
+malae va'alele,airport,Travel Talk,Staying_Safe,81
+faletalimālō,hotel,Travel Talk,Staying_Safe,141
+faletupe,bank,Travel Talk,Staying_Safe,241
+fale fa'atali nofoaafi,train station,Travel Talk,Staying_Safe,253
+falemeli,post office,Travel Talk,Staying_Safe,309
+foma'i,doctor,Travel Talk,Staying_Safe,525
+fale fa'atali pasi,bus station,Travel Talk,Staying_Safe,2907
+i'inei,here,Travel Talk,Meet_the_Locals,650
+i 'ō,there,Travel Talk,Meet_the_Locals,660
+vai 'aiga,snack,Travel Talk,Road_Tripping,2882
+mea e piki ai ato,baggage claim,Travel Talk,At_the_Airport,95
+ioe,yes,Foundation,Essentials,1
+leai,no,Foundation,Essentials,2
+ua lelei,ok,Foundation,Essentials,3
+Ua a mai?,hi,Foundation,Essentials,4
+Fa'afetai,thank you,Foundation,Essentials,5
+fa,bye,Foundation,Essentials,6
+fa'amolemole,please,Foundation,Essentials,7
+O a'u,I,Foundation,Essentials,9
+ma,and,Foundation,Essentials,16
+po'o,or,Foundation,Essentials,17
+lea,this,Foundation,Essentials,18
+siro,zero,Foundation,Numbers,41
+tasi,one,Foundation,Numbers,42
+lua,two,Foundation,Numbers,43
+tolu,three,Foundation,Numbers,44
+fa,four,Foundation,Numbers,45
+lima,five,Foundation,Numbers,46
+ono,six,Foundation,Numbers,47
+fitu,seven,Foundation,Numbers,48
+valu,eight,Foundation,Numbers,49
+iva,nine,Foundation,Numbers,50
+sefulu,ten,Foundation,Numbers,51
+sefulutasi,eleven,Foundation,Numbers,52
+sefululua,twelve,Foundation,Numbers,53
+luasefulu,twenty,Foundation,Numbers,54
+selau,hundred,Foundation,Numbers,55
+Ou te manatu,I think,Foundation,Numbers,56
+Ou te faitau,I count,Foundation,Numbers,58
+puāo,fog,Foundation,Weather,281
+timu,rain,Foundation,Weather,282
+kiona,snow,Foundation,Weather,283
+la,sun,Foundation,Weather,284
+savili,wind,Foundation,Weather,287
+fa'amalu,umbrella,Foundation,Weather,288
+talitimu,raincoat,Foundation,Weather,289
+aisa,ice,Foundation,Weather,294
+afā,storm,Foundation,Weather,295
+uliuli,black,Foundation,Colors,559
+lanu moana,blue,Foundation,Colors,560
+lanu enaena,brown,Foundation,Colors,561
+lanu 'auro,gold,Foundation,Colors,563
+lanu meamata,green,Foundation,Colors,564
+lanu efuefu,gray,Foundation,Colors,565
+lanu moli,orange,Foundation,Colors,568
+lanu piniki,pink,Foundation,Colors,569
+lanu violē,purple,Foundation,Colors,570
+nuanua,rainbow,Foundation,Colors,571
+lanu mūmū,red,Foundation,Colors,572
+lanu siliva,silver,Foundation,Colors,573
+lanu pa'epa'e,white,Foundation,Colors,574
+lanu samasama,yellow,Foundation,Colors,575
+o ia,he,Foundation,Pronouns,611
+o ia,her,Foundation,Pronouns,612
+o lana,his,Foundation,Pronouns,613
+o ia,it,Foundation,Pronouns,617
+i lona,its,Foundation,Pronouns,618
+o la'u,my,Foundation,Pronouns,619
+o ia,she,Foundation,Pronouns,621
+o latou,their,Foundation,Pronouns,622
+o la'ua,they,Foundation,Pronouns,623
+matou,we,Foundation,Pronouns,624
+oe,you,Foundation,Pronouns,625
+o lou,your,Foundation,Pronouns,626
+sefulutasi,eleven,Foundation,More_Numbers,52
+sefululua,twelve,Foundation,More_Numbers,53
+luasefulu,twenty,Foundation,More_Numbers,54
+selau,hundred,Foundation,More_Numbers,55
+valusefulu,eighty,Foundation,More_Numbers,661
+limasefulu,fifty,Foundation,More_Numbers,663
+fasefulu,forty,Foundation,More_Numbers,665
+miliona,million,Foundation,More_Numbers,667
+ivasefulu,ninety,Foundation,More_Numbers,668
+fitusefulu,seventy,Foundation,More_Numbers,670
+onosefulu,sixty,Foundation,More_Numbers,672
+tolusefulu,thirty,Foundation,More_Numbers,674
+afe,thousand,Foundation,More_Numbers,675
+Ausetalia,Australia,Foundation,Countries,746
+Brazil,Brazil,Foundation,Countries,747
+Kanata,Canada,Foundation,Countries,748
+Saina,China,Foundation,Countries,749
+Falani,France,Foundation,Countries,751
+Siāmani,Germany,Foundation,Countries,752
+Peretania Tele,Great Britain,Foundation,Countries,753
+Iapani,Japan,Foundation,Countries,755
+Lusia,Russia,Foundation,Countries,758
+Sepania,Spain,Foundation,Countries,759
+Iunaite Setete o Amerika,the United States of America,Foundation,Countries,762
+tagatānu'u Amerika,American,Foundation,Nationalities,916
+tagatānu'u Ausetalia,Australian,Foundation,Nationalities,917
+tagatānu'u Brazil,Brazilian,Foundation,Nationalities,918
+tagatānu'u Peretania,British,Foundation,Nationalities,919
+tagatānu'u Kānata,Canadian,Foundation,Nationalities,920
+tagatānu'u Saina,Chinese,Foundation,Nationalities,921
+tagatānu'u Falani,French,Foundation,Nationalities,924
+tagatānu'u Siāmani,German,Foundation,Nationalities,925
+tagatānu'u Iapani,Japanese,Foundation,Nationalities,927
+tagatānu'u Lusia,Russian,Foundation,Nationalities,930
+tagatānu'u Sepania,Spanish,Foundation,Nationalities,931
+faitoto'a fa'a'ofu'ofu,arch,Foundation,Shapes,1154
+li'o,circle,Foundation,Shapes,1155
+fa'apulou ma'ai,cone,Foundation,Shapes,1156
+tafavalu,octagon,Foundation,Shapes,1160
+tafalima,pentagon,Foundation,Shapes,1162
+fa'apilamita,pyramid,Foundation,Shapes,1163
+tafaono,hexagon,Foundation,Shapes,1165
+lapotopoto pei se mama,ring,Foundation,Shapes,1166
+sifia,sphere,Foundation,Shapes,1167
+sikuea,square,Foundation,Shapes,1168
+tafatolu,triangle,Foundation,Shapes,1169
+tagatānu'u Finilani,Finnish,Foundation,More_Nationalities,923
+tagatānu'u Italia,Italian,Foundation,More_Nationalities,926
+tagatānu'u Mesiko,Mexican,Foundation,More_Nationalities,928
+tagatānu'u Nouei,Norwegian,Foundation,More_Nationalities,929
+tagatānu'u o Ukaraine,Ukranian,Foundation,More_Nationalities,3048
+tagatānu'u o Kolea,Korean,Foundation,More_Nationalities,3049
+tagatānu'u o Filipaina,Filipino,Foundation,More_Nationalities,3051
+tagatānu'u o Tailani,Thai,Foundation,More_Nationalities,3052
+Finilani,Finland,Foundation,More_Countries,750
+Italia,Italy,Foundation,More_Countries,754
+Mesiko,Mexico,Foundation,More_Countries,756
+Nouei,Norway,Foundation,More_Countries,757
+Ukraine,Ukraine,Foundation,More_Countries,3066
+Kolea i Saute,South Korea,Foundation,More_Countries,3067
+Filipaina,Philippines,Foundation,More_Countries,3069
+Tailani,Thailand,Foundation,More_Countries,3070
+Melei,Malaysia,Foundation,More_Countries,3071
+sefulutasi,eleven,Foundation,Counting,52
+sefululua,twelve,Foundation,Counting,53
+valusefulu,eighty,Foundation,Counting,661
+limasefulu,fifty,Foundation,Counting,663
+ivasefulu,ninety,Foundation,Counting,668
+fitusefulu,seventy,Foundation,Counting,670
+onosefulu,sixty,Foundation,Counting,672
+laupapa fa'asino ala,direction post,Nature & Animals,Outdoor,1684
+lole fa'atupu malosi,energy bar,Nature & Animals,Outdoor,1685
+nofoa fa'amoe,folding chair,Nature & Animals,Outdoor,1686
+GPS,GPS,Nature & Animals,Outdoor,1687
+molī fusi i le ulu,headlamp,Nature & Animals,Outdoor,1688
+fana tete'e iniseti,insect repellent,Nature & Animals,Outdoor,1689
+alo paopao,kayaking,Nature & Animals,Outdoor,1690
+afi uila,lighter,Nature & Animals,Outdoor,1691
+se'evae mo le kiona,snowshoes,Nature & Animals,Outdoor,1695
+Ou te a'e,I climb,Nature & Animals,Outdoor,558
+manulele,bird,Nature & Animals,Animals,780
+pusi,cat,Nature & Animals,Animals,782
+maile,dog,Nature & Animals,Animals,785
+pato,duck,Nature & Animals,Animals,787
+isumu,mouse,Nature & Animals,Animals,791
+lupe,pigeon,Nature & Animals,Animals,793
+lapiti,rabbit,Nature & Animals,Animals,794
+elefane,elephant,Nature & Animals,Animals,1195
+manuki,monkey,Nature & Animals,Animals,1197
+Ou te fafagaina,I feed,Nature & Animals,Animals,790
+ofe,bamboo,Nature & Animals,Plants,933
+lālā,branch,Nature & Animals,Plants,934
+la'au o le toafa,cactus,Nature & Animals,Plants,935
+mutia,grass,Nature & Animals,Plants,937
+laula'au,leaf,Nature & Animals,Plants,939
+ogāla'au,log,Nature & Animals,Plants,940
+niu,palm tree,Nature & Animals,Plants,941
+la'au paina,pine tree,Nature & Animals,Plants,942
+fasila'au,stick,Nature & Animals,Plants,947
+la'au,tree,Nature & Animals,Plants,948
+laupapa,wood,Nature & Animals,Plants,949
+tama'i la'au,bonsai,Nature & Animals,Plants,1732
+pe'a,bat,Nature & Animals,Wild_Animals,1189
+urosa,bear,Nature & Animals,Wild_Animals,1190
+kamela,camel,Nature & Animals,Wild_Animals,1193
+lane,frog,Nature & Animals,Wild_Animals,1196
+isumu,rat,Nature & Animals,Wild_Animals,1198
+gata,snake,Nature & Animals,Wild_Animals,1201
+laumei,turtle,Nature & Animals,Wild_Animals,1203
+luko,wolf,Nature & Animals,Wild_Animals,1204
+pafalō,buffalo,Nature & Animals,Wild_Animals,1545
+pilimo'o,chameleon,Nature & Animals,Wild_Animals,1546
+gata uogo,cobra,Nature & Animals,Wild_Animals,1547
+pili,gecko,Nature & Animals,More_Wild_Animals,1550
+giraffe,giraffe,Nature & Animals,More_Wild_Animals,1551
+kolila,gorilla,Nature & Animals,More_Wild_Animals,1552
+pili,lizard,Nature & Animals,More_Wild_Animals,1557
+manu fe'ai,panther,Nature & Animals,More_Wild_Animals,1558
+raino,rhino,Nature & Animals,More_Wild_Animals,1559
+taika,tiger,Nature & Animals,More_Wild_Animals,1560
+paluni,balloons,Nature & Animals,Air,1596
+taga 'ea,airbag,Nature & Animals,Air,1597
+asu o le ta'avale,exhaust fume,Nature & Animals,Air,1599
+ufimata mo kasa,gas mask,Nature & Animals,Air,1601
+paluni ea vevela,hot air balloon,Nature & Animals,Air,1602
+pepa solo,tissue,Nature & Animals,Air,1606
+palasiuti,parachute,Nature & Animals,Air,1607
+palasiuti fa'ase'e,paraglider,Nature & Animals,Air,1608
+pamu,pump,Nature & Animals,Air,1609
+tutui,puncture,Nature & Animals,Air,1610
+asu palapalā,smog,Nature & Animals,Air,1611
+va'a i le ea,airship,Nature & Animals,Air,1612
+kula,cooler,Nature & Animals,Beach,1616
+tagata lavea'i,lifeguard,Nature & Animals,Beach,1620
+fa'amalu,parasol,Nature & Animals,Beach,1621
+pusa oneone,sandbox,Nature & Animals,Beach,1622
+fa'ase'e,slide,Nature & Animals,Beach,1623
+mata tofutofu,snorkel,Nature & Animals,Beach,1624
+nofoa fa'alā,sun chair,Nature & Animals,Beach,1625
+fa'alā,sunbathing,Nature & Animals,Beach,1626
+kulimi mo le la,sunscreen,Nature & Animals,Beach,1627
+taupega,swing,Nature & Animals,Beach,1629
+e se'e i lalo,it slides,Nature & Animals,Beach,1618
+fale manulele,birdhouse,Nature & Animals,Birds,1647
+manutagi,hummingbird,Nature & Animals,Birds,1648
+manuuli,crow,Nature & Animals,Birds,1649
+manulele fe'ai,falcon,Nature & Animals,Birds,1650
+ostrich,ostrich,Nature & Animals,Birds,1653
+lulu,owl,Nature & Animals,Birds,1654
+manulele tautala,parrot,Nature & Animals,Birds,1655
+penguin,penguin,Nature & Animals,Birds,1657
+flamingo,flamingo,Nature & Animals,Birds,1660
+pe'ape'a,swallow,Nature & Animals,Birds,1661
+suani,swan,Nature & Animals,Birds,1662
+aeto,eagle,Nature & Animals,Birds,1663
+loi,ant,Nature & Animals,Insects,1188
+pi,bee,Nature & Animals,Insects,1191
+pepe,butterfly,Nature & Animals,Insects,1192
+mogamoga,cockroach,Nature & Animals,Insects,1194
+tagata tausi pi,beekeeper,Nature & Animals,Insects,1749
+manu 'ainiu,beetle,Nature & Animals,Insects,1750
+ketapila,caterpillar,Nature & Animals,Insects,1751
+lago telē,dragonfly,Nature & Animals,Insects,1752
+iniseti felanulanua'i,firebug,Nature & Animals,Insects,1753
+utufiti,flea,Nature & Animals,Insects,1754
+tane i'a,aquarium,Nature & Animals,Pets,1800
+pa o le manulele,birdcage,Nature & Animals,Pets,1801
+moega pusi,cat bed,Nature & Animals,Pets,1803
+ato feavea'i fagafao,pet carrier,Nature & Animals,Pets,1804
+mea'ai pusi,cat food,Nature & Animals,Pets,1805
+otaota o le pusi,cat litter,Nature & Animals,Pets,1806
+tusifolau o le fagafao,pet passport,Nature & Animals,Pets,1807
+kola o le maile,dog collar,Nature & Animals,Pets,1808
+mea'ai maile,dog food,Nature & Animals,Pets,1809
+fale o le maile,dog house,Nature & Animals,Pets,1810
+taga mo fe'au a le maile,dog poop bag,Nature & Animals,Pets,1811
+i'a aulo,goldfish,Nature & Animals,Pets,1812
+isumu,hamster,Nature & Animals,Pets,1813
+ula fa'ailoa,identification tag,Nature & Animals,Pets,1815
+manoa mo le maile,leash,Nature & Animals,Pets,1816
+Ou te milimili,I caress,Nature & Animals,Pets,1802
+Ou te fa'asavali le maile,I walk the dog,Nature & Animals,Pets,1814
+malie,shark,Nature & Animals,Sea_Life,1199
+taula,anchor,Nature & Animals,Sea_Life,1834
+pa'a,crab,Nature & Animals,Sea_Life,1835
+mumua,dolphin,Nature & Animals,Sea_Life,1836
+alualu,jellyfish,Nature & Animals,Sea_Life,1837
+ula,lobster,Nature & Animals,Sea_Life,1838
+teine afa i'a,mermaid,Nature & Animals,Sea_Life,1839
+fe'e,octopus,Nature & Animals,Sea_Life,1840
+foe,paddles,Nature & Animals,Sea_Life,1841
+fāi,ray,Nature & Animals,Sea_Life,1842
+limu,seaweed,Nature & Animals,Sea_Life,1844
+malae va'alele,airport,Transportation & Vehicles,Airport,81
+va'alele,airplane,Transportation & Vehicles,Airport,82
+siaki ato,check-in,Transportation & Vehicles,Airport,83
+pepa o le malaga,flight ticket,Transportation & Vehicles,Airport,84
+fua,scale,Transportation & Vehicles,Airport,85
+taunu'uga,destination,Transportation & Vehicles,Airport,86
+taunu'u,arrival,Transportation & Vehicles,Airport,88
+tu'uva'a ese,departure,Transportation & Vehicles,Airport,89
+teine o le va'alele,stewardess,Transportation & Vehicles,Airport,90
+tagata malaga,passenger,Transportation & Vehicles,Airport,91
+atopa'u,suitcase,Transportation & Vehicles,Airport,92
+mea e piki ai ato,baggage claim,Transportation & Vehicles,Airport,95
+pepa totogi,ticket,Transportation & Vehicles,Airport,605
+nofoaafi,train,Transportation & Vehicles,Transport,181
+piki'apu,truck,Transportation & Vehicles,Transport,183
+ta'avale veni la'u pasese,van,Transportation & Vehicles,Transport,184
+ta'avale afi la'u pasese,tram,Transportation & Vehicles,Transport,185
+lalo o le eleele,underground,Transportation & Vehicles,Transport,186
+mopeti,moped,Transportation & Vehicles,Transport,187
+meli,ship,Transportation & Vehicles,Transport,188
+uilaafi,motorcycle,Transportation & Vehicles,Transport,189
+helikopa,helicopter,Transportation & Vehicles,Transport,190
+pasi,bus,Transportation & Vehicles,Transport,191
+ta'avale,car,Transportation & Vehicles,Transport,192
+uila,bike,Transportation & Vehicles,Transport,193
+va'a,boat,Transportation & Vehicles,Transport,194
+pisi le auala,traffic jam,Transportation & Vehicles,Transport,195
+Ou te ti'eti'e i le uila,I ride a bicycle,Transportation & Vehicles,Transport,196
+mopeti,moped,Transportation & Vehicles,Mobility,187
+ta'avale pepe,baby carriage,Transportation & Vehicles,Mobility,593
+va'a la'u uta,ferry,Transportation & Vehicles,Mobility,594
+cable ka,cable car,Transportation & Vehicles,Mobility,595
+alasitepu uila,escalator,Transportation & Vehicles,Mobility,597
+ala nofoaafi,railroad,Transportation & Vehicles,Mobility,600
+sikuta,scooter,Transportation & Vehicles,Mobility,601
+ta'avale lalo o le palapala,subway,Transportation & Vehicles,Mobility,603
+ta'avale la'u pasese,taxi,Transportation & Vehicles,Mobility,604
+nofoa ta'avalevale,wheelchair,Transportation & Vehicles,Mobility,609
+tafaoga i va'a,cruise,Transportation & Vehicles,Mobility,1275
+faitoto'a pa ulufale,entry gate,Transportation & Vehicles,Traveling,1276
+tagata savali ma a'e,hiker,Transportation & Vehicles,Traveling,1277
+tagata su'e lifi,hitchhiking,Transportation & Vehicles,Traveling,1278
+pepa totogi o le nofoaafi,rail ticket,Transportation & Vehicles,Traveling,1282
+ta'avale ta'itasi o le nofoaafi,railroad car,Transportation & Vehicles,Traveling,1283
+masini mo pepa totogi,ticket machine,Transportation & Vehicles,Traveling,1285
+tagata fa'asino malaga,tour guide,Transportation & Vehicles,Traveling,1286
+turisi,tourist,Transportation & Vehicles,Traveling,1287
+malaga,travel,Transportation & Vehicles,Traveling,1288
+ta'avale la'u uta,wagon,Transportation & Vehicles,Traveling,1289
+pisi le auala,traffic jam,Transportation & Vehicles,Car,195
+fale ta'avale,garage,Transportation & Vehicles,Car,596
+pakaga ta'avale,parking lot,Transportation & Vehicles,Car,598
+nofoa o le pasese,passenger seat,Transportation & Vehicles,Car,599
+fusipa'u o nofoa,seat belt,Transportation & Vehicles,Car,602
+keli o le ta'avale,trunk,Transportation & Vehicles,Car,607
+uili,wheel,Transportation & Vehicles,Car,608
+auala,street,Transportation & Vehicles,Car,659
+ma'a o le ta'avale,car battery,Transportation & Vehicles,Car,1324
+ta'avale hire,car rental,Transportation & Vehicles,Car,1325
+fufulu ta'avale,car wash,Transportation & Vehicles,Car,1326
+tulaga,platform,Transportation & Vehicles,Railway,2610
+ala o le nofoaafi,railroad tracks,Transportation & Vehicles,Railway,2611
+tagata uli nofoaafi,train conductor,Transportation & Vehicles,Railway,2612
+ta'avale afi,steam engine,Transportation & Vehicles,Railway,2613
+ta'avale 'ai,dining car,Transportation & Vehicles,Railway,2615
+fetaula'igaala,junction,Transportation & Vehicles,Railway,2616
+manoa toso,pull cord,Transportation & Vehicles,Railway,2617
+feso'ota'i malaga i nofoaafi,interrail,Transportation & Vehicles,Railway,2618
+mea tu'u atopa'u,luggage rack,Transportation & Vehicles,Railway,2619
+tagata sola,stowaway,Transportation & Vehicles,Railway,2623
+pipi'i ai lima,handhold,Transportation & Vehicles,Railway,2624
+ta'avale tineiafi,firetruck,Transportation & Vehicles,Vehicles,3275
+ta'avale pikiapu,pickup truck,Transportation & Vehicles,Vehicles,3276
+ta'avale leoleo,police car,Transportation & Vehicles,Vehicles,3277
+ta'avale ola i le eletise,electric car,Transportation & Vehicles,Vehicles,3278
+SUV,SUV,Transportation & Vehicles,Vehicles,3279
+ta'avale aveese le fale,convertible,Transportation & Vehicles,Vehicles,3280
+veni la'itiiti,minivan,Transportation & Vehicles,Vehicles,3282
+lola sua eleele,bulldozer,Transportation & Vehicles,Vehicles,3283
+keli o le ta'avale,trunk,Transportation & Vehicles,Car_Parts,607
+vae kesi,gas pedal,Transportation & Vehicles,Car_Parts,1330
+tane kesi,gas tank,Transportation & Vehicles,Car_Parts,1331
+uaipa,windshield wipers,Transportation & Vehicles,Car_Parts,1340
+nofoata'avale mo tamaiti,car seat,Transportation & Vehicles,Car_Parts,3224
+afi o le ta'avale,engine,Transportation & Vehicles,Formula_1,1328
+fale ta'ele,bathroom,Home & Garden,House,481
+potumoe,bedroom,Home & Garden,House,483
+potu'ai,dining room,Home & Garden,House,485
+faitoto'a,door,Home & Garden,House,486
+fale,house,Home & Garden,House,487
+umukuka,kitchen,Home & Garden,House,488
+togāla'au,garden,Home & Garden,House,490
+tuā'oi,neighbor,Home & Garden,House,491
+ofisa,office,Home & Garden,House,492
+oveni,oven,Home & Garden,Kitchen,493
+pusa'aisa,refrigerator,Home & Garden,Kitchen,494
+laupapa tipi mea 'ai,cutting board,Home & Garden,Kitchen,1002
+paipa,faucet,Home & Garden,Kitchen,1003
+falai,frying pan,Home & Garden,Kitchen,1004
+ipu malamalama,glass,Home & Garden,Kitchen,1005
+mea fai tunupa'u,grill,Home & Garden,Kitchen,1006
+fagu,jug,Home & Garden,Kitchen,1009
+tipoti,kettle,Home & Garden,Kitchen,1010
+ufi,lid,Home & Garden,Kitchen,1011
+masini fulu ipu,dishwasher,Home & Garden,Kitchen,1124
+ogaumu vevela vave,microwave,Home & Garden,Kitchen,1232
+to'i,axe,Home & Garden,Tools,1018
+meafaigaluega vili,drill,Home & Garden,Tools,1019
+kelū,glue,Home & Garden,Tools,1020
+samala,hammer,Home & Garden,Tools,1021
+apefa'i,ladder,Home & Garden,Tools,1022
+fao,nail,Home & Garden,Tools,1023
+nati,nut,Home & Garden,Tools,1024
+matātafi,razor,Home & Garden,Tools,1027
+ili,saw,Home & Garden,Tools,1028
+fale mautotogi,apartment,Home & Garden,Shelters,1069
+fale tu matāfaga,beach house,Home & Garden,Shelters,1070
+fale nofo la'itiiti,cottage,Home & Garden,Shelters,1071
+fale i le fa'ato'aga,farmhouse,Home & Garden,Shelters,1072
+olo,fortress,Home & Garden,Shelters,1073
+va'a fale,houseboat,Home & Garden,Shelters,1074
+faleo'o,hut,Home & Garden,Shelters,1075
+fale gālue,log cabin,Home & Garden,Shelters,1078
+fale 'ie,tent,Home & Garden,Shelters,1081
+ta'avale nofo,trailer,Home & Garden,Shelters,1082
+fale i luga o le la'au,treehouse,Home & Garden,Shelters,1083
+paelo,barrel,Home & Garden,Containers,1104
+atigipusa,box,Home & Garden,Containers,1105
+ato ta'ita'i,briefcase,Home & Garden,Containers,1106
+pakete,bucket,Home & Garden,Containers,1107
+fagu vai,flask,Home & Garden,Containers,1110
+fa'ava'a,folder,Home & Garden,Containers,1111
+ato ta'ita'i fafine,handbag,Home & Garden,Containers,1112
+loka,locker,Home & Garden,Containers,1114
+ato tupe fafine,purse,Home & Garden,Containers,1116
+atopa'u,suitcase,Home & Garden,Containers,1117
+ato fusi,fanny pack,Home & Garden,Containers,1119
+nofoa,chair,Home & Garden,Furniture,484
+laulau,table,Home & Garden,Furniture,495
+nofoa failima,armchair,Home & Garden,Furniture,1120
+fata tusi,bookshelf,Home & Garden,Furniture,1121
+kapineta,cabinet,Home & Garden,Furniture,1122
+kapeta,carpet,Home & Garden,Furniture,1123
+nofoa ofisa,office chair,Home & Garden,Furniture,1129
+fa'avevela,radiator,Home & Garden,Furniture,1131
+sofa,sofa,Home & Garden,Furniture,1132
+puipui,wall,Home & Garden,Furniture,1133
+tipoti uila,electric kettle,Home & Garden,Household_Items,1222
+masini fa'amago lauulu,hair dryer,Home & Garden,Household_Items,1224
+auli,iron,Home & Garden,Household_Items,1228
+laupapa auli,ironing board,Home & Garden,Household_Items,1229
+moavao,lawnmower,Home & Garden,Household_Items,1230
+matāuila,lightbulb,Home & Garden,Household_Items,1231
+nila,needle,Home & Garden,Household_Items,1234
+la'au su'isu'i,sewing machine,Home & Garden,Household_Items,1235
+filo,thread,Home & Garden,Household_Items,1237
+miti pefu,vacuum cleaner,Home & Garden,Household_Items,1238
+fa'amanogi 'ea,air freshener,Home & Garden,Toilet,1256
+po faleuila e iai le paipa,bidet,Home & Garden,Toilet,1257
+masini fa'amago lima,hand dryer,Home & Garden,Toilet,1258
+solo lima,hand towel,Home & Garden,Toilet,1259
+falemamao,outhouse,Home & Garden,Toilet,1264
+palama,plumbing,Home & Garden,Toilet,1265
+pamu faleuila,plunger,Home & Garden,Toilet,1266
+feau mamao,poop,Home & Garden,Toilet,1267
+manogi,smell,Home & Garden,Toilet,1268
+palasi faleuila,toilet brush,Home & Garden,Toilet,1269
+pepa faleuila,toilet paper,Home & Garden,Toilet,1270
+papakiū,barbecue,Home & Garden,In_Case_of_Fire,1392
+afi,fire,Home & Garden,In_Case_of_Fire,1393
+fa'ailo afi,fire alarm,Home & Garden,In_Case_of_Fire,1394
+fa'amau o le fa'ailo afi,fire alarm button,Home & Garden,In_Case_of_Fire,1395
+alofaga mo afi,fire exit,Home & Garden,In_Case_of_Fire,1396
+tapē afi,fire extinguisher,Home & Garden,In_Case_of_Fire,1397
+vai mo afi,fire hydrant,Home & Garden,In_Case_of_Fire,1399
+fa'apasī vai mo afi,fire sprinkler,Home & Garden,In_Case_of_Fire,1400
+afi i le togāvao,forest fire,Home & Garden,In_Case_of_Fire,1401
+afi i le fale,house fire,Home & Garden,In_Case_of_Fire,1402
+asu,smoke,Home & Garden,In_Case_of_Fire,1405
+fa'ailo asu,smoke detector,Home & Garden,In_Case_of_Fire,1406
+sulu,torch,Home & Garden,In_Case_of_Fire,1408
+Na ou tapē,I extinguish,Home & Garden,In_Case_of_Fire,1403
+Ou te tutuina,I light up,Home & Garden,In_Case_of_Fire,1404
+fugāla'au,flower,Home & Garden,Flowers,936
+la'au fai ti,chamomile,Home & Garden,Flowers,1733
+apa to la'au,flowerpot,Home & Garden,Flowers,1735
+foketi,forget me not,Home & Garden,Flowers,1736
+fugala'au matala,lotus,Home & Garden,Flowers,1738
+oketi,orchid,Home & Garden,Flowers,1739
+oti la'au,pruner,Home & Garden,Flowers,1741
+rosa,rose,Home & Garden,Flowers,1742
+nofoa po faleuila,toilet seat,Home & Garden,More_Toilet,1271
+po pi o tamaloloa,urinal,Home & Garden,More_Toilet,1272
+puipui o le faleuila,bathroom stall,Home & Garden,More_Toilet,2483
+taofi pepa faleuila,toilet paper holder,Home & Garden,More_Toilet,2484
+pepa ufi po faleuila,toilet seat cover,Home & Garden,More_Toilet,2485
+po feau mamao,squatting pan,Home & Garden,More_Toilet,2486
+la'au tautau solo,towel rack,Home & Garden,More_Toilet,2489
+oso le vai i le faleuila,overflow,Home & Garden,More_Toilet,2491
+mama,leak,Home & Garden,More_Toilet,2492
+puni le paipa,clogged drain,Home & Garden,More_Toilet,2493
+fa'aaogā,occupied,Home & Garden,More_Toilet,2494
+avanoa,vacant,Home & Garden,More_Toilet,2495
+ala savali i totonu o se fale,hallway,Home & Garden,More_House,2628
+pusatu teu ai,storage closet,Home & Garden,More_House,2629
+ala ta'avale,driveway,Home & Garden,More_House,2631
+potu teu mea 'ai,pantry,Home & Garden,More_House,2632
+polotito,patio,Home & Garden,More_House,2633
+polotito,balcony,Home & Garden,More_House,2634
+taualuga,roof,Home & Garden,More_House,2635
+alāasu,chimney,Home & Garden,More_House,2636
+logo faitoto'a,doorbell,Home & Garden,More_House,2638
+fa'asitepu,stairwell,Home & Garden,More_House,2639
+alāvai,drainage,Home & Garden,More_House,2640
+sitepu i le faitoto'a,doorstep,Home & Garden,More_House,2642
+fisi pateta,peeler,Home & Garden,More_Kitchen,1012
+ipu mafolafola,plate,Home & Garden,More_Kitchen,1013
+ulo,pot,Home & Garden,More_Kitchen,1014
+apa fai ufi,tin,Home & Garden,More_Kitchen,1015
+sigi fulu ipu,sink,Home & Garden,More_Kitchen,1016
+ogāumu,stove,Home & Garden,More_Kitchen,1017
+sipunu ti,teaspoon,Home & Garden,More_Kitchen,2883
+sipunu supo,tablespoon,Home & Garden,More_Kitchen,2884
+fulisa,freezer,Home & Garden,More_Kitchen,2886
+sikulū kalaiva,screwdriver,Home & Garden,More_Tools,1030
+suō,shovel,Home & Garden,More_Tools,1031
+suō ma'ai,spade,Home & Garden,More_Tools,1032
+mea fa'apipi'i,tape,Home & Garden,More_Tools,1033
+pusa faigaluega,toolbox,Home & Garden,More_Tools,1034
+fua toso,tape measure,Home & Garden,More_Tools,3095
+tala fa'amau nati,wrench,Home & Garden,More_Tools,3096
+tala sokeki,socket wrench,Home & Garden,More_Tools,3097
+tipi uaea,wire cutters,Home & Garden,More_Tools,3098
+la'au 'aina e lē fua,herbs,Home & Garden,Gardening,938
+a'a,root,Home & Garden,Gardening,943
+fatu,seed,Home & Garden,Gardening,944
+palapala,soil,Home & Garden,Gardening,945
+tatupu,sprout,Home & Garden,Gardening,946
+tui faigaluega fa'ato'aga,pitchfork,Home & Garden,Gardening,1740
+uilipaelo,wheelbarrow,Home & Garden,Gardening,1748
+faletalimālō,hotel,City & Shops,Hotel,141
+mea e nofo ai,accommodation,City & Shops,Hotel,143
+card e ki ai,key card,City & Shops,Hotel,144
+aiga aumai i le potu,room service,City & Shops,Hotel,145
+o le sefe,the safe,City & Shops,Hotel,146
+vaita'ele,shower,City & Shops,Hotel,147
+potu,room,City & Shops,Hotel,148
+ea malūlū,air conditioner,City & Shops,Hotel,149
+mālo,guest,City & Shops,Hotel,151
+ki,key,City & Shops,Hotel,152
+lifi,elevator,City & Shops,Hotel,153
+laulau e siaki ai potu,reception,City & Shops,Hotel,154
+tupe pepa,banknote,City & Shops,Shopping,202
+tupe siliva,coin,City & Shops,Shopping,203
+kuponi,coupon,City & Shops,Shopping,204
+card tupe,credit card,City & Shops,Shopping,205
+tupe,currency,City & Shops,Shopping,206
+tagata fa'atau,customer,City & Shops,Shopping,207
+ato ave ai fa'atau,shopping basket,City & Shops,Shopping,208
+kesia,cashier,City & Shops,Shopping,209
+ato tupe,wallet,City & Shops,Shopping,210
+tālā,dollar,City & Shops,Shopping,211
+faleoloa,shop,City & Shops,Shopping,214
+tupe,money,City & Shops,Shopping,215
+faletupe,bank,City & Shops,City,241
+mea fa'atali pasi,bus stop,City & Shops,City,244
+paka,park,City & Shops,City,251
+falesā,cathedral,City & Shops,City,255
+lotu,church,City & Shops,City,301
+faletusi,library,City & Shops,City,303
+fale mata'aga,museum,City & Shops,City,305
+faletifaga,theater,City & Shops,City,307
+falemeli,post office,City & Shops,City,309
+falema'i,hospital,City & Shops,City,310
+fale leoleo,police station,City & Shops,City,312
+a'oga,school,City & Shops,City,314
+fale tineiafi,fire station,City & Shops,City,837
+fale gaosi mea,factory,City & Shops,Buildings,304
+fale'aiga,cafe,City & Shops,Buildings,308
+fale talavai,pharmacy,City & Shops,Buildings,311
+paka e iai ti'eti'ega eseese,theme park,City & Shops,Buildings,313
+fale ta'alo,gym,City & Shops,Buildings,838
+falemoe totogi,hostel,City & Shops,Buildings,839
+falepuipui,prison,City & Shops,Buildings,842
+fale o le mālo,town hall,City & Shops,Buildings,845
+maota o le tupu,palace,City & Shops,Buildings,1080
+uili pu'e savili,windmill,City & Shops,Buildings,1085
+fale fono tele,convention center,City & Shops,Buildings,2902
+fale 'autu o le nu'u,city hall,City & Shops,Buildings,2911
+i tua ane,behind,City & Shops,Navigation,644
+i le va,between,City & Shops,Navigation,645
+ogatotonu,center,City & Shops,Navigation,646
+tulimanu,corner,City & Shops,Navigation,647
+fa'asinoga,direction,City & Shops,Navigation,648
+i le va,distance,City & Shops,Navigation,649
+i'inei,here,City & Shops,Navigation,650
+agavale,left,City & Shops,Navigation,654
+fa'afeagai,opposite,City & Shops,Navigation,655
+taumatau,right,City & Shops,Navigation,656
+auala,road,City & Shops,Navigation,657
+fa'asa'o i luma,straight ahead,City & Shops,Navigation,658
+i 'ō,there,City & Shops,Navigation,660
+masini e aumai ai tupe,ATM machine,City & Shops,More_City,201
+auala laupapa,bridge,City & Shops,More_City,243
+maota o le tupu,castle,City & Shops,More_City,245
+fanuaoti,cemetery,City & Shops,More_City,246
+siva disco,disco,City & Shops,More_City,247
+auala savali kolosi,crosswalk,City & Shops,More_City,248
+auala tele kolosi,crossroad,City & Shops,More_City,249
+tāgamea,laundry,City & Shops,More_City,250
+molī auala,traffic light,City & Shops,More_City,252
+fale fa'atali nofoaafi,train station,City & Shops,More_City,253
+vai pupuna teuteu,fountain,City & Shops,More_City,254
+pamu kesi,gas station,City & Shops,More_City,302
+fale 'oti ulu,barber,City & Shops,Shops,866
+fale teu ulu,beauty salon,City & Shops,Shops,867
+faleoloa uila,bike shop,City & Shops,Shops,868
+faleoloa tusi,book shop,City & Shops,Shops,869
+faleoloa mea suamalie,confectionery,City & Shops,Shops,870
+tagata fa'atau i'a,fishmonger,City & Shops,Shops,872
+tagata fa'atau fugala'au,florist,City & Shops,Shops,873
+maketi fuāla'au 'aina,greengrocery,City & Shops,Shops,874
+fale teu ulu,hairdresser,City & Shops,Shops,875
+teuga i'ila,jewelry,City & Shops,Shops,877
+tagata fai loka,key smith,City & Shops,Shops,878
+tagata fai tioata,optician,City & Shops,Shops,879
+tagata su'i ofu,tailor,City & Shops,Shops,880
+tuātusi,address,City & Shops,Post_Office,899
+meli va'alele,airmail,City & Shops,Post_Office,900
+teutusi,envelope,City & Shops,Post_Office,902
+tusi,letter,City & Shops,Post_Office,903
+pusameli,mailbox,City & Shops,Post_Office,905
+posikaki,postcard,City & Shops,Post_Office,907
+meli fa'amuamua,priority mail,City & Shops,Post_Office,909
+meli toe fo'i mai,returned mail,City & Shops,Post_Office,910
+fa'amau,seal,City & Shops,Post_Office,911
+tagata na lafoa le tusi,sender,City & Shops,Post_Office,912
+saini,signature,City & Shops,Post_Office,913
+fa'ailoga,stamp,City & Shops,Post_Office,914
+mamafa,weight,City & Shops,Post_Office,915
+toto,blood,City & Shops,Hospital,1426
+to'oto'o,crutch,City & Shops,Hospital,1427
+su'esu'ega,examination,City & Shops,Hospital,1428
+tātā o le fatu,heartbeat,City & Shops,Hospital,1429
+aivī,infusion,City & Shops,Hospital,1432
+pili o le falema'i,medical bill,City & Shops,Hospital,1433
+fa'amaumauga tau ma'i,medical record,City & Shops,Hospital,1434
+tagata ma'i,patient,City & Shops,Hospital,1435
+potu ekimiki,patient admission,City & Shops,Hospital,1436
+ta o le fatu,pulse,City & Shops,Hospital,1437
+tui,syringe,City & Shops,Hospital,1438
+moega avema'i,stretcher,City & Shops,Hospital,1440
+foma'i tipitipi,surgeon,City & Shops,Hospital,1441
+fa'ata,x-ray,City & Shops,Hospital,1442
+Ou te tale,I cough,City & Shops,Hospital,1430
+Ou te fa'atali,I wait,City & Shops,Hospital,1431
+fale vai maualuga,water tower,City & Shops,More_Buildings,2897
+laulau fesoasoani mo fa'amatalaga ma tautua,kiosk,City & Shops,More_Buildings,2898
+fale umī,tower,City & Shops,More_Buildings,2899
+toega o mea malepelepe,ruins,City & Shops,More_Buildings,2900
+fale gaosi mea,mill,City & Shops,More_Buildings,2901
+fale gaosi pia,brewery,City & Shops,More_Buildings,2903
+fale talimālo,motel,City & Shops,More_Buildings,2905
+fale fa'atali pasi,bus station,City & Shops,More_Buildings,2907
+lotoā a'oga,campus,City & Shops,More_Buildings,2908
+fale Initia,tepee,City & Shops,More_Buildings,2909
+fale gaosi uaina,winery,City & Shops,More_Buildings,2912
+fa'ailo auala,traffic sign,City & Shops,Signs,606
+auala kolosi o le nofoaafi,rail crossing,City & Shops,Signs,1281
+fa'atulagaga o taimi,timetable,City & Shops,Signs,2609
+laupapa o fa'amatalaga,information board,City & Shops,Signs,2620
+auala kolosi lalo o le palapala,underground crossing,City & Shops,Signs,2622
+auala a'e tu,steep road,City & Shops,Signs,3257
+mea fa'aeteetegatā,hazardous materials,City & Shops,Signs,3258
+fa'ailo taofi,stop sign,City & Shops,Signs,3259
+sa le sopo tuāoi,no trespassing,City & Shops,Signs,3260
+tulaga faigata mo tagata,biohazard,City & Shops,Signs,3261
+aua le ulu atu,do not enter,City & Shops,Signs,3262
+piano la'itiiti,keyboard,Business & Tech,.com,347
+komepiuta laptop,laptop,Business & Tech,.com,348
+fa'aupega,network,Business & Tech,.com,350
+upu pasi,password,Business & Tech,.com,351
+palaka,plug,Business & Tech,.com,352
+masini lolomi,printer,Business & Tech,.com,353
+screen,screen,Business & Tech,.com,354
+la'au sefe ai faila,USB stick,Business & Tech,.com,355
+tagata ta'alo,athlete,Business & Tech,Jobs,521
+kuka,cook,Business & Tech,Jobs,522
+tusitala,journalist,Business & Tech,Jobs,523
+loia,lawyer,Business & Tech,Jobs,524
+foma'i,doctor,Business & Tech,Jobs,525
+tagata fai ta'avale,mechanic,Business & Tech,Jobs,526
+patele,priest,Business & Tech,Jobs,527
+saienitisi,scientist,Business & Tech,Jobs,528
+failautusi,secretary,Business & Tech,Jobs,529
+faia'oga,teacher,Business & Tech,Jobs,530
+tagata faigaluega ofisa,office worker,Business & Tech,Jobs,531
+fa'apipi'i ane,attachment,Business & Tech,Computers,627
+uaea,cable,Business & Tech,Computers,628
+uaea e fafaga ai ma'a,charger,Business & Tech,Computers,629
+fa'atonutonu,controller,Business & Tech,Computers,630
+aumai i lalo,download,Business & Tech,Computers,631
+mea fa'alogo,earphones,Business & Tech,Computers,632
+initaneti,internet,Business & Tech,Computers,635
+soketi,socket,Business & Tech,Computers,639
+ave i luga,upload,Business & Tech,Computers,641
+WIFI,Wi-Fi,Business & Tech,Computers,643
+tagata musika,musician,Business & Tech,More_Jobs,532
+tagata fai polokalama,programmer,Business & Tech,More_Jobs,533
+tagata faigaluega i fale'aiga,waiter,Business & Tech,More_Jobs,535
+tausi tusi,accountant,Business & Tech,More_Jobs,967
+tusiata fale,architect,Business & Tech,More_Jobs,968
+inisinia ta'avale,car mechanic,Business & Tech,More_Jobs,970
+kamuta,carpenter,Business & Tech,More_Jobs,971
+tagata kemisi,chemist,Business & Tech,More_Jobs,972
+tagata fui mu,firefighter,Business & Tech,More_Jobs,973
+lagolago mo tagata fa'atau,customer support,Business & Tech,Business,1307
+tagata faigaluega,employees,Business & Tech,Business,1308
+tagata faipisinisi,entrepreneur,Business & Tech,Business,1309
+pule galuega,manager,Business & Tech,Business,1312
+fonotaga,meeting,Business & Tech,Business,1313
+fa'alapotopotoga,organization,Business & Tech,Business,1314
+tupe fa'asili,profit,Business & Tech,Business,1316
+si'i le tulaga,promotion,Business & Tech,Business,1317
+si'i le totogi,raise,Business & Tech,Business,1318
+totogi,salary,Business & Tech,Business,1319
+falemanu,barn,Business & Tech,Agriculture,1579
+masini faigaluega fa'ato'aga,combine,Business & Tech,Agriculture,1580
+fa'ato'aga,farm,Business & Tech,Agriculture,1581
+faifa'ato'aga,farmer,Business & Tech,Agriculture,1582
+fale fa'amili la'au,greenhouse,Business & Tech,Agriculture,1583
+fa'ato'aga la'au 'aina,orchard,Business & Tech,Agriculture,1586
+fanua tata'a ai manu,pasture,Business & Tech,Agriculture,1587
+vaila'au fana iniseti,pesticides,Business & Tech,Agriculture,1588
+piki,pick axe,Business & Tech,Agriculture,1589
+fa'afefe manu,scarecrow,Business & Tech,Agriculture,1592
+mea 'ai solofanua,straw bale,Business & Tech,Agriculture,1593
+ta'avale fa'ato'aga,tractor,Business & Tech,Agriculture,1594
+tanevai,water tank,Business & Tech,Agriculture,1595
+fa'atalofa,handshake,Business & Tech,Etiquette,2789
+lo'u avanoa totino,personal space,Business & Tech,Etiquette,2790
+kisi i le ea,air kiss,Business & Tech,Etiquette,2791
+tulafono o ofu,dress code,Business & Tech,Etiquette,2792
+fa'afetaui moto,fist bump,Business & Tech,Etiquette,2794
+ifo punou,bowing,Business & Tech,Etiquette,2796
+muamua tama'ita'i,ladies first,Business & Tech,Etiquette,2797
+mata fesāga'i,eye contact,Business & Tech,Etiquette,2798
+lavetala,interruption,Business & Tech,Etiquette,2800
+talanoa i lima,hand gesture,Business & Tech,Etiquette,2801
+la'au ta ai pese,music player,Business & Tech,More_Computers,636
+masini pu'eata pepa,scanner,Business & Tech,More_Computers,637
+ki o le paoa,power button,Business & Tech,More_Computers,3005
+polokalama spreadsheet,spreadsheet,Business & Tech,More_Computers,3008
+fa'afetaui,adaptor,Business & Tech,More_Computers,3009
+teu faila tu ese mai le komepiuta,external drive,Business & Tech,More_Computers,3012
+vaega o le laptop e oloolo ai le lima,trackpad,Business & Tech,More_Computers,3013
+masini fax,fax machine,Business & Tech,Workspace,1310
+folasaga,presentation,Business & Tech,Workspace,1315
+itulā faigaluega,work hours,Business & Tech,Workspace,1323
+papa,bra,Fashion & Clothing,Clothes,443
+peleue,coat,Fashion & Clothing,Clothes,444
+ofu,dress,Fashion & Clothing,Clothes,445
+totini vae,socks,Fashion & Clothing,Clothes,448
+ofuvae la'itiiti,underwear,Fashion & Clothing,Clothes,449
+ofuvae vae pupu'u,shorts,Fashion & Clothing,Clothes,450
+ofutino,shirt,Fashion & Clothing,Clothes,452
+mitiafu,t-shirt,Fashion & Clothing,Clothes,454
+ofuvae vae u'umi,trousers,Fashion & Clothing,Clothes,455
+fa'apeleue,jacket,Fashion & Clothing,Clothes,714
+ofu laiti teine,panties,Fashion & Clothing,Clothes,716
+sakeke,skirt,Fashion & Clothing,More_Clothes,720
+totini sauatoa o fafine,tights,Fashion & Clothing,More_Clothes,722
+suti,suit,Fashion & Clothing,More_Clothes,723
+ofuvae laiti o tama,underpants,Fashion & Clothing,More_Clothes,726
+talitimu,raincoat,Fashion & Clothing,More_Clothes,2952
+ofutele,robe,Fashion & Clothing,More_Clothes,2953
+ofumoe,pyjamas,Fashion & Clothing,More_Clothes,2956
+ofu fa'apeleue,pullover,Fashion & Clothing,More_Clothes,2962
+sikafu mo le ulu,bandana,Fashion & Clothing,Headwear,1409
+pulou la'itiiti,beanie,Fashion & Clothing,Headwear,1410
+pulou la'itiiti,beret,Fashion & Clothing,Headwear,1411
+ufi taliga,earmuffs,Fashion & Clothing,Headwear,1413
+pulou tamaloa,tophat,Fashion & Clothing,Headwear,1423
+pulou taumata,visor,Fashion & Clothing,Headwear,1425
+matatioata,glasses,Fashion & Clothing,Jewelry_&_Accessories,446
+totini lima,gloves,Fashion & Clothing,Jewelry_&_Accessories,447
+sikafu,scarf,Fashion & Clothing,Jewelry_&_Accessories,451
+tautaliga,earrings,Fashion & Clothing,Jewelry_&_Accessories,712
+ula,necklace,Fashion & Clothing,Jewelry_&_Accessories,715
+tioata mo le la,sunglasses,Fashion & Clothing,Jewelry_&_Accessories,724
+uati taulima,wristwatch,Fashion & Clothing,Jewelry_&_Accessories,727
+taulima,bracelet,Fashion & Clothing,Jewelry_&_Accessories,1443
+ma'a tioata,crystal,Fashion & Clothing,Jewelry_&_Accessories,1445
+taofi tapulima,cufflinks,Fashion & Clothing,Jewelry_&_Accessories,1446
+taimane,diamond,Fashion & Clothing,Jewelry_&_Accessories,1447
+ma'atāua,gemstone,Fashion & Clothing,Jewelry_&_Accessories,1448
+fa'ailoga pine,medal,Fashion & Clothing,Jewelry_&_Accessories,1453
+penina,pearl,Fashion & Clothing,Jewelry_&_Accessories,1454
+uati tu'utaga,pocket watch,Fashion & Clothing,Jewelry_&_Accessories,1456
+mama isu,nose ring,Fashion & Clothing,Jewelry_&_Accessories,2966
+vali foliga,makeup,Fashion & Clothing,Makeup,383
+fulumata,eyelash,Fashion & Clothing,Makeup,1343
+vali laugutu,lipstick,Fashion & Clothing,Makeup,1347
+palasi mo vali foliga,makeup brush,Fashion & Clothing,Makeup,1348
+vali fulufulumata,mascara,Fashion & Clothing,Makeup,1350
+vali mata,eye shadow,Fashion & Clothing,Makeup,2519
+vali tosi laumata,eye liner,Fashion & Clothing,Makeup,2520
+taga o vali foliga,makeup bag,Fashion & Clothing,Makeup,2521
+fulumata fa'apipi'i,fake eyelashes,Fashion & Clothing,Makeup,2522
+fa'asūsū laugutu,chapstick,Fashion & Clothing,Makeup,2523
+tafi pauta lanu,blush,Fashion & Clothing,Makeup,2524
+fufulu vali foliga,makeup remover,Fashion & Clothing,Makeup,2525
+vali laugutu,lip gloss,Fashion & Clothing,Makeup,2527
+taofi lauulu,hairband,Fashion & Clothing,Beauty_Salon,2533
+masini fa'amago ulu,blowdry,Fashion & Clothing,Beauty_Salon,2722
+spray lauulu,hairspray,Fashion & Clothing,Beauty_Salon,2725
+vali lauulu,hair dye,Fashion & Clothing,Beauty_Salon,2726
+u'u lauulu,hair gel,Fashion & Clothing,Beauty_Salon,2727
+lola lauulu,hair roller,Fashion & Clothing,Beauty_Salon,2728
+kilipa 'oti ulu,hair clipper,Fashion & Clothing,Beauty_Salon,2729
+fa'amago ulu tu,stand dryer,Fashion & Clothing,Beauty_Salon,2730
+palasi fai sikaili,styling brush,Fashion & Clothing,Beauty_Salon,2731
+ofu laiti o tama,boxer shorts,Fashion & Clothing,Even_More_Clothes,2954
+ofulaiti o tama,briefs,Fashion & Clothing,Even_More_Clothes,2955
+ofuofu fale,loungewear,Fashion & Clothing,Even_More_Clothes,2958
+peleue,blazer,Fashion & Clothing,Even_More_Clothes,2959
+pulupulu,poncho,Fashion & Clothing,Even_More_Clothes,2960
+ofu mafanafana,jumper,Fashion & Clothing,Even_More_Clothes,2961
+ofu mafanafana,cardigan,Fashion & Clothing,Even_More_Clothes,2963
+mama isu,nose ring,Fashion & Clothing,Even_More_Clothes,2966
+se'evae u'umi,boots,Fashion & Clothing,Shoes_&_More,442
+totini vae,socks,Fashion & Clothing,Shoes_&_More,448
+se'evae,shoe,Fashion & Clothing,Shoes_&_More,453
+se'evae fa'amaulu,sandals,Fashion & Clothing,Shoes_&_More,719
+silipa,slippers,Fashion & Clothing,Shoes_&_More,721
+totini sauatoa o fafine,tights,Fashion & Clothing,Shoes_&_More,722
+se'evae muli u'umi,high heels,Fashion & Clothing,Shoes_&_More,1383
+se'evae ta'alo,sneaker,Fashion & Clothing,Shoes_&_More,1390
+se'evae mo le kiona,snowshoes,Fashion & Clothing,Shoes_&_More,1695
+se'evae a'au,fins,Fashion & Clothing,Shoes_&_More,2682
+pelē,cards,Fun & Recreation,Fun,401
+fale tifaga,cinema,Fun & Recreation,Fun,403
+koneseti,concert,Fun & Recreation,Fun,404
+mata'aga,exhibition,Fun & Recreation,Fun,405
+nusipepa,newspaper,Fun & Recreation,Fun,406
+patī,party,Fun & Recreation,Fun,407
+fetāuiga,match,Fun & Recreation,Fun,409
+talanoa,chat,Fun & Recreation,Fun,410
+ta'aloga video,video games,Fun & Recreation,Fun,411
+fale'aiga,restaurant,Fun & Recreation,Fun,412
+matamata,sightseeing,Fun & Recreation,Fun,414
+siva,dance,Fun & Recreation,Fun,415
+patipati,applause,Fun & Recreation,Music,1052
+aofia,audience,Fun & Recreation,Music,1053
+aufaipese,choir,Fun & Recreation,Music,1054
+fuataimi,conductor,Fun & Recreation,Music,1055
+talipalau,drum,Fun & Recreation,Music,1057
+mea fa'aleotele,microphone,Fun & Recreation,Music,1059
+pese ua pu'e,music album,Fun & Recreation,Music,1060
+tagata pese siva,rockstar,Fun & Recreation,Music,1062
+tagata pese,singer,Fun & Recreation,Music,1063
+pese,song,Fun & Recreation,Music,1064
+tulaga,stage,Fun & Recreation,Music,1065
+logo,bell,Fun & Recreation,Festivals,1086
+aso fanau,birthday,Fun & Recreation,Festivals,1087
+fa'afiafiaga,carnival,Fun & Recreation,Festivals,1088
+Kerisimasi,Christmas,Fun & Recreation,Festivals,1089
+la'au Kerisimasi,Christmas tree,Fun & Recreation,Festivals,1090
+mea fa'apāpā,fireworks,Fun & Recreation,Festivals,1091
+sauniga maliu,funeral,Fun & Recreation,Festivals,1092
+meaalofa,gift,Fun & Recreation,Festivals,1093
+aso Halloween,Halloween,Fun & Recreation,Festivals,1094
+fa'aipoipoga,marriage,Fun & Recreation,Festivals,1096
+Aso o Tinā,mother's day,Fun & Recreation,Festivals,1097
+Po vaelua o le Tausaga Fou,New Year's Eve,Fun & Recreation,Festivals,1098
+Santa,Santa Claus,Fun & Recreation,Festivals,1099
+tamaloa snow,snowman,Fun & Recreation,Festivals,1100
+aso Valentine,Valentine's day,Fun & Recreation,Festivals,1101
+fa'aipoipoga,wedding,Fun & Recreation,Festivals,1102
+tolauapi,camp,Fun & Recreation,Camping,541
+ta'inamu,mosquito net,Fun & Recreation,Camping,542
+taga e moe ai,sleeping bag,Fun & Recreation,Camping,548
+afi mo le togalauapi,campfire,Fun & Recreation,Camping,549
+afitusi,matches,Fun & Recreation,Camping,554
+ogaumu mo togālauapi,camp stove,Fun & Recreation,Camping,1682
+ta'avale toso ai uta,caravan,Fun & Recreation,Camping,1683
+kuka i fafo,outdoor cooking,Fun & Recreation,Camping,1693
+laulau pikiniki,picnic table,Fun & Recreation,Camping,1694
+nifo sisili,antlers,Fun & Recreation,Fishing_and_Hunting,1715
+māunu,bait,Fun & Recreation,Fishing_and_Hunting,1716
+ivi i'a,fishbone,Fun & Recreation,Fishing_and_Hunting,1717
+va'a fagota,fishing boat,Fun & Recreation,Fishing_and_Hunting,1718
+aila,deer,Fun & Recreation,Fishing_and_Hunting,1719
+ofe fagota,fishing rod,Fun & Recreation,Fishing_and_Hunting,1720
+mātau,hook,Fun & Recreation,Fishing_and_Hunting,1722
+tagata su'emanu,hunter,Fun & Recreation,Fishing_and_Hunting,1723
+noataga o le maea,knot,Fun & Recreation,Fishing_and_Hunting,1724
+alofivae manu,paw,Fun & Recreation,Fishing_and_Hunting,1725
+satini,sardines,Fun & Recreation,Fishing_and_Hunting,1726
+fagota velovelo,spear fishing,Fun & Recreation,Fishing_and_Hunting,1727
+alope,fox,Fun & Recreation,Fishing_and_Hunting,1728
+tāula'iga,target,Fun & Recreation,Fishing_and_Hunting,1729
+fa'ailoga o le su'egā manu,hunting trophy,Fun & Recreation,Fishing_and_Hunting,1730
+Ou te su'emanu,I hunt,Fun & Recreation,Fishing_and_Hunting,1731
+pulumu,broom,Fun & Recreation,Magic_and_Fantasy,1767
+sa'a,dwarf,Fun & Recreation,Magic_and_Fantasy,1769
+aitu,genie,Fun & Recreation,Magic_and_Fantasy,1771
+aitu,ghost,Fun & Recreation,Magic_and_Fantasy,1772
+la'au fa'ataulaitu,magic wand,Fun & Recreation,Magic_and_Fantasy,1774
+taulāitu,magician,Fun & Recreation,Magic_and_Fantasy,1775
+naifi āitu,scythe,Fun & Recreation,Magic_and_Fantasy,1777
+āitu mimiti toto,vampire,Fun & Recreation,Magic_and_Fantasy,1779
+fa'ataulaitu,witch,Fun & Recreation,Magic_and_Fantasy,1780
+fa'ataulaitu,wizard,Fun & Recreation,Magic_and_Fantasy,1781
+su'isu'i,sewing,Fun & Recreation,Hobbies,2645
+knitting,knitting,Fun & Recreation,Hobbies,2647
+mea fau i laupapa,woodworking,Fun & Recreation,Hobbies,2648
+fau fa'atusa,model building,Fun & Recreation,Hobbies,2649
+gaosi teuga i'ila,jewelry making,Fun & Recreation,Hobbies,2650
+māta'i manufelelei,birdwatching,Fun & Recreation,Hobbies,2651
+gaosi mea i le omea,pottery,Fun & Recreation,Hobbies,2656
+fa'aputu fa'ailoga,collecting stamps,Fun & Recreation,Hobbies,2657
+fa'afanua,map,Science & Wisdom,Geography,508
+āla savali,path,Science & Wisdom,Geography,510
+maimoaga,scenery,Science & Wisdom,Geography,512
+solo,avalanche,Science & Wisdom,Geography,984
+laumua,capital city,Science & Wisdom,Geography,985
+toafa,desert,Science & Wisdom,Geography,987
+kelope,globe,Science & Wisdom,Geography,990
+fa'aifo mauga e fa'ase'e ai,ski slope,Science & Wisdom,Geography,994
+ala i totonu o le mauga,tunnel,Science & Wisdom,Geography,996
+lalolagi,world,Science & Wisdom,Geography,1000
+tusi faitau,book,Science & Wisdom,School,797
+calculator,calculator,Science & Wisdom,School,798
+tipiloma,diploma,Science & Wisdom,School,800
+su'ega,exam,Science & Wisdom,School,802
+fa'au'uga,graduation,Science & Wisdom,School,803
+a'oa'oga,lecture,Science & Wisdom,School,805
+pepa fa'ailoa tagata a'oga,student id,Science & Wisdom,School,812
+solo,avalanche,Science & Wisdom,More_Geography,984
+laumua,capital city,Science & Wisdom,More_Geography,985
+toafa,desert,Science & Wisdom,More_Geography,987
+lolo,flood,Science & Wisdom,More_Geography,989
+kelope,globe,Science & Wisdom,More_Geography,990
+tumutumu mauga,peak,Science & Wisdom,More_Geography,991
+alā,rock,Science & Wisdom,More_Geography,992
+sami,sea,Science & Wisdom,More_Geography,993
+fa'aifo mauga e fa'ase'e ai,ski slope,Science & Wisdom,More_Geography,994
+ala i totonu o le mauga,tunnel,Science & Wisdom,More_Geography,996
+mauga mu,volcano,Science & Wisdom,More_Geography,997
+āfu,waterfall,Science & Wisdom,More_Geography,998
+galu,wave,Science & Wisdom,More_Geography,999
+lalolagi,world,Science & Wisdom,More_Geography,1000
+masina,moon,Science & Wisdom,Astronomy,1208
+fetulele tetele,comet,Science & Wisdom,Astronomy,1209
+Lalolagi,Earth,Science & Wisdom,Astronomy,1210
+vanimonimo,galaxy,Science & Wisdom,Astronomy,1213
+paneta,planet,Science & Wisdom,Astronomy,1215
+vanimonimo,space,Science & Wisdom,Astronomy,1217
+va'ai fetu,telescope,Science & Wisdom,Astronomy,1219
+taimi fa'avaega,time zone,Science & Wisdom,Astronomy,1220
+atoma,atom,Science & Wisdom,Biology,1630
+paketeria,bacteria,Science & Wisdom,Biology,1631
+sela,cell,Science & Wisdom,Biology,1632
+kemisi,chemistry,Science & Wisdom,Biology,1633
+vaega o le tino feagai ma mea 'ai,digestive system,Science & Wisdom,Biology,1634
+olaga fa'agasolo,evolution,Science & Wisdom,Biology,1636
+matapogia,faint,Science & Wisdom,Biology,1638
+vaega nini'i o le sela,molecule,Science & Wisdom,Biology,1640
+enetia mamā,clean energy,Science & Wisdom,Ecology,1698
+fa'atafuna,compost,Science & Wisdom,Ecology,1699
+fa'atafuna'i,composting,Science & Wisdom,Ecology,1700
+lā mala,drought,Science & Wisdom,Ecology,1702
+ta'avale lapisi,garbage truck,Science & Wisdom,Ecology,1703
+fa'atumu pu eleele,landfill,Science & Wisdom,Ecology,1707
+suāu'u masa'a,oil spill,Science & Wisdom,Ecology,1710
+fa'aopoopo,addition,Science & Wisdom,Mathematics,1783
+fa'atulimanu,angle,Science & Wisdom,Mathematics,1784
+vaevae,division,Science & Wisdom,Mathematics,1785
+tutusa ma le,equal,Science & Wisdom,Mathematics,1786
+fa'atusatusaga,equation,Science & Wisdom,Mathematics,1787
+gaoioiga,function,Science & Wisdom,Mathematics,1788
+leai se gata'aga,infinite,Science & Wisdom,Mathematics,1789
+fa'atele,multiplication,Science & Wisdom,Mathematics,1790
+puipui upu,parentheses,Science & Wisdom,Mathematics,1791
+pasene,percentage,Science & Wisdom,Mathematics,1792
+a'a,root,Science & Wisdom,Mathematics,1793
+sikuea,square,Science & Wisdom,Mathematics,1794
+maile,dog,Science & Wisdom,Chinese_Zodiac,785
+oti,goat,Science & Wisdom,Chinese_Zodiac,788
+solofanua,horse,Science & Wisdom,Chinese_Zodiac,789
+pua'a,pig,Science & Wisdom,Chinese_Zodiac,792
+lapiti,rabbit,Science & Wisdom,Chinese_Zodiac,794
+manuki,monkey,Science & Wisdom,Chinese_Zodiac,1197
+isumu,rat,Science & Wisdom,Chinese_Zodiac,1198
+gata,snake,Science & Wisdom,Chinese_Zodiac,1201
+taika,tiger,Science & Wisdom,Chinese_Zodiac,1560
+toa,rooster,Science & Wisdom,Chinese_Zodiac,1658
+pesipolo,baseball,Sports & Fitness,Sports,882
+pasiketipolo,basketball,Sports & Fitness,Sports,883
+faipelē,boxing,Sports & Fitness,Sports,884
+lakapī Amerika,football,Sports & Fitness,Sports,887
+soka,soccer,Sports & Fitness,Sports,894
+tenisi,tennis,Sports & Fitness,Sports,897
+ioka,yoga,Sports & Fitness,Sports,898
+tā  polo,golf,Sports & Fitness,Sports,1174
+voli,volleyball,Sports & Fitness,Sports,1186
+polo,ball,Sports & Fitness,Sports_Equipment,1138
+ʻaufana,bow,Sports & Fitness,Sports_Equipment,1139
+tini,goal,Sports & Fitness,Sports_Equipment,1140
+pulou puipui ulu,helmet,Sports & Fitness,Sports_Equipment,1142
+neti,net,Sports & Fitness,Sports_Equipment,1144
+lake,racket,Sports & Fitness,Sports_Equipment,1147
+laupapa fa'ase'e,skateboard,Sports & Fitness,Sports_Equipment,1149
+ofu 'au'au,swimsuit,Sports & Fitness,Sports_Equipment,1153
+mea fa'alele,frisbee,Sports & Fitness,Sports_Equipment,1617
+se'evae a'au,fins,Sports & Fitness,Sports_Equipment,2682
+mu,chess,Sports & Fitness,More_Sports,885
+taupelu,fencing,Sports & Fitness,More_Sports,886
+tautu'uga solofanua,horse racing,Sports & Fitness,More_Sports,888
+badminton,badminton,Sports & Fitness,More_Sports,1171
+a'ea'e,climbing,Sports & Fitness,More_Sports,1173
+polo ta i lima,handball,Sports & Fitness,More_Sports,1176
+ti'eti'e uila afi,motorcycling,Sports & Fitness,More_Sports,1180
+uila,bike,Sports & Fitness,Bicycle,193
+logo o le uila,bike bell,Sports & Fitness,Bicycle,1664
+taofi pa'u o le uila,bike fork,Sports & Fitness,Bicycle,1665
+loka mo le uila,bike lock,Sports & Fitness,Bicycle,1666
+uili o le pa'u,bike wheel,Sports & Fitness,Bicycle,1667
+taofi o le uila,bike brake,Sports & Fitness,Bicycle,1668
+filifili o le uila,bike chain,Sports & Fitness,Bicycle,1669
+totinilima mo le uila,bike gloves,Sports & Fitness,Bicycle,1670
+taofi lima,brake lever,Sports & Fitness,Bicycle,1672
+kia eseese o le uila,cassette,Sports & Fitness,Bicycle,1673
+mama o le filifili,chainring,Sports & Fitness,Bicycle,1674
+nofoa o le uila,saddle,Sports & Fitness,Bicycle,1679
+a'au fa'asamasamanoa,freestyle stroke,Sports & Fitness,Swimming,2684
+a'au i le fatafata,breaststroke,Sports & Fitness,Swimming,2685
+a'au i le tua,backstroke,Sports & Fitness,Swimming,2686
+a'au fa'atafiti,butterfly stroke,Sports & Fitness,Swimming,2687
+fa'amau mo le isu,nose clip,Sports & Fitness,Swimming,2688
+va'a feula,inflatable raft,Sports & Fitness,Swimming,2691
+tagata lavea'i,life saver,Sports & Fitness,Swimming,2693
+laupapa tofutofu,diving board,Sports & Fitness,Swimming,2694
+kapeteni,captain,Society & Politics,Leaders,1036
+fa'atonu o le 'au,coach,Society & Politics,Leaders,1037
+fa'atonu galuega,director,Society & Politics,Leaders,1040
+tupu,king,Society & Politics,Leaders,1041
+soātau,knight,Society & Politics,Leaders,1042
+tagata pule i faletotogi,landlord,Society & Politics,Leaders,1043
+aloali'i,prince,Society & Politics,Leaders,1047
+purinisese,princess,Society & Politics,Leaders,1048
+masiofo,queen,Society & Politics,Leaders,1049
+tagata fa'asagatau,rebel,Society & Politics,Leaders,1050
+leoleo,sheriff,Society & Politics,Leaders,1051
+tagata susunu fale,arsonist,Society & Politics,Crime,1358
+tagata gaoi uila,bike theft,Society & Politics,Crime,1359
+totogi tupe fa'aletatau,bribe,Society & Politics,Crime,1360
+alā ata TV,CCTV,Society & Politics,Crime,1361
+fa'aaogā fa'agaoi card tupe,credit card fraud,Society & Politics,Crime,1362
+nofoaga na tupu ai le fa'alavelave,crime scene,Society & Politics,Crime,1363
+leoleo su'esu'e,detective,Society & Politics,Crime,1364
+tagata gaoi fa'amatalaga,hacker,Society & Politics,Crime,1365
+su'esu'ega,investigation,Society & Politics,Crime,1368
+Ou te ulu fa'amalosi,I break in,Society & Politics,Crime,1366
+Ou te gaoi,I steal,Society & Politics,Crime,1367
+ta'ita'i 'au,commander,Society & Politics,Politics,1038
+pule sauā,dictator,Society & Politics,Politics,1039
+tagata polokiki,politician,Society & Politics,Politics,1044
+palota,ballot,Society & Politics,Politics,1511
+puipui fa'asā,barricade,Society & Politics,Politics,1512
+lē amiotonu,corruption,Society & Politics,Politics,1513
+fouvale,coup,Society & Politics,Politics,1514
+solo tete'e,demonstration,Society & Politics,Politics,1516
+la'au a le leoleo,baton,Society & Politics,Prison,1818
+fa'ailogalima,fingerprint,Society & Politics,Prison,1820
+loka mo lima,handcuffs,Society & Politics,Prison,1822
+fa'amasino,judge,Society & Politics,Prison,1824
+au filifili i'uga,jury,Society & Politics,Prison,1825
+tulafono,law,Society & Politics,Prison,1826
+sola mai le falepuipui,prison break,Society & Politics,Prison,1827
+sela falepuipui,prison cell,Society & Politics,Prison,1828
+leoleo falepuipui,prison guard,Society & Politics,Prison,1829
+pagotā,prisoner,Society & Politics,Prison,1830
+mana'omia,wanted,Society & Politics,Prison,1833
+tau malūlū,winter,Time & Date,Parts_of_the_Day,290
+tau vevela,summer,Time & Date,Parts_of_the_Day,291
+tau o le seleselega,fall,Time & Date,Parts_of_the_Day,292
+tau o le totogo a'e,spring,Time & Date,Parts_of_the_Day,293
+kiona,snow,Time & Date,Winter,283
+tau malūlū,winter,Time & Date,Winter,290
+aisa,ice,Time & Date,Winter,294
+afā 'aisa tetele,blizzard,Time & Date,Winter,2743
+E to'ulu le kiona,it snows,Time & Date,Winter,298
+laula'au,leaf,Time & Date,Autumn,939
+enetia mamā,clean energy,Climate Awareness,Ecology,1698
+fa'atafuna,compost,Climate Awareness,Ecology,1699
+fa'atafuna'i,composting,Climate Awareness,Ecology,1700
+lā mala,drought,Climate Awareness,Ecology,1702
+ta'avale lapisi,garbage truck,Climate Awareness,Ecology,1703
+fa'atumu pu eleele,landfill,Climate Awareness,Ecology,1707
+suāu'u masa'a,oil spill,Climate Awareness,Ecology,1710
+mauga mu,volcanic eruption,Climate Awareness,Natural_Disasters,2735
+solo palapala,landslide,Climate Awareness,Natural_Disasters,2736
+afā timu 'aisa,hailstorm,Climate Awareness,Natural_Disasters,2737
+sunami,tsunami,Climate Awareness,Natural_Disasters,2738
+afā o le teropika,typhoon,Climate Awareness,Natural_Disasters,2739
+mafui'e,earthquake,Climate Awareness,Natural_Disasters,2740
+solo ma'a,rockslide,Climate Awareness,Natural_Disasters,2741
+tafe le lava,lava flow,Climate Awareness,Natural_Disasters,2742
+afā 'aisa tetele,blizzard,Climate Awareness,Natural_Disasters,2743
+afā faititili,thunderstorm,Climate Awareness,Natural_Disasters,2744
+afā,hurricane,Climate Awareness,Natural_Disasters,2745
+tagata sulufa'i,refugee,Climate Awareness,Natural_Disasters,2747
+galu ea vevela,heat wave,Climate Awareness,Natural_Disasters,2748
+oge,famine,Climate Awareness,Natural_Disasters,2749
+savili,wind,Climate Awareness,Mother_Nature,287
+galu,wave,Climate Awareness,Mother_Nature,999
+falaoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+aiga o le taeao,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+fuāmoa,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+tui,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+supo,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+pulou āitu,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+naifi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kapisi,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+aniani,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+alaisa,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+asu sua,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+brussels sprout,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+Isalaelu,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+Ou te 'ai,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+Ou te tipi nini'i,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+Ou te tofo,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+puāo,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+timu,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+kiona,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+la,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+tala o le tau,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+savili,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+tau malūlū,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+tau vevela,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+tau o le seleselega,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+tau o le totogo a'e,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+afā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+lā mala,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+afā timu 'aisa,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+afā 'aisa tetele,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+afā faititili,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+galu ea vevela,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+uō teine,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+uō tama,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+niniva,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+fa'ameo,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+oso fiafia,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+fefe,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+lē matatiotio,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+fiafia,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+gaualofa,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+fa'ate'ia,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+feiloa'iga lē masani,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+alofa i le fa'ato'a feiloa'i,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+ta'e le fatu,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+Ou te tautala,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ma te u'u lima,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ua ma tete'a,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+mea fa'apipi'i,band-aid,Welcome To Drops,Welcome_4_-_Health_&_Body,382
+tale,cough,Welcome To Drops,Welcome_4_-_Health_&_Body,386
+nifo tigā,toothache,Welcome To Drops,Welcome_4_-_Health_&_Body,391
+ma'i ona ua ova le inu,hangover,Welcome To Drops,Welcome_4_-_Health_&_Body,413
+tino,body,Welcome To Drops,Welcome_4_-_Health_&_Body,421
+lauulu,hair,Welcome To Drops,Welcome_4_-_Health_&_Body,423
+foliga,face,Welcome To Drops,Welcome_4_-_Health_&_Body,424
+nifo,tooth,Welcome To Drops,Welcome_4_-_Health_&_Body,429
+tapuvae,ankle,Welcome To Drops,Welcome_4_-_Health_&_Body,814
+ogālima,arm,Welcome To Drops,Welcome_4_-_Health_&_Body,815
+tulilima,elbow,Welcome To Drops,Welcome_4_-_Health_&_Body,819
+ivitū,spine,Welcome To Drops,Welcome_4_-_Health_&_Body,829
+tainifo,gum,Welcome To Drops,Welcome_4_-_Health_&_Body,1484
+Ou te pua'i,I vomit,Welcome To Drops,Welcome_4_-_Health_&_Body,1646
+lanu moana,blue,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,560
+lanu 'auro,gold,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,563
+lanu efuefu,gray,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,565
+lanu moli,orange,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,568
+lanu siliva,silver,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,573
+lanu samasama,yellow,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,575
+faitoto'a fa'a'ofu'ofu,arch,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1154
+li'o,circle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1155
+fa'apulou ma'ai,cone,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1156
+tafavalu,octagon,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1160
+lapotopoto pei se mama,ring,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1166
+sifia,sphere,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1167
+sikuea,square,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1168
+tafatolu,triangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1169
+Ou te fiafia,I like,Welcome To Drops,Welcome_6_-_Activities,11
+Ua ou feiloa'i,I meet,Welcome To Drops,Welcome_6_-_Activities,13
+Ou te lē mana'o,I dislike,Welcome To Drops,Welcome_6_-_Activities,37
+E fai la'u kuka,I cook,Welcome To Drops,Welcome_6_-_Activities,138
+Ou te tosoa,I pull,Welcome To Drops,Welcome_6_-_Activities,317
+Ou te tuleia,I push,Welcome To Drops,Welcome_6_-_Activities,318
+Ou te fa'afeiloa'i atu,I introduce,Welcome To Drops,Welcome_6_-_Activities,615
+Ou te tautala,I speak,Welcome To Drops,Welcome_6_-_Activities,616
+Ou te salu fa'amatū,I mop,Welcome To Drops,Welcome_6_-_Activities,1226
+E fufulu o'u,I clean,Welcome To Drops,Welcome_6_-_Activities,1345
+E ova la'u moe,I oversleep,Welcome To Drops,Welcome_6_-_Activities,2482
+ioe,yes,Welcome To Drops,Welcome_7_-_Interacting,1
+leai,no,Welcome To Drops,Welcome_7_-_Interacting,2
+Ua a mai?,hi,Welcome To Drops,Welcome_7_-_Interacting,4
+Fa'afetai,thank you,Welcome To Drops,Welcome_7_-_Interacting,5
+fa,bye,Welcome To Drops,Welcome_7_-_Interacting,6
+fa'amolemole,please,Welcome To Drops,Welcome_7_-_Interacting,7
+falaoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+aiga o le taeao,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+fuāmoa,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+tui,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+supo,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+pulou āitu,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+naifi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kapisi,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+aniani,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+alaisa,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+asu sua,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+brussels sprout,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+Isalaelu,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+Ou te 'ai,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+Ou te tipi nini'i,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+Ou te tofo,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+puāo,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+timu,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+kiona,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+la,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+tala o le tau,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+savili,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+tau malūlū,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+tau vevela,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+tau o le seleselega,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+tau o le totogo a'e,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+afā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+lā mala,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+afā timu 'aisa,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+afā 'aisa tetele,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+afā faititili,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+galu ea vevela,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+uō teine,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+uō tama,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+niniva,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+fa'ameo,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+oso fiafia,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+fefe,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+lē matatiotio,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+fiafia,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+gaualofa,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+fa'ate'ia,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+feiloa'iga lē masani,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+alofa i le fa'ato'a feiloa'i,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+ta'e le fatu,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+Ou te tautala,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ma te u'u lima,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ua ma tete'a,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+mea fa'apipi'i,band-aid,Welcome To Drops,Welcome_4_-_Health_&_Body,382
+tale,cough,Welcome To Drops,Welcome_4_-_Health_&_Body,386
+nifo tigā,toothache,Welcome To Drops,Welcome_4_-_Health_&_Body,391
+ma'i ona ua ova le inu,hangover,Welcome To Drops,Welcome_4_-_Health_&_Body,413
+tino,body,Welcome To Drops,Welcome_4_-_Health_&_Body,421
+lauulu,hair,Welcome To Drops,Welcome_4_-_Health_&_Body,423
+foliga,face,Welcome To Drops,Welcome_4_-_Health_&_Body,424
+nifo,tooth,Welcome To Drops,Welcome_4_-_Health_&_Body,429
+tapuvae,ankle,Welcome To Drops,Welcome_4_-_Health_&_Body,814
+ogālima,arm,Welcome To Drops,Welcome_4_-_Health_&_Body,815
+tulilima,elbow,Welcome To Drops,Welcome_4_-_Health_&_Body,819
+ivitū,spine,Welcome To Drops,Welcome_4_-_Health_&_Body,829
+tainifo,gum,Welcome To Drops,Welcome_4_-_Health_&_Body,1484
+Ou te pua'i,I vomit,Welcome To Drops,Welcome_4_-_Health_&_Body,1646
+lanu moana,blue,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,560
+lanu 'auro,gold,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,563
+lanu efuefu,gray,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,565
+lanu moli,orange,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,568
+lanu siliva,silver,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,573
+lanu samasama,yellow,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,575
+faitoto'a fa'a'ofu'ofu,arch,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1154
+li'o,circle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1155
+fa'apulou ma'ai,cone,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1156
+tafavalu,octagon,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1160
+lapotopoto pei se mama,ring,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1166
+sifia,sphere,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1167
+sikuea,square,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1168
+tafatolu,triangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1169
+Ou te fiafia,I like,Welcome To Drops,Welcome_6_-_Activities,11
+Ua ou feiloa'i,I meet,Welcome To Drops,Welcome_6_-_Activities,13
+Ou te lē mana'o,I dislike,Welcome To Drops,Welcome_6_-_Activities,37
+E fai la'u kuka,I cook,Welcome To Drops,Welcome_6_-_Activities,138
+Ou te tosoa,I pull,Welcome To Drops,Welcome_6_-_Activities,317
+Ou te tuleia,I push,Welcome To Drops,Welcome_6_-_Activities,318
+Ou te fa'afeiloa'i atu,I introduce,Welcome To Drops,Welcome_6_-_Activities,615
+Ou te tautala,I speak,Welcome To Drops,Welcome_6_-_Activities,616
+Ou te salu fa'amatū,I mop,Welcome To Drops,Welcome_6_-_Activities,1226
+E fufulu o'u,I clean,Welcome To Drops,Welcome_6_-_Activities,1345
+E ova la'u moe,I oversleep,Welcome To Drops,Welcome_6_-_Activities,2482
+ioe,yes,Welcome To Drops,Welcome_7_-_Interacting,1
+leai,no,Welcome To Drops,Welcome_7_-_Interacting,2
+Ua a mai?,hi,Welcome To Drops,Welcome_7_-_Interacting,4
+Fa'afetai,thank you,Welcome To Drops,Welcome_7_-_Interacting,5
+fa,bye,Welcome To Drops,Welcome_7_-_Interacting,6
+fa'amolemole,please,Welcome To Drops,Welcome_7_-_Interacting,7
+falaoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+aiga o le taeao,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+fuāmoa,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+tui,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+supo,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+pulou āitu,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+naifi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kapisi,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+aniani,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+alaisa,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+asu sua,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+brussels sprout,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+Isalaelu,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+Ou te 'ai,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+Ou te tipi nini'i,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+Ou te tofo,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+puāo,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+timu,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+kiona,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+la,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+tala o le tau,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+savili,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+tau malūlū,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+tau vevela,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+tau o le seleselega,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+tau o le totogo a'e,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+afā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+lā mala,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+afā timu 'aisa,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+afā 'aisa tetele,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+afā faititili,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+galu ea vevela,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+uō teine,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+uō tama,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+niniva,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+fa'ameo,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+oso fiafia,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+fefe,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+lē matatiotio,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+fiafia,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+gaualofa,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+fa'ate'ia,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+feiloa'iga lē masani,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+alofa i le fa'ato'a feiloa'i,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+ta'e le fatu,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+Ou te tautala,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ma te u'u lima,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ua ma tete'a,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+falaoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+aiga o le taeao,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+fuāmoa,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+tui,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+supo,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+pulou āitu,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+naifi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kapisi,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+aniani,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+alaisa,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+asu sua,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+brussels sprout,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+Isalaelu,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+Ou te 'ai,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+Ou te tipi nini'i,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+Ou te tofo,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+puāo,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+timu,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+kiona,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+la,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+tala o le tau,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+savili,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+tau malūlū,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+tau vevela,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+tau o le seleselega,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+tau o le totogo a'e,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+afā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+lā mala,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+afā timu 'aisa,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+afā 'aisa tetele,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+afā faititili,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+galu ea vevela,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+uō teine,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+uō tama,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+niniva,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+fa'ameo,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+oso fiafia,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+fefe,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+lē matatiotio,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+fiafia,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+gaualofa,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+fa'ate'ia,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+feiloa'iga lē masani,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+alofa i le fa'ato'a feiloa'i,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+ta'e le fatu,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+Ou te tautala,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ma te u'u lima,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ua ma tete'a,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+Ou te moe,I sleep,Verbs & Phrases,"As_a_human,_I...",156
+Ou te nofo,I sit,Verbs & Phrases,"As_a_human,_I...",157
+Ou te feanu,I spit,Verbs & Phrases,"As_a_human,_I...",256
+Ou te pese,I sing,Verbs & Phrases,"As_a_human,_I...",416
+E tafe lo'u toto,I bleed,Verbs & Phrases,"As_a_human,_I...",822
+Na fa'aalu la'u ea,I fart,Verbs & Phrases,"As_a_human,_I...",1260
+Na ou pi,I pee,Verbs & Phrases,"As_a_human,_I...",1261
+Na fai la'u feaumamao,I poop,Verbs & Phrases,"As_a_human,_I...",1262
+Ou te tale,I cough,Verbs & Phrases,"As_a_human,_I...",1430
+Ou te tago,I touch,Verbs & Phrases,"As_a_human,_I...",1521
+Na ou sosogi,I smell,Verbs & Phrases,"As_a_human,_I...",1554
+Ou te mānava,I breathe,Verbs & Phrases,"As_a_human,_I...",1603
+Ou te fa'alogo,I hear,Verbs & Phrases,"As_a_human,_I...",1773
+Ou te tagulu,I snore,Verbs & Phrases,"As_a_human,_I...",2481
+E taofi la'u mānava,I hold my breath,Verbs & Phrases,"As_a_human,_I...",2698
+Ou te ti'eti'e i le uila,I ride a bicycle,Verbs & Phrases,How_I_Move,196
+Ou te savali,I walk,Verbs & Phrases,How_I_Move,258
+Ou te siva,I dance,Verbs & Phrases,How_I_Move,417
+Ou te oso,I jump,Verbs & Phrases,How_I_Move,437
+Ou te tamo'e,I run,Verbs & Phrases,How_I_Move,438
+Ou te a'au,I swim,Verbs & Phrases,How_I_Move,517
+Ou te a'e i luga o le fa'asitepu,I climb the stairs,Verbs & Phrases,How_I_Move,651
+Ou te se'e,I slip,Verbs & Phrases,How_I_Move,1280
+Ou te pa'ū,I fall,Verbs & Phrases,How_I_Move,1451
+Na ou pa'ū,I fell over,Verbs & Phrases,How_I_Move,1553
+Ou te matapogia,I collapse,Verbs & Phrases,How_I_Move,2750
+Ou te ulufale,I enter,Verbs & Phrases,How_I_Move,2913
+Ou te liliu,I turn,Verbs & Phrases,How_I_Move,2931
+Ou te vali,I paint,Verbs & Phrases,How_I_Act,566
+Ou te tusitusi,I write,Verbs & Phrases,How_I_Act,567
+Ou te su'esu'e,I study,Verbs & Phrases,How_I_Act,811
+E fa'amanatu lo'u,I celebrate,Verbs & Phrases,How_I_Act,1095
+Ou te filifili,I choose,Verbs & Phrases,How_I_Act,1225
+Ou te su'eina,I search,Verbs & Phrases,How_I_Act,1452
+Ou te fesili,I ask,Verbs & Phrases,How_I_Act,1465
+Ou te palota,I vote,Verbs & Phrases,How_I_Act,1522
+Ou te alu solo,I flirt,Verbs & Phrases,How_I_Act,1573
+Ou te fa'aloglogo i musika,I listen to music,Verbs & Phrases,How_I_Act,2660
+Ou te fiafia,I enjoy,Verbs & Phrases,How_I_Act,2662
+Ou te gaoi,I steal,Verbs & Phrases,What_I_Do,1367
+Ou te maua,I catch,Verbs & Phrases,What_I_Do,1450
+E fa'atumu lo'u,I fill,Verbs & Phrases,What_I_Do,1489
+Ou te fa'aalu,I flush,Verbs & Phrases,What_I_Do,2499
+Ou te fufulu,I scrub,Verbs & Phrases,What_I_Do,2500
+Ou te fa'avasega a'u,I arrange,Verbs & Phrases,What_I_Do,2644
+E fai a'u,I make,Verbs & Phrases,What_I_Do,2661
+Ou te taofi le faitoto'a,I hold the door,Verbs & Phrases,What_I_Do,2805
+e se'e i lalo,it slides,Verbs & Phrases,What_It_Does,1618
+E ta'avili,It rolls,Verbs & Phrases,What_It_Does,1680
+oso ese ma le auala,it derails,Verbs & Phrases,What_It_Does,2625
+Ua a mai?,hi,Verbs & Phrases,Basic_Phrases,4
+Fa'afetai,thank you,Verbs & Phrases,Basic_Phrases,5
+fa,bye,Verbs & Phrases,Basic_Phrases,6
+fa'amolemole,please,Verbs & Phrases,Basic_Phrases,7
+Ou te moe,I sleep,Verbs & Phrases,"As_a_human,_I...",156
+Ou te nofo,I sit,Verbs & Phrases,"As_a_human,_I...",157
+Ou te feanu,I spit,Verbs & Phrases,"As_a_human,_I...",256
+Ou te pese,I sing,Verbs & Phrases,"As_a_human,_I...",416
+E tafe lo'u toto,I bleed,Verbs & Phrases,"As_a_human,_I...",822
+Na fa'aalu la'u ea,I fart,Verbs & Phrases,"As_a_human,_I...",1260
+Na ou pi,I pee,Verbs & Phrases,"As_a_human,_I...",1261
+Na fai la'u feaumamao,I poop,Verbs & Phrases,"As_a_human,_I...",1262
+Ou te tale,I cough,Verbs & Phrases,"As_a_human,_I...",1430
+Ou te tago,I touch,Verbs & Phrases,"As_a_human,_I...",1521
+Na ou sosogi,I smell,Verbs & Phrases,"As_a_human,_I...",1554
+Ou te mānava,I breathe,Verbs & Phrases,"As_a_human,_I...",1603
+Ou te fa'alogo,I hear,Verbs & Phrases,"As_a_human,_I...",1773
+Ou te tagulu,I snore,Verbs & Phrases,"As_a_human,_I...",2481
+E taofi la'u mānava,I hold my breath,Verbs & Phrases,"As_a_human,_I...",2698
+Ou te ti'eti'e i le uila,I ride a bicycle,Verbs & Phrases,How_I_Move,196
+Ou te savali,I walk,Verbs & Phrases,How_I_Move,258
+Ou te siva,I dance,Verbs & Phrases,How_I_Move,417
+Ou te oso,I jump,Verbs & Phrases,How_I_Move,437
+Ou te tamo'e,I run,Verbs & Phrases,How_I_Move,438
+Ou te a'au,I swim,Verbs & Phrases,How_I_Move,517
+Ou te a'e i luga o le fa'asitepu,I climb the stairs,Verbs & Phrases,How_I_Move,651
+Ou te se'e,I slip,Verbs & Phrases,How_I_Move,1280
+Ou te pa'ū,I fall,Verbs & Phrases,How_I_Move,1451
+Na ou pa'ū,I fell over,Verbs & Phrases,How_I_Move,1553
+Ou te matapogia,I collapse,Verbs & Phrases,How_I_Move,2750
+Ou te ulufale,I enter,Verbs & Phrases,How_I_Move,2913
+Ou te liliu,I turn,Verbs & Phrases,How_I_Move,2931
+Ou te vali,I paint,Verbs & Phrases,How_I_Act,566
+Ou te tusitusi,I write,Verbs & Phrases,How_I_Act,567
+Ou te su'esu'e,I study,Verbs & Phrases,How_I_Act,811
+E fa'amanatu lo'u,I celebrate,Verbs & Phrases,How_I_Act,1095
+Ou te filifili,I choose,Verbs & Phrases,How_I_Act,1225
+Ou te su'eina,I search,Verbs & Phrases,How_I_Act,1452
+Ou te fesili,I ask,Verbs & Phrases,How_I_Act,1465
+Ou te palota,I vote,Verbs & Phrases,How_I_Act,1522
+Ou te alu solo,I flirt,Verbs & Phrases,How_I_Act,1573
+Ou te fa'aloglogo i musika,I listen to music,Verbs & Phrases,How_I_Act,2660
+Ou te fiafia,I enjoy,Verbs & Phrases,How_I_Act,2662
+Ou te gaoi,I steal,Verbs & Phrases,What_I_Do,1367
+Ou te maua,I catch,Verbs & Phrases,What_I_Do,1450
+E fa'atumu lo'u,I fill,Verbs & Phrases,What_I_Do,1489
+Ou te fa'aalu,I flush,Verbs & Phrases,What_I_Do,2499
+Ou te fufulu,I scrub,Verbs & Phrases,What_I_Do,2500
+Ou te fa'avasega a'u,I arrange,Verbs & Phrases,What_I_Do,2644
+E fai a'u,I make,Verbs & Phrases,What_I_Do,2661
+Ou te taofi le faitoto'a,I hold the door,Verbs & Phrases,What_I_Do,2805
+e se'e i lalo,it slides,Verbs & Phrases,What_It_Does,1618
+E ta'avili,It rolls,Verbs & Phrases,What_It_Does,1680
+oso ese ma le auala,it derails,Verbs & Phrases,What_It_Does,2625
+Ua a mai?,hi,Verbs & Phrases,Basic_Phrases,4
+Fa'afetai,thank you,Verbs & Phrases,Basic_Phrases,5
+fa,bye,Verbs & Phrases,Basic_Phrases,6
+fa'amolemole,please,Verbs & Phrases,Basic_Phrases,7
+Ou te moe,I sleep,Verbs,"As_a_human,_I...",156
+Ou te nofo,I sit,Verbs,"As_a_human,_I...",157
+Ou te feanu,I spit,Verbs,"As_a_human,_I...",256
+Ou te pese,I sing,Verbs,"As_a_human,_I...",416
+E tafe lo'u toto,I bleed,Verbs,"As_a_human,_I...",822
+Na fa'aalu la'u ea,I fart,Verbs,"As_a_human,_I...",1260
+Na ou pi,I pee,Verbs,"As_a_human,_I...",1261
+Na fai la'u feaumamao,I poop,Verbs,"As_a_human,_I...",1262
+Ou te tale,I cough,Verbs,"As_a_human,_I...",1430
+Ou te tago,I touch,Verbs,"As_a_human,_I...",1521
+Na ou sosogi,I smell,Verbs,"As_a_human,_I...",1554
+Ou te mānava,I breathe,Verbs,"As_a_human,_I...",1603
+Ou te fa'alogo,I hear,Verbs,"As_a_human,_I...",1773
+Ou te tagulu,I snore,Verbs,"As_a_human,_I...",2481
+E taofi la'u mānava,I hold my breath,Verbs,"As_a_human,_I...",2698
+Ou te ti'eti'e i le uila,I ride a bicycle,Verbs,How_I_Move,196
+Ou te savali,I walk,Verbs,How_I_Move,258
+Ou te siva,I dance,Verbs,How_I_Move,417
+Ou te oso,I jump,Verbs,How_I_Move,437
+Ou te tamo'e,I run,Verbs,How_I_Move,438
+Ou te a'au,I swim,Verbs,How_I_Move,517
+Ou te a'e i luga o le fa'asitepu,I climb the stairs,Verbs,How_I_Move,651
+Ou te se'e,I slip,Verbs,How_I_Move,1280
+Ou te pa'ū,I fall,Verbs,How_I_Move,1451
+Na ou pa'ū,I fell over,Verbs,How_I_Move,1553
+Ou te matapogia,I collapse,Verbs,How_I_Move,2750
+Ou te ulufale,I enter,Verbs,How_I_Move,2913
+Ou te liliu,I turn,Verbs,How_I_Move,2931
+Ou te vali,I paint,Verbs,How_I_Act,566
+Ou te tusitusi,I write,Verbs,How_I_Act,567
+Ou te su'esu'e,I study,Verbs,How_I_Act,811
+E fa'amanatu lo'u,I celebrate,Verbs,How_I_Act,1095
+Ou te filifili,I choose,Verbs,How_I_Act,1225
+Ou te su'eina,I search,Verbs,How_I_Act,1452
+Ou te fesili,I ask,Verbs,How_I_Act,1465
+Ou te palota,I vote,Verbs,How_I_Act,1522
+Ou te alu solo,I flirt,Verbs,How_I_Act,1573
+Ou te fa'aloglogo i musika,I listen to music,Verbs,How_I_Act,2660
+Ou te fiafia,I enjoy,Verbs,How_I_Act,2662
+Ou te gaoi,I steal,Verbs,What_I_Do,1367
+Ou te maua,I catch,Verbs,What_I_Do,1450
+E fa'atumu lo'u,I fill,Verbs,What_I_Do,1489
+Ou te fa'aalu,I flush,Verbs,What_I_Do,2499
+Ou te fufulu,I scrub,Verbs,What_I_Do,2500
+Ou te fa'avasega a'u,I arrange,Verbs,What_I_Do,2644
+E fai a'u,I make,Verbs,What_I_Do,2661
+Ou te taofi le faitoto'a,I hold the door,Verbs,What_I_Do,2805
+e se'e i lalo,it slides,Verbs,What_It_Does,1618
+E ta'avili,It rolls,Verbs,What_It_Does,1680
+oso ese ma le auala,it derails,Verbs,What_It_Does,2625
+Ua a mai?,hi,Phrases,Basic_Phrases,4
+Fa'afetai,thank you,Phrases,Basic_Phrases,5
+fa,bye,Phrases,Basic_Phrases,6
+fa'amolemole,please,Phrases,Basic_Phrases,7
+fagususu a le pepe,baby bottle,People & Relationships,Baby,1290
+moega pepe,baby crib,People & Relationships,Baby,1291
+moega osooso,bouncer,People & Relationships,Baby,1293
+talifāua,bib,People & Relationships,Baby,1294
+fanau mai,birth,People & Relationships,Baby,1295
+fa'asusu i le tinā,breastfeeding,People & Relationships,Baby,1296
+napekeni,diaper,People & Relationships,Baby,1298
+sui le napekeni,diaper change,People & Relationships,Baby,1299
+pepe afuafua,fetus,People & Relationships,Baby,1300
+teu fugala'au,bouquet,People & Relationships,Marriage,1460
+tafaoga ulugali'i fou,honeymoon,People & Relationships,Marriage,1464
+fa'amalamalama,proposal,People & Relationships,Marriage,1467
+fa'amanuia,toast,People & Relationships,Marriage,1469
+keke fa'aipoipo,wedding cake,People & Relationships,Marriage,1470
+pepa fa'aipoipo,wedding contract,People & Relationships,Marriage,1471
+aso fa'aipoipo,wedding day,People & Relationships,Marriage,1472
+ofu fa'aipoipo,wedding dress,People & Relationships,Marriage,1473
+meaalofa fa'aipoipoga,wedding gift,People & Relationships,Marriage,1474
+mama fa'aipoipo,wedding ring,People & Relationships,Marriage,1476
+pulela'a o le falesa,altar,People & Relationships,Marriage,2783
+ma'itaga,pregnancy,People & Relationships,More_Baby,1305
+masaga,twins,People & Relationships,More_Baby,1306
+nofoa maualuga,high chair,People & Relationships,More_Baby,3221
+ta'avale pepe,stroller,People & Relationships,More_Baby,3222
+ta'avale pepe,pram,People & Relationships,More_Baby,3223
+nofoata'avale mo tamaiti,car seat,People & Relationships,More_Baby,3224
+pauta pepe,baby powder,People & Relationships,More_Baby,3225
+tausitama,babysitter,People & Relationships,More_Baby,3226
+fa'amalamalama,proposal,People & Relationships,We're_engaged!,1467
+teu fugala'au,bouquet,People & Relationships,Wedding_Day,1460
+teine fa'aipoipo,bride,People & Relationships,Wedding_Day,1461
+tama fa'aipoipo,groom,People & Relationships,Wedding_Day,1463
+tafaoga ulugali'i fou,honeymoon,People & Relationships,Wedding_Day,1464
+keke fa'aipoipo,wedding cake,People & Relationships,Wedding_Day,1470
+aso fa'aipoipo,wedding day,People & Relationships,Wedding_Day,1472
+ofu fa'aipoipo,wedding dress,People & Relationships,Wedding_Day,1473
+mama fa'aipoipo,wedding ring,People & Relationships,Wedding_Day,1476
+pulela'a o le falesa,altar,People & Relationships,Wedding_Day,2783
+mātua,parents,People & Relationships,My_Family,364
+tamā,father,People & Relationships,My_Family,366
+tamā o lo'u tamā,grandfather,People & Relationships,My_Family,370
+tinā o lo'u tinā,grandmother,People & Relationships,My_Family,371
+tinā,mother,People & Relationships,My_Family,374
+opo,hug,People & Relationships,My_Family,1571
+gafa o le aiga,family tree,People & Relationships,Family_Tree,2775
+tama teine a lo'u uso,niece,People & Relationships,Family_Tree,2776
+atali'i o lo'u tuagane,nephew,People & Relationships,Family_Tree,2777
+tinā o lo'u to'alua,mother-in-law,People & Relationships,Family_Tree,2780
+tamā tausi,godfather,People & Relationships,Family_Tree,2786
+uso o lo'u tamā,uncle,People & Relationships,Family_Tree,2787
+ta'avale falema'i,ambulance,Health & Wellness,Health,381
+su'esu'ega,examination,Health & Wellness,Health,1428
+tātā o le fatu,heartbeat,Health & Wellness,Health,1429
+pili o le falema'i,medical bill,Health & Wellness,Health,1433
+fa'amaumauga tau ma'i,medical record,Health & Wellness,Health,1434
+tagata ma'i,patient,Health & Wellness,Health,1435
+potu ekimiki,patient admission,Health & Wellness,Health,1436
+ta o le fatu,pulse,Health & Wellness,Health,1437
+foma'i tipitipi,surgeon,Health & Wellness,Health,1441
+tino,body,Health & Wellness,Body,421
+ulu,head,Health & Wellness,Body,422
+lauulu,hair,Health & Wellness,Body,423
+foliga,face,Health & Wellness,Body,424
+taliga,ears,Health & Wellness,Body,425
+mata,eyes,Health & Wellness,Body,426
+isu,nose,Health & Wellness,Body,427
+gutu,mouth,Health & Wellness,Body,428
+nifo,tooth,Health & Wellness,Body,429
+laugutu,lips,Health & Wellness,Body,431
+lima,hand,Health & Wellness,Body,432
+tamatama'ilima,finger,Health & Wellness,Body,433
+atigilima,nail,Health & Wellness,Body,434
+vae,foot,Health & Wellness,Body,435
+Ou te oso,I jump,Health & Wellness,Body,437
+Ou te tamo'e,I run,Health & Wellness,Body,438
+ita,angry,Health & Wellness,Emotions,576
+lē ua'i,bored,Health & Wellness,Emotions,577
+fa'avalevalea,crazy,Health & Wellness,Emotions,579
+oso fiafia,excited,Health & Wellness,Emotions,582
+fiafia,happy,Health & Wellness,Emotions,585
+po'epo'evale,nervous,Health & Wellness,Emotions,587
+lē lavā,tired,Health & Wellness,Emotions,592
+tino,body,Health & Wellness,Body_Parts,421
+lima,hand,Health & Wellness,Body_Parts,432
+tamatama'ilima,finger,Health & Wellness,Body_Parts,433
+atigilima,nail,Health & Wellness,Body_Parts,434
+vae,foot,Health & Wellness,Body_Parts,435
+tapuvae,ankle,Health & Wellness,Body_Parts,814
+ogālima,arm,Health & Wellness,Body_Parts,815
+tulilima,elbow,Health & Wellness,Body_Parts,819
+mulivae,heel,Health & Wellness,Body_Parts,821
+tulivae,knee,Health & Wellness,Body_Parts,823
+ogāvae,leg,Health & Wellness,Body_Parts,824
+tau'au,shoulder,Health & Wellness,Body_Parts,2921
+uati fa'atatagi,alarm clock,Health & Wellness,Sleep,1239
+pola,blinds,Health & Wellness,Sleep,1240
+moega fa'afogāfale,bunk bed,Health & Wellness,Sleep,1241
+miti,dream,Health & Wellness,Sleep,1242
+moega fa'alue,hammock,Health & Wellness,Sleep,1243
+masini fa'asusū ai le 'ea,humidifier,Health & Wellness,Sleep,1244
+lē mafai ona moe,insomnia,Health & Wellness,Sleep,1245
+moe pu'upu'u,nap,Health & Wellness,Sleep,1246
+po,night,Health & Wellness,Sleep,1247
+miti leaga,nightmare,Health & Wellness,Sleep,1248
+laulau po,nightstand,Health & Wellness,Sleep,1249
+tui fa'agase,anesthetic,Health & Wellness,Oral_Care,1477
+taofi nifo,braces,Health & Wellness,Oral_Care,1478
+ai'aina le nifo,cavity,Health & Wellness,Oral_Care,1479
+nifo fa'apipi'i,denture,Health & Wellness,Oral_Care,1480
+tainifo,gum,Health & Wellness,Oral_Care,1484
+so'oga o nifo,teeth bridge,Health & Wellness,Oral_Care,1487
+fa'apapa'e nifo,teeth whitening,Health & Wellness,Oral_Care,1488
+ufiufi o le nifo,tooth crown,Health & Wellness,Oral_Care,1490
+vili fa'apu le nifo,tooth drilling,Health & Wellness,Oral_Care,1491
+se'i le nifo,tooth extraction,Health & Wellness,Oral_Care,1492
+nifo fa'apipi'i,tooth implant,Health & Wellness,Oral_Care,1493
+nofoa fa'alā,deck chair,Health & Wellness,Spa,1904
+tapu ta'ele vevela,hot tub,Health & Wellness,Spa,1905
+potu o loka,locker room,Health & Wellness,Spa,1909
+ta'elega vevela,sauna,Health & Wellness,Spa,1911
+vai vevela o le natura,thermal water,Health & Wellness,Spa,1915
+fa'ase'e susū,water slide,Health & Wellness,Spa,1917
+ufimata,sleep mask,Health & Wellness,More_Sleep,1250
+moe savali,sleep walking,Health & Wellness,More_Sleep,1251
+moe,sleeping,Health & Wellness,More_Sleep,1252
+fuāla'au fa'amoe,sleeping pill,Health & Wellness,More_Sleep,1253
+tagulu,snoring,Health & Wellness,More_Sleep,1254
+mavava,yawn,Health & Wellness,More_Sleep,1255
+puni taliga,ear plugs,Health & Wellness,More_Sleep,2465
+aluga mo le ua,neck pillow,Health & Wellness,More_Sleep,2466
+moega pepe,cradle,Health & Wellness,More_Sleep,2467
+tulemoe,narcolepsy,Health & Wellness,More_Sleep,2468
+tautulemoe,groggy,Health & Wellness,More_Sleep,2469
+nifo,tooth,Health & Wellness,More_Body_Parts,429
+pito i lalo o le tua,lower back,Health & Wellness,More_Body_Parts,2917
+sulugātiti,waistline,Health & Wellness,More_Body_Parts,2918
+atigilima,fingernail,Health & Wellness,More_Body_Parts,2919
+moto tapulima,knuckle,Health & Wellness,More_Body_Parts,2920
+tapulima,wrist,Health & Wellness,More_Body_Parts,2923
+alāfau,cheeks,Health & Wellness,More_Body_Parts,2924
+atigivae,toenail,Health & Wellness,More_Body_Parts,2926
+musele o le manava,abs,Health & Wellness,More_Body_Parts,2928
+auvae,jaw,Health & Wellness,More_Body_Parts,2929
+pute,belly button,Health & Wellness,More_Body_Parts,2930
+nifo tigā,toothache,Health & Wellness,Aches_&_Pains,391
+mafaufau tatalo,meditation,Health & Wellness,Mindfulness,1538
+ti,tea,Health & Wellness,Natural_Remedies,33
+Ou te moe,I sleep,Health & Wellness,Natural_Remedies,156
+tale,cough,Health & Wellness,COVID_Talk,386
+fiva,fever,Health & Wellness,COVID_Talk,387
+auivi,skeleton,Holidays,Halloween,827
+aso Halloween,Halloween,Holidays,Halloween,1094
+pe'a,bat,Holidays,Halloween,1189
+meaola taufa'afefe,monster,Holidays,Halloween,1776
+logo faitoto'a,doorbell,Holidays,Halloween,2638
+meaalofa,gift,Holidays,Winter_Holidays,1093
+E fa'amanatu lo'u,I celebrate,Holidays,Winter_Holidays,1095
+patī,party,Holidays,New_Years,407
+mea fa'apāpā,fireworks,Holidays,New_Years,1091
+Po vaelua o le Tausaga Fou,New Year's Eve,Holidays,New_Years,1098
+fa'amanuia,toast,Holidays,New_Years,1469
+aso Valentine,Valentine's day,Holidays,Valentine's_Day,1101
+teu fugala'au,bouquet,Holidays,Valentine's_Day,1460
+ma te u'u lima,we hold hands,Holidays,Valentine's_Day,2781
+Ou te fa'amālō,I compliment,Holidays,Valentine's_Day,2802
+tupu,king,Gaming,Deck_of_Cards,1041
+masiofo,queen,Gaming,Deck_of_Cards,1049
+faletusi,library,All Things School,Naming_Things_at_School,303
+potu a'oga,classroom,All Things School,Naming_Things_at_School,799
+laupapa a'oga,whiteboard,All Things School,Naming_Things_at_School,813
+apa lapisi,trash can,All Things School,Naming_Things_at_School,1001
+loka,locker,All Things School,Naming_Things_at_School,1114
+calculator,calculator,All Things School,In_My_Backpack,798
+titina,eraser,All Things School,In_My_Backpack,801
+vaitusi,ink,All Things School,In_My_Backpack,804
+api a'oga,notebook,All Things School,In_My_Backpack,806
+pepa kilipi,paper clip,All Things School,In_My_Backpack,807
+peni,pen,All Things School,In_My_Backpack,808
+penitala,pencil,All Things School,In_My_Backpack,809
+lula,ruler,All Things School,In_My_Backpack,810
+pepa fa'ailoa tagata a'oga,student id,All Things School,In_My_Backpack,812
+kesia,cashier,All Things School,At_the_Cafeteria,209
+solo gutu,napkin,All Things School,At_the_Cafeteria,739
+tray,tray,All Things School,At_the_Cafeteria,744
+su'ega,exam,All Things School,Study_Routine,802
+Ou te su'esu'e,I study,All Things School,Study_Routine,811
+kemisi,chemistry,All Things School,School_Subjects,1633
+tipiloma,diploma,All Things School,University_Studies,800
+fa'au'uga,graduation,All Things School,University_Studies,803
+a'oa'oga,lecture,All Things School,University_Studies,805
+falemoe totogi,hostel,All Things School,I_Will_Study_Abroad,839
+fa'amalamalama,proposal,My Romantic Relationships,We're_engaged!,1467
+teu fugala'au,bouquet,My Romantic Relationships,Wedding_Day,1460
+teine fa'aipoipo,bride,My Romantic Relationships,Wedding_Day,1461
+tama fa'aipoipo,groom,My Romantic Relationships,Wedding_Day,1463
+tafaoga ulugali'i fou,honeymoon,My Romantic Relationships,Wedding_Day,1464
+keke fa'aipoipo,wedding cake,My Romantic Relationships,Wedding_Day,1470
+aso fa'aipoipo,wedding day,My Romantic Relationships,Wedding_Day,1472
+ofu fa'aipoipo,wedding dress,My Romantic Relationships,Wedding_Day,1473
+mama fa'aipoipo,wedding ring,My Romantic Relationships,Wedding_Day,1476
+pulela'a o le falesa,altar,My Romantic Relationships,Wedding_Day,2783

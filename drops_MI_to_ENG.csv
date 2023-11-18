@@ -1,0 +1,2665 @@
+kawhe,coffee,Food & Drinks,Drinks,25
+inu mirumiru,coke,Food & Drinks,Drinks,26
+inu tiakarete,hot chocolate,Food & Drinks,Drinks,27
+inu,drink,Food & Drinks,Drinks,28
+miraka,milk,Food & Drinks,Drinks,29
+wai ārani,orange juice,Food & Drinks,Drinks,31
+hōura,soda,Food & Drinks,Drinks,32
+tī,tea,Food & Drinks,Drinks,33
+wai,water,Food & Drinks,Drinks,34
+wai kokonati,coconut water,Food & Drinks,Drinks,1854
+paraoa,bread,Food & Drinks,Food,121
+parakuihi,breakfast,Food & Drinks,Food,122
+huarākau,fruits,Food & Drinks,Food,123
+tīhi,cheese,Food & Drinks,Food,124
+hēki,egg,Food & Drinks,Food,125
+ika,fish,Food & Drinks,Food,126
+hupa,soup,Food & Drinks,Food,128
+mīti,meat,Food & Drinks,Food,132
+huka,sugar,Food & Drinks,Food,134
+huamata,salad,Food & Drinks,Food,135
+toa,dairy,Food & Drinks,Food,2879
+tina,lunch,Food & Drinks,Food,2880
+kai a te pō,dinner,Food & Drinks,Food,2881
+kai heri atu,takeout,Food & Drinks,Food,2892
+paramu,plum,Food & Drinks,Fruits,678
+kiwi,kiwi,Food & Drinks,Fruits,679
+mēreni,honeydew melon,Food & Drinks,Fruits,681
+pītiti,peach,Food & Drinks,Fruits,682
+tiere,cherry,Food & Drinks,Fruits,683
+āporo,apple,Food & Drinks,Fruits,685
+kerepi,grape,Food & Drinks,Fruits,690
+mereni wai,watermelon,Food & Drinks,Fruits,691
+pea,pear,Food & Drinks,Fruits,692
+panana,banana,Food & Drinks,Fruits,694
+kākāriki,cantaloupe,Food & Drinks,Fruits,3303
+harore,mushroom,Food & Drinks,Vegetables,129
+porokori,broccoli,Food & Drinks,Vegetables,697
+kāpeti,cabbage,Food & Drinks,Vegetables,698
+kareparāoa,cauliflower,Food & Drinks,Vegetables,700
+kānga,corn,Food & Drinks,Vegetables,701
+kūkama,cucumber,Food & Drinks,Vegetables,702
+rētihi,lettuce,Food & Drinks,Vegetables,704
+pāhiri,parsley,Food & Drinks,Vegetables,706
+rarihi,radish,Food & Drinks,Vegetables,709
+apareka,asparagus,Food & Drinks,Vegetables,3186
+pī,pea,Food & Drinks,Vegetables,3187
+aonanī,brussels sprout,Food & Drinks,Vegetables,3188
+pire,bill,Food & Drinks,Restaurant,730
+pātara,bottle,Food & Drinks,Restaurant,731
+kīnaki,condiments,Food & Drinks,Restaurant,733
+pūruni,dessert,Food & Drinks,Restaurant,734
+rārangi kai,menu,Food & Drinks,Restaurant,738
+napikena,napkin,Food & Drinks,Restaurant,739
+kai tīriti,street food,Food & Drinks,Restaurant,740
+uhitēpu,tablecloth,Food & Drinks,Restaurant,741
+utu,tip,Food & Drinks,Restaurant,742
+kapeniho,toothpick,Food & Drinks,Restaurant,743
+heri,tray,Food & Drinks,Restaurant,744
+pēkana,bacon,Food & Drinks,More_Foods,764
+pata,butter,Food & Drinks,More_Foods,765
+poaka,ham,Food & Drinks,More_Foods,768
+hamupeka,hamburger,Food & Drinks,More_Foods,769
+tōtiti wera,hotdog,Food & Drinks,More_Foods,771
+hāmana,salmon,Food & Drinks,More_Foods,776
+tōtiti,sausage,Food & Drinks,More_Foods,777
+iōkete,yogurt,Food & Drinks,More_Foods,779
+otaota,basil,Food & Drinks,Spices_and_Sweets,848
+keke,cake,Food & Drinks,Spices_and_Sweets,850
+hirikākā,chili,Food & Drinks,Spices_and_Sweets,851
+tiakarete,chocolate,Food & Drinks,Spices_and_Sweets,852
+hinamona,cinnamon,Food & Drinks,Spices_and_Sweets,853
+pihikete,cookie,Food & Drinks,Spices_and_Sweets,854
+tinitia,ginger,Food & Drinks,Spices_and_Sweets,855
+mawhene,muffin,Food & Drinks,Spices_and_Sweets,856
+tounati,donut,Food & Drinks,Spices_and_Sweets,857
+puehu parāoa,flour,Food & Drinks,Spices_and_Sweets,858
+mīere,honey,Food & Drinks,Spices_and_Sweets,859
+ahikirīmi,ice cream,Food & Drinks,Spices_and_Sweets,860
+rarepapa,lollipop,Food & Drinks,Spices_and_Sweets,861
+pepa,pepper,Food & Drinks,Spices_and_Sweets,862
+tote,salt,Food & Drinks,Spices_and_Sweets,863
+wanira,vanilla,Food & Drinks,Spices_and_Sweets,864
+mihini whakaranu,blender,Food & Drinks,Cooking,950
+kēne,can,Food & Drinks,Cooking,951
+māhere tunu kai,cookbook,Food & Drinks,Cooking,952
+puru kōwiri,corkscrew,Food & Drinks,Cooking,953
+waru,grater,Food & Drinks,Cooking,954
+taputapu wairanu,juicer,Food & Drinks,Cooking,955
+pune hupa,ladle,Food & Drinks,Cooking,956
+mihini whakaranu,mixer,Food & Drinks,Cooking,957
+oko,mixing bowl,Food & Drinks,Cooking,958
+taputapu pakaru nati,nutcracker,Food & Drinks,Cooking,959
+taputapu pepa,pepper mill,Food & Drinks,Cooking,960
+hautai,sponge,Food & Drinks,Cooking,961
+pune puare,strainer,Food & Drinks,Cooking,962
+taputapu pāmahana,thermometer,Food & Drinks,Cooking,963
+mīhini kaute,timer,Food & Drinks,Cooking,964
+mihini tōhi,toaster,Food & Drinks,Cooking,965
+taputapu whakaranu,whisk,Food & Drinks,Cooking,966
+paraoa wīwī,baguette,Food & Drinks,Pastries,1494
+paraoa,bun,Food & Drinks,Pastries,1496
+rare,candy,Food & Drinks,Pastries,1497
+pihikete,crackers,Food & Drinks,Pastries,1499
+paraoa wīwī,croissant,Food & Drinks,Pastries,1500
+pīnati pata,peanut butter,Food & Drinks,Pastries,1502
+pae,pie,Food & Drinks,Pastries,1504
+parehe,pizza,Food & Drinks,Pastries,1505
+peritio,pretzel,Food & Drinks,Pastries,1506
+kōno,scone,Food & Drinks,Pastries,1509
+tuari mahi kawhe,barista,Food & Drinks,Tea_and_Coffee,1852
+tāima toroī,brew time,Food & Drinks,Tea_and_Coffee,1853
+pīni kawhe,coffee bean,Food & Drinks,Tea_and_Coffee,1855
+mīhini kanioro kawhe,coffee grinder,Food & Drinks,Tea_and_Coffee,1856
+kawhe,espresso,Food & Drinks,Tea_and_Coffee,1857
+mīhini kawhe,espresso machine,Food & Drinks,Tea_and_Coffee,1858
+kawhe tātari,filter coffee,Food & Drinks,Tea_and_Coffee,1859
+mīhini kawhe wīwī,French press,Food & Drinks,Tea_and_Coffee,1860
+rātē,latte,Food & Drinks,Tea_and_Coffee,1863
+pēke tī,tea bag,Food & Drinks,Tea_and_Coffee,1865
+hēki tī,tea egg,Food & Drinks,Tea_and_Coffee,1866
+rau tī,tea leaf,Food & Drinks,Tea_and_Coffee,1867
+pepaminiti,peppermint,Food & Drinks,Herbs,3149
+pātītī rēmana,lemongrass,Food & Drinks,Herbs,3150
+otaota rosemary,rosemary,Food & Drinks,Herbs,3152
+piaminiti,spearmint,Food & Drinks,Herbs,3159
+tāima,thyme,Food & Drinks,Herbs,3163
+miniti,mint,Food & Drinks,Herbs,3164
+rahopūru,avocado,Food & Drinks,More_Vegetables,695
+riki,leek,Food & Drinks,More_Vegetables,3185
+huawhenua nō āhia,bok choy,Food & Drinks,More_Vegetables,3189
+atihoka,artichoke,Food & Drinks,More_Vegetables,3190
+huahēki,eggplant,Food & Drinks,More_Vegetables,3191
+paraute,sprouts,Food & Drinks,More_Vegetables,3194
+kare,kale,Food & Drinks,More_Vegetables,3195
+pīti,beetroot,Food & Drinks,More_Vegetables,3196
+hoipīni,soybeans,Food & Drinks,More_Vegetables,3198
+ōriwa,olive,Food & Drinks,Exotic_Fruits,686
+kōhia,passion fruit,Food & Drinks,Exotic_Fruits,3293
+pamakaranete,pomegranate,Food & Drinks,Exotic_Fruits,3294
+piki,fig,Food & Drinks,Exotic_Fruits,3295
+mango,mango,Food & Drinks,Exotic_Fruits,3296
+papaia,papaya,Food & Drinks,Exotic_Fruits,3298
+rūpapa,rhubarb,Food & Drinks,Exotic_Fruits,3301
+teiti,date,Food & Drinks,Exotic_Fruits,3302
+hua tarākena,dragon fruit,Food & Drinks,Exotic_Fruits,3305
+hua neke,snake fruit,Food & Drinks,Exotic_Fruits,3306
+perehi huarākau,fruit press,Food & Drinks,Even_More_Cooking,3563
+koko parai,spatula,Food & Drinks,Even_More_Cooking,3564
+waru tīhi,cheese grater,Food & Drinks,Even_More_Cooking,3565
+whakatuwhera wāina,wine opener,Food & Drinks,Even_More_Cooking,3566
+pīnohi,tongs,Food & Drinks,Even_More_Cooking,3568
+perehi kāriki,garlic press,Food & Drinks,Even_More_Cooking,3569
+kapu ine,measuring cups,Food & Drinks,Even_More_Cooking,3570
+ōrite kīhini,kitchen scale,Food & Drinks,Even_More_Cooking,3571
+pune ine,measuring spoons,Food & Drinks,Even_More_Cooking,3572
+woko,wok,Food & Drinks,Even_More_Cooking,3574
+mātete,mustard,Food & Drinks,Even_More_Cooking,3575
+wairanu tomato,ketchup,Food & Drinks,Even_More_Cooking,3576
+wairanu puhahana,hot sauce,Food & Drinks,Even_More_Cooking,3577
+wairanu hōi,soy sauce,Food & Drinks,Even_More_Cooking,3578
+ka waru ahau,I grate,Food & Drinks,Even_More_Cooking,3579
+ka pani ahau,I spread,Food & Drinks,Even_More_Cooking,3580
+kai kinikini,snack,Food & Drinks,Snacks,2882
+parāoa porohita,bagel,Food & Drinks,Snacks,3689
+pēke kotakota rīwai,bag of chips,Food & Drinks,Snacks,3690
+kānga pahū,popcorn,Food & Drinks,Snacks,3691
+pīkara,pickle,Food & Drinks,Snacks,3692
+kotakota rīwai Mēhiko,nachos,Food & Drinks,Snacks,3693
+inu miraka,milkshake,Food & Drinks,Snacks,3694
+mīti kau maroke,beef jerky,Food & Drinks,Snacks,3695
+huarākau maroke,dried fruit,Food & Drinks,Snacks,3696
+tiere,jelly,Food & Drinks,Snacks,3698
+kotakota rīwai me te kīnaki,chips and dip,Food & Drinks,Snacks,3699
+pia ngaungau,chewing gum,Food & Drinks,Snacks,3703
+purini,pudding,Food & Drinks,Snacks,3704
+panekeke,pancake,Food & Drinks,Breakfast_Foods,3941
+pata kai,cereal,Food & Drinks,Breakfast_Foods,3942
+parehe,waffle,Food & Drinks,Breakfast_Foods,3943
+hēki,omelet,Food & Drinks,Breakfast_Foods,3944
+pihikete karanora,granola bar,Food & Drinks,Breakfast_Foods,3945
+tohi,toast,Food & Drinks,Breakfast_Foods,3946
+parāoa nō wīwī,brioche,Food & Drinks,Breakfast_Foods,3949
+āe,yes,Study with Amber,Essentials,1
+kāo,no,Study with Amber,Essentials,2
+kei te pai,ok,Study with Amber,Essentials,3
+kia ora,hi,Study with Amber,Essentials,4
+tēnā koe,thank you,Study with Amber,Essentials,5
+haere rā,bye,Study with Amber,Essentials,6
+koa,please,Study with Amber,Essentials,7
+ahau,I,Study with Amber,Essentials,9
+me,and,Study with Amber,Essentials,16
+rānei,or,Study with Amber,Essentials,17
+tēnei,this,Study with Amber,Essentials,18
+kawhe,coffee,Study with Amber,Drinks,25
+inu mirumiru,coke,Study with Amber,Drinks,26
+inu tiakarete,hot chocolate,Study with Amber,Drinks,27
+inu,drink,Study with Amber,Drinks,28
+miraka,milk,Study with Amber,Drinks,29
+wai ārani,orange juice,Study with Amber,Drinks,31
+hōura,soda,Study with Amber,Drinks,32
+tī,tea,Study with Amber,Drinks,33
+wai,water,Study with Amber,Drinks,34
+wai kokonati,coconut water,Study with Amber,Drinks,1854
+kore,zero,Study with Amber,Numbers,41
+tahi,one,Study with Amber,Numbers,42
+rua,two,Study with Amber,Numbers,43
+toru,three,Study with Amber,Numbers,44
+whā,four,Study with Amber,Numbers,45
+rima,five,Study with Amber,Numbers,46
+ono,six,Study with Amber,Numbers,47
+whitu,seven,Study with Amber,Numbers,48
+waru,eight,Study with Amber,Numbers,49
+iwa,nine,Study with Amber,Numbers,50
+tekau,ten,Study with Amber,Numbers,51
+tekau mā tahi,eleven,Study with Amber,Numbers,52
+tekau mā rua,twelve,Study with Amber,Numbers,53
+rua tekau,twenty,Study with Amber,Numbers,54
+rau,hundred,Study with Amber,Numbers,55
+ki ōku whakaaro,I think,Study with Amber,Numbers,56
+ka kaute ahau,I count,Study with Amber,Numbers,58
+paraoa,bread,Study with Amber,Food,121
+parakuihi,breakfast,Study with Amber,Food,122
+huarākau,fruits,Study with Amber,Food,123
+tīhi,cheese,Study with Amber,Food,124
+hēki,egg,Study with Amber,Food,125
+ika,fish,Study with Amber,Food,126
+hupa,soup,Study with Amber,Food,128
+mīti,meat,Study with Amber,Food,132
+huka,sugar,Study with Amber,Food,134
+huamata,salad,Study with Amber,Food,135
+toa,dairy,Study with Amber,Food,2879
+tina,lunch,Study with Amber,Food,2880
+kai a te pō,dinner,Study with Amber,Food,2881
+kai heri atu,takeout,Study with Amber,Food,2892
+kāri,cards,Study with Amber,Fun,401
+whare pikitia,cinema,Study with Amber,Fun,403
+kōnohete,concert,Study with Amber,Fun,404
+whakaaturanga,exhibition,Study with Amber,Fun,405
+niupepa,newspaper,Study with Amber,Fun,406
+pāti,party,Study with Amber,Fun,407
+whakataetae,match,Study with Amber,Fun,409
+kōrerorero,chat,Study with Amber,Fun,410
+kēmu ātea,video games,Study with Amber,Fun,411
+whare hoko kai,restaurant,Study with Amber,Fun,412
+tirotiro,sightseeing,Study with Amber,Fun,414
+kanikani,dance,Study with Amber,Fun,415
+tinana,body,Study with Amber,Body,421
+māhunga,head,Study with Amber,Body,422
+makawe,hair,Study with Amber,Body,423
+kanohi,face,Study with Amber,Body,424
+taringa,ears,Study with Amber,Body,425
+karu,eyes,Study with Amber,Body,426
+ihu,nose,Study with Amber,Body,427
+waha,mouth,Study with Amber,Body,428
+niho,tooth,Study with Amber,Body,429
+ngutu,lips,Study with Amber,Body,431
+ringa,hand,Study with Amber,Body,432
+matimati,finger,Study with Amber,Body,433
+nēra,nail,Study with Amber,Body,434
+waewae,foot,Study with Amber,Body,435
+ka peke ahau,I jump,Study with Amber,Body,437
+ka oma ahau,I run,Study with Amber,Body,438
+pukuriri,angry,Study with Amber,Emotions,576
+hōhā,bored,Study with Amber,Emotions,577
+āio,calm,Study with Amber,Emotions,578
+pōrangi,crazy,Study with Amber,Emotions,579
+hīkaka,excited,Study with Amber,Emotions,582
+harikoa,happy,Study with Amber,Emotions,585
+āmaimai,nervous,Study with Amber,Emotions,587
+ngēngē,tired,Study with Amber,Emotions,592
+paramu,plum,Study with Amber,Fruits,678
+kiwi,kiwi,Study with Amber,Fruits,679
+mēreni,honeydew melon,Study with Amber,Fruits,681
+pītiti,peach,Study with Amber,Fruits,682
+tiere,cherry,Study with Amber,Fruits,683
+āporo,apple,Study with Amber,Fruits,685
+kerepi,grape,Study with Amber,Fruits,690
+mereni wai,watermelon,Study with Amber,Fruits,691
+pea,pear,Study with Amber,Fruits,692
+panana,banana,Study with Amber,Fruits,694
+kākāriki,cantaloupe,Study with Amber,Fruits,3303
+harore,mushroom,Study with Amber,Vegetables,129
+porokori,broccoli,Study with Amber,Vegetables,697
+kāpeti,cabbage,Study with Amber,Vegetables,698
+kareparāoa,cauliflower,Study with Amber,Vegetables,700
+kānga,corn,Study with Amber,Vegetables,701
+kūkama,cucumber,Study with Amber,Vegetables,702
+rētihi,lettuce,Study with Amber,Vegetables,704
+pāhiri,parsley,Study with Amber,Vegetables,706
+rarihi,radish,Study with Amber,Vegetables,709
+apareka,asparagus,Study with Amber,Vegetables,3186
+pī,pea,Study with Amber,Vegetables,3187
+aonanī,brussels sprout,Study with Amber,Vegetables,3188
+peihipōro,baseball,Study with Amber,Sports,882
+pahiketepōro,basketball,Study with Amber,Sports,883
+mekemeke,boxing,Study with Amber,Sports,884
+whutupōro amerikana,football,Study with Amber,Sports,887
+poiwhana,soccer,Study with Amber,Sports,894
+tēnehi,tennis,Study with Amber,Sports,897
+torotoro,yoga,Study with Amber,Sports,898
+haupōro,golf,Study with Amber,Sports,1174
+takaporepore,gymnastics,Study with Amber,Sports,1175
+meke pōro,volleyball,Study with Amber,Sports,1186
+pakipaki,applause,Study with Amber,Music,1052
+whakaminenga,audience,Study with Amber,Music,1053
+koaea,choir,Study with Amber,Music,1054
+kaiārahi,conductor,Study with Amber,Music,1055
+kaituku waiata,DJ,Study with Amber,Music,1056
+taramu,drum,Study with Amber,Music,1057
+wahahiko,microphone,Study with Amber,Music,1059
+rārangi puoro,music album,Study with Amber,Music,1060
+kaiwaiata rongonui,rockstar,Study with Amber,Music,1062
+kaiwaiata,singer,Study with Amber,Music,1063
+waiata,song,Study with Amber,Music,1064
+atamira,stage,Study with Amber,Music,1065
+tīkera hihiko,electric kettle,Study with Amber,Household_Items,1222
+mihini pupuhi makawe,hair dryer,Study with Amber,Household_Items,1224
+haeana,iron,Study with Amber,Household_Items,1228
+papa haeana,ironing board,Study with Amber,Household_Items,1229
+mīhini kuti pātītī,lawnmower,Study with Amber,Household_Items,1230
+rama,lightbulb,Study with Amber,Household_Items,1231
+ngīra,needle,Study with Amber,Household_Items,1234
+pūrere tuitui,sewing machine,Study with Amber,Household_Items,1235
+mihini whakatōtika makawe,hair iron,Study with Amber,Household_Items,1236
+tui,thread,Study with Amber,Household_Items,1237
+ngote puehu,vacuum cleaner,Study with Amber,Household_Items,1238
+karaka whakaoho,alarm clock,Study with Amber,Sleep,1239
+ārai,blinds,Study with Amber,Sleep,1240
+moenga arawhata,bunk bed,Study with Amber,Sleep,1241
+moemoeā,dream,Study with Amber,Sleep,1242
+moenga whakawerewere,hammock,Study with Amber,Sleep,1243
+mihini whakamaroke,humidifier,Study with Amber,Sleep,1244
+tūrama,insomnia,Study with Amber,Sleep,1245
+moe poto,nap,Study with Amber,Sleep,1246
+pō,night,Study with Amber,Sleep,1247
+moemoeā whakamataku,nightmare,Study with Amber,Sleep,1248
+tēpu,nightstand,Study with Amber,Sleep,1249
+tangata tipi haere,backpacker,Study with Amber,Traveling,1273
+kuhunga,entry gate,Study with Amber,Traveling,1276
+tangata hīkoi tawhiti,hiker,Study with Amber,Traveling,1277
+tangata kimi motokā,hitchhiking,Study with Amber,Traveling,1278
+tīkiti eke tereina,rail ticket,Study with Amber,Traveling,1282
+wāhanga tereina,railroad car,Study with Amber,Traveling,1283
+mīhini tīkiti,ticket machine,Study with Amber,Traveling,1285
+kaiārahi tūruhi,tour guide,Study with Amber,Traveling,1286
+tūruhi,tourist,Study with Amber,Traveling,1287
+hāereere,travel,Study with Amber,Traveling,1288
+wākena,wagon,Study with Amber,Traveling,1289
+tuari mahi kawhe,barista,Study with Amber,Tea_and_Coffee,1852
+tāima toroī,brew time,Study with Amber,Tea_and_Coffee,1853
+pīni kawhe,coffee bean,Study with Amber,Tea_and_Coffee,1855
+mīhini kanioro kawhe,coffee grinder,Study with Amber,Tea_and_Coffee,1856
+kawhe,espresso,Study with Amber,Tea_and_Coffee,1857
+mīhini kawhe,espresso machine,Study with Amber,Tea_and_Coffee,1858
+kawhe tātari,filter coffee,Study with Amber,Tea_and_Coffee,1859
+mīhini kawhe wīwī,French press,Study with Amber,Tea_and_Coffee,1860
+rātē,latte,Study with Amber,Tea_and_Coffee,1863
+pēke tī,tea bag,Study with Amber,Tea_and_Coffee,1865
+hēki tī,tea egg,Study with Amber,Tea_and_Coffee,1866
+rau tī,tea leaf,Study with Amber,Tea_and_Coffee,1867
+taputapu whakaātaahua,makeup,Study with Amber,Makeup,383
+kamo,eyelash,Study with Amber,Makeup,1343
+pani ngutu,lip balm,Study with Amber,Makeup,1346
+pani ngutu,lipstick,Study with Amber,Makeup,1347
+paraihe kanohi,makeup brush,Study with Amber,Makeup,1348
+peita kamo,mascara,Study with Amber,Makeup,1350
+ātārangi karu,eye shadow,Study with Amber,Makeup,2519
+rārangi karu,eye liner,Study with Amber,Makeup,2520
+pēke whakapai kanohi,makeup bag,Study with Amber,Makeup,2521
+hurukaikamo hōu,fake eyelashes,Study with Amber,Makeup,2522
+whakamākū ngutu,chapstick,Study with Amber,Makeup,2523
+mumura,blush,Study with Amber,Makeup,2524
+ūkui kanohi,makeup remover,Study with Amber,Makeup,2525
+ngutu piatatanga,lip gloss,Study with Amber,Makeup,2527
+pare makawe,hairband,Study with Amber,Beauty_Salon,2533
+mihini kōrino makawe,curling iron,Study with Amber,Beauty_Salon,2717
+mihini whakamahana makawe,blowdry,Study with Amber,Beauty_Salon,2722
+mīhini whakatōtika makawe,straightening iron,Study with Amber,Beauty_Salon,2724
+wairehu makawe,hairspray,Study with Amber,Beauty_Salon,2725
+waitae makawe,hair dye,Study with Amber,Beauty_Salon,2726
+hinu whakarākei makawe,hair gel,Study with Amber,Beauty_Salon,2727
+takahuri makawe,hair roller,Study with Amber,Beauty_Salon,2728
+kutikuti makawe,hair clipper,Study with Amber,Beauty_Salon,2729
+mīhini whakamaroke makawe,stand dryer,Study with Amber,Beauty_Salon,2730
+paraihe whakaātaahua,styling brush,Study with Amber,Beauty_Salon,2731
+rahopūru,avocado,Study with Amber,More_Vegetables,695
+riki,leek,Study with Amber,More_Vegetables,3185
+huawhenua nō āhia,bok choy,Study with Amber,More_Vegetables,3189
+atihoka,artichoke,Study with Amber,More_Vegetables,3190
+huahēki,eggplant,Study with Amber,More_Vegetables,3191
+paraute,sprouts,Study with Amber,More_Vegetables,3194
+kare,kale,Study with Amber,More_Vegetables,3195
+pīti,beetroot,Study with Amber,More_Vegetables,3196
+hoipīni,soybeans,Study with Amber,More_Vegetables,3198
+whiranui,cello,Study with Amber,Musical_Instruments,3203
+ōkena,organ,Study with Amber,Musical_Instruments,3204
+aurau,harp,Study with Amber,Musical_Instruments,3205
+kōauau,flute,Study with Amber,Musical_Instruments,3206
+pūtōiri,oboe,Study with Amber,Musical_Instruments,3207
+pūkumekume,trombone,Study with Amber,Musical_Instruments,3208
+rehu matangi,clarinet,Study with Amber,Musical_Instruments,3209
+pūnguru,tuba,Study with Amber,Musical_Instruments,3210
+hāmonika,harmonica,Study with Amber,Musical_Instruments,3211
+rakuraku panguru,bass,Study with Amber,Musical_Instruments,3212
+rākau taramu,drum sticks,Study with Amber,Musical_Instruments,3213
+rakuraku,acoustic guitar,Study with Amber,Musical_Instruments,3214
+rakuraku hiko,electric guitar,Study with Amber,Musical_Instruments,3215
+rehu kōkō,saxophone,Study with Amber,Musical_Instruments,3216
+mīhini puoro,synthesizer,Study with Amber,Musical_Instruments,3217
+taramu,drums,Study with Amber,Musical_Instruments,3218
+ka katokato ahau,I pluck,Study with Amber,Musical_Instruments,3219
+ka tito ahau,I compose,Study with Amber,Musical_Instruments,3220
+ka heru ahau i aku makawe,I comb my hair,Study with Amber,Daily_Routines,3528
+ka whakarite ahau i te whakaaraara,I set an alarm,Study with Amber,Daily_Routines,3529
+ka oho ahau,I wake up,Study with Amber,Daily_Routines,3530
+ka hoki ahau ki taku moenga,I go to bed,Study with Amber,Daily_Routines,3531
+ka horoi ahau i taku kanohi,I wash my face,Study with Amber,Daily_Routines,3533
+ka haere ahau ki te mahi,I go to work,Study with Amber,Daily_Routines,3535
+ka kai tina ahau,I have lunch,Study with Amber,Daily_Routines,3536
+ka hoki ahau ki te kāinga,I return home,Study with Amber,Daily_Routines,3537
+ka mutu ahau,I finish,Study with Amber,Daily_Routines,3538
+maitai,kettlebell,Study with Amber,Gym,3581
+maitai ringa,dumbbell,Study with Amber,Gym,3582
+maitai roa,barbell,Study with Amber,Gym,3584
+pōro whakapakari tinana,exercise ball,Study with Amber,Gym,3587
+pare whakangoi tinana,resistance band,Study with Amber,Gym,3588
+whāriki toro tinana,yoga mat,Study with Amber,Gym,3589
+mīhini hoe waka,rowing machine,Study with Amber,Gym,3590
+pōro taumaha,medicine ball,Study with Amber,Gym,3591
+pēke mekemeke,punching bag,Study with Amber,Gym,3592
+pou hiki tinana,pullup bar,Study with Amber,Gym,3593
+hiki tinana,pushup,Study with Amber,Gym,3594
+kai kinikini,snack,Study with Amber,Snacks,2882
+parāoa porohita,bagel,Study with Amber,Snacks,3689
+pēke kotakota rīwai,bag of chips,Study with Amber,Snacks,3690
+kānga pahū,popcorn,Study with Amber,Snacks,3691
+pīkara,pickle,Study with Amber,Snacks,3692
+kotakota rīwai Mēhiko,nachos,Study with Amber,Snacks,3693
+inu miraka,milkshake,Study with Amber,Snacks,3694
+mīti kau maroke,beef jerky,Study with Amber,Snacks,3695
+huarākau maroke,dried fruit,Study with Amber,Snacks,3696
+tiere,jelly,Study with Amber,Snacks,3698
+kotakota rīwai me te kīnaki,chips and dip,Study with Amber,Snacks,3699
+pia ngaungau,chewing gum,Study with Amber,Snacks,3703
+purini,pudding,Study with Amber,Snacks,3704
+matire rēhi,relay baton,Study with Amber,Athletics,3815
+peke teitei,high jump,Study with Amber,Athletics,3816
+peke roa,long jump,Study with Amber,Athletics,3817
+pekepeke,triple jump,Study with Amber,Athletics,3818
+peke mā runga pou,pole vaulting,Study with Amber,Athletics,3819
+whiu maitai,weight throwing,Study with Amber,Athletics,3820
+whiu hama,hammer throw,Study with Amber,Athletics,3821
+whiu rākau,javelin,Study with Amber,Athletics,3822
+whiu poroāwhio,discus,Study with Amber,Athletics,3823
+amarera,umbrella,Study with Amber,Essential_Products,288
+mahere,map,Study with Amber,Essential_Products,508
+pūhihiko,charger,Study with Amber,Essential_Products,629
+mōhiti,sunglasses,Study with Amber,Essential_Products,724
+tīkiti eke tereina,rail ticket,Study with Amber,Essential_Products,1282
+pani ārai hihirā,sunscreen,Study with Amber,Essential_Products,1627
+urutau,adaptor,Study with Amber,Essential_Products,3009
+taunga wakarererangi,airport,Study with Amber,Staying_Safe,81
+hōtēra,hotel,Study with Amber,Staying_Safe,141
+pēke,bank,Study with Amber,Staying_Safe,241
+taunga tereina,train station,Study with Amber,Staying_Safe,253
+poutāpeta,post office,Study with Amber,Staying_Safe,309
+tākuta,doctor,Study with Amber,Staying_Safe,525
+taunga pahi,bus station,Study with Amber,Staying_Safe,2907
+konei,here,Study with Amber,Meet_the_Locals,650
+kora,there,Study with Amber,Meet_the_Locals,660
+āe,yes,Travel Talk,Essentials_01_-_Daytripper,1
+kāo,no,Travel Talk,Essentials_01_-_Daytripper,2
+kia ora,hi,Travel Talk,Essentials_01_-_Daytripper,4
+tēnā koe,thank you,Travel Talk,Essentials_01_-_Daytripper,5
+koa,please,Travel Talk,Essentials_01_-_Daytripper,7
+wharepaku,toilet,Travel Talk,Essentials_01_-_Daytripper,390
+whare hoko kai,restaurant,Travel Talk,Essentials_01_-_Daytripper,412
+haere rā,bye,Travel Talk,Essentials_02_-_Sightseer,6
+mihini tuku moni,ATM machine,Travel Talk,Essentials_02_-_Sightseer,201
+kāri moni,credit card,Travel Talk,Essentials_02_-_Sightseer,205
+hohipera,hospital,Travel Talk,Essentials_02_-_Sightseer,310
+tahi,one,Travel Talk,Essentials_03_-_Nomad,42
+rua,two,Travel Talk,Essentials_03_-_Nomad,43
+toru,three,Travel Talk,Essentials_03_-_Nomad,44
+whā,four,Travel Talk,Essentials_03_-_Nomad,45
+rima,five,Travel Talk,Essentials_03_-_Nomad,46
+ono,six,Travel Talk,Essentials_03_-_Nomad,47
+whitu,seven,Travel Talk,Essentials_03_-_Nomad,48
+waru,eight,Travel Talk,Essentials_03_-_Nomad,49
+iwa,nine,Travel Talk,Essentials_03_-_Nomad,50
+tekau,ten,Travel Talk,Essentials_03_-_Nomad,51
+rua tekau,twenty,Travel Talk,Essentials_04_-_Globetrotter,54
+rau,hundred,Travel Talk,Essentials_04_-_Globetrotter,55
+mauī,left,Travel Talk,Essentials_04_-_Globetrotter,654
+matau,right,Travel Talk,Essentials_04_-_Globetrotter,656
+tōtika,straight ahead,Travel Talk,Essentials_04_-_Globetrotter,658
+whā tekau,forty,Travel Talk,Essentials_04_-_Globetrotter,665
+toru tekau,thirty,Travel Talk,Essentials_04_-_Globetrotter,674
+mano,thousand,Travel Talk,Essentials_04_-_Globetrotter,675
+kaua e kuhu ki roto,do not enter,Travel Talk,Essentials_04_-_Globetrotter,3262
+Nō ... ahau,I'm from,Travel Talk,Essentials_04_-_Globetrotter,3057
+amarera,umbrella,Travel Talk,Essential_Products,288
+mahere,map,Travel Talk,Essential_Products,508
+pūhihiko,charger,Travel Talk,Essential_Products,629
+mōhiti,sunglasses,Travel Talk,Essential_Products,724
+tīkiti eke tereina,rail ticket,Travel Talk,Essential_Products,1282
+pani ārai hihirā,sunscreen,Travel Talk,Essential_Products,1627
+urutau,adaptor,Travel Talk,Essential_Products,3009
+taunga wakarererangi,airport,Travel Talk,Staying_Safe,81
+hōtēra,hotel,Travel Talk,Staying_Safe,141
+pēke,bank,Travel Talk,Staying_Safe,241
+taunga tereina,train station,Travel Talk,Staying_Safe,253
+poutāpeta,post office,Travel Talk,Staying_Safe,309
+tākuta,doctor,Travel Talk,Staying_Safe,525
+taunga pahi,bus station,Travel Talk,Staying_Safe,2907
+konei,here,Travel Talk,Meet_the_Locals,650
+kora,there,Travel Talk,Meet_the_Locals,660
+kai kinikini,snack,Travel Talk,Road_Tripping,2882
+wāhi kohi pēke,baggage claim,Travel Talk,At_the_Airport,95
+āe,yes,Foundation,Essentials,1
+kāo,no,Foundation,Essentials,2
+kei te pai,ok,Foundation,Essentials,3
+kia ora,hi,Foundation,Essentials,4
+tēnā koe,thank you,Foundation,Essentials,5
+haere rā,bye,Foundation,Essentials,6
+koa,please,Foundation,Essentials,7
+ahau,I,Foundation,Essentials,9
+me,and,Foundation,Essentials,16
+rānei,or,Foundation,Essentials,17
+tēnei,this,Foundation,Essentials,18
+kore,zero,Foundation,Numbers,41
+tahi,one,Foundation,Numbers,42
+rua,two,Foundation,Numbers,43
+toru,three,Foundation,Numbers,44
+whā,four,Foundation,Numbers,45
+rima,five,Foundation,Numbers,46
+ono,six,Foundation,Numbers,47
+whitu,seven,Foundation,Numbers,48
+waru,eight,Foundation,Numbers,49
+iwa,nine,Foundation,Numbers,50
+tekau,ten,Foundation,Numbers,51
+tekau mā tahi,eleven,Foundation,Numbers,52
+tekau mā rua,twelve,Foundation,Numbers,53
+rua tekau,twenty,Foundation,Numbers,54
+rau,hundred,Foundation,Numbers,55
+ki ōku whakaaro,I think,Foundation,Numbers,56
+ka kaute ahau,I count,Foundation,Numbers,58
+kohu,fog,Foundation,Weather,281
+ua,rain,Foundation,Weather,282
+hukarere,snow,Foundation,Weather,283
+rā,sun,Foundation,Weather,284
+hau,wind,Foundation,Weather,287
+amarera,umbrella,Foundation,Weather,288
+koti,raincoat,Foundation,Weather,289
+hukapapa,ice,Foundation,Weather,294
+āwhā,storm,Foundation,Weather,295
+pango,black,Foundation,Colors,559
+kahurangi,blue,Foundation,Colors,560
+parauri,brown,Foundation,Colors,561
+koura,gold,Foundation,Colors,563
+kākāriki,green,Foundation,Colors,564
+kiwikiwi,gray,Foundation,Colors,565
+karaka,orange,Foundation,Colors,568
+māwhero,pink,Foundation,Colors,569
+waiporoporo,purple,Foundation,Colors,570
+āniwaniwa,rainbow,Foundation,Colors,571
+whero,red,Foundation,Colors,572
+hiriwa,silver,Foundation,Colors,573
+mā,white,Foundation,Colors,574
+kōwhai,yellow,Foundation,Colors,575
+ia,he,Foundation,Pronouns,611
+tōna,her,Foundation,Pronouns,612
+tōna,his,Foundation,Pronouns,613
+ia,it,Foundation,Pronouns,617
+tōna,its,Foundation,Pronouns,618
+nōku,my,Foundation,Pronouns,619
+ko ia,she,Foundation,Pronouns,621
+o rāua,their,Foundation,Pronouns,622
+rāua,they,Foundation,Pronouns,623
+mātou,we,Foundation,Pronouns,624
+koe,you,Foundation,Pronouns,625
+tō,your,Foundation,Pronouns,626
+tekau mā tahi,eleven,Foundation,More_Numbers,52
+tekau mā rua,twelve,Foundation,More_Numbers,53
+rua tekau,twenty,Foundation,More_Numbers,54
+rau,hundred,Foundation,More_Numbers,55
+waru tekau,eighty,Foundation,More_Numbers,661
+rima tekau,fifty,Foundation,More_Numbers,663
+whā tekau,forty,Foundation,More_Numbers,665
+miriona,million,Foundation,More_Numbers,667
+iwa tekau,ninety,Foundation,More_Numbers,668
+whitu tekau,seventy,Foundation,More_Numbers,670
+ono tekau,sixty,Foundation,More_Numbers,672
+toru tekau,thirty,Foundation,More_Numbers,674
+mano,thousand,Foundation,More_Numbers,675
+Ahitereiria,Australia,Foundation,Countries,746
+Parīhi,Brazil,Foundation,Countries,747
+Kānata,Canada,Foundation,Countries,748
+Haina,China,Foundation,Countries,749
+Wīwī,France,Foundation,Countries,751
+Tiamana,Germany,Foundation,Countries,752
+Piritana Nui,Great Britain,Foundation,Countries,753
+Hapanī,Japan,Foundation,Countries,755
+Rūhia,Russia,Foundation,Countries,758
+Peina,Spain,Foundation,Countries,759
+Amerika,the United States of America,Foundation,Countries,762
+Amerikana,American,Foundation,Nationalities,916
+Tangata nō Ahitereiria,Australian,Foundation,Nationalities,917
+Tangata nō Parīhi,Brazilian,Foundation,Nationalities,918
+Tangata nō Piritene,British,Foundation,Nationalities,919
+Tangata nō Kānata,Canadian,Foundation,Nationalities,920
+Tangata nō Haina,Chinese,Foundation,Nationalities,921
+Tangata nō Wīwī,French,Foundation,Nationalities,924
+Tangata nō Tiamana,German,Foundation,Nationalities,925
+Tangata nō Hapanī,Japanese,Foundation,Nationalities,927
+Rūhiana,Russian,Foundation,Nationalities,930
+Tangata nō Pāniora,Spanish,Foundation,Nationalities,931
+areare,arch,Foundation,Shapes,1154
+porohita,circle,Foundation,Shapes,1155
+kōrere,cone,Foundation,Shapes,1156
+mataono,cube,Foundation,Shapes,1157
+puoto,cylinder,Foundation,Shapes,1158
+tapawaru,octagon,Foundation,Shapes,1160
+porotītaha,oval,Foundation,Shapes,1161
+taparima,pentagon,Foundation,Shapes,1162
+koeko,pyramid,Foundation,Shapes,1163
+tapawhā hāngai,rectangle,Foundation,Shapes,1164
+tapa ono,hexagon,Foundation,Shapes,1165
+rīngi,ring,Foundation,Shapes,1166
+kōpio,sphere,Foundation,Shapes,1167
+tapawhā,square,Foundation,Shapes,1168
+tapatoru,triangle,Foundation,Shapes,1169
+matakahi,wedge,Foundation,Shapes,1170
+Tangata nō Itāria,Italian,Foundation,More_Nationalities,926
+Tangata nō Mehiko,Mexican,Foundation,More_Nationalities,928
+Tāngata nō Nōwei,Norwegian,Foundation,More_Nationalities,929
+Ūkereiniana,Ukranian,Foundation,More_Nationalities,3048
+Kōriana,Korean,Foundation,More_Nationalities,3049
+Whiripīno,Filipino,Foundation,More_Nationalities,3051
+Tāi,Thai,Foundation,More_Nationalities,3052
+Mareihiana,Malaysian,Foundation,More_Nationalities,3053
+Inonīhiana,Indonesian,Foundation,More_Nationalities,3054
+Whinarana,Finland,Foundation,More_Countries,750
+Itāria,Italy,Foundation,More_Countries,754
+Mehiko,Mexico,Foundation,More_Countries,756
+Nōwei,Norway,Foundation,More_Countries,757
+Ūkereina,Ukraine,Foundation,More_Countries,3066
+Kōria ki te Tonga,South Korea,Foundation,More_Countries,3067
+Hiripine,Philippines,Foundation,More_Countries,3069
+Tairana,Thailand,Foundation,More_Countries,3070
+Mereia,Malaysia,Foundation,More_Countries,3071
+Inonīhia,Indonesia,Foundation,More_Countries,3072
+Hāngī,underground oven,Foundation,Local_Māori_Words,5124
+Kaimoana,seafood,Foundation,Local_Māori_Words,5125
+Tapu,sacred,Foundation,Local_Māori_Words,5126
+Mauri,life force,Foundation,Local_Māori_Words,5127
+Manaakitanga,hospitality,Foundation,Local_Māori_Words,5128
+Kotahitanga,unity,Foundation,Local_Māori_Words,5129
+Wairua,spirit,Foundation,Local_Māori_Words,5130
+Tihei Mauri ora,sneeze of life,Foundation,Local_Māori_Words,5131
+whānau,family,Foundation,Local_Māori_Words,5132
+Kaumātua,respected elders,Foundation,Local_Māori_Words,5133
+Iwi,Māori tribe,Foundation,Local_Māori_Words,5134
+Haka,Māori war dance,Foundation,Local_Māori_Words,5135
+Mana,pride and integrity,Foundation,Local_Māori_Words,5136
+Marae,Māori meeting place,Foundation,Local_Māori_Words,5137
+Tā moko,Māori traditional tattoo,Foundation,Local_Māori_Words,5138
+Hongi,Māori greeting,Foundation,Local_Māori_Words,5139
+Poi,Māori dance accessory,Foundation,Local_Māori_Words,5140
+tekau mā tahi,eleven,Foundation,Counting,52
+tekau mā rua,twelve,Foundation,Counting,53
+waru tekau,eighty,Foundation,Counting,661
+rima tekau,fifty,Foundation,Counting,663
+iwa tekau,ninety,Foundation,Counting,668
+whitu tekau,seventy,Foundation,Counting,670
+ono tekau,sixty,Foundation,Counting,672
+tohu aronga,direction post,Nature & Animals,Outdoor,1684
+kai whakapiki oranga,energy bar,Nature & Animals,Outdoor,1685
+tūru pōkai,folding chair,Nature & Animals,Outdoor,1686
+mahere aronga,GPS,Nature & Animals,Outdoor,1687
+rama ūpoko,headlamp,Nature & Animals,Outdoor,1688
+rongoā ārai ngārara,insect repellent,Nature & Animals,Outdoor,1689
+hoe waka,kayaking,Nature & Animals,Outdoor,1690
+pūahi,lighter,Nature & Animals,Outdoor,1691
+hū hukapapa,snowshoes,Nature & Animals,Outdoor,1695
+hū piki maunga,trekking boot,Nature & Animals,Outdoor,1696
+pou piki maunga,trekking poles,Nature & Animals,Outdoor,1697
+ka eke ahau,I climb,Nature & Animals,Outdoor,558
+manu,bird,Nature & Animals,Animals,780
+ngeru,cat,Nature & Animals,Animals,782
+kuri,dog,Nature & Animals,Animals,785
+rakiraki,duck,Nature & Animals,Animals,787
+kiore,mouse,Nature & Animals,Animals,791
+kererū,pigeon,Nature & Animals,Animals,793
+rāpeti,rabbit,Nature & Animals,Animals,794
+arewhana,elephant,Nature & Animals,Animals,1195
+makimaki,monkey,Nature & Animals,Animals,1197
+ka whāngai ahau,I feed,Nature & Animals,Animals,790
+pamapū,bamboo,Nature & Animals,Plants,933
+peka,branch,Nature & Animals,Plants,934
+rākau koikoi,cactus,Nature & Animals,Plants,935
+pātītī,grass,Nature & Animals,Plants,937
+rau,leaf,Nature & Animals,Plants,939
+poro rākau,log,Nature & Animals,Plants,940
+rākau pāina,palm tree,Nature & Animals,Plants,941
+rākau pāine,pine tree,Nature & Animals,Plants,942
+rākau,stick,Nature & Animals,Plants,947
+rākau,tree,Nature & Animals,Plants,948
+wāhie,wood,Nature & Animals,Plants,949
+ponohai,bonsai,Nature & Animals,Plants,1732
+pekapeka,bat,Nature & Animals,Wild_Animals,1189
+pea,bear,Nature & Animals,Wild_Animals,1190
+kāmera,camel,Nature & Animals,Wild_Animals,1193
+poraka,frog,Nature & Animals,Wild_Animals,1196
+kiore,rat,Nature & Animals,Wild_Animals,1198
+nākahi,snake,Nature & Animals,Wild_Animals,1201
+honu,turtle,Nature & Animals,Wild_Animals,1203
+wuruhi,wolf,Nature & Animals,Wild_Animals,1204
+pawharō,buffalo,Nature & Animals,Wild_Animals,1545
+hāmēriona,chameleon,Nature & Animals,Wild_Animals,1546
+kōpara,cobra,Nature & Animals,Wild_Animals,1547
+karakotaera,crocodile,Nature & Animals,More_Wild_Animals,1548
+mokonui,dinosaur,Nature & Animals,More_Wild_Animals,1549
+mokomoko,gecko,Nature & Animals,More_Wild_Animals,1550
+kaki roa,giraffe,Nature & Animals,More_Wild_Animals,1551
+maki nui,gorilla,Nature & Animals,More_Wild_Animals,1552
+iuana,iguana,Nature & Animals,More_Wild_Animals,1555
+kāngarū,kangaroo,Nature & Animals,More_Wild_Animals,1556
+mokomoko,lizard,Nature & Animals,More_Wild_Animals,1557
+panata,panther,Nature & Animals,More_Wild_Animals,1558
+raino,rhino,Nature & Animals,More_Wild_Animals,1559
+taika,tiger,Nature & Animals,More_Wild_Animals,1560
+hepara,zebra,Nature & Animals,More_Wild_Animals,1561
+poihau,balloons,Nature & Animals,Air,1596
+pēke hau,airbag,Nature & Animals,Air,1597
+whakaetotanga,evaporation,Nature & Animals,Air,1598
+kōrere auahi,exhaust fume,Nature & Animals,Air,1599
+huna kanohi korohū,gas mask,Nature & Animals,Air,1601
+poihau wera,hot air balloon,Nature & Animals,Air,1602
+aikiha pepa,tissue,Nature & Animals,Air,1606
+heketau,parachute,Nature & Animals,Air,1607
+kaiheketau,paraglider,Nature & Animals,Air,1608
+mapu,pump,Nature & Animals,Air,1609
+puare,puncture,Nature & Animals,Air,1610
+kohu poke,smog,Nature & Animals,Air,1611
+manurere,airship,Nature & Animals,Air,1612
+pōro tātahi,beach ball,Nature & Animals,Beach,1613
+taora tātahi,beach towel,Nature & Animals,Beach,1614
+pouaka tio,cooler,Nature & Animals,Beach,1616
+kahu kautere,life jacket,Nature & Animals,Beach,1619
+kaitiaki,lifeguard,Nature & Animals,Beach,1620
+amarera,parasol,Nature & Animals,Beach,1621
+pouaka oneone,sandbox,Nature & Animals,Beach,1622
+retireti,slide,Nature & Animals,Beach,1623
+ngongohā,snorkel,Nature & Animals,Beach,1624
+tūru tātahi,sun chair,Nature & Animals,Beach,1625
+pāinaina,sunbathing,Nature & Animals,Beach,1626
+pani ārai hihirā,sunscreen,Nature & Animals,Beach,1627
+papa reti ngaru,surfboard,Nature & Animals,Beach,1628
+tārere,swing,Nature & Animals,Beach,1629
+ka mania,it slides,Nature & Animals,Beach,1618
+whare manu,birdhouse,Nature & Animals,Birds,1647
+manu waiata,hummingbird,Nature & Animals,Birds,1648
+kōkako,crow,Nature & Animals,Birds,1649
+kārearea,falcon,Nature & Animals,Birds,1650
+ōtiri,ostrich,Nature & Animals,Birds,1653
+ruru,owl,Nature & Animals,Birds,1654
+pāroti,parrot,Nature & Animals,Birds,1655
+perikana,pelican,Nature & Animals,Birds,1656
+hoiho,penguin,Nature & Animals,Birds,1657
+wharamingo,flamingo,Nature & Animals,Birds,1660
+howaro,swallow,Nature & Animals,Birds,1661
+wāna,swan,Nature & Animals,Birds,1662
+ēkara,eagle,Nature & Animals,Birds,1663
+pōpokoriki,ant,Nature & Animals,Insects,1188
+pī,bee,Nature & Animals,Insects,1191
+pūrerehua,butterfly,Nature & Animals,Insects,1192
+kēkerengū,cockroach,Nature & Animals,Insects,1194
+pūngāwerewere,spider,Nature & Animals,Insects,1202
+tangata mau pī,beekeeper,Nature & Animals,Insects,1749
+pāpapa,beetle,Nature & Animals,Insects,1750
+anuhe,caterpillar,Nature & Animals,Insects,1751
+kākapowai,dragonfly,Nature & Animals,Insects,1752
+ngārara ahi,firebug,Nature & Animals,Insects,1753
+mōrorohū,flea,Nature & Animals,Insects,1754
+kauranga ika,aquarium,Nature & Animals,Pets,1800
+korapa manu,birdcage,Nature & Animals,Pets,1801
+moenga ngeru,cat bed,Nature & Animals,Pets,1803
+pēke kawe kararehe,pet carrier,Nature & Animals,Pets,1804
+kai mā te ngeru,cat food,Nature & Animals,Pets,1805
+parahanga ngeru,cat litter,Nature & Animals,Pets,1806
+uruwhenua kararehe,pet passport,Nature & Animals,Pets,1807
+kara kurī,dog collar,Nature & Animals,Pets,1808
+kai mā te kurī,dog food,Nature & Animals,Pets,1809
+whare kurī,dog house,Nature & Animals,Pets,1810
+pēke tikotiko kurī,dog poop bag,Nature & Animals,Pets,1811
+ika koura,goldfish,Nature & Animals,Pets,1812
+hāmeta,hamster,Nature & Animals,Pets,1813
+pinetohu tautuhi,identification tag,Nature & Animals,Pets,1815
+taura here,leash,Nature & Animals,Pets,1816
+ka takamiri ahau,I caress,Nature & Animals,Pets,1802
+ka hīkoi ahau i te kuri,I walk the dog,Nature & Animals,Pets,1814
+mako,shark,Nature & Animals,Sea_Life,1199
+punga,anchor,Nature & Animals,Sea_Life,1834
+pāpaka,crab,Nature & Animals,Sea_Life,1835
+aihe,dolphin,Nature & Animals,Sea_Life,1836
+kakaru moana,jellyfish,Nature & Animals,Sea_Life,1837
+koura,lobster,Nature & Animals,Sea_Life,1838
+wheke,octopus,Nature & Animals,Sea_Life,1840
+hoe,paddles,Nature & Animals,Sea_Life,1841
+whai,ray,Nature & Animals,Sea_Life,1842
+kiore moana,seahorse,Nature & Animals,Sea_Life,1843
+rimu,seaweed,Nature & Animals,Sea_Life,1844
+toka pokapoka,coral,Nature & Animals,More_Sea_Animals,3635
+honu,sea turtle,Nature & Animals,More_Sea_Animals,3636
+kina,sea urchin,Nature & Animals,More_Sea_Animals,3637
+kekeno,seal,Nature & Animals,More_Sea_Animals,3638
+kekeno rei,walrus,Nature & Animals,More_Sea_Animals,3639
+ota moana,sea otter,Nature & Animals,More_Sea_Animals,3640
+tuna,eel,Nature & Animals,More_Sea_Animals,3641
+kōuraura,shrimp,Nature & Animals,More_Sea_Animals,3642
+whai,stingray,Nature & Animals,More_Sea_Animals,3643
+kūtai,mussel,Nature & Animals,More_Sea_Animals,3644
+kereme,clam,Nature & Animals,More_Sea_Animals,3645
+ika momona,pufferfish,Nature & Animals,More_Sea_Animals,3646
+maki,orca,Nature & Animals,More_Sea_Animals,3647
+mako ūpoko hama,hammerhead shark,Nature & Animals,More_Sea_Animals,3649
+manatī,manatee,Nature & Animals,More_Sea_Animals,3650
+ka hī ika ahau,I fish,Nature & Animals,More_Sea_Animals,3651
+ka rewa ahau,I rise,Nature & Animals,More_Sea_Animals,3652
+taunga wakarererangi,airport,Transportation & Vehicles,Airport,81
+wakarererangi,airplane,Transportation & Vehicles,Airport,82
+urunga,check-in,Transportation & Vehicles,Airport,83
+tīkiti wakarererangi,flight ticket,Transportation & Vehicles,Airport,84
+mihini pānui pāuna,scale,Transportation & Vehicles,Airport,85
+ūnga,destination,Transportation & Vehicles,Airport,86
+tae,arrival,Transportation & Vehicles,Airport,88
+wehe,departure,Transportation & Vehicles,Airport,89
+kaimahi wakarererangi,stewardess,Transportation & Vehicles,Airport,90
+kaieke,passenger,Transportation & Vehicles,Airport,91
+hūtu kēhi,suitcase,Transportation & Vehicles,Airport,92
+wāhi kohi pēke,baggage claim,Transportation & Vehicles,Airport,95
+tīkiti,ticket,Transportation & Vehicles,Airport,605
+tereina,train,Transportation & Vehicles,Transport,181
+taraka,truck,Transportation & Vehicles,Transport,183
+wēne,van,Transportation & Vehicles,Transport,184
+taramu,tram,Transportation & Vehicles,Transport,185
+rarowhenua,underground,Transportation & Vehicles,Transport,186
+kūta,moped,Transportation & Vehicles,Transport,187
+pōti,ship,Transportation & Vehicles,Transport,188
+motopaika,motorcycle,Transportation & Vehicles,Transport,189
+toparere,helicopter,Transportation & Vehicles,Transport,190
+pahi,bus,Transportation & Vehicles,Transport,191
+motokā,car,Transportation & Vehicles,Transport,192
+paika,bike,Transportation & Vehicles,Transport,193
+waka,boat,Transportation & Vehicles,Transport,194
+rārangi waka,traffic jam,Transportation & Vehicles,Transport,195
+ka eke paika ahau,I ride a bicycle,Transportation & Vehicles,Transport,196
+kūta,moped,Transportation & Vehicles,Mobility,187
+waka pēpi,baby carriage,Transportation & Vehicles,Mobility,593
+waka,ferry,Transportation & Vehicles,Mobility,594
+motokā taura,cable car,Transportation & Vehicles,Mobility,595
+ara kawe,escalator,Transportation & Vehicles,Mobility,597
+ara tereina,railroad,Transportation & Vehicles,Mobility,600
+kūta,scooter,Transportation & Vehicles,Mobility,601
+tereina rarowhenua,subway,Transportation & Vehicles,Mobility,603
+takihī,taxi,Transportation & Vehicles,Mobility,604
+tūru wīra,wheelchair,Transportation & Vehicles,Mobility,609
+tereina kakama,bullet train,Transportation & Vehicles,Mobility,1274
+haerenga mā runga poti,cruise,Transportation & Vehicles,Mobility,1275
+tangata tipi haere,backpacker,Transportation & Vehicles,Traveling,1273
+kuhunga,entry gate,Transportation & Vehicles,Traveling,1276
+tangata hīkoi tawhiti,hiker,Transportation & Vehicles,Traveling,1277
+tangata kimi motokā,hitchhiking,Transportation & Vehicles,Traveling,1278
+tīkiti eke tereina,rail ticket,Transportation & Vehicles,Traveling,1282
+wāhanga tereina,railroad car,Transportation & Vehicles,Traveling,1283
+mīhini tīkiti,ticket machine,Transportation & Vehicles,Traveling,1285
+kaiārahi tūruhi,tour guide,Transportation & Vehicles,Traveling,1286
+tūruhi,tourist,Transportation & Vehicles,Traveling,1287
+hāereere,travel,Transportation & Vehicles,Traveling,1288
+wākena,wagon,Transportation & Vehicles,Traveling,1289
+rārangi waka,traffic jam,Transportation & Vehicles,Car,195
+whare motokā,garage,Transportation & Vehicles,Car,596
+wāhi pāka motokā,parking lot,Transportation & Vehicles,Car,598
+tūru kaieke,passenger seat,Transportation & Vehicles,Car,599
+tātua,seat belt,Transportation & Vehicles,Car,602
+pūtu,trunk,Transportation & Vehicles,Car,607
+wīra,wheel,Transportation & Vehicles,Car,608
+tiriti,street,Transportation & Vehicles,Car,659
+pāteri motokā,car battery,Transportation & Vehicles,Car,1324
+motokā utu reti,car rental,Transportation & Vehicles,Car,1325
+horoi motokā,car wash,Transportation & Vehicles,Car,1326
+tūāpapa,platform,Transportation & Vehicles,Railway,2610
+huarahi tereina,railroad tracks,Transportation & Vehicles,Railway,2611
+kaiārahi tereina,train conductor,Transportation & Vehicles,Railway,2612
+mīhini tereina mamaoa,steam engine,Transportation & Vehicles,Railway,2613
+tereina kawe utanga,freight train,Transportation & Vehicles,Railway,2614
+wharekai tereina,dining car,Transportation & Vehicles,Railway,2615
+komititanga,junction,Transportation & Vehicles,Railway,2616
+aho kukume,pull cord,Transportation & Vehicles,Railway,2617
+tereina ā roto,interrail,Transportation & Vehicles,Railway,2618
+wāhi mau pēke,luggage rack,Transportation & Vehicles,Railway,2619
+arahanga,viaduct,Transportation & Vehicles,Railway,2621
+peke waka,stowaway,Transportation & Vehicles,Railway,2623
+pupuritanga,handhold,Transportation & Vehicles,Railway,2624
+taraka whakapoko ahi,firetruck,Transportation & Vehicles,Vehicles,3275
+taraka kawe rawa,pickup truck,Transportation & Vehicles,Vehicles,3276
+motokā prihimana,police car,Transportation & Vehicles,Vehicles,3277
+motokā hiko,electric car,Transportation & Vehicles,Vehicles,3278
+motokā nui,SUV,Transportation & Vehicles,Vehicles,3279
+motokā kore tuanui,convertible,Transportation & Vehicles,Vehicles,3280
+tūru kawe tangata,rickshaw,Transportation & Vehicles,Vehicles,3281
+wākena paku,minivan,Transportation & Vehicles,Vehicles,3282
+wakapana,bulldozer,Transportation & Vehicles,Vehicles,3283
+pūtu,trunk,Transportation & Vehicles,Car_Parts,607
+pētara motokā,gas pedal,Transportation & Vehicles,Car_Parts,1330
+kura haurehu,gas tank,Transportation & Vehicles,Car_Parts,1331
+ūkui matapihi,windshield wipers,Transportation & Vehicles,Car_Parts,1340
+tūru motokā,car seat,Transportation & Vehicles,Car_Parts,3224
+pūkaha,engine,Transportation & Vehicles,Formula_1,1328
+wharepaku,bathroom,Home & Garden,House,481
+rūma moe,bedroom,Home & Garden,House,483
+rūma kai,dining room,Home & Garden,House,485
+tatau,door,Home & Garden,House,486
+whare,house,Home & Garden,House,487
+kīhini,kitchen,Home & Garden,House,488
+māra kai,garden,Home & Garden,House,490
+hoa pātata,neighbor,Home & Garden,House,491
+tari,office,Home & Garden,House,492
+rūma pupuri rawa,attic,Home & Garden,House,2627
+rūma noho,living room,Home & Garden,House,2637
+umu,oven,Home & Garden,Kitchen,493
+whiriti,refrigerator,Home & Garden,Kitchen,494
+papa tapahi,cutting board,Home & Garden,Kitchen,1002
+kōrere wai,faucet,Home & Garden,Kitchen,1003
+pēne parai,frying pan,Home & Garden,Kitchen,1004
+karaehe,glass,Home & Garden,Kitchen,1005
+tunutunu,grill,Home & Garden,Kitchen,1006
+tiaka,jug,Home & Garden,Kitchen,1009
+tīkera,kettle,Home & Garden,Kitchen,1010
+taupoki,lid,Home & Garden,Kitchen,1011
+mihini horoi rīhi,dishwasher,Home & Garden,Kitchen,1124
+umu tira,microwave,Home & Garden,Kitchen,1232
+toki,axe,Home & Garden,Tools,1018
+hōrete,drill,Home & Garden,Tools,1019
+kāpia,glue,Home & Garden,Tools,1020
+hama,hammer,Home & Garden,Tools,1021
+arawhata,ladder,Home & Garden,Tools,1022
+nēra,nail,Home & Garden,Tools,1023
+nati,nut,Home & Garden,Tools,1024
+kūmau,pliers,Home & Garden,Tools,1025
+hirou,rake,Home & Garden,Tools,1026
+heu,razor,Home & Garden,Tools,1027
+kani,saw,Home & Garden,Tools,1028
+whare noho,apartment,Home & Garden,Shelters,1069
+whare tātahi,beach house,Home & Garden,Shelters,1070
+whare noho,cottage,Home & Garden,Shelters,1071
+whare pāmu,farmhouse,Home & Garden,Shelters,1072
+pourewa,fortress,Home & Garden,Shelters,1073
+wharewaka,houseboat,Home & Garden,Shelters,1074
+whareiti,hut,Home & Garden,Shelters,1075
+whare ngāhere,log cabin,Home & Garden,Shelters,1078
+whare rahi,mansion,Home & Garden,Shelters,1079
+tēneti,tent,Home & Garden,Shelters,1081
+wākena tō,trailer,Home & Garden,Shelters,1082
+whare rākau,treehouse,Home & Garden,Shelters,1083
+whare noho,villa,Home & Garden,Shelters,1084
+pēke,backpack,Home & Garden,Containers,1103
+kāho,barrel,Home & Garden,Containers,1104
+pouaka,box,Home & Garden,Containers,1105
+pēke mahi,briefcase,Home & Garden,Containers,1106
+pākete,bucket,Home & Garden,Containers,1107
+pouaka,chest,Home & Garden,Containers,1108
+pātara,flask,Home & Garden,Containers,1110
+kōpaki,folder,Home & Garden,Containers,1111
+pēke,handbag,Home & Garden,Containers,1112
+wāhi mau taputapu,locker,Home & Garden,Containers,1114
+pāhi,purse,Home & Garden,Containers,1116
+hūtu kēhi,suitcase,Home & Garden,Containers,1117
+pēke hope,fanny pack,Home & Garden,Containers,1119
+tūru,chair,Home & Garden,Furniture,484
+tēpu,table,Home & Garden,Furniture,495
+tūru,armchair,Home & Garden,Furniture,1120
+pae pukapuka,bookshelf,Home & Garden,Furniture,1121
+kāpata taonga,cabinet,Home & Garden,Furniture,1122
+whāriki,carpet,Home & Garden,Furniture,1123
+tūru mahi,office chair,Home & Garden,Furniture,1129
+mihini whakamahana,radiator,Home & Garden,Furniture,1131
+hōpa,sofa,Home & Garden,Furniture,1132
+pakitara,wall,Home & Garden,Furniture,1133
+mihini horoi kākahu,washing machine,Home & Garden,Furniture,1135
+tīkera hihiko,electric kettle,Home & Garden,Household_Items,1222
+mihini pupuhi makawe,hair dryer,Home & Garden,Household_Items,1224
+haeana,iron,Home & Garden,Household_Items,1228
+papa haeana,ironing board,Home & Garden,Household_Items,1229
+mīhini kuti pātītī,lawnmower,Home & Garden,Household_Items,1230
+rama,lightbulb,Home & Garden,Household_Items,1231
+ngīra,needle,Home & Garden,Household_Items,1234
+pūrere tuitui,sewing machine,Home & Garden,Household_Items,1235
+mihini whakatōtika makawe,hair iron,Home & Garden,Household_Items,1236
+tui,thread,Home & Garden,Household_Items,1237
+ngote puehu,vacuum cleaner,Home & Garden,Household_Items,1238
+pupuhi kakara,air freshener,Home & Garden,Toilet,1256
+tūru horoi kumu,bidet,Home & Garden,Toilet,1257
+mīhini whakamahana ringaringa,hand dryer,Home & Garden,Toilet,1258
+taora ringaringa,hand towel,Home & Garden,Toilet,1259
+haunga,odor,Home & Garden,Toilet,1263
+wharepaku,outhouse,Home & Garden,Toilet,1264
+whakatika paipa,plumbing,Home & Garden,Toilet,1265
+poungote,plunger,Home & Garden,Toilet,1266
+tiko,poop,Home & Garden,Toilet,1267
+kakara,smell,Home & Garden,Toilet,1268
+paraihe heketua,toilet brush,Home & Garden,Toilet,1269
+pepa wharepaku,toilet paper,Home & Garden,Toilet,1270
+rino tunu mīti,barbecue,Home & Garden,In_Case_of_Fire,1392
+ahi,fire,Home & Garden,In_Case_of_Fire,1393
+whakaaraara ahi,fire alarm,Home & Garden,In_Case_of_Fire,1394
+pātene whakaaraara ahi,fire alarm button,Home & Garden,In_Case_of_Fire,1395
+putanga ahi,fire exit,Home & Garden,In_Case_of_Fire,1396
+whakapoko ahi,fire extinguisher,Home & Garden,In_Case_of_Fire,1397
+ngongo wai,fire hose,Home & Garden,In_Case_of_Fire,1398
+mapu wai,fire hydrant,Home & Garden,In_Case_of_Fire,1399
+hīrere ahi,fire sprinkler,Home & Garden,In_Case_of_Fire,1400
+ahi ngāhere,forest fire,Home & Garden,In_Case_of_Fire,1401
+ahi whare,house fire,Home & Garden,In_Case_of_Fire,1402
+auahi,smoke,Home & Garden,In_Case_of_Fire,1405
+mīhini auahi,smoke detector,Home & Garden,In_Case_of_Fire,1406
+kora,spark,Home & Garden,In_Case_of_Fire,1407
+rama,torch,Home & Garden,In_Case_of_Fire,1408
+ka whakapoko ahi ahau,I extinguish,Home & Garden,In_Case_of_Fire,1403
+ka whakakā ahau,I light up,Home & Garden,In_Case_of_Fire,1404
+putiputi,flower,Home & Garden,Flowers,936
+kamomaire,chamomile,Home & Garden,Flowers,1733
+tohetaka,dandelion,Home & Garden,Flowers,1734
+pounamu putiputi,flowerpot,Home & Garden,Flowers,1735
+kaua rawa e wareware i ahau,forget me not,Home & Garden,Flowers,1736
+routihi,lotus,Home & Garden,Flowers,1738
+tutukiwi,orchid,Home & Garden,Flowers,1739
+kutikuti māra,pruner,Home & Garden,Flowers,1741
+rōhi,rose,Home & Garden,Flowers,1742
+tūru heketua,toilet seat,Home & Garden,More_Toilet,1271
+wāhi mimi,urinal,Home & Garden,More_Toilet,1272
+rūma wharepaku,bathroom stall,Home & Garden,More_Toilet,2483
+pupuri whēru,toilet paper holder,Home & Garden,More_Toilet,2484
+uhi tūru wharepaku,toilet seat cover,Home & Garden,More_Toilet,2485
+wharepaku rerekē,squatting pan,Home & Garden,More_Toilet,2486
+pupuri tāora,towel rack,Home & Garden,More_Toilet,2489
+waipuke,overflow,Home & Garden,More_Toilet,2491
+turuturu,leak,Home & Garden,More_Toilet,2492
+manga tāiha,clogged drain,Home & Garden,More_Toilet,2493
+whakamahia,occupied,Home & Garden,More_Toilet,2494
+wātea,vacant,Home & Garden,More_Toilet,2495
+kauhanganui,hallway,Home & Garden,More_House,2628
+kāpata pupuri rawa,storage closet,Home & Garden,More_House,2629
+iāri,front yard,Home & Garden,More_House,2630
+ara motokā,driveway,Home & Garden,More_House,2631
+pātaka kai,pantry,Home & Garden,More_House,2632
+patio,patio,Home & Garden,More_House,2633
+mahaurangi,balcony,Home & Garden,More_House,2634
+tuanui,roof,Home & Garden,More_House,2635
+tumera,chimney,Home & Garden,More_House,2636
+pere tatau,doorbell,Home & Garden,More_House,2638
+arawhata,stairwell,Home & Garden,More_House,2639
+manga,drainage,Home & Garden,More_House,2640
+kaupae tatau,doorstep,Home & Garden,More_House,2642
+māripi,peeler,Home & Garden,More_Kitchen,1012
+pereti,plate,Home & Garden,More_Kitchen,1013
+kōhua,pot,Home & Garden,More_Kitchen,1014
+tīni,tin,Home & Garden,More_Kitchen,1015
+puoto,sink,Home & Garden,More_Kitchen,1016
+tō,stove,Home & Garden,More_Kitchen,1017
+tī pune,teaspoon,Home & Garden,More_Kitchen,2883
+pune nui,tablespoon,Home & Garden,More_Kitchen,2884
+kapu ine,measuring cup,Home & Garden,More_Kitchen,2885
+pouaka tio,freezer,Home & Garden,More_Kitchen,2886
+kōwiri,screw,Home & Garden,More_Tools,1029
+huriwiri,screwdriver,Home & Garden,More_Tools,1030
+hāpara,shovel,Home & Garden,More_Tools,1031
+kāheru,spade,Home & Garden,More_Tools,1032
+tēpa,tape,Home & Garden,More_Tools,1033
+ketepahara,toolbox,Home & Garden,More_Tools,1034
+tēpa ine,tape measure,Home & Garden,More_Tools,3095
+wāwāhi,wrench,Home & Garden,More_Tools,3096
+wāwāhi kapu,socket wrench,Home & Garden,More_Tools,3097
+kutikuti wāia,wire cutters,Home & Garden,More_Tools,3098
+pere tatau,doorbell,Home & Garden,More_Household_Items,3599
+puri kānara,candle holder,Home & Garden,More_Household_Items,3600
+whakarākeitanga pakitara,wall decor,Home & Garden,More_Household_Items,3601
+whata pakitara,wall shelf,Home & Garden,More_Household_Items,3602
+pou ārai,curtain rod,Home & Garden,More_Household_Items,3603
+mīhini parai,fryer,Home & Garden,More_Household_Items,3604
+taora pepa,paper towel,Home & Garden,More_Household_Items,3605
+puri napikena,napkin holder,Home & Garden,More_Household_Items,3606
+pahikete kākahu,laundry basket,Home & Garden,More_Household_Items,3607
+otaota,herbs,Home & Garden,Gardening,938
+pakiaka,root,Home & Garden,Gardening,943
+kākano,seed,Home & Garden,Gardening,944
+whenua,soil,Home & Garden,Gardening,945
+paraute,sprout,Home & Garden,Gardening,946
+whāoka māra,pitchfork,Home & Garden,Gardening,1740
+pounamu wai,watering pot,Home & Garden,Gardening,1747
+huripara,wheelbarrow,Home & Garden,Gardening,1748
+tipu,seedlings,Home & Garden,Gardening,3744
+hōtēra,hotel,City & Shops,Hotel,141
+wāhi noho,accommodation,City & Shops,Hotel,143
+kāri rūma,key card,City & Shops,Hotel,144
+ratonga rūma,room service,City & Shops,Hotel,145
+pouaka haumaru,the safe,City & Shops,Hotel,146
+hīrere,shower,City & Shops,Hotel,147
+rūma,room,City & Shops,Hotel,148
+mihini pupuhi hau,air conditioner,City & Shops,Hotel,149
+manuhiri,guest,City & Shops,Hotel,151
+kī,key,City & Shops,Hotel,152
+ararewa,elevator,City & Shops,Hotel,153
+wāhi whakatau manuhiri,reception,City & Shops,Hotel,154
+moni,banknote,City & Shops,Shopping,202
+kapa,coin,City & Shops,Shopping,203
+kūpane,coupon,City & Shops,Shopping,204
+kāri moni,credit card,City & Shops,Shopping,205
+pūnaha moni,currency,City & Shops,Shopping,206
+kaihoko,customer,City & Shops,Shopping,207
+pahikete kai,shopping basket,City & Shops,Shopping,208
+kaitiaki moni,cashier,City & Shops,Shopping,209
+wareti,wallet,City & Shops,Shopping,210
+tāra,dollar,City & Shops,Shopping,211
+euro,euro,City & Shops,Shopping,212
+toa,shop,City & Shops,Shopping,214
+moni,money,City & Shops,Shopping,215
+hokohoko ā ipurangi,online shopping,City & Shops,Shopping,3738
+pēke,bank,City & Shops,City,241
+taunga pahi,bus stop,City & Shops,City,244
+pāka,park,City & Shops,City,251
+whare karakia,cathedral,City & Shops,City,255
+whare karakia,church,City & Shops,City,301
+wharepukapuka,library,City & Shops,City,303
+whare tongarewa,museum,City & Shops,City,305
+whare tapere,theater,City & Shops,City,307
+poutāpeta,post office,City & Shops,City,309
+hohipera,hospital,City & Shops,City,310
+whare pirihimana,police station,City & Shops,City,312
+kura,school,City & Shops,City,314
+kaiwhakapoko ahi,fire station,City & Shops,City,837
+whare hanga,factory,City & Shops,Buildings,304
+whare teitei,skyscraper,City & Shops,Buildings,306
+whare hoko kai,cafe,City & Shops,Buildings,308
+kēmehi,pharmacy,City & Shops,Buildings,311
+pāka whakangahau,theme park,City & Shops,Buildings,313
+whare whakapakari tinana,gym,City & Shops,Buildings,838
+wharepuni,hostel,City & Shops,Buildings,839
+whare herehere,prison,City & Shops,Buildings,842
+hōro tāone,town hall,City & Shops,Buildings,845
+whare whakamīharo,palace,City & Shops,Buildings,1080
+mīhini pupuhi hau,windmill,City & Shops,Buildings,1085
+whare hui,convention center,City & Shops,Buildings,2902
+whare tapere,amphitheater,City & Shops,Buildings,2910
+hōro,city hall,City & Shops,Buildings,2911
+muri,behind,City & Shops,Navigation,644
+waenganui,between,City & Shops,Navigation,645
+waenganui,center,City & Shops,Navigation,646
+kokona,corner,City & Shops,Navigation,647
+aronga,direction,City & Shops,Navigation,648
+tawhiti,distance,City & Shops,Navigation,649
+konei,here,City & Shops,Navigation,650
+mauī,left,City & Shops,Navigation,654
+aronga kē,opposite,City & Shops,Navigation,655
+matau,right,City & Shops,Navigation,656
+rori,road,City & Shops,Navigation,657
+tōtika,straight ahead,City & Shops,Navigation,658
+kora,there,City & Shops,Navigation,660
+mihini tuku moni,ATM machine,City & Shops,More_City,201
+piriti,bridge,City & Shops,More_City,243
+pā hirahira,castle,City & Shops,More_City,245
+urupā,cemetery,City & Shops,More_City,246
+pō kanikani,disco,City & Shops,More_City,247
+ara hīkoi,crosswalk,City & Shops,More_City,248
+ara rīpeka,crossroad,City & Shops,More_City,249
+horoi kākahu,laundry,City & Shops,More_City,250
+rama whakahaere motokā,traffic light,City & Shops,More_City,252
+taunga tereina,train station,City & Shops,More_City,253
+puna torotī,fountain,City & Shops,More_City,254
+wāhi whakakī hinu,gas station,City & Shops,More_City,302
+mākete kaipāmu,farmer's market,City & Shops,More_City,3728
+mākete whirī,flea market,City & Shops,More_City,3737
+kaikuti makawe,barber,City & Shops,Shops,866
+whare whakaātaahua,beauty salon,City & Shops,Shops,867
+toa paika,bike shop,City & Shops,Shops,868
+toa pukapuka,book shop,City & Shops,Shops,869
+kai hukahuka,confectionery,City & Shops,Shops,870
+kaiwhakarauika,fishmonger,City & Shops,Shops,872
+whare putiputi,florist,City & Shops,Shops,873
+whare huawhenua,greengrocery,City & Shops,Shops,874
+whare kuti makawe,hairdresser,City & Shops,Shops,875
+rei,jewelry,City & Shops,Shops,877
+kaihanga kī,key smith,City & Shops,Shops,878
+kaiwhakatika mōhiti,optician,City & Shops,Shops,879
+kaiwhakatika kākahu,tailor,City & Shops,Shops,880
+wāhi noho,address,City & Shops,Post_Office,899
+mēra,airmail,City & Shops,Post_Office,900
+kōpaki,envelope,City & Shops,Post_Office,902
+reta,letter,City & Shops,Post_Office,903
+pouaka mēra,mailbox,City & Shops,Post_Office,905
+kāri,postcard,City & Shops,Post_Office,907
+mēra whaimana,priority mail,City & Shops,Post_Office,909
+mēra whakahoki,returned mail,City & Shops,Post_Office,910
+hīri,seal,City & Shops,Post_Office,911
+kaitono,sender,City & Shops,Post_Office,912
+tohu,signature,City & Shops,Post_Office,913
+hīri,stamp,City & Shops,Post_Office,914
+taumaha,weight,City & Shops,Post_Office,915
+toto,blood,City & Shops,Hospital,1426
+turupou,crutch,City & Shops,Hospital,1427
+whakamātautau,examination,City & Shops,Hospital,1428
+patoto manawa,heartbeat,City & Shops,Hospital,1429
+tāpiri,infusion,City & Shops,Hospital,1432
+pire hauora,medical bill,City & Shops,Hospital,1433
+hītori hauora,medical record,City & Shops,Hospital,1434
+tūroro,patient,City & Shops,Hospital,1435
+wāhi tūroro,patient admission,City & Shops,Hospital,1436
+patoto manawa,pulse,City & Shops,Hospital,1437
+pūwero,syringe,City & Shops,Hospital,1438
+pūoko whakaroto,stethoscope,City & Shops,Hospital,1439
+kauamo,stretcher,City & Shops,Hospital,1440
+rata kokoti,surgeon,City & Shops,Hospital,1441
+whakaata roto,x-ray,City & Shops,Hospital,1442
+ka mare ahau,I cough,City & Shops,Hospital,1430
+ka tatari ahau,I wait,City & Shops,Hospital,1431
+wharerama,lighthouse,City & Shops,More_Buildings,1077
+pourewa wai,water tower,City & Shops,More_Buildings,2897
+wharau hoko,kiosk,City & Shops,More_Buildings,2898
+pourewa,tower,City & Shops,More_Buildings,2899
+toenga,ruins,City & Shops,More_Buildings,2900
+mira,mill,City & Shops,More_Buildings,2901
+whare pia,brewery,City & Shops,More_Buildings,2903
+whare kauranga,bathhouse,City & Shops,More_Buildings,2904
+mōtēra,motel,City & Shops,More_Buildings,2905
+temepara,pagoda,City & Shops,More_Buildings,2906
+taunga pahi,bus station,City & Shops,More_Buildings,2907
+whare wānanga,campus,City & Shops,More_Buildings,2908
+tīpī,tepee,City & Shops,More_Buildings,2909
+whare waina,winery,City & Shops,More_Buildings,2912
+tohu rori,traffic sign,City & Shops,Signs,606
+huarahi tereina,rail crossing,City & Shops,Signs,1281
+wātaka,timetable,City & Shops,Signs,2609
+papa kōrero,information board,City & Shops,Signs,2620
+huarahi rarowhenua,underground crossing,City & Shops,Signs,2622
+rori paripari,steep road,City & Shops,Signs,3257
+rawa mōrearea,hazardous materials,City & Shops,Signs,3258
+tohu tūnga,stop sign,City & Shops,Signs,3259
+kaua e kuhu noa ki roto,no trespassing,City & Shops,Signs,3260
+koiora mōrearea,biohazard,City & Shops,Signs,3261
+kaua e kuhu ki roto,do not enter,City & Shops,Signs,3262
+wākena,shopping cart,City & Shops,Supermarket,3725
+tohu utu,barcode,City & Shops,Supermarket,3726
+mīhini moni,cash register,City & Shops,Supermarket,3727
+kai totoka,frozen food,City & Shops,Supermarket,3729
+tātua kawe pēke,conveyor belt,City & Shops,Supermarket,3730
+mīhini mātai tohu utu,barcode scanner,City & Shops,Supermarket,3731
+pēke hokohoko,shopping bag,City & Shops,Supermarket,3732
+rārangi hokohoko,shopping list,City & Shops,Supermarket,3733
+rā aukati,expiration date,City & Shops,Supermarket,3734
+kāri pūmau,loyalty card,City & Shops,Supermarket,3735
+kuhukuhu,self-service,City & Shops,Supermarket,3736
+matapihi whakaatu,display window,City & Shops,Supermarket,3739
+tohu utu,price tag,City & Shops,Supermarket,3740
+papa pātuhi,keyboard,Business & Tech,.com,347
+rorohiko,laptop,Business & Tech,.com,348
+kiore,mouse,Business & Tech,.com,349
+tūhononga,network,Business & Tech,.com,350
+kupu huna,password,Business & Tech,.com,351
+puru hiko,plug,Business & Tech,.com,352
+pūreretā,printer,Business & Tech,.com,353
+mata,screen,Business & Tech,.com,354
+rākau hopu,USB stick,Business & Tech,.com,355
+kaiwhakataetae,athlete,Business & Tech,Jobs,521
+kaitunu,cook,Business & Tech,Jobs,522
+kairīpoata,journalist,Business & Tech,Jobs,523
+rōia,lawyer,Business & Tech,Jobs,524
+tākuta,doctor,Business & Tech,Jobs,525
+kaiwhakatika motokā,mechanic,Business & Tech,Jobs,526
+pirihi,priest,Business & Tech,Jobs,527
+kaipūtaiao,scientist,Business & Tech,Jobs,528
+hēkeretari,secretary,Business & Tech,Jobs,529
+kaiako,teacher,Business & Tech,Jobs,530
+kaimahi,office worker,Business & Tech,Jobs,531
+pepa tāpiri,attachment,Business & Tech,Computers,627
+taura,cable,Business & Tech,Computers,628
+pūhihiko,charger,Business & Tech,Computers,629
+raumamao,controller,Business & Tech,Computers,630
+tikiake,download,Business & Tech,Computers,631
+purutaringa,earphones,Business & Tech,Computers,632
+ipurangi,internet,Business & Tech,Computers,635
+urunga,socket,Business & Tech,Computers,639
+rorohiko,tablet,Business & Tech,Computers,640
+tikiake,upload,Business & Tech,Computers,641
+pae tukutuku,website,Business & Tech,Computers,642
+ahokore,Wi-Fi,Business & Tech,Computers,643
+kaiwhakatangi puoro,musician,Business & Tech,More_Jobs,532
+kaiwaihanga,programmer,Business & Tech,More_Jobs,533
+tauira,student,Business & Tech,More_Jobs,534
+weita,waiter,Business & Tech,More_Jobs,535
+ringa kaute,accountant,Business & Tech,More_Jobs,967
+kaiwaihanga,architect,Business & Tech,More_Jobs,968
+kaihanga,blacksmith,Business & Tech,More_Jobs,969
+kaiwhakatika motokā,car mechanic,Business & Tech,More_Jobs,970
+kaiwhakairo,carpenter,Business & Tech,More_Jobs,971
+kēmihi,chemist,Business & Tech,More_Jobs,972
+kaiwhakapoko ahi,firefighter,Business & Tech,More_Jobs,973
+wāhi āwhina kaihoko,customer support,Business & Tech,Business,1307
+kaimahi,employees,Business & Tech,Business,1308
+ngira tuitui,entrepreneur,Business & Tech,Business,1309
+kaiwhakahaere,manager,Business & Tech,Business,1312
+hui,meeting,Business & Tech,Business,1313
+rōpū whakahaere,organization,Business & Tech,Business,1314
+hua,profit,Business & Tech,Business,1316
+hāpaitanga,promotion,Business & Tech,Business,1317
+whakarewa,raise,Business & Tech,Business,1318
+utu,salary,Business & Tech,Business,1319
+mahi i te pō,night shift,Business & Tech,Business,3884
+whare pāmu,barn,Business & Tech,Agriculture,1579
+taraka pāmu,combine,Business & Tech,Agriculture,1580
+pāmu,farm,Business & Tech,Agriculture,1581
+kaipāmu,farmer,Business & Tech,Agriculture,1582
+whare kākāriki,greenhouse,Business & Tech,Agriculture,1583
+uru huarākau,orchard,Business & Tech,Agriculture,1586
+tarutaru,pasture,Business & Tech,Agriculture,1587
+paturiha,pesticides,Business & Tech,Agriculture,1588
+toki toka,pick axe,Business & Tech,Agriculture,1589
+parau,plow,Business & Tech,Agriculture,1590
+whīra parau,plow field,Business & Tech,Agriculture,1591
+whakamataku manu,scarecrow,Business & Tech,Agriculture,1592
+pēre pātītī,straw bale,Business & Tech,Agriculture,1593
+tarakihana,tractor,Business & Tech,Agriculture,1594
+kura wai,water tank,Business & Tech,Agriculture,1595
+hariru,handshake,Business & Tech,Etiquette,2789
+wāhi ake,personal space,Business & Tech,Etiquette,2790
+kihi hau,air kiss,Business & Tech,Etiquette,2791
+ture mau kākahu,dress code,Business & Tech,Etiquette,2792
+paki ringa,high five,Business & Tech,Etiquette,2793
+meke ringa,fist bump,Business & Tech,Etiquette,2794
+mihi ōkawa,curtsy,Business & Tech,Etiquette,2795
+tūohu,bowing,Business & Tech,Etiquette,2796
+ngā wāhine i te tuatahi,ladies first,Business & Tech,Etiquette,2797
+titiro karu ki te karu,eye contact,Business & Tech,Etiquette,2798
+kangakanga,cursing,Business & Tech,Etiquette,2799
+kokoti,interruption,Business & Tech,Etiquette,2800
+tohu ringa,hand gesture,Business & Tech,Etiquette,2801
+mīhini whakatangi pūoro,music player,Business & Tech,More_Computers,636
+mihini whakakape,scanner,Business & Tech,More_Computers,637
+pātene whakakā,power button,Business & Tech,More_Computers,3005
+pānui kāri mahara,memory card reader,Business & Tech,More_Computers,3006
+taura hiko,power cable,Business & Tech,More_Computers,3007
+ripanga,spreadsheet,Business & Tech,More_Computers,3008
+urutau,adaptor,Business & Tech,More_Computers,3009
+taura USB,USB cable,Business & Tech,More_Computers,3011
+rorohiko mōwaho,external drive,Business & Tech,More_Computers,3012
+papa whakahaere,trackpad,Business & Tech,More_Computers,3013
+waea whakaahua,fax machine,Business & Tech,Workspace,1310
+whakaaturanga,presentation,Business & Tech,Workspace,1315
+hāora mahi,work hours,Business & Tech,Workspace,1323
+tēpu tuhituhi,desk,Business & Tech,Workspace,3870
+pūrere whakaahua,photocopier,Business & Tech,Workspace,3872
+rūma hui,conference room,Business & Tech,Workspace,3873
+wharekai,cafeteria,Business & Tech,Workspace,3875
+tēpū tū,standing desk,Business & Tech,Workspace,3877
+wāhi mahi,cubicle,Business & Tech,Workspace,3878
+pari,bra,Fashion & Clothing,Clothes,443
+koti,coat,Fashion & Clothing,Clothes,444
+panekoti,dress,Fashion & Clothing,Clothes,445
+tōkena,socks,Fashion & Clothing,Clothes,448
+tarau poto,underwear,Fashion & Clothing,Clothes,449
+tarau poto,shorts,Fashion & Clothing,Clothes,450
+hāte,shirt,Fashion & Clothing,Clothes,452
+tī hāte,t-shirt,Fashion & Clothing,Clothes,454
+tarau,trousers,Fashion & Clothing,Clothes,455
+koti,jacket,Fashion & Clothing,Clothes,714
+tarau poto,panties,Fashion & Clothing,Clothes,716
+panekoti,skirt,Fashion & Clothing,More_Clothes,720
+tōkena,tights,Fashion & Clothing,More_Clothes,722
+hūtu,suit,Fashion & Clothing,More_Clothes,723
+tarau poto,underpants,Fashion & Clothing,More_Clothes,726
+koti,raincoat,Fashion & Clothing,More_Clothes,2952
+kahu,robe,Fashion & Clothing,More_Clothes,2953
+kākahu moe,pyjamas,Fashion & Clothing,More_Clothes,2956
+poraka,pullover,Fashion & Clothing,More_Clothes,2962
+pōtae whakamahana,beanie,Fashion & Clothing,Headwear,1410
+pōtae kaupoi,cowboy hat,Fashion & Clothing,Headwear,1412
+uhi taringa,earmuffs,Fashion & Clothing,Headwear,1413
+pōtae papatahi,flat hat,Fashion & Clothing,Headwear,1414
+pōtae,fullcap,Fashion & Clothing,Headwear,1415
+pōtae mārō,hard hat,Fashion & Clothing,Headwear,1417
+pōtae kauhoe,swimming cap,Fashion & Clothing,Headwear,1421
+mōhiti kaukau,swimming goggles,Fashion & Clothing,Headwear,1422
+pōtae teitei,tophat,Fashion & Clothing,Headwear,1423
+pare ūpoko,turban,Fashion & Clothing,Headwear,1424
+pōtae,visor,Fashion & Clothing,Headwear,1425
+mōhiti,glasses,Fashion & Clothing,Jewelry_&_Accessories,446
+karapu,gloves,Fashion & Clothing,Jewelry_&_Accessories,447
+kāmeta,scarf,Fashion & Clothing,Jewelry_&_Accessories,451
+whakakai taringa,earrings,Fashion & Clothing,Jewelry_&_Accessories,712
+hei,necklace,Fashion & Clothing,Jewelry_&_Accessories,715
+mōhiti,sunglasses,Fashion & Clothing,Jewelry_&_Accessories,724
+wāti,wristwatch,Fashion & Clothing,Jewelry_&_Accessories,727
+poroporo,bracelet,Fashion & Clothing,Jewelry_&_Accessories,1443
+tioata,crystal,Fashion & Clothing,Jewelry_&_Accessories,1445
+whakarākei hāte,cufflinks,Fashion & Clothing,Jewelry_&_Accessories,1446
+taimana,diamond,Fashion & Clothing,Jewelry_&_Accessories,1447
+kōhatu māpuna,gemstone,Fashion & Clothing,Jewelry_&_Accessories,1448
+mētara,medal,Fashion & Clothing,Jewelry_&_Accessories,1453
+peara,pearl,Fashion & Clothing,Jewelry_&_Accessories,1454
+whakarākei kiri,piercing,Fashion & Clothing,Jewelry_&_Accessories,1455
+wāti pūkoro,pocket watch,Fashion & Clothing,Jewelry_&_Accessories,1456
+ringi ihu,nose ring,Fashion & Clothing,Jewelry_&_Accessories,2966
+taputapu whakaātaahua,makeup,Fashion & Clothing,Makeup,383
+kamo,eyelash,Fashion & Clothing,Makeup,1343
+pani ngutu,lip balm,Fashion & Clothing,Makeup,1346
+pani ngutu,lipstick,Fashion & Clothing,Makeup,1347
+paraihe kanohi,makeup brush,Fashion & Clothing,Makeup,1348
+peita kamo,mascara,Fashion & Clothing,Makeup,1350
+ātārangi karu,eye shadow,Fashion & Clothing,Makeup,2519
+rārangi karu,eye liner,Fashion & Clothing,Makeup,2520
+pēke whakapai kanohi,makeup bag,Fashion & Clothing,Makeup,2521
+hurukaikamo hōu,fake eyelashes,Fashion & Clothing,Makeup,2522
+whakamākū ngutu,chapstick,Fashion & Clothing,Makeup,2523
+mumura,blush,Fashion & Clothing,Makeup,2524
+ūkui kanohi,makeup remover,Fashion & Clothing,Makeup,2525
+ngutu piatatanga,lip gloss,Fashion & Clothing,Makeup,2527
+pare makawe,hairband,Fashion & Clothing,Beauty_Salon,2533
+mihini kōrino makawe,curling iron,Fashion & Clothing,Beauty_Salon,2717
+mihini whakamahana makawe,blowdry,Fashion & Clothing,Beauty_Salon,2722
+mīhini whakatōtika makawe,straightening iron,Fashion & Clothing,Beauty_Salon,2724
+wairehu makawe,hairspray,Fashion & Clothing,Beauty_Salon,2725
+waitae makawe,hair dye,Fashion & Clothing,Beauty_Salon,2726
+hinu whakarākei makawe,hair gel,Fashion & Clothing,Beauty_Salon,2727
+takahuri makawe,hair roller,Fashion & Clothing,Beauty_Salon,2728
+kutikuti makawe,hair clipper,Fashion & Clothing,Beauty_Salon,2729
+mīhini whakamaroke makawe,stand dryer,Fashion & Clothing,Beauty_Salon,2730
+paraihe whakaātaahua,styling brush,Fashion & Clothing,Beauty_Salon,2731
+pare makawe,hair band,Fashion & Clothing,Even_More_Clothes,1416
+pare ūpoko,headband,Fashion & Clothing,Even_More_Clothes,1418
+tarau poto mekemeke,boxer shorts,Fashion & Clothing,Even_More_Clothes,2954
+tarau poto,briefs,Fashion & Clothing,Even_More_Clothes,2955
+kākahu whakatā,loungewear,Fashion & Clothing,Even_More_Clothes,2958
+koti mahi,blazer,Fashion & Clothing,Even_More_Clothes,2959
+koti Mēhikano,poncho,Fashion & Clothing,Even_More_Clothes,2960
+poraka,jumper,Fashion & Clothing,Even_More_Clothes,2961
+poraka,cardigan,Fashion & Clothing,Even_More_Clothes,2963
+ringi ihu,nose ring,Fashion & Clothing,Even_More_Clothes,2966
+iata,yacht,Fashion & Clothing,Luxury,3959
+motokā roa,limousine,Fashion & Clothing,Luxury,3960
+kaituku wāina,sommelier,Fashion & Clothing,Luxury,3961
+kaitunu kai,personal chef,Fashion & Clothing,Luxury,3962
+wāina,champagne,Fashion & Clothing,Luxury,3963
+tio,oyster,Fashion & Clothing,Luxury,3964
+kaitarāiwa,chauffeur,Fashion & Clothing,Luxury,3965
+kāwhia,caviar,Fashion & Clothing,Luxury,3966
+pātara,butler,Fashion & Clothing,Luxury,3968
+whairawa,rich,Fashion & Clothing,Luxury,3970
+waka rererangi torohaki,private jet,Fashion & Clothing,Luxury,3971
+pouturiao,bodyguard,Fashion & Clothing,Luxury,3972
+mākete,auction,Fashion & Clothing,Luxury,3973
+kai kounga,fine dining,Fashion & Clothing,Luxury,3974
+pūtu,boots,Fashion & Clothing,Shoes_&_More,442
+tōkena,socks,Fashion & Clothing,Shoes_&_More,448
+hū,shoe,Fashion & Clothing,Shoes_&_More,453
+pārahirahi,sandals,Fashion & Clothing,Shoes_&_More,719
+hiripa,slippers,Fashion & Clothing,Shoes_&_More,721
+tōkena,tights,Fashion & Clothing,Shoes_&_More,722
+hū teitei,high heels,Fashion & Clothing,Shoes_&_More,1383
+hū,sneaker,Fashion & Clothing,Shoes_&_More,1390
+hū hukapapa,snowshoes,Fashion & Clothing,Shoes_&_More,1695
+hū piki maunga,trekking boot,Fashion & Clothing,Shoes_&_More,1696
+tira,fins,Fashion & Clothing,Shoes_&_More,2682
+hū omaoma,running shoes,Fashion & Clothing,Shoes_&_More,3828
+kāri,cards,Fun & Recreation,Fun,401
+whare pikitia,cinema,Fun & Recreation,Fun,403
+kōnohete,concert,Fun & Recreation,Fun,404
+whakaaturanga,exhibition,Fun & Recreation,Fun,405
+niupepa,newspaper,Fun & Recreation,Fun,406
+pāti,party,Fun & Recreation,Fun,407
+whakataetae,match,Fun & Recreation,Fun,409
+kōrerorero,chat,Fun & Recreation,Fun,410
+kēmu ātea,video games,Fun & Recreation,Fun,411
+whare hoko kai,restaurant,Fun & Recreation,Fun,412
+tirotiro,sightseeing,Fun & Recreation,Fun,414
+kanikani,dance,Fun & Recreation,Fun,415
+pakipaki,applause,Fun & Recreation,Music,1052
+whakaminenga,audience,Fun & Recreation,Music,1053
+koaea,choir,Fun & Recreation,Music,1054
+kaiārahi,conductor,Fun & Recreation,Music,1055
+kaituku waiata,DJ,Fun & Recreation,Music,1056
+taramu,drum,Fun & Recreation,Music,1057
+wahahiko,microphone,Fun & Recreation,Music,1059
+rārangi puoro,music album,Fun & Recreation,Music,1060
+kaiwaiata rongonui,rockstar,Fun & Recreation,Music,1062
+kaiwaiata,singer,Fun & Recreation,Music,1063
+waiata,song,Fun & Recreation,Music,1064
+atamira,stage,Fun & Recreation,Music,1065
+pere,bell,Fun & Recreation,Festivals,1086
+huritau,birthday,Fun & Recreation,Festivals,1087
+hui taurima,carnival,Fun & Recreation,Festivals,1088
+kirihimete,Christmas,Fun & Recreation,Festivals,1089
+rākau kirihimete,Christmas tree,Fun & Recreation,Festivals,1090
+pahū ahi,fireworks,Fun & Recreation,Festivals,1091
+tangihanga,funeral,Fun & Recreation,Festivals,1092
+koha,gift,Fun & Recreation,Festivals,1093
+pō whakamataku,Halloween,Fun & Recreation,Festivals,1094
+mārenatanga,marriage,Fun & Recreation,Festivals,1096
+rā whakanui māmā,mother's day,Fun & Recreation,Festivals,1097
+te rangi i mua i te tau hōu,New Year's Eve,Fun & Recreation,Festivals,1098
+Hana Koko,Santa Claus,Fun & Recreation,Festivals,1099
+tangata hukapapa,snowman,Fun & Recreation,Festivals,1100
+rā whakanui aroha,Valentine's day,Fun & Recreation,Festivals,1101
+rā mārena,wedding,Fun & Recreation,Festivals,1102
+puni,camp,Fun & Recreation,Camping,541
+nēti namunamu,mosquito net,Fun & Recreation,Camping,542
+paraikete,sleeping bag,Fun & Recreation,Camping,548
+ahi,campfire,Fun & Recreation,Camping,549
+māti,matches,Fun & Recreation,Camping,554
+umu hopuni,camp stove,Fun & Recreation,Camping,1682
+whare wīra,caravan,Fun & Recreation,Camping,1683
+rare ngohengohe,marshmallow,Fun & Recreation,Camping,1692
+tunu kai ki waho,outdoor cooking,Fun & Recreation,Camping,1693
+tēpu pikiniki,picnic table,Fun & Recreation,Camping,1694
+maire,antlers,Fun & Recreation,Fishing_and_Hunting,1715
+māunu,bait,Fun & Recreation,Fishing_and_Hunting,1716
+wheua ika,fishbone,Fun & Recreation,Fishing_and_Hunting,1717
+waka hī ika,fishing boat,Fun & Recreation,Fishing_and_Hunting,1718
+tia,deer,Fun & Recreation,Fishing_and_Hunting,1719
+matira,fishing rod,Fun & Recreation,Fishing_and_Hunting,1720
+pōuto,fishing float,Fun & Recreation,Fishing_and_Hunting,1721
+matau,hook,Fun & Recreation,Fishing_and_Hunting,1722
+kaiwhakangau,hunter,Fun & Recreation,Fishing_and_Hunting,1723
+kono,knot,Fun & Recreation,Fishing_and_Hunting,1724
+matihao,paw,Fun & Recreation,Fishing_and_Hunting,1725
+ika nohinohi,sardines,Fun & Recreation,Fishing_and_Hunting,1726
+pū tao ika,spear fishing,Fun & Recreation,Fishing_and_Hunting,1727
+pōkiha,fox,Fun & Recreation,Fishing_and_Hunting,1728
+pironga,target,Fun & Recreation,Fishing_and_Hunting,1729
+paraihe whakangau,hunting trophy,Fun & Recreation,Fishing_and_Hunting,1730
+ka whakangau ahau,I hunt,Fun & Recreation,Fishing_and_Hunting,1731
+puruma,broom,Fun & Recreation,Magic_and_Fantasy,1767
+tarākona,dragon,Fun & Recreation,Magic_and_Fantasy,1768
+whito,dwarf,Fun & Recreation,Magic_and_Fantasy,1769
+patupaiarehe,fairy,Fun & Recreation,Magic_and_Fantasy,1770
+tīni,genie,Fun & Recreation,Magic_and_Fantasy,1771
+kēhua,ghost,Fun & Recreation,Magic_and_Fantasy,1772
+matire mahi atua,magic wand,Fun & Recreation,Magic_and_Fantasy,1774
+tangata mahi atua,magician,Fun & Recreation,Magic_and_Fantasy,1775
+haira,scythe,Fun & Recreation,Magic_and_Fantasy,1777
+tangata ngongo toto,vampire,Fun & Recreation,Magic_and_Fantasy,1779
+wahine mākutu,witch,Fun & Recreation,Magic_and_Fantasy,1780
+ruānuku,wizard,Fun & Recreation,Magic_and_Fantasy,1781
+kiri hangareka,jester,Fun & Recreation,Tales,2501
+tuatangata,hero,Fun & Recreation,Tales,2505
+hoariri,villain,Fun & Recreation,Tales,2506
+mākutu,curse,Fun & Recreation,Tales,2507
+pukapuka pakiwaitara,storybook,Fun & Recreation,Tales,2508
+taniwha huruhuru,yeti,Fun & Recreation,Tales,2511
+pēkahi,pegasus,Fun & Recreation,Tales,2513
+tuawahine,heroine,Fun & Recreation,Tales,2514
+kākahu haumaru,armor,Fun & Recreation,Tales,2515
+pātara mīharo,magic lamp,Fun & Recreation,Tales,2516
+tuitui,sewing,Fun & Recreation,Hobbies,2645
+tuitui,knitting,Fun & Recreation,Hobbies,2647
+whakairo rākau,woodworking,Fun & Recreation,Hobbies,2648
+hanga āhua,model building,Fun & Recreation,Hobbies,2649
+hanga whakarākeitanga,jewelry making,Fun & Recreation,Hobbies,2650
+mātakitaki manu,birdwatching,Fun & Recreation,Hobbies,2651
+ako reo hōu,foreign language learning,Fun & Recreation,Hobbies,2652
+tui whakaniko,embroidery,Fun & Recreation,Hobbies,2655
+matapaia,pottery,Fun & Recreation,Hobbies,2656
+kohikohi pane kuīni,collecting stamps,Fun & Recreation,Hobbies,2657
+whiranui,cello,Fun & Recreation,Musical_Instruments,3203
+ōkena,organ,Fun & Recreation,Musical_Instruments,3204
+aurau,harp,Fun & Recreation,Musical_Instruments,3205
+kōauau,flute,Fun & Recreation,Musical_Instruments,3206
+pūtōiri,oboe,Fun & Recreation,Musical_Instruments,3207
+pūkumekume,trombone,Fun & Recreation,Musical_Instruments,3208
+rehu matangi,clarinet,Fun & Recreation,Musical_Instruments,3209
+pūnguru,tuba,Fun & Recreation,Musical_Instruments,3210
+hāmonika,harmonica,Fun & Recreation,Musical_Instruments,3211
+rakuraku panguru,bass,Fun & Recreation,Musical_Instruments,3212
+rākau taramu,drum sticks,Fun & Recreation,Musical_Instruments,3213
+rakuraku,acoustic guitar,Fun & Recreation,Musical_Instruments,3214
+rakuraku hiko,electric guitar,Fun & Recreation,Musical_Instruments,3215
+rehu kōkō,saxophone,Fun & Recreation,Musical_Instruments,3216
+mīhini puoro,synthesizer,Fun & Recreation,Musical_Instruments,3217
+taramu,drums,Fun & Recreation,Musical_Instruments,3218
+ka katokato ahau,I pluck,Fun & Recreation,Musical_Instruments,3219
+ka tito ahau,I compose,Fun & Recreation,Musical_Instruments,3220
+kararehe tāwhaiwhai,stuffed animal,Fun & Recreation,Toys,3401
+whakatū poraka,building blocks,Fun & Recreation,Toys,3403
+taonga tākaro kauranga,bath toy,Fun & Recreation,Toys,3404
+pū tuku wai,squirt gun,Fun & Recreation,Toys,3405
+taonga tākaro motokā,toy car,Fun & Recreation,Toys,3406
+pōro tāwhana,bouncy ball,Fun & Recreation,Toys,3407
+taura pekepeke,jump rope,Fun & Recreation,Toys,3408
+tioka,sidewalk chalk,Fun & Recreation,Toys,3411
+taonga tākaro,action figure,Fun & Recreation,Toys,3413
+tāre,doll,Fun & Recreation,Toys,3414
+tereina tākaro,toy train,Fun & Recreation,Toys,3416
+mahere,map,Science & Wisdom,Geography,508
+ara,path,Science & Wisdom,Geography,510
+tirohanga,scenery,Science & Wisdom,Geography,512
+horonga huka,avalanche,Science & Wisdom,Geography,984
+tāone matua,capital city,Science & Wisdom,Geography,985
+koraha,desert,Science & Wisdom,Geography,987
+puke oneone,dunes,Science & Wisdom,Geography,988
+ao māhere,globe,Science & Wisdom,Geography,990
+puke retireti,ski slope,Science & Wisdom,Geography,994
+āwhā,tornado,Science & Wisdom,Geography,995
+ana,tunnel,Science & Wisdom,Geography,996
+ao,world,Science & Wisdom,Geography,1000
+pukapuka,book,Science & Wisdom,School,797
+tātaitai,calculator,Science & Wisdom,School,798
+tītohu,diploma,Science & Wisdom,School,800
+whakamātautau,exam,Science & Wisdom,School,802
+whakapōtaetanga,graduation,Science & Wisdom,School,803
+kauhau,lecture,Science & Wisdom,School,805
+kāri tauira,student id,Science & Wisdom,School,812
+horonga huka,avalanche,Science & Wisdom,More_Geography,984
+tāone matua,capital city,Science & Wisdom,More_Geography,985
+pari,cliff,Science & Wisdom,More_Geography,986
+koraha,desert,Science & Wisdom,More_Geography,987
+puke oneone,dunes,Science & Wisdom,More_Geography,988
+waipuke,flood,Science & Wisdom,More_Geography,989
+ao māhere,globe,Science & Wisdom,More_Geography,990
+tihi,peak,Science & Wisdom,More_Geography,991
+toka,rock,Science & Wisdom,More_Geography,992
+moana,sea,Science & Wisdom,More_Geography,993
+puke retireti,ski slope,Science & Wisdom,More_Geography,994
+āwhā,tornado,Science & Wisdom,More_Geography,995
+ana,tunnel,Science & Wisdom,More_Geography,996
+puia,volcano,Science & Wisdom,More_Geography,997
+hīrere,waterfall,Science & Wisdom,More_Geography,998
+ngaru,wave,Science & Wisdom,More_Geography,999
+ao,world,Science & Wisdom,More_Geography,1000
+marama,moon,Science & Wisdom,Astronomy,1208
+auahitūroa,comet,Science & Wisdom,Astronomy,1209
+Papatūānuku,Earth,Science & Wisdom,Astronomy,1210
+ika roa,galaxy,Science & Wisdom,Astronomy,1213
+aorangi,planet,Science & Wisdom,Astronomy,1215
+takiwā,space,Science & Wisdom,Astronomy,1217
+karu whātata,telescope,Science & Wisdom,Astronomy,1219
+takiwā,time zone,Science & Wisdom,Astronomy,1220
+kongakonga,atom,Science & Wisdom,Biology,1630
+huakita,bacteria,Science & Wisdom,Biology,1631
+iho,cell,Science & Wisdom,Biology,1632
+mātai matū,chemistry,Science & Wisdom,Biology,1633
+pūnaha nakunaku kai,digestive system,Science & Wisdom,Biology,1634
+ngōpata,dropper,Science & Wisdom,Biology,1635
+whanaketanga,evolution,Science & Wisdom,Biology,1636
+whakamātautau,experiment,Science & Wisdom,Biology,1637
+āmai,faint,Science & Wisdom,Biology,1638
+karu whakarahi,microscope,Science & Wisdom,Biology,1639
+muingota,molecule,Science & Wisdom,Biology,1640
+hiringa mā,clean energy,Science & Wisdom,Ecology,1698
+pū wairākau,compost,Science & Wisdom,Ecology,1699
+mahi pū wairākau,composting,Science & Wisdom,Ecology,1700
+topetope,deforestation,Science & Wisdom,Ecology,1701
+taurakitanga,drought,Science & Wisdom,Ecology,1702
+taraka parapara,garbage truck,Science & Wisdom,Ecology,1703
+rauropi whakarerekē taketake,GMO,Science & Wisdom,Ecology,1705
+ruapara,landfill,Science & Wisdom,Ecology,1707
+maringi hinu,oil spill,Science & Wisdom,Ecology,1710
+tāpiri,addition,Science & Wisdom,Mathematics,1783
+koki,angle,Science & Wisdom,Mathematics,1784
+whakawehe,division,Science & Wisdom,Mathematics,1785
+rite,equal,Science & Wisdom,Mathematics,1786
+ineine,equation,Science & Wisdom,Mathematics,1787
+mahi pāngarau,function,Science & Wisdom,Mathematics,1788
+mutunga kore,infinite,Science & Wisdom,Mathematics,1789
+whakarea,multiplication,Science & Wisdom,Mathematics,1790
+taiapa,parentheses,Science & Wisdom,Mathematics,1791
+paehēneti,percentage,Science & Wisdom,Mathematics,1792
+pūtakerua,root,Science & Wisdom,Mathematics,1793
+tapawhā,square,Science & Wisdom,Mathematics,1794
+tango,subtraction,Science & Wisdom,Mathematics,1795
+kuri,dog,Science & Wisdom,Chinese_Zodiac,785
+nanekoti,goat,Science & Wisdom,Chinese_Zodiac,788
+hoiho,horse,Science & Wisdom,Chinese_Zodiac,789
+poaka,pig,Science & Wisdom,Chinese_Zodiac,792
+rāpeti,rabbit,Science & Wisdom,Chinese_Zodiac,794
+makimaki,monkey,Science & Wisdom,Chinese_Zodiac,1197
+kiore,rat,Science & Wisdom,Chinese_Zodiac,1198
+nākahi,snake,Science & Wisdom,Chinese_Zodiac,1201
+taika,tiger,Science & Wisdom,Chinese_Zodiac,1560
+tame heihei,rooster,Science & Wisdom,Chinese_Zodiac,1658
+tarākona,dragon,Science & Wisdom,Chinese_Zodiac,1768
+peihipōro,baseball,Sports & Fitness,Sports,882
+pahiketepōro,basketball,Sports & Fitness,Sports,883
+mekemeke,boxing,Sports & Fitness,Sports,884
+whutupōro amerikana,football,Sports & Fitness,Sports,887
+poiwhana,soccer,Sports & Fitness,Sports,894
+tēnehi,tennis,Sports & Fitness,Sports,897
+torotoro,yoga,Sports & Fitness,Sports,898
+haupōro,golf,Sports & Fitness,Sports,1174
+takaporepore,gymnastics,Sports & Fitness,Sports,1175
+meke pōro,volleyball,Sports & Fitness,Sports,1186
+pere,arrow,Sports & Fitness,Sports_Equipment,1137
+pōro,ball,Sports & Fitness,Sports_Equipment,1138
+kōpere,bow,Sports & Fitness,Sports_Equipment,1139
+kōura,goal,Sports & Fitness,Sports_Equipment,1140
+pōtae mārō,helmet,Sports & Fitness,Sports_Equipment,1142
+kupenga,net,Sports & Fitness,Sports_Equipment,1144
+rākete,racket,Sports & Fitness,Sports_Equipment,1147
+papa reti,skateboard,Sports & Fitness,Sports_Equipment,1149
+kākahu kaukau,swimsuit,Sports & Fitness,Sports_Equipment,1153
+whiripī,frisbee,Sports & Fitness,Sports_Equipment,1617
+tira,fins,Sports & Fitness,Sports_Equipment,2682
+kiriti,cleats,Sports & Fitness,Sports_Equipment,3368
+whaikīngi,chess,Sports & Fitness,More_Sports,885
+tākaro hoari,fencing,Sports & Fitness,More_Sports,886
+eke hoiho,horse racing,Sports & Fitness,More_Sports,888
+pūkara,badminton,Sports & Fitness,More_Sports,1171
+eke maunga,climbing,Sports & Fitness,More_Sports,1173
+pāringa,handball,Sports & Fitness,More_Sports,1176
+eke motopaika,motorcycling,Sports & Fitness,More_Sports,1180
+topa rangi,paragliding,Sports & Fitness,More_Sports,1181
+tēnehi tēpu,table tennis,Sports & Fitness,More_Sports,1185
+paika,bike,Sports & Fitness,Bicycle,193
+pere paika,bike bell,Sports & Fitness,Bicycle,1664
+whāoka paika,bike fork,Sports & Fitness,Bicycle,1665
+raka paika,bike lock,Sports & Fitness,Bicycle,1666
+wīra paika,bike wheel,Sports & Fitness,Bicycle,1667
+pereki paika,bike brake,Sports & Fitness,Bicycle,1668
+tīni paika,bike chain,Sports & Fitness,Bicycle,1669
+karapu paika,bike gloves,Sports & Fitness,Bicycle,1670
+pounuku pereki,brake lever,Sports & Fitness,Bicycle,1672
+rīpene paika,cassette,Sports & Fitness,Bicycle,1673
+porohita mau tīni,chainring,Sports & Fitness,Bicycle,1674
+pētara,crank,Sports & Fitness,Bicycle,1675
+tūru,saddle,Sports & Fitness,Bicycle,1679
+kauhoe,freestyle stroke,Sports & Fitness,Swimming,2684
+hōkaikai,breaststroke,Sports & Fitness,Swimming,2685
+kauhoe whakamuri,backstroke,Sports & Fitness,Swimming,2686
+kauhoe pūrerehua,butterfly stroke,Sports & Fitness,Swimming,2687
+kiripi ihu,nose clip,Sports & Fitness,Swimming,2688
+taputapu mānu,floaties,Sports & Fitness,Swimming,2689
+mōkihi hau,inflatable raft,Sports & Fitness,Swimming,2691
+kauhoe tūwhera,open water swimming,Sports & Fitness,Swimming,2692
+whakaora tangata,life saver,Sports & Fitness,Swimming,2693
+papa ruku,diving board,Sports & Fitness,Swimming,2694
+pou reti hukapapa,ski poles,Sports & Fitness,Skiing_&_Ice_Hockey,3347
+hū reti hukapapa,ski boots,Sports & Fitness,Skiing_&_Ice_Hockey,3348
+mōhiti reti hukapapa,ski goggles,Sports & Fitness,Skiing_&_Ice_Hockey,3349
+tūru ararewa,chairlift,Sports & Fitness,Skiing_&_Ice_Hockey,3350
+wharepuni reti hukapapa,ski lodge,Sports & Fitness,Skiing_&_Ice_Hockey,3351
+tīkiti reti hukapapa,ski pass,Sports & Fitness,Skiing_&_Ice_Hockey,3352
+hukapapa tipatipa,fake snow,Sports & Fitness,Skiing_&_Ice_Hockey,3353
+paka,puck,Sports & Fitness,Skiing_&_Ice_Hockey,3354
+rākau haki,hockey stick,Sports & Fitness,Skiing_&_Ice_Hockey,3355
+hū retireti hukapapa,ice skates,Sports & Fitness,Skiing_&_Ice_Hockey,3356
+ārai niho,teeth guard,Sports & Fitness,Skiing_&_Ice_Hockey,3357
+papa retireti hukapapa,ice rink,Sports & Fitness,Skiing_&_Ice_Hockey,3358
+ārai kanohi,mask cage,Sports & Fitness,Skiing_&_Ice_Hockey,3359
+karapu hopu pōro,catcher glove,Sports & Fitness,Skiing_&_Ice_Hockey,3360
+papa piro,scoreboard,Sports & Fitness,Skiing_&_Ice_Hockey,3361
+kaimātakitaki,spectators,Sports & Fitness,Skiing_&_Ice_Hockey,3362
+ka reti ahau,I glide,Sports & Fitness,Skiing_&_Ice_Hockey,3363
+ka whai piro ahau,I score,Sports & Fitness,Skiing_&_Ice_Hockey,3364
+hāte hākinakina,jersey,Sports & Fitness,Soccer_&_Basketball,3365
+kokonga,corner,Sports & Fitness,Soccer_&_Basketball,3367
+kāri kōwhai,yellow card,Sports & Fitness,Soccer_&_Basketball,3369
+kāri whero,red card,Sports & Fitness,Soccer_&_Basketball,3370
+hara,foul,Sports & Fitness,Soccer_&_Basketball,3371
+mā te ūpoko,header,Sports & Fitness,Soccer_&_Basketball,3372
+whana whakatūwhera,kick off,Sports & Fitness,Soccer_&_Basketball,3373
+kōpiro,slam dunk,Sports & Fitness,Soccer_&_Basketball,3375
+whai piro māmā,free throw,Sports & Fitness,Soccer_&_Basketball,3376
+neti poitūkohu,basketball net,Sports & Fitness,Soccer_&_Basketball,3377
+rārangi whai piro takitoru,three-point line,Sports & Fitness,Soccer_&_Basketball,3378
+piro pekepeke,jump shot,Sports & Fitness,Soccer_&_Basketball,3379
+whiu ki roto,throw in,Sports & Fitness,Soccer_&_Basketball,3380
+maitai,kettlebell,Sports & Fitness,Gym,3581
+maitai ringa,dumbbell,Sports & Fitness,Gym,3582
+maitai roa,barbell,Sports & Fitness,Gym,3584
+pōro whakapakari tinana,exercise ball,Sports & Fitness,Gym,3587
+pare whakangoi tinana,resistance band,Sports & Fitness,Gym,3588
+whāriki toro tinana,yoga mat,Sports & Fitness,Gym,3589
+mīhini hoe waka,rowing machine,Sports & Fitness,Gym,3590
+pōro taumaha,medicine ball,Sports & Fitness,Gym,3591
+pēke mekemeke,punching bag,Sports & Fitness,Gym,3592
+pou hiki tinana,pullup bar,Sports & Fitness,Gym,3593
+hiki tinana,pushup,Sports & Fitness,Gym,3594
+ruku kapua,skydiving,Sports & Fitness,Extreme_Sports,3707
+ruku moana,free diving,Sports & Fitness,Extreme_Sports,3708
+taka teitei,bungee jumping,Sports & Fitness,Extreme_Sports,3709
+peke tuanui,parkour,Sports & Fitness,Extreme_Sports,3711
+retireti hū,rollerblading,Sports & Fitness,Extreme_Sports,3712
+eke pahikara,motocross,Sports & Fitness,Extreme_Sports,3713
+rerehau,hang gliding,Sports & Fitness,Extreme_Sports,3714
+peke pari,base jumping,Sports & Fitness,Extreme_Sports,3715
+reti ā tinana,bodyboarding,Sports & Fitness,Extreme_Sports,3716
+reti wai,wakeboarding,Sports & Fitness,Extreme_Sports,3717
+hīkoi taura,slacklining,Sports & Fitness,Extreme_Sports,3718
+manu reti wai,kitesurfing,Sports & Fitness,Extreme_Sports,3721
+retiwai,waterskiing,Sports & Fitness,Extreme_Sports,3722
+matire rēhi,relay baton,Sports & Fitness,Athletics,3815
+peke teitei,high jump,Sports & Fitness,Athletics,3816
+peke roa,long jump,Sports & Fitness,Athletics,3817
+pekepeke,triple jump,Sports & Fitness,Athletics,3818
+peke mā runga pou,pole vaulting,Sports & Fitness,Athletics,3819
+whiu maitai,weight throwing,Sports & Fitness,Athletics,3820
+whiu hama,hammer throw,Sports & Fitness,Athletics,3821
+whiu rākau,javelin,Sports & Fitness,Athletics,3822
+whiu poroāwhio,discus,Sports & Fitness,Athletics,3823
+kaipōkai tuarangi,astronaut,Society & Politics,Leaders,1035
+kāpene,captain,Society & Politics,Leaders,1036
+kaiako,coach,Society & Politics,Leaders,1037
+kaiwhakahaere,director,Society & Politics,Leaders,1040
+kīngi,king,Society & Politics,Leaders,1041
+naiti,knight,Society & Politics,Leaders,1042
+kairetiwhare,landlord,Society & Politics,Leaders,1043
+piriniha,prince,Society & Politics,Leaders,1047
+pirinihi,princess,Society & Politics,Leaders,1048
+kuini,queen,Society & Politics,Leaders,1049
+whakakeke,rebel,Society & Politics,Leaders,1050
+pirihimana,sheriff,Society & Politics,Leaders,1051
+nanakia,arsonist,Society & Politics,Crime,1358
+kaitāhae paika,bike theft,Society & Politics,Crime,1359
+tāwai,bribe,Society & Politics,Crime,1360
+kāmera,CCTV,Society & Politics,Crime,1361
+tāhae moni,credit card fraud,Society & Politics,Crime,1362
+wāhi hara,crime scene,Society & Politics,Crime,1363
+kaikimihara,detective,Society & Politics,Crime,1364
+kaimūrere,hacker,Society & Politics,Crime,1365
+tirohanga,investigation,Society & Politics,Crime,1368
+ka maoho ahau,I break in,Society & Politics,Crime,1366
+ka tāhae ahau,I steal,Society & Politics,Crime,1367
+kaiārahi,commander,Society & Politics,Politics,1038
+kaiārahi,dictator,Society & Politics,Politics,1039
+kaitōrangapū,politician,Society & Politics,Politics,1044
+perehitini,president,Society & Politics,Politics,1046
+māpere,ballot,Society & Politics,Politics,1511
+ārai,barricade,Society & Politics,Politics,1512
+hēnga,corruption,Society & Politics,Politics,1513
+tukipoto,coup,Society & Politics,Politics,1514
+tautohetohe,debate,Society & Politics,Politics,1515
+whakaaturanga,demonstration,Society & Politics,Politics,1516
+whakakapi,dethrone,Society & Politics,Politics,1517
+matire,baton,Society & Politics,Prison,1818
+makaurangi,fingerprint,Society & Politics,Prison,1820
+mauhere ringa,handcuffs,Society & Politics,Prison,1822
+kaiwhakawā,judge,Society & Politics,Prison,1824
+hunga whakawā,jury,Society & Politics,Prison,1825
+ture,law,Society & Politics,Prison,1826
+rerenga whareherehere,prison break,Society & Politics,Prison,1827
+rūma whareherehere,prison cell,Society & Politics,Prison,1828
+kaitiaki whareherehere,prison guard,Society & Politics,Prison,1829
+tangata mau herehere,prisoner,Society & Politics,Prison,1830
+pīrangitia,wanted,Society & Politics,Prison,1833
+hōtoke,winter,Time & Date,Parts_of_the_Day,290
+raumati,summer,Time & Date,Parts_of_the_Day,291
+ngahuru,fall,Time & Date,Parts_of_the_Day,292
+kōanga,spring,Time & Date,Parts_of_the_Day,293
+hukarere,snow,Time & Date,Winter,283
+hōtoke,winter,Time & Date,Winter,290
+hukapapa,ice,Time & Date,Winter,294
+huka pūkeri,blizzard,Time & Date,Winter,2743
+ka hukarere,it snows,Time & Date,Winter,298
+rau,leaf,Time & Date,Autumn,939
+hiringa mā,clean energy,Climate Awareness,Ecology,1698
+pū wairākau,compost,Climate Awareness,Ecology,1699
+mahi pū wairākau,composting,Climate Awareness,Ecology,1700
+topetope,deforestation,Climate Awareness,Ecology,1701
+taurakitanga,drought,Climate Awareness,Ecology,1702
+taraka parapara,garbage truck,Climate Awareness,Ecology,1703
+rauropi whakarerekē taketake,GMO,Climate Awareness,Ecology,1705
+ruapara,landfill,Climate Awareness,Ecology,1707
+maringi hinu,oil spill,Climate Awareness,Ecology,1710
+pahūtanga puia,volcanic eruption,Climate Awareness,Natural_Disasters,2735
+horo whenua,landslide,Climate Awareness,Natural_Disasters,2736
+hukātara,hailstorm,Climate Awareness,Natural_Disasters,2737
+tai āniwhaniwha,tsunami,Climate Awareness,Natural_Disasters,2738
+haumātakataka,typhoon,Climate Awareness,Natural_Disasters,2739
+rū whenua,earthquake,Climate Awareness,Natural_Disasters,2740
+horo toka,rockslide,Climate Awareness,Natural_Disasters,2741
+pūheke tahepuia,lava flow,Climate Awareness,Natural_Disasters,2742
+huka pūkeri,blizzard,Climate Awareness,Natural_Disasters,2743
+rautupu,thunderstorm,Climate Awareness,Natural_Disasters,2744
+huripari,hurricane,Climate Awareness,Natural_Disasters,2745
+tūmatakōkiri,meteor impact,Climate Awareness,Natural_Disasters,2746
+hunga whakaruru,refugee,Climate Awareness,Natural_Disasters,2747
+ngaru wera,heat wave,Climate Awareness,Natural_Disasters,2748
+tūpuhi,famine,Climate Awareness,Natural_Disasters,2749
+hau,wind,Climate Awareness,Mother_Nature,287
+ngaru,wave,Climate Awareness,Mother_Nature,999
+paraoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+parakuihi,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+hēki,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+whāoka,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+hupa,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+harore,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+maripi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kāpeti,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+riki,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+raihi,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+pune hupa,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+apareka,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+aonanī,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+huahēki,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+ka kai ahau,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+ka tapahi ahau,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+ka rongo ahau,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+kohu,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+ua,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+hukarere,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+rā,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+matapae huarere,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+hau,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+hōtoke,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+raumati,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+ngahuru,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+kōanga,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+āwhā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+taurakitanga,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+hukātara,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+huka pūkeri,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+rautupu,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+ngaru wera,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+tau,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+tau,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+ānini,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+āio,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+pāpouri,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+hīkaka,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+mataku,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+pukukino,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+harikoa,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+whai aroha,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+ohorere,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+tūtakitanga kāpō,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+whai aroha i te kitenga tuatahi,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+kaimōhū,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+ka kōrero ahau,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ka pupuri ringa māua,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ka tauwehe tāua,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+piriora,band-aid,Welcome To Drops,Welcome_4_-_Health_&_Body,382
+mare,cough,Welcome To Drops,Welcome_4_-_Health_&_Body,386
+mamae niho,toothache,Welcome To Drops,Welcome_4_-_Health_&_Body,391
+māuiui,hangover,Welcome To Drops,Welcome_4_-_Health_&_Body,413
+tinana,body,Welcome To Drops,Welcome_4_-_Health_&_Body,421
+makawe,hair,Welcome To Drops,Welcome_4_-_Health_&_Body,423
+kanohi,face,Welcome To Drops,Welcome_4_-_Health_&_Body,424
+niho,tooth,Welcome To Drops,Welcome_4_-_Health_&_Body,429
+waewae,ankle,Welcome To Drops,Welcome_4_-_Health_&_Body,814
+ringa,arm,Welcome To Drops,Welcome_4_-_Health_&_Body,815
+whatīanga,elbow,Welcome To Drops,Welcome_4_-_Health_&_Body,819
+kōiwi tuara,spine,Welcome To Drops,Welcome_4_-_Health_&_Body,829
+tako,gum,Welcome To Drops,Welcome_4_-_Health_&_Body,1484
+kēkē,armpit,Welcome To Drops,Welcome_4_-_Health_&_Body,2927
+ka ruaki ahau,I vomit,Welcome To Drops,Welcome_4_-_Health_&_Body,1646
+ka heru ahau i aku makawe,I comb my hair,Welcome To Drops,Welcome_4_-_Health_&_Body,3528
+ka horoi ahau i taku kanohi,I wash my face,Welcome To Drops,Welcome_4_-_Health_&_Body,3533
+kahurangi,blue,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,560
+koura,gold,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,563
+kiwikiwi,gray,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,565
+karaka,orange,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,568
+hiriwa,silver,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,573
+kōwhai,yellow,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,575
+areare,arch,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1154
+porohita,circle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1155
+kōrere,cone,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1156
+mataono,cube,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1157
+tapawaru,octagon,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1160
+tapawhā hāngai,rectangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1164
+rīngi,ring,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1166
+kōpio,sphere,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1167
+tapawhā,square,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1168
+tapatoru,triangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1169
+matakahi,wedge,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1170
+he pai ki ahau,I like,Welcome To Drops,Welcome_6_-_Activities,11
+ka tūtaki ahau,I meet,Welcome To Drops,Welcome_6_-_Activities,13
+kāore he pai ki ahau,I dislike,Welcome To Drops,Welcome_6_-_Activities,37
+ka tunu ahau,I cook,Welcome To Drops,Welcome_6_-_Activities,138
+ka kume ahau,I pull,Welcome To Drops,Welcome_6_-_Activities,317
+ka pana ahau,I push,Welcome To Drops,Welcome_6_-_Activities,318
+ka whakawhanaunga ahau,I introduce,Welcome To Drops,Welcome_6_-_Activities,615
+ka kōrero ahau,I speak,Welcome To Drops,Welcome_6_-_Activities,616
+ka ūkui ahau,I mop,Welcome To Drops,Welcome_6_-_Activities,1226
+ka horoi ahau,I clean,Welcome To Drops,Welcome_6_-_Activities,1345
+ka moe roa ahau,I oversleep,Welcome To Drops,Welcome_6_-_Activities,2482
+ka heru ahau i aku makawe,I comb my hair,Welcome To Drops,Welcome_6_-_Activities,3528
+ka whakarite ahau i te whakaaraara,I set an alarm,Welcome To Drops,Welcome_6_-_Activities,3529
+ka oho ahau,I wake up,Welcome To Drops,Welcome_6_-_Activities,3530
+ka tango ahau i ngā parapara ki waho,I take out the trash,Welcome To Drops,Welcome_6_-_Activities,3539
+ka haere ahau,I commute,Welcome To Drops,Welcome_6_-_Activities,3542
+ka ūkui ahau,I wipe,Welcome To Drops,Welcome_6_-_Activities,3616
+āe,yes,Welcome To Drops,Welcome_7_-_Interacting,1
+kāo,no,Welcome To Drops,Welcome_7_-_Interacting,2
+kia ora,hi,Welcome To Drops,Welcome_7_-_Interacting,4
+tēnā koe,thank you,Welcome To Drops,Welcome_7_-_Interacting,5
+haere rā,bye,Welcome To Drops,Welcome_7_-_Interacting,6
+koa,please,Welcome To Drops,Welcome_7_-_Interacting,7
+paraoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+parakuihi,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+hēki,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+whāoka,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+hupa,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+harore,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+maripi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kāpeti,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+riki,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+raihi,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+pune hupa,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+apareka,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+aonanī,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+huahēki,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+ka kai ahau,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+ka tapahi ahau,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+ka rongo ahau,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+kohu,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+ua,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+hukarere,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+rā,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+matapae huarere,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+hau,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+hōtoke,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+raumati,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+ngahuru,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+kōanga,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+āwhā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+taurakitanga,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+hukātara,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+huka pūkeri,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+rautupu,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+ngaru wera,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+tau,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+tau,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+ānini,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+āio,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+pāpouri,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+hīkaka,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+mataku,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+pukukino,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+harikoa,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+whai aroha,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+ohorere,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+tūtakitanga kāpō,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+whai aroha i te kitenga tuatahi,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+kaimōhū,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+ka kōrero ahau,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ka pupuri ringa māua,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ka tauwehe tāua,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+piriora,band-aid,Welcome To Drops,Welcome_4_-_Health_&_Body,382
+mare,cough,Welcome To Drops,Welcome_4_-_Health_&_Body,386
+mamae niho,toothache,Welcome To Drops,Welcome_4_-_Health_&_Body,391
+māuiui,hangover,Welcome To Drops,Welcome_4_-_Health_&_Body,413
+tinana,body,Welcome To Drops,Welcome_4_-_Health_&_Body,421
+makawe,hair,Welcome To Drops,Welcome_4_-_Health_&_Body,423
+kanohi,face,Welcome To Drops,Welcome_4_-_Health_&_Body,424
+niho,tooth,Welcome To Drops,Welcome_4_-_Health_&_Body,429
+waewae,ankle,Welcome To Drops,Welcome_4_-_Health_&_Body,814
+ringa,arm,Welcome To Drops,Welcome_4_-_Health_&_Body,815
+whatīanga,elbow,Welcome To Drops,Welcome_4_-_Health_&_Body,819
+kōiwi tuara,spine,Welcome To Drops,Welcome_4_-_Health_&_Body,829
+tako,gum,Welcome To Drops,Welcome_4_-_Health_&_Body,1484
+kēkē,armpit,Welcome To Drops,Welcome_4_-_Health_&_Body,2927
+ka ruaki ahau,I vomit,Welcome To Drops,Welcome_4_-_Health_&_Body,1646
+ka heru ahau i aku makawe,I comb my hair,Welcome To Drops,Welcome_4_-_Health_&_Body,3528
+ka horoi ahau i taku kanohi,I wash my face,Welcome To Drops,Welcome_4_-_Health_&_Body,3533
+kahurangi,blue,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,560
+koura,gold,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,563
+kiwikiwi,gray,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,565
+karaka,orange,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,568
+hiriwa,silver,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,573
+kōwhai,yellow,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,575
+areare,arch,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1154
+porohita,circle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1155
+kōrere,cone,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1156
+mataono,cube,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1157
+tapawaru,octagon,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1160
+tapawhā hāngai,rectangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1164
+rīngi,ring,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1166
+kōpio,sphere,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1167
+tapawhā,square,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1168
+tapatoru,triangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1169
+matakahi,wedge,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1170
+he pai ki ahau,I like,Welcome To Drops,Welcome_6_-_Activities,11
+ka tūtaki ahau,I meet,Welcome To Drops,Welcome_6_-_Activities,13
+kāore he pai ki ahau,I dislike,Welcome To Drops,Welcome_6_-_Activities,37
+ka tunu ahau,I cook,Welcome To Drops,Welcome_6_-_Activities,138
+ka kume ahau,I pull,Welcome To Drops,Welcome_6_-_Activities,317
+ka pana ahau,I push,Welcome To Drops,Welcome_6_-_Activities,318
+ka whakawhanaunga ahau,I introduce,Welcome To Drops,Welcome_6_-_Activities,615
+ka kōrero ahau,I speak,Welcome To Drops,Welcome_6_-_Activities,616
+ka ūkui ahau,I mop,Welcome To Drops,Welcome_6_-_Activities,1226
+ka horoi ahau,I clean,Welcome To Drops,Welcome_6_-_Activities,1345
+ka moe roa ahau,I oversleep,Welcome To Drops,Welcome_6_-_Activities,2482
+ka heru ahau i aku makawe,I comb my hair,Welcome To Drops,Welcome_6_-_Activities,3528
+ka whakarite ahau i te whakaaraara,I set an alarm,Welcome To Drops,Welcome_6_-_Activities,3529
+ka oho ahau,I wake up,Welcome To Drops,Welcome_6_-_Activities,3530
+ka tango ahau i ngā parapara ki waho,I take out the trash,Welcome To Drops,Welcome_6_-_Activities,3539
+ka haere ahau,I commute,Welcome To Drops,Welcome_6_-_Activities,3542
+ka ūkui ahau,I wipe,Welcome To Drops,Welcome_6_-_Activities,3616
+āe,yes,Welcome To Drops,Welcome_7_-_Interacting,1
+kāo,no,Welcome To Drops,Welcome_7_-_Interacting,2
+kia ora,hi,Welcome To Drops,Welcome_7_-_Interacting,4
+tēnā koe,thank you,Welcome To Drops,Welcome_7_-_Interacting,5
+haere rā,bye,Welcome To Drops,Welcome_7_-_Interacting,6
+koa,please,Welcome To Drops,Welcome_7_-_Interacting,7
+paraoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+parakuihi,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+hēki,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+whāoka,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+hupa,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+harore,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+maripi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kāpeti,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+riki,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+raihi,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+pune hupa,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+apareka,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+aonanī,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+huahēki,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+ka kai ahau,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+ka tapahi ahau,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+ka rongo ahau,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+kohu,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+ua,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+hukarere,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+rā,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+matapae huarere,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+hau,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+hōtoke,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+raumati,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+ngahuru,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+kōanga,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+āwhā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+taurakitanga,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+hukātara,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+huka pūkeri,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+rautupu,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+ngaru wera,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+tau,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+tau,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+ānini,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+āio,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+pāpouri,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+hīkaka,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+mataku,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+pukukino,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+harikoa,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+whai aroha,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+ohorere,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+tūtakitanga kāpō,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+whai aroha i te kitenga tuatahi,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+kaimōhū,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+ka kōrero ahau,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ka pupuri ringa māua,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ka tauwehe tāua,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+paraoa,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+parakuihi,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+hēki,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+whāoka,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+hupa,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+harore,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+maripi,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+kāpeti,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+riki,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+raihi,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+pune hupa,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+apareka,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+aonanī,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+huahēki,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+ka kai ahau,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+ka tapahi ahau,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+ka rongo ahau,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+kohu,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+ua,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+hukarere,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+rā,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+matapae huarere,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+hau,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+hōtoke,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+raumati,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+ngahuru,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+kōanga,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+āwhā,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+taurakitanga,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+hukātara,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+huka pūkeri,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+rautupu,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+ngaru wera,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+tau,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+tau,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+ānini,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+āio,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+pāpouri,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+hīkaka,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+mataku,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+pukukino,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+harikoa,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+whai aroha,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+ohorere,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+tūtakitanga kāpō,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+whai aroha i te kitenga tuatahi,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+kaimōhū,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+ka kōrero ahau,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+ka pupuri ringa māua,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+ka tauwehe tāua,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+ka moe ahau,I sleep,Verbs & Phrases,"As_a_human,_I...",156
+ka noho ahau,I sit,Verbs & Phrases,"As_a_human,_I...",157
+ka tuha ahau,I spit,Verbs & Phrases,"As_a_human,_I...",256
+ka waiata ahau,I sing,Verbs & Phrases,"As_a_human,_I...",416
+ka heke taku toto,I bleed,Verbs & Phrases,"As_a_human,_I...",822
+ka patero ahau,I fart,Verbs & Phrases,"As_a_human,_I...",1260
+ka mimi ahau,I pee,Verbs & Phrases,"As_a_human,_I...",1261
+ka tiko ahau,I poop,Verbs & Phrases,"As_a_human,_I...",1262
+ka mare ahau,I cough,Verbs & Phrases,"As_a_human,_I...",1430
+ka pā ahau,I touch,Verbs & Phrases,"As_a_human,_I...",1521
+ka rongo ahau,I smell,Verbs & Phrases,"As_a_human,_I...",1554
+ka hā ahau,I breathe,Verbs & Phrases,"As_a_human,_I...",1603
+ka rongo ahau,I hear,Verbs & Phrases,"As_a_human,_I...",1773
+ka ngongoro ahau,I snore,Verbs & Phrases,"As_a_human,_I...",2481
+ka pupuri ahau i taku hā,I hold my breath,Verbs & Phrases,"As_a_human,_I...",2698
+ka wiriwiri ahau,I shiver,Verbs & Phrases,"As_a_human,_I...",3922
+ka eke paika ahau,I ride a bicycle,Verbs & Phrases,How_I_Move,196
+ka hikoi ahau,I walk,Verbs & Phrases,How_I_Move,258
+ka kanikani ahau,I dance,Verbs & Phrases,How_I_Move,417
+ka peke ahau,I jump,Verbs & Phrases,How_I_Move,437
+ka oma ahau,I run,Verbs & Phrases,How_I_Move,438
+ka kauhoe ahau,I swim,Verbs & Phrases,How_I_Move,517
+ka piki ahau i te arawhata,I climb the stairs,Verbs & Phrases,How_I_Move,651
+ka taka ahau,I slip,Verbs & Phrases,How_I_Move,1280
+ka taka ahau,I fall,Verbs & Phrases,How_I_Move,1451
+i taka ahau,I fell over,Verbs & Phrases,How_I_Move,1553
+ka ngahoro ahau,I collapse,Verbs & Phrases,How_I_Move,2750
+ka kuhu ahau,I enter,Verbs & Phrases,How_I_Move,2913
+ka huri ahau,I turn,Verbs & Phrases,How_I_Move,2931
+ka peita ahau,I paint,Verbs & Phrases,How_I_Act,566
+ka tuhi ahau,I write,Verbs & Phrases,How_I_Act,567
+ka wānanga ahau,I study,Verbs & Phrases,How_I_Act,811
+ka whakanui ahau,I celebrate,Verbs & Phrases,How_I_Act,1095
+ka kōwhiri ahau,I choose,Verbs & Phrases,How_I_Act,1225
+ka rapu ahau,I search,Verbs & Phrases,How_I_Act,1452
+ka pātai ahau,I ask,Verbs & Phrases,How_I_Act,1465
+ka pōti ahau,I vote,Verbs & Phrases,How_I_Act,1522
+hemahema,I flirt,Verbs & Phrases,How_I_Act,1573
+ka whakarongo ahau ki ngā rangi,I listen to music,Verbs & Phrases,How_I_Act,2660
+he pai ki ahau,I enjoy,Verbs & Phrases,How_I_Act,2662
+ka pohewa ahau,I imagine,Verbs & Phrases,How_I_Act,3418
+ka tiaki ahau,I care,Verbs & Phrases,How_I_Act,3845
+ka tāhae ahau,I steal,Verbs & Phrases,What_I_Do,1367
+ka hopu ahau,I catch,Verbs & Phrases,What_I_Do,1450
+ka whakakī ahau,I fill,Verbs & Phrases,What_I_Do,1489
+ka tunu ahau,I bake,Verbs & Phrases,What_I_Do,1501
+ka whakahīrere ahau,I flush,Verbs & Phrases,What_I_Do,2499
+ka horoi ahau,I scrub,Verbs & Phrases,What_I_Do,2500
+ka whakaora ahau,I rescue,Verbs & Phrases,What_I_Do,2517
+ka whakarite ahau,I arrange,Verbs & Phrases,What_I_Do,2644
+ka hanga ahau,I make,Verbs & Phrases,What_I_Do,2661
+ka pupuri ahau i te tatau,I hold the door,Verbs & Phrases,What_I_Do,2805
+ka perehi ahau,I press,Verbs & Phrases,What_I_Do,3310
+ka whakahoki ahau,I put away,Verbs & Phrases,What_I_Do,3417
+ka hiki ahau,I lift,Verbs & Phrases,What_I_Do,3597
+ka ūkui ahau,I wipe,Verbs & Phrases,What_I_Do,3616
+ka whakamakere ahau,I drop,Verbs & Phrases,What_I_Do,3706
+ka kokoti ahau,I prune,Verbs & Phrases,What_I_Do,3760
+ka takai ahau,I wrap,Verbs & Phrases,What_I_Do,3958
+ka mania,it slides,Verbs & Phrases,What_It_Does,1618
+ka takahuri,It rolls,Verbs & Phrases,What_It_Does,1680
+ka kōtiti,it derails,Verbs & Phrases,What_It_Does,2625
+ka whati,it crashes,Verbs & Phrases,What_It_Does,3020
+kia ora,hi,Verbs & Phrases,Basic_Phrases,4
+tēnā koe,thank you,Verbs & Phrases,Basic_Phrases,5
+haere rā,bye,Verbs & Phrases,Basic_Phrases,6
+koa,please,Verbs & Phrases,Basic_Phrases,7
+ka moe ahau,I sleep,Verbs & Phrases,"As_a_human,_I...",156
+ka noho ahau,I sit,Verbs & Phrases,"As_a_human,_I...",157
+ka tuha ahau,I spit,Verbs & Phrases,"As_a_human,_I...",256
+ka waiata ahau,I sing,Verbs & Phrases,"As_a_human,_I...",416
+ka heke taku toto,I bleed,Verbs & Phrases,"As_a_human,_I...",822
+ka patero ahau,I fart,Verbs & Phrases,"As_a_human,_I...",1260
+ka mimi ahau,I pee,Verbs & Phrases,"As_a_human,_I...",1261
+ka tiko ahau,I poop,Verbs & Phrases,"As_a_human,_I...",1262
+ka mare ahau,I cough,Verbs & Phrases,"As_a_human,_I...",1430
+ka pā ahau,I touch,Verbs & Phrases,"As_a_human,_I...",1521
+ka rongo ahau,I smell,Verbs & Phrases,"As_a_human,_I...",1554
+ka hā ahau,I breathe,Verbs & Phrases,"As_a_human,_I...",1603
+ka rongo ahau,I hear,Verbs & Phrases,"As_a_human,_I...",1773
+ka ngongoro ahau,I snore,Verbs & Phrases,"As_a_human,_I...",2481
+ka pupuri ahau i taku hā,I hold my breath,Verbs & Phrases,"As_a_human,_I...",2698
+ka wiriwiri ahau,I shiver,Verbs & Phrases,"As_a_human,_I...",3922
+ka eke paika ahau,I ride a bicycle,Verbs & Phrases,How_I_Move,196
+ka hikoi ahau,I walk,Verbs & Phrases,How_I_Move,258
+ka kanikani ahau,I dance,Verbs & Phrases,How_I_Move,417
+ka peke ahau,I jump,Verbs & Phrases,How_I_Move,437
+ka oma ahau,I run,Verbs & Phrases,How_I_Move,438
+ka kauhoe ahau,I swim,Verbs & Phrases,How_I_Move,517
+ka piki ahau i te arawhata,I climb the stairs,Verbs & Phrases,How_I_Move,651
+ka taka ahau,I slip,Verbs & Phrases,How_I_Move,1280
+ka taka ahau,I fall,Verbs & Phrases,How_I_Move,1451
+i taka ahau,I fell over,Verbs & Phrases,How_I_Move,1553
+ka ngahoro ahau,I collapse,Verbs & Phrases,How_I_Move,2750
+ka kuhu ahau,I enter,Verbs & Phrases,How_I_Move,2913
+ka huri ahau,I turn,Verbs & Phrases,How_I_Move,2931
+ka peita ahau,I paint,Verbs & Phrases,How_I_Act,566
+ka tuhi ahau,I write,Verbs & Phrases,How_I_Act,567
+ka wānanga ahau,I study,Verbs & Phrases,How_I_Act,811
+ka whakanui ahau,I celebrate,Verbs & Phrases,How_I_Act,1095
+ka kōwhiri ahau,I choose,Verbs & Phrases,How_I_Act,1225
+ka rapu ahau,I search,Verbs & Phrases,How_I_Act,1452
+ka pātai ahau,I ask,Verbs & Phrases,How_I_Act,1465
+ka pōti ahau,I vote,Verbs & Phrases,How_I_Act,1522
+hemahema,I flirt,Verbs & Phrases,How_I_Act,1573
+ka whakarongo ahau ki ngā rangi,I listen to music,Verbs & Phrases,How_I_Act,2660
+he pai ki ahau,I enjoy,Verbs & Phrases,How_I_Act,2662
+ka pohewa ahau,I imagine,Verbs & Phrases,How_I_Act,3418
+ka tiaki ahau,I care,Verbs & Phrases,How_I_Act,3845
+ka tāhae ahau,I steal,Verbs & Phrases,What_I_Do,1367
+ka hopu ahau,I catch,Verbs & Phrases,What_I_Do,1450
+ka whakakī ahau,I fill,Verbs & Phrases,What_I_Do,1489
+ka tunu ahau,I bake,Verbs & Phrases,What_I_Do,1501
+ka whakahīrere ahau,I flush,Verbs & Phrases,What_I_Do,2499
+ka horoi ahau,I scrub,Verbs & Phrases,What_I_Do,2500
+ka whakaora ahau,I rescue,Verbs & Phrases,What_I_Do,2517
+ka whakarite ahau,I arrange,Verbs & Phrases,What_I_Do,2644
+ka hanga ahau,I make,Verbs & Phrases,What_I_Do,2661
+ka pupuri ahau i te tatau,I hold the door,Verbs & Phrases,What_I_Do,2805
+ka perehi ahau,I press,Verbs & Phrases,What_I_Do,3310
+ka whakahoki ahau,I put away,Verbs & Phrases,What_I_Do,3417
+ka hiki ahau,I lift,Verbs & Phrases,What_I_Do,3597
+ka ūkui ahau,I wipe,Verbs & Phrases,What_I_Do,3616
+ka whakamakere ahau,I drop,Verbs & Phrases,What_I_Do,3706
+ka kokoti ahau,I prune,Verbs & Phrases,What_I_Do,3760
+ka takai ahau,I wrap,Verbs & Phrases,What_I_Do,3958
+ka mania,it slides,Verbs & Phrases,What_It_Does,1618
+ka takahuri,It rolls,Verbs & Phrases,What_It_Does,1680
+ka kōtiti,it derails,Verbs & Phrases,What_It_Does,2625
+ka whati,it crashes,Verbs & Phrases,What_It_Does,3020
+kia ora,hi,Verbs & Phrases,Basic_Phrases,4
+tēnā koe,thank you,Verbs & Phrases,Basic_Phrases,5
+haere rā,bye,Verbs & Phrases,Basic_Phrases,6
+koa,please,Verbs & Phrases,Basic_Phrases,7
+ka moe ahau,I sleep,Verbs,"As_a_human,_I...",156
+ka noho ahau,I sit,Verbs,"As_a_human,_I...",157
+ka tuha ahau,I spit,Verbs,"As_a_human,_I...",256
+ka waiata ahau,I sing,Verbs,"As_a_human,_I...",416
+ka heke taku toto,I bleed,Verbs,"As_a_human,_I...",822
+ka patero ahau,I fart,Verbs,"As_a_human,_I...",1260
+ka mimi ahau,I pee,Verbs,"As_a_human,_I...",1261
+ka tiko ahau,I poop,Verbs,"As_a_human,_I...",1262
+ka mare ahau,I cough,Verbs,"As_a_human,_I...",1430
+ka pā ahau,I touch,Verbs,"As_a_human,_I...",1521
+ka rongo ahau,I smell,Verbs,"As_a_human,_I...",1554
+ka hā ahau,I breathe,Verbs,"As_a_human,_I...",1603
+ka rongo ahau,I hear,Verbs,"As_a_human,_I...",1773
+ka ngongoro ahau,I snore,Verbs,"As_a_human,_I...",2481
+ka pupuri ahau i taku hā,I hold my breath,Verbs,"As_a_human,_I...",2698
+ka wiriwiri ahau,I shiver,Verbs,"As_a_human,_I...",3922
+ka eke paika ahau,I ride a bicycle,Verbs,How_I_Move,196
+ka hikoi ahau,I walk,Verbs,How_I_Move,258
+ka kanikani ahau,I dance,Verbs,How_I_Move,417
+ka peke ahau,I jump,Verbs,How_I_Move,437
+ka oma ahau,I run,Verbs,How_I_Move,438
+ka kauhoe ahau,I swim,Verbs,How_I_Move,517
+ka piki ahau i te arawhata,I climb the stairs,Verbs,How_I_Move,651
+ka taka ahau,I slip,Verbs,How_I_Move,1280
+ka taka ahau,I fall,Verbs,How_I_Move,1451
+i taka ahau,I fell over,Verbs,How_I_Move,1553
+ka ngahoro ahau,I collapse,Verbs,How_I_Move,2750
+ka kuhu ahau,I enter,Verbs,How_I_Move,2913
+ka huri ahau,I turn,Verbs,How_I_Move,2931
+ka peita ahau,I paint,Verbs,How_I_Act,566
+ka tuhi ahau,I write,Verbs,How_I_Act,567
+ka wānanga ahau,I study,Verbs,How_I_Act,811
+ka whakanui ahau,I celebrate,Verbs,How_I_Act,1095
+ka kōwhiri ahau,I choose,Verbs,How_I_Act,1225
+ka rapu ahau,I search,Verbs,How_I_Act,1452
+ka pātai ahau,I ask,Verbs,How_I_Act,1465
+ka pōti ahau,I vote,Verbs,How_I_Act,1522
+hemahema,I flirt,Verbs,How_I_Act,1573
+ka whakarongo ahau ki ngā rangi,I listen to music,Verbs,How_I_Act,2660
+he pai ki ahau,I enjoy,Verbs,How_I_Act,2662
+ka pohewa ahau,I imagine,Verbs,How_I_Act,3418
+ka tiaki ahau,I care,Verbs,How_I_Act,3845
+ka tāhae ahau,I steal,Verbs,What_I_Do,1367
+ka hopu ahau,I catch,Verbs,What_I_Do,1450
+ka whakakī ahau,I fill,Verbs,What_I_Do,1489
+ka tunu ahau,I bake,Verbs,What_I_Do,1501
+ka whakahīrere ahau,I flush,Verbs,What_I_Do,2499
+ka horoi ahau,I scrub,Verbs,What_I_Do,2500
+ka whakaora ahau,I rescue,Verbs,What_I_Do,2517
+ka whakarite ahau,I arrange,Verbs,What_I_Do,2644
+ka hanga ahau,I make,Verbs,What_I_Do,2661
+ka pupuri ahau i te tatau,I hold the door,Verbs,What_I_Do,2805
+ka perehi ahau,I press,Verbs,What_I_Do,3310
+ka whakahoki ahau,I put away,Verbs,What_I_Do,3417
+ka hiki ahau,I lift,Verbs,What_I_Do,3597
+ka ūkui ahau,I wipe,Verbs,What_I_Do,3616
+ka whakamakere ahau,I drop,Verbs,What_I_Do,3706
+ka kokoti ahau,I prune,Verbs,What_I_Do,3760
+ka takai ahau,I wrap,Verbs,What_I_Do,3958
+ka mania,it slides,Verbs,What_It_Does,1618
+ka takahuri,It rolls,Verbs,What_It_Does,1680
+ka kōtiti,it derails,Verbs,What_It_Does,2625
+ka whati,it crashes,Verbs,What_It_Does,3020
+kia ora,hi,Phrases,Basic_Phrases,4
+tēnā koe,thank you,Phrases,Basic_Phrases,5
+haere rā,bye,Phrases,Basic_Phrases,6
+koa,please,Phrases,Basic_Phrases,7
+pātara miraka,baby bottle,People & Relationships,Baby,1290
+moenga pēpi,baby crib,People & Relationships,Baby,1291
+kākara,baby rattle,People & Relationships,Baby,1292
+tūru pēpi,bouncer,People & Relationships,Baby,1293
+whānau pēpi,birth,People & Relationships,Baby,1295
+whāngai pēpi,breastfeeding,People & Relationships,Baby,1296
+kope,diaper,People & Relationships,Baby,1298
+tini kope,diaper change,People & Relationships,Baby,1299
+putiputi,bouquet,People & Relationships,Marriage,1460
+wā whakararawe,honeymoon,People & Relationships,Marriage,1464
+tono,proposal,People & Relationships,Marriage,1467
+hiki karaehe,toast,People & Relationships,Marriage,1469
+keke,wedding cake,People & Relationships,Marriage,1470
+whakaaetanga mārenatanga,wedding contract,People & Relationships,Marriage,1471
+rā mārenatanga,wedding day,People & Relationships,Marriage,1472
+kākahu mārenatanga,wedding dress,People & Relationships,Marriage,1473
+koha,wedding gift,People & Relationships,Marriage,1474
+tono,wedding invitation,People & Relationships,Marriage,1475
+ringi,wedding ring,People & Relationships,Marriage,1476
+ahurewa,altar,People & Relationships,Marriage,2783
+whakamāmari,pacifier,People & Relationships,More_Baby,1303
+pō mimi,potty,People & Relationships,More_Baby,1304
+hapūtanga,pregnancy,People & Relationships,More_Baby,1305
+māhanga,twins,People & Relationships,More_Baby,1306
+tūru teitei,high chair,People & Relationships,More_Baby,3221
+waka pēpi,stroller,People & Relationships,More_Baby,3222
+waka pēpi,pram,People & Relationships,More_Baby,3223
+tūru motokā,car seat,People & Relationships,More_Baby,3224
+paura pēpi,baby powder,People & Relationships,More_Baby,3225
+kaitiaki pēpi,babysitter,People & Relationships,More_Baby,3226
+tono,proposal,People & Relationships,We're_engaged!,1467
+putiputi,bouquet,People & Relationships,Wedding_Day,1460
+wahine ka mārenatia,bride,People & Relationships,Wedding_Day,1461
+tāne ka mārenatia,groom,People & Relationships,Wedding_Day,1463
+wā whakararawe,honeymoon,People & Relationships,Wedding_Day,1464
+keke,wedding cake,People & Relationships,Wedding_Day,1470
+rā mārenatanga,wedding day,People & Relationships,Wedding_Day,1472
+kākahu mārenatanga,wedding dress,People & Relationships,Wedding_Day,1473
+ringi,wedding ring,People & Relationships,Wedding_Day,1476
+ahurewa,altar,People & Relationships,Wedding_Day,2783
+mātua,parents,People & Relationships,My_Family,364
+pāpā,father,People & Relationships,My_Family,366
+koro,grandfather,People & Relationships,My_Family,370
+kuia,grandmother,People & Relationships,My_Family,371
+māmā,mother,People & Relationships,My_Family,374
+awhi,hug,People & Relationships,My_Family,1571
+ira,genes,People & Relationships,Family_Tree,2774
+whakapapa,family tree,People & Relationships,Family_Tree,2775
+irāmutu,niece,People & Relationships,Family_Tree,2776
+irāmutu,nephew,People & Relationships,Family_Tree,2777
+taokete,brother-in-law,People & Relationships,Family_Tree,2778
+taokete,sister-in-law,People & Relationships,Family_Tree,2779
+hungarei,mother-in-law,People & Relationships,Family_Tree,2780
+kaitiaki,godfather,People & Relationships,Family_Tree,2786
+matua kēkē,uncle,People & Relationships,Family_Tree,2787
+waka tūroro,ambulance,Health & Wellness,Health,381
+whakamātautau,examination,Health & Wellness,Health,1428
+patoto manawa,heartbeat,Health & Wellness,Health,1429
+pire hauora,medical bill,Health & Wellness,Health,1433
+hītori hauora,medical record,Health & Wellness,Health,1434
+tūroro,patient,Health & Wellness,Health,1435
+wāhi tūroro,patient admission,Health & Wellness,Health,1436
+patoto manawa,pulse,Health & Wellness,Health,1437
+rata kokoti,surgeon,Health & Wellness,Health,1441
+tākuta poka,general surgeon,Health & Wellness,Health,3911
+tākuta manawa,cardiologist,Health & Wellness,Health,3912
+tākuta tamariki,pediatrician,Health & Wellness,Health,3913
+tākuta kiri,dermatologist,Health & Wellness,Health,3914
+tākuta whakamoe,anesthesiologist,Health & Wellness,Health,3915
+ka whakamaimoa ahau,I treat,Health & Wellness,Health,3759
+tinana,body,Health & Wellness,Body,421
+māhunga,head,Health & Wellness,Body,422
+makawe,hair,Health & Wellness,Body,423
+kanohi,face,Health & Wellness,Body,424
+taringa,ears,Health & Wellness,Body,425
+karu,eyes,Health & Wellness,Body,426
+ihu,nose,Health & Wellness,Body,427
+waha,mouth,Health & Wellness,Body,428
+niho,tooth,Health & Wellness,Body,429
+ngutu,lips,Health & Wellness,Body,431
+ringa,hand,Health & Wellness,Body,432
+matimati,finger,Health & Wellness,Body,433
+nēra,nail,Health & Wellness,Body,434
+waewae,foot,Health & Wellness,Body,435
+ka peke ahau,I jump,Health & Wellness,Body,437
+ka oma ahau,I run,Health & Wellness,Body,438
+pukuriri,angry,Health & Wellness,Emotions,576
+hōhā,bored,Health & Wellness,Emotions,577
+āio,calm,Health & Wellness,Emotions,578
+pōrangi,crazy,Health & Wellness,Emotions,579
+hīkaka,excited,Health & Wellness,Emotions,582
+harikoa,happy,Health & Wellness,Emotions,585
+āmaimai,nervous,Health & Wellness,Emotions,587
+ngēngē,tired,Health & Wellness,Emotions,592
+tinana,body,Health & Wellness,Body_Parts,421
+ringa,hand,Health & Wellness,Body_Parts,432
+matimati,finger,Health & Wellness,Body_Parts,433
+nēra,nail,Health & Wellness,Body_Parts,434
+waewae,foot,Health & Wellness,Body_Parts,435
+waewae,ankle,Health & Wellness,Body_Parts,814
+ringa,arm,Health & Wellness,Body_Parts,815
+whatīanga,elbow,Health & Wellness,Body_Parts,819
+rekereke,heel,Health & Wellness,Body_Parts,821
+turi,knee,Health & Wellness,Body_Parts,823
+waewae,leg,Health & Wellness,Body_Parts,824
+pokohiwi,shoulder,Health & Wellness,Body_Parts,2921
+karaka whakaoho,alarm clock,Health & Wellness,Sleep,1239
+ārai,blinds,Health & Wellness,Sleep,1240
+moenga arawhata,bunk bed,Health & Wellness,Sleep,1241
+moemoeā,dream,Health & Wellness,Sleep,1242
+moenga whakawerewere,hammock,Health & Wellness,Sleep,1243
+mihini whakamaroke,humidifier,Health & Wellness,Sleep,1244
+tūrama,insomnia,Health & Wellness,Sleep,1245
+moe poto,nap,Health & Wellness,Sleep,1246
+pō,night,Health & Wellness,Sleep,1247
+moemoeā whakamataku,nightmare,Health & Wellness,Sleep,1248
+tēpu,nightstand,Health & Wellness,Sleep,1249
+whakahinamoe,anesthetic,Health & Wellness,Oral_Care,1477
+whakatōtika niho,braces,Health & Wellness,Oral_Care,1478
+arearenga,cavity,Health & Wellness,Oral_Care,1479
+ārai niho,denture,Health & Wellness,Oral_Care,1480
+tako,gum,Health & Wellness,Oral_Care,1484
+whakatika niho,root canal treatment,Health & Wellness,Oral_Care,1486
+maimoatanga niho,teeth bridge,Health & Wellness,Oral_Care,1487
+whakamā niho,teeth whitening,Health & Wellness,Oral_Care,1488
+karauna niho,tooth crown,Health & Wellness,Oral_Care,1490
+wiri niho,tooth drilling,Health & Wellness,Oral_Care,1491
+tango niho,tooth extraction,Health & Wellness,Oral_Care,1492
+whakatō niho,tooth implant,Health & Wellness,Oral_Care,1493
+tūru kāraho,deck chair,Health & Wellness,Spa,1904
+kauranga wera,hot tub,Health & Wellness,Spa,1905
+rūma whakamau kākahu,locker room,Health & Wellness,Spa,1909
+rūma whakamahana,sauna,Health & Wellness,Spa,1911
+rūma mamaoa,steam room,Health & Wellness,Spa,1912
+puna kaukau,swimming pool,Health & Wellness,Spa,1913
+kauranga puia,thermal bath,Health & Wellness,Spa,1914
+wai puia,thermal water,Health & Wellness,Spa,1915
+retireti wai,water slide,Health & Wellness,Spa,1917
+ārai moe,sleep mask,Health & Wellness,More_Sleep,1250
+hīkoi moe,sleep walking,Health & Wellness,More_Sleep,1251
+moe,sleeping,Health & Wellness,More_Sleep,1252
+pire moe,sleeping pill,Health & Wellness,More_Sleep,1253
+ngongoro,snoring,Health & Wellness,More_Sleep,1254
+hītako,yawn,Health & Wellness,More_Sleep,1255
+puru taringa,ear plugs,Health & Wellness,More_Sleep,2465
+urunga kaki,neck pillow,Health & Wellness,More_Sleep,2466
+pouraka,cradle,Health & Wellness,More_Sleep,2467
+matemoe,narcolepsy,Health & Wellness,More_Sleep,2468
+ngēngē,groggy,Health & Wellness,More_Sleep,2469
+niho,tooth,Health & Wellness,More_Body_Parts,429
+tuara,lower back,Health & Wellness,More_Body_Parts,2917
+hope,waistline,Health & Wellness,More_Body_Parts,2918
+maikuku,fingernail,Health & Wellness,More_Body_Parts,2919
+monamona,knuckle,Health & Wellness,More_Body_Parts,2920
+whatiānga ringa,wrist,Health & Wellness,More_Body_Parts,2923
+pāpāringa,cheeks,Health & Wellness,More_Body_Parts,2924
+tane o te kakī,Adam's apple,Health & Wellness,More_Body_Parts,2925
+maikuku waewae,toenail,Health & Wellness,More_Body_Parts,2926
+kēkē,armpit,Health & Wellness,More_Body_Parts,2927
+uaua puku,abs,Health & Wellness,More_Body_Parts,2928
+kauae,jaw,Health & Wellness,More_Body_Parts,2929
+pito,belly button,Health & Wellness,More_Body_Parts,2930
+ka heru ahau i aku makawe,I comb my hair,Health & Wellness,Daily_Routines,3528
+ka whakarite ahau i te whakaaraara,I set an alarm,Health & Wellness,Daily_Routines,3529
+ka oho ahau,I wake up,Health & Wellness,Daily_Routines,3530
+ka hoki ahau ki taku moenga,I go to bed,Health & Wellness,Daily_Routines,3531
+ka horoi ahau i taku kanohi,I wash my face,Health & Wellness,Daily_Routines,3533
+ka haere ahau ki te mahi,I go to work,Health & Wellness,Daily_Routines,3535
+ka kai tina ahau,I have lunch,Health & Wellness,Daily_Routines,3536
+ka hoki ahau ki te kāinga,I return home,Health & Wellness,Daily_Routines,3537
+ka mutu ahau,I finish,Health & Wellness,Daily_Routines,3538
+mamae niho,toothache,Health & Wellness,Aches_&_Pains,391
+mate taringa,earache,Health & Wellness,Aches_&_Pains,3833
+mate puku,stomachache,Health & Wellness,Aches_&_Pains,3834
+mate tuara,backache,Health & Wellness,Aches_&_Pains,3835
+marū,bruise,Health & Wellness,Aches_&_Pains,3836
+kaki mārō,stiff neck,Health & Wellness,Aches_&_Pains,3838
+hoipū,blister,Health & Wellness,Aches_&_Pains,3839
+ngutu maroke,chapped lips,Health & Wellness,Aches_&_Pains,3840
+tīkākā,sunburn,Health & Wellness,Aches_&_Pains,3841
+ngau pēpeke,insect bite,Health & Wellness,Aches_&_Pains,3844
+whati kōiwi,bone fracture,Health & Wellness,Aches_&_Pains,3847
+whakariaka uaua,muscle strain,Health & Wellness,Aches_&_Pains,3848
+hakoko,cramp,Health & Wellness,Aches_&_Pains,3849
+mate tūtohu,allergy,Health & Wellness,Illnesses,3905
+ihu hupe,runny nose,Health & Wellness,Illnesses,3906
+huangō,asthma,Health & Wellness,Illnesses,3907
+he teitei te taukapa o te toto,high blood pressure,Health & Wellness,Illnesses,3908
+whurū,flu,Health & Wellness,Illnesses,3909
+mate huka,diabetes,Health & Wellness,Illnesses,3910
+tākuta poka,general surgeon,Health & Wellness,Illnesses,3911
+tākuta manawa,cardiologist,Health & Wellness,Illnesses,3912
+tākuta tamariki,pediatrician,Health & Wellness,Illnesses,3913
+tākuta kiri,dermatologist,Health & Wellness,Illnesses,3914
+tākuta whakamoe,anesthesiologist,Health & Wellness,Illnesses,3915
+rare whakaora korokoro,throat lozenges,Health & Wellness,Illnesses,3917
+rongoā,pain killer,Health & Wellness,Illnesses,3918
+huaora,vitamins,Health & Wellness,Illnesses,3919
+rongoā āraimate,vaccine,Health & Wellness,Illnesses,3920
+rongoā paturopi,antibiotics,Health & Wellness,Illnesses,3921
+ka wiriwiri ahau,I shiver,Health & Wellness,Illnesses,3922
+āta whakatā,meditation,Health & Wellness,Mindfulness,1538
+tī,tea,Health & Wellness,Natural_Remedies,33
+ka moe ahau,I sleep,Health & Wellness,Natural_Remedies,156
+mare,cough,Health & Wellness,COVID_Talk,386
+kirikā,fever,Health & Wellness,COVID_Talk,387
+kōiwi,skeleton,Holidays,Halloween,827
+pō whakamataku,Halloween,Holidays,Halloween,1094
+pekapeka,bat,Holidays,Halloween,1189
+taniwha,monster,Holidays,Halloween,1776
+pere tatau,doorbell,Holidays,Halloween,2638
+koha,gift,Holidays,Winter_Holidays,1093
+pihikete kirihimete,gingerbread,Holidays,Winter_Holidays,3702
+ka whakanui ahau,I celebrate,Holidays,Winter_Holidays,1095
+ka tunu ahau,I bake,Holidays,Winter_Holidays,1501
+pāti,party,Holidays,New_Years,407
+pahū ahi,fireworks,Holidays,New_Years,1091
+te rangi i mua i te tau hōu,New Year's Eve,Holidays,New_Years,1098
+hiki karaehe,toast,Holidays,New_Years,1469
+rā whakanui aroha,Valentine's day,Holidays,Valentine's_Day,1101
+putiputi,bouquet,Holidays,Valentine's_Day,1460
+ka pupuri ringa māua,we hold hands,Holidays,Valentine's_Day,2781
+ka whakanui ahau,I compliment,Holidays,Valentine's_Day,2802
+kīngi,king,Gaming,Deck_of_Cards,1041
+kuini,queen,Gaming,Deck_of_Cards,1049
+wharepukapuka,library,All Things School,Naming_Things_at_School,303
+akomanga,classroom,All Things School,Naming_Things_at_School,799
+papamā,whiteboard,All Things School,Naming_Things_at_School,813
+ipu rāpihi,trash can,All Things School,Naming_Things_at_School,1001
+wāhi mau taputapu,locker,All Things School,Naming_Things_at_School,1114
+tātaitai,calculator,All Things School,In_My_Backpack,798
+ūkui,eraser,All Things School,In_My_Backpack,801
+wai tae,ink,All Things School,In_My_Backpack,804
+puka iti,notebook,All Things School,In_My_Backpack,806
+kinipepa,paper clip,All Things School,In_My_Backpack,807
+pene,pen,All Things School,In_My_Backpack,808
+penerākau,pencil,All Things School,In_My_Backpack,809
+ruri,ruler,All Things School,In_My_Backpack,810
+kāri tauira,student id,All Things School,In_My_Backpack,812
+pēke,backpack,All Things School,In_My_Backpack,1103
+kaitiaki moni,cashier,All Things School,At_the_Cafeteria,209
+napikena,napkin,All Things School,At_the_Cafeteria,739
+heri,tray,All Things School,At_the_Cafeteria,744
+wharekai,cafeteria,All Things School,At_the_Cafeteria,3875
+whakamātautau,exam,All Things School,Study_Routine,802
+ka wānanga ahau,I study,All Things School,Study_Routine,811
+whakamātautau,experiment,All Things School,Science_Lab,1637
+mātai matū,chemistry,All Things School,School_Subjects,1633
+tītohu,diploma,All Things School,University_Studies,800
+whakapōtaetanga,graduation,All Things School,University_Studies,803
+kauhau,lecture,All Things School,University_Studies,805
+wharepuni,hostel,All Things School,I_Will_Study_Abroad,839
+tono,proposal,My Romantic Relationships,We're_engaged!,1467
+putiputi,bouquet,My Romantic Relationships,Wedding_Day,1460
+wahine ka mārenatia,bride,My Romantic Relationships,Wedding_Day,1461
+tāne ka mārenatia,groom,My Romantic Relationships,Wedding_Day,1463
+wā whakararawe,honeymoon,My Romantic Relationships,Wedding_Day,1464
+keke,wedding cake,My Romantic Relationships,Wedding_Day,1470
+rā mārenatanga,wedding day,My Romantic Relationships,Wedding_Day,1472
+kākahu mārenatanga,wedding dress,My Romantic Relationships,Wedding_Day,1473
+ringi,wedding ring,My Romantic Relationships,Wedding_Day,1476
+ahurewa,altar,My Romantic Relationships,Wedding_Day,2783

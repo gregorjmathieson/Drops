@@ -1,0 +1,3987 @@
+咖啡,coffee,Food & Drinks,Drinks,25
+可樂,coke,Food & Drinks,Drinks,26
+熱朱古力,hot chocolate,Food & Drinks,Drinks,27
+飲品,drink,Food & Drinks,Drinks,28
+牛奶,milk,Food & Drinks,Drinks,29
+橙汁,orange juice,Food & Drinks,Drinks,31
+蘇打水,soda,Food & Drinks,Drinks,32
+茶,tea,Food & Drinks,Drinks,33
+水,water,Food & Drinks,Drinks,34
+椰水,coconut water,Food & Drinks,Drinks,1854
+麵包,bread,Food & Drinks,Food,121
+早餐,breakfast,Food & Drinks,Food,122
+生果,fruits,Food & Drinks,Food,123
+芝士,cheese,Food & Drinks,Food,124
+蛋,egg,Food & Drinks,Food,125
+魚,fish,Food & Drinks,Food,126
+湯,soup,Food & Drinks,Food,128
+肉,meat,Food & Drinks,Food,132
+糖,sugar,Food & Drinks,Food,134
+沙律,salad,Food & Drinks,Food,135
+乳製品,dairy,Food & Drinks,Food,2879
+午餐,lunch,Food & Drinks,Food,2880
+晚餐,dinner,Food & Drinks,Food,2881
+外賣,takeout,Food & Drinks,Food,2892
+布冧,plum,Food & Drinks,Fruits,678
+奇異果,kiwi,Food & Drinks,Fruits,679
+蜜瓜,honeydew melon,Food & Drinks,Fruits,681
+桃,peach,Food & Drinks,Fruits,682
+櫻桃,cherry,Food & Drinks,Fruits,683
+蘋果,apple,Food & Drinks,Fruits,685
+葡萄,grape,Food & Drinks,Fruits,690
+西瓜,watermelon,Food & Drinks,Fruits,691
+梨,pear,Food & Drinks,Fruits,692
+香蕉,banana,Food & Drinks,Fruits,694
+哈密瓜,cantaloupe,Food & Drinks,Fruits,3303
+蘑菇,mushroom,Food & Drinks,Vegetables,129
+椰菜花,broccoli,Food & Drinks,Vegetables,697
+白菜,cabbage,Food & Drinks,Vegetables,698
+椰菜花,cauliflower,Food & Drinks,Vegetables,700
+粟米,corn,Food & Drinks,Vegetables,701
+青瓜,cucumber,Food & Drinks,Vegetables,702
+生菜,lettuce,Food & Drinks,Vegetables,704
+西芹,parsley,Food & Drinks,Vegetables,706
+蘿蔔,radish,Food & Drinks,Vegetables,709
+蘆筍,asparagus,Food & Drinks,Vegetables,3186
+豌豆,pea,Food & Drinks,Vegetables,3187
+抱子甘藍,brussels sprout,Food & Drinks,Vegetables,3188
+帳單,bill,Food & Drinks,Restaurant,730
+樽,bottle,Food & Drinks,Restaurant,731
+調味品,condiments,Food & Drinks,Restaurant,733
+甜品,dessert,Food & Drinks,Restaurant,734
+菜單,menu,Food & Drinks,Restaurant,738
+餐巾,napkin,Food & Drinks,Restaurant,739
+街頭美食,street food,Food & Drinks,Restaurant,740
+檯布,tablecloth,Food & Drinks,Restaurant,741
+小費,tip,Food & Drinks,Restaurant,742
+牙籤,toothpick,Food & Drinks,Restaurant,743
+托盤,tray,Food & Drinks,Restaurant,744
+煙肉,bacon,Food & Drinks,More_Foods,764
+牛油,butter,Food & Drinks,More_Foods,765
+火腿,ham,Food & Drinks,More_Foods,768
+漢堡包,hamburger,Food & Drinks,More_Foods,769
+熱狗,hotdog,Food & Drinks,More_Foods,771
+三文魚,salmon,Food & Drinks,More_Foods,776
+香腸,sausage,Food & Drinks,More_Foods,777
+酸奶,yogurt,Food & Drinks,More_Foods,779
+羅勒,basil,Food & Drinks,Spices_and_Sweets,848
+蛋糕,cake,Food & Drinks,Spices_and_Sweets,850
+辣椒,chili,Food & Drinks,Spices_and_Sweets,851
+朱古力,chocolate,Food & Drinks,Spices_and_Sweets,852
+肉桂,cinnamon,Food & Drinks,Spices_and_Sweets,853
+曲奇餅,cookie,Food & Drinks,Spices_and_Sweets,854
+薑,ginger,Food & Drinks,Spices_and_Sweets,855
+餅,muffin,Food & Drinks,Spices_and_Sweets,856
+冬甩,donut,Food & Drinks,Spices_and_Sweets,857
+麵粉,flour,Food & Drinks,Spices_and_Sweets,858
+蜜糖,honey,Food & Drinks,Spices_and_Sweets,859
+雪糕,ice cream,Food & Drinks,Spices_and_Sweets,860
+棍仔糖,lollipop,Food & Drinks,Spices_and_Sweets,861
+胡椒,pepper,Food & Drinks,Spices_and_Sweets,862
+鹽,salt,Food & Drinks,Spices_and_Sweets,863
+雲呢拿,vanilla,Food & Drinks,Spices_and_Sweets,864
+攪拌機,blender,Food & Drinks,Cooking,950
+罐頭,can,Food & Drinks,Cooking,951
+食譜,cookbook,Food & Drinks,Cooking,952
+開瓶器,corkscrew,Food & Drinks,Cooking,953
+刨絲器,grater,Food & Drinks,Cooking,954
+榨汁機,juicer,Food & Drinks,Cooking,955
+湯殼,ladle,Food & Drinks,Cooking,956
+電動打蛋器,mixer,Food & Drinks,Cooking,957
+攪拌碗,mixing bowl,Food & Drinks,Cooking,958
+胡桃夾,nutcracker,Food & Drinks,Cooking,959
+胡椒磨,pepper mill,Food & Drinks,Cooking,960
+海綿,sponge,Food & Drinks,Cooking,961
+隔篩,strainer,Food & Drinks,Cooking,962
+探熱針,thermometer,Food & Drinks,Cooking,963
+計時器,timer,Food & Drinks,Cooking,964
+烤麵包機,toaster,Food & Drinks,Cooking,965
+打蛋器,whisk,Food & Drinks,Cooking,966
+法式長棍麵包,baguette,Food & Drinks,Pastries,1494
+包,bun,Food & Drinks,Pastries,1496
+糖果,candy,Food & Drinks,Pastries,1497
+梳打餅,crackers,Food & Drinks,Pastries,1499
+牛角包,croissant,Food & Drinks,Pastries,1500
+花生醬,peanut butter,Food & Drinks,Pastries,1502
+餡餅,pie,Food & Drinks,Pastries,1504
+意大利薄餅,pizza,Food & Drinks,Pastries,1505
+椒鹽卷餅,pretzel,Food & Drinks,Pastries,1506
+鬆餅,scone,Food & Drinks,Pastries,1509
+咖啡師,barista,Food & Drinks,Tea_and_Coffee,1852
+釀造時間,brew time,Food & Drinks,Tea_and_Coffee,1853
+咖啡豆,coffee bean,Food & Drinks,Tea_and_Coffee,1855
+咖啡研磨機,coffee grinder,Food & Drinks,Tea_and_Coffee,1856
+濃縮咖啡,espresso,Food & Drinks,Tea_and_Coffee,1857
+濃縮咖啡機,espresso machine,Food & Drinks,Tea_and_Coffee,1858
+滴漏咖啡,filter coffee,Food & Drinks,Tea_and_Coffee,1859
+法式濾壓壺,French press,Food & Drinks,Tea_and_Coffee,1860
+鮮奶咖啡,latte,Food & Drinks,Tea_and_Coffee,1863
+茶包,tea bag,Food & Drinks,Tea_and_Coffee,1865
+茶葉蛋,tea egg,Food & Drinks,Tea_and_Coffee,1866
+茶葉,tea leaf,Food & Drinks,Tea_and_Coffee,1867
+薄荷,peppermint,Food & Drinks,Herbs,3149
+香茅,lemongrass,Food & Drinks,Herbs,3150
+迷迭香,rosemary,Food & Drinks,Herbs,3152
+鼠尾草,sage,Food & Drinks,Herbs,3153
+丁香,clove,Food & Drinks,Herbs,3154
+茴香,fennel,Food & Drinks,Herbs,3155
+人蔘,ginseng,Food & Drinks,Herbs,3157
+綠薄荷,spearmint,Food & Drinks,Herbs,3159
+馬郁蘭,marjoram,Food & Drinks,Herbs,3160
+番紅花,saffron,Food & Drinks,Herbs,3161
+韭菜,chives,Food & Drinks,Herbs,3162
+百里香,thyme,Food & Drinks,Herbs,3163
+薄荷,mint,Food & Drinks,Herbs,3164
+牛油果,avocado,Food & Drinks,More_Vegetables,695
+大蔥,leek,Food & Drinks,More_Vegetables,3185
+白菜,bok choy,Food & Drinks,More_Vegetables,3189
+朝鮮薊,artichoke,Food & Drinks,More_Vegetables,3190
+茄子,eggplant,Food & Drinks,More_Vegetables,3191
+芽菜,sprouts,Food & Drinks,More_Vegetables,3194
+芥蘭,kale,Food & Drinks,More_Vegetables,3195
+紅菜頭,beetroot,Food & Drinks,More_Vegetables,3196
+大豆,soybeans,Food & Drinks,More_Vegetables,3198
+橄欖,olive,Food & Drinks,Exotic_Fruits,686
+百香果,passion fruit,Food & Drinks,Exotic_Fruits,3293
+石榴,pomegranate,Food & Drinks,Exotic_Fruits,3294
+無花果,fig,Food & Drinks,Exotic_Fruits,3295
+芒果,mango,Food & Drinks,Exotic_Fruits,3296
+榴槤,durian,Food & Drinks,Exotic_Fruits,3297
+木瓜,papaya,Food & Drinks,Exotic_Fruits,3298
+大黃,rhubarb,Food & Drinks,Exotic_Fruits,3301
+椰棗,date,Food & Drinks,Exotic_Fruits,3302
+火龍果,dragon fruit,Food & Drinks,Exotic_Fruits,3305
+蛇皮果,snake fruit,Food & Drinks,Exotic_Fruits,3306
+榨汁機,fruit press,Food & Drinks,Even_More_Cooking,3563
+炒菜鏟,spatula,Food & Drinks,Even_More_Cooking,3564
+芝士刨,cheese grater,Food & Drinks,Even_More_Cooking,3565
+開瓶器,wine opener,Food & Drinks,Even_More_Cooking,3566
+鉗,tongs,Food & Drinks,Even_More_Cooking,3568
+蒜茸夾,garlic press,Food & Drinks,Even_More_Cooking,3569
+量杯,measuring cups,Food & Drinks,Even_More_Cooking,3570
+食物磅,kitchen scale,Food & Drinks,Even_More_Cooking,3571
+量羹,measuring spoons,Food & Drinks,Even_More_Cooking,3572
+鍋,wok,Food & Drinks,Even_More_Cooking,3574
+芥末,mustard,Food & Drinks,Even_More_Cooking,3575
+番茄醬,ketchup,Food & Drinks,Even_More_Cooking,3576
+辣椒醬,hot sauce,Food & Drinks,Even_More_Cooking,3577
+豉油,soy sauce,Food & Drinks,Even_More_Cooking,3578
+刨碎,I grate,Food & Drinks,Even_More_Cooking,3579
+搽,I spread,Food & Drinks,Even_More_Cooking,3580
+小食,snack,Food & Drinks,Snacks,2882
+貝果包,bagel,Food & Drinks,Snacks,3689
+（一）包炸薯片,bag of chips,Food & Drinks,Snacks,3690
+爆谷,popcorn,Food & Drinks,Snacks,3691
+醃青瓜,pickle,Food & Drinks,Snacks,3692
+粟米片,nachos,Food & Drinks,Snacks,3693
+奶昔,milkshake,Food & Drinks,Snacks,3694
+牛肉乾,beef jerky,Food & Drinks,Snacks,3695
+乾果,dried fruit,Food & Drinks,Snacks,3696
+啫喱,jelly,Food & Drinks,Snacks,3698
+脆片及配醬,chips and dip,Food & Drinks,Snacks,3699
+香口膠,chewing gum,Food & Drinks,Snacks,3703
+布甸,pudding,Food & Drinks,Snacks,3704
+班戟,pancake,Food & Drinks,Breakfast_Foods,3941
+穀類,cereal,Food & Drinks,Breakfast_Foods,3942
+窩夫,waffle,Food & Drinks,Breakfast_Foods,3943
+奄列,omelet,Food & Drinks,Breakfast_Foods,3944
+燕麥營養棒,granola bar,Food & Drinks,Breakfast_Foods,3945
+多士,toast,Food & Drinks,Breakfast_Foods,3946
+法式鹹批,quiche,Food & Drinks,Breakfast_Foods,3948
+法式奶酥麵包,brioche,Food & Drinks,Breakfast_Foods,3949
+食物,food,Food & Drinks,Foodie,6684
+畫,picture,Food & Drinks,Foodie,6685
+指南,guide,Food & Drinks,Foodie,6686
+奶昔,shake,Food & Drinks,Foodie,6687
+提手,handle,Food & Drinks,Foodie,6688
+旅行團,tour,Food & Drinks,Foodie,6690
+餐,meal,Food & Drinks,Foodie,6692
+袋,bag,Food & Drinks,Foodie,6693
+包裹,package,Food & Drinks,Foodie,6694
+葡萄酒,wine,Food & Drinks,Foodie,6695
+杯,cup,Food & Drinks,Foodie,6696
+價格,price,Food & Drinks,Foodie,6698
+我送遞,I deliver,Food & Drinks,Foodie,6689
+我滾壓,I roll,Food & Drinks,Foodie,6691
+是,yes,Study with Amber,Essentials,1
+不,no,Study with Amber,Essentials,2
+好的,ok,Study with Amber,Essentials,3
+嗨,hi,Study with Amber,Essentials,4
+多謝,thank you,Study with Amber,Essentials,5
+再見,bye,Study with Amber,Essentials,6
+請,please,Study with Amber,Essentials,7
+我,I,Study with Amber,Essentials,9
+和,and,Study with Amber,Essentials,16
+或者,or,Study with Amber,Essentials,17
+這個,this,Study with Amber,Essentials,18
+咖啡,coffee,Study with Amber,Drinks,25
+可樂,coke,Study with Amber,Drinks,26
+熱朱古力,hot chocolate,Study with Amber,Drinks,27
+飲品,drink,Study with Amber,Drinks,28
+牛奶,milk,Study with Amber,Drinks,29
+橙汁,orange juice,Study with Amber,Drinks,31
+蘇打水,soda,Study with Amber,Drinks,32
+茶,tea,Study with Amber,Drinks,33
+水,water,Study with Amber,Drinks,34
+椰水,coconut water,Study with Amber,Drinks,1854
+零,zero,Study with Amber,Numbers,41
+一,one,Study with Amber,Numbers,42
+二,two,Study with Amber,Numbers,43
+三,three,Study with Amber,Numbers,44
+四,four,Study with Amber,Numbers,45
+五,five,Study with Amber,Numbers,46
+六,six,Study with Amber,Numbers,47
+七,seven,Study with Amber,Numbers,48
+八,eight,Study with Amber,Numbers,49
+九,nine,Study with Amber,Numbers,50
+十,ten,Study with Amber,Numbers,51
+十一,eleven,Study with Amber,Numbers,52
+十二,twelve,Study with Amber,Numbers,53
+二十,twenty,Study with Amber,Numbers,54
+百,hundred,Study with Amber,Numbers,55
+我想,I think,Study with Amber,Numbers,56
+我數,I count,Study with Amber,Numbers,58
+麵包,bread,Study with Amber,Food,121
+早餐,breakfast,Study with Amber,Food,122
+生果,fruits,Study with Amber,Food,123
+芝士,cheese,Study with Amber,Food,124
+蛋,egg,Study with Amber,Food,125
+魚,fish,Study with Amber,Food,126
+湯,soup,Study with Amber,Food,128
+肉,meat,Study with Amber,Food,132
+糖,sugar,Study with Amber,Food,134
+沙律,salad,Study with Amber,Food,135
+乳製品,dairy,Study with Amber,Food,2879
+午餐,lunch,Study with Amber,Food,2880
+晚餐,dinner,Study with Amber,Food,2881
+外賣,takeout,Study with Amber,Food,2892
+卡,cards,Study with Amber,Fun,401
+電影院,cinema,Study with Amber,Fun,403
+演唱會,concert,Study with Amber,Fun,404
+展覽會,exhibition,Study with Amber,Fun,405
+報紙,newspaper,Study with Amber,Fun,406
+派對,party,Study with Amber,Fun,407
+比賽,match,Study with Amber,Fun,409
+談天,chat,Study with Amber,Fun,410
+電子遊戲,video games,Study with Amber,Fun,411
+餐廳,restaurant,Study with Amber,Fun,412
+觀光,sightseeing,Study with Amber,Fun,414
+舞蹈,dance,Study with Amber,Fun,415
+身體,body,Study with Amber,Body,421
+頭,head,Study with Amber,Body,422
+頭髮,hair,Study with Amber,Body,423
+臉,face,Study with Amber,Body,424
+耳朵,ears,Study with Amber,Body,425
+眼睛,eyes,Study with Amber,Body,426
+鼻子,nose,Study with Amber,Body,427
+口,mouth,Study with Amber,Body,428
+牙齒,tooth,Study with Amber,Body,429
+嘴唇,lips,Study with Amber,Body,431
+手,hand,Study with Amber,Body,432
+手指,finger,Study with Amber,Body,433
+手指甲,nail,Study with Amber,Body,434
+腳,foot,Study with Amber,Body,435
+我跳,I jump,Study with Amber,Body,437
+我跑,I run,Study with Amber,Body,438
+生氣,angry,Study with Amber,Emotions,576
+無聊,bored,Study with Amber,Emotions,577
+冷靜,calm,Study with Amber,Emotions,578
+癲,crazy,Study with Amber,Emotions,579
+興奮,excited,Study with Amber,Emotions,582
+快樂,happy,Study with Amber,Emotions,585
+緊張,nervous,Study with Amber,Emotions,587
+累,tired,Study with Amber,Emotions,592
+布冧,plum,Study with Amber,Fruits,678
+奇異果,kiwi,Study with Amber,Fruits,679
+蜜瓜,honeydew melon,Study with Amber,Fruits,681
+桃,peach,Study with Amber,Fruits,682
+櫻桃,cherry,Study with Amber,Fruits,683
+蘋果,apple,Study with Amber,Fruits,685
+葡萄,grape,Study with Amber,Fruits,690
+西瓜,watermelon,Study with Amber,Fruits,691
+梨,pear,Study with Amber,Fruits,692
+香蕉,banana,Study with Amber,Fruits,694
+哈密瓜,cantaloupe,Study with Amber,Fruits,3303
+蘑菇,mushroom,Study with Amber,Vegetables,129
+椰菜花,broccoli,Study with Amber,Vegetables,697
+白菜,cabbage,Study with Amber,Vegetables,698
+椰菜花,cauliflower,Study with Amber,Vegetables,700
+粟米,corn,Study with Amber,Vegetables,701
+青瓜,cucumber,Study with Amber,Vegetables,702
+生菜,lettuce,Study with Amber,Vegetables,704
+西芹,parsley,Study with Amber,Vegetables,706
+蘿蔔,radish,Study with Amber,Vegetables,709
+蘆筍,asparagus,Study with Amber,Vegetables,3186
+豌豆,pea,Study with Amber,Vegetables,3187
+抱子甘藍,brussels sprout,Study with Amber,Vegetables,3188
+棒球,baseball,Study with Amber,Sports,882
+籃球,basketball,Study with Amber,Sports,883
+拳擊,boxing,Study with Amber,Sports,884
+足球,football,Study with Amber,Sports,887
+足球,soccer,Study with Amber,Sports,894
+網球,tennis,Study with Amber,Sports,897
+瑜伽,yoga,Study with Amber,Sports,898
+哥爾夫球,golf,Study with Amber,Sports,1174
+體操,gymnastics,Study with Amber,Sports,1175
+排球,volleyball,Study with Amber,Sports,1186
+掌聲,applause,Study with Amber,Music,1052
+觀眾,audience,Study with Amber,Music,1053
+唱詩班,choir,Study with Amber,Music,1054
+指揮,conductor,Study with Amber,Music,1055
+唱片騎師,DJ,Study with Amber,Music,1056
+鼓,drum,Study with Amber,Music,1057
+米高風,microphone,Study with Amber,Music,1059
+音樂專輯,music album,Study with Amber,Music,1060
+搖滾明星,rockstar,Study with Amber,Music,1062
+歌手,singer,Study with Amber,Music,1063
+歌,song,Study with Amber,Music,1064
+舞台,stage,Study with Amber,Music,1065
+電熱水壺,electric kettle,Study with Amber,Household_Items,1222
+吹風機,hair dryer,Study with Amber,Household_Items,1224
+熨斗,iron,Study with Amber,Household_Items,1228
+燙衫板,ironing board,Study with Amber,Household_Items,1229
+剪草機,lawnmower,Study with Amber,Household_Items,1230
+燈泡,lightbulb,Study with Amber,Household_Items,1231
+針,needle,Study with Amber,Household_Items,1234
+縫紉機,sewing machine,Study with Amber,Household_Items,1235
+電髮器,hair iron,Study with Amber,Household_Items,1236
+線,thread,Study with Amber,Household_Items,1237
+吸塵機,vacuum cleaner,Study with Amber,Household_Items,1238
+鬧鐘,alarm clock,Study with Amber,Sleep,1239
+百葉簾,blinds,Study with Amber,Sleep,1240
+雙層床,bunk bed,Study with Amber,Sleep,1241
+夢,dream,Study with Amber,Sleep,1242
+吊床,hammock,Study with Amber,Sleep,1243
+加濕器,humidifier,Study with Amber,Sleep,1244
+失眠,insomnia,Study with Amber,Sleep,1245
+小睡,nap,Study with Amber,Sleep,1246
+夜晚,night,Study with Amber,Sleep,1247
+噩夢,nightmare,Study with Amber,Sleep,1248
+床頭櫃,nightstand,Study with Amber,Sleep,1249
+背包客,backpacker,Study with Amber,Traveling,1273
+入口,entry gate,Study with Amber,Traveling,1276
+行山人士,hiker,Study with Amber,Traveling,1277
+搭便車,hitchhiking,Study with Amber,Traveling,1278
+鐵路票,rail ticket,Study with Amber,Traveling,1282
+鐵路車,railroad car,Study with Amber,Traveling,1283
+售票機,ticket machine,Study with Amber,Traveling,1285
+導遊,tour guide,Study with Amber,Traveling,1286
+遊客,tourist,Study with Amber,Traveling,1287
+旅行,travel,Study with Amber,Traveling,1288
+鐵路貨車,wagon,Study with Amber,Traveling,1289
+咖啡師,barista,Study with Amber,Tea_and_Coffee,1852
+釀造時間,brew time,Study with Amber,Tea_and_Coffee,1853
+咖啡豆,coffee bean,Study with Amber,Tea_and_Coffee,1855
+咖啡研磨機,coffee grinder,Study with Amber,Tea_and_Coffee,1856
+濃縮咖啡,espresso,Study with Amber,Tea_and_Coffee,1857
+濃縮咖啡機,espresso machine,Study with Amber,Tea_and_Coffee,1858
+滴漏咖啡,filter coffee,Study with Amber,Tea_and_Coffee,1859
+法式濾壓壺,French press,Study with Amber,Tea_and_Coffee,1860
+鮮奶咖啡,latte,Study with Amber,Tea_and_Coffee,1863
+茶包,tea bag,Study with Amber,Tea_and_Coffee,1865
+茶葉蛋,tea egg,Study with Amber,Tea_and_Coffee,1866
+茶葉,tea leaf,Study with Amber,Tea_and_Coffee,1867
+化妝,makeup,Study with Amber,Makeup,383
+睫毛,eyelash,Study with Amber,Makeup,1343
+潤唇膏,lip balm,Study with Amber,Makeup,1346
+唇膏,lipstick,Study with Amber,Makeup,1347
+化妝刷,makeup brush,Study with Amber,Makeup,1348
+睫毛膏,mascara,Study with Amber,Makeup,1350
+眼影,eye shadow,Study with Amber,Makeup,2519
+眼線,eye liner,Study with Amber,Makeup,2520
+化妝袋,makeup bag,Study with Amber,Makeup,2521
+假睫毛,fake eyelashes,Study with Amber,Makeup,2522
+潤唇膏,chapstick,Study with Amber,Makeup,2523
+胭脂,blush,Study with Amber,Makeup,2524
+卸妝水,makeup remover,Study with Amber,Makeup,2525
+唇彩,lip gloss,Study with Amber,Makeup,2527
+髮箍,hairband,Study with Amber,Beauty_Salon,2533
+捲髮器,curling iron,Study with Amber,Beauty_Salon,2717
+吹乾,blowdry,Study with Amber,Beauty_Salon,2722
+直髮夾,straightening iron,Study with Amber,Beauty_Salon,2724
+噴髮膠,hairspray,Study with Amber,Beauty_Salon,2725
+染髮劑,hair dye,Study with Amber,Beauty_Salon,2726
+髮膠,hair gel,Study with Amber,Beauty_Salon,2727
+髮捲,hair roller,Study with Amber,Beauty_Salon,2728
+理髮器,hair clipper,Study with Amber,Beauty_Salon,2729
+直立式吹風機,stand dryer,Study with Amber,Beauty_Salon,2730
+造型梳,styling brush,Study with Amber,Beauty_Salon,2731
+牛油果,avocado,Study with Amber,More_Vegetables,695
+大蔥,leek,Study with Amber,More_Vegetables,3185
+白菜,bok choy,Study with Amber,More_Vegetables,3189
+朝鮮薊,artichoke,Study with Amber,More_Vegetables,3190
+茄子,eggplant,Study with Amber,More_Vegetables,3191
+芽菜,sprouts,Study with Amber,More_Vegetables,3194
+芥蘭,kale,Study with Amber,More_Vegetables,3195
+紅菜頭,beetroot,Study with Amber,More_Vegetables,3196
+大豆,soybeans,Study with Amber,More_Vegetables,3198
+大提琴,cello,Study with Amber,Musical_Instruments,3203
+管風琴,organ,Study with Amber,Musical_Instruments,3204
+豎琴,harp,Study with Amber,Musical_Instruments,3205
+長笛,flute,Study with Amber,Musical_Instruments,3206
+雙簧管,oboe,Study with Amber,Musical_Instruments,3207
+長號,trombone,Study with Amber,Musical_Instruments,3208
+單簧管,clarinet,Study with Amber,Musical_Instruments,3209
+低音號,tuba,Study with Amber,Musical_Instruments,3210
+口琴,harmonica,Study with Amber,Musical_Instruments,3211
+低音結他,bass,Study with Amber,Musical_Instruments,3212
+鼓棒,drum sticks,Study with Amber,Musical_Instruments,3213
+原聲結他,acoustic guitar,Study with Amber,Musical_Instruments,3214
+電結他,electric guitar,Study with Amber,Musical_Instruments,3215
+薩克管,saxophone,Study with Amber,Musical_Instruments,3216
+合成器,synthesizer,Study with Amber,Musical_Instruments,3217
+鼓,drums,Study with Amber,Musical_Instruments,3218
+彈撥,I pluck,Study with Amber,Musical_Instruments,3219
+作曲,I compose,Study with Amber,Musical_Instruments,3220
+我梳頭,I comb my hair,Study with Amber,Daily_Routines,3528
+我設定鬧鐘,I set an alarm,Study with Amber,Daily_Routines,3529
+我起床,I wake up,Study with Amber,Daily_Routines,3530
+我去睡覺,I go to bed,Study with Amber,Daily_Routines,3531
+我洗面,I wash my face,Study with Amber,Daily_Routines,3533
+我去上班,I go to work,Study with Amber,Daily_Routines,3535
+我吃午餐,I have lunch,Study with Amber,Daily_Routines,3536
+我回家,I return home,Study with Amber,Daily_Routines,3537
+我完成,I finish,Study with Amber,Daily_Routines,3538
+壺鈴,kettlebell,Study with Amber,Gym,3581
+啞鈴,dumbbell,Study with Amber,Gym,3582
+槓鈴,barbell,Study with Amber,Gym,3584
+健身球,exercise ball,Study with Amber,Gym,3587
+拉力帶,resistance band,Study with Amber,Gym,3588
+瑜伽墊,yoga mat,Study with Amber,Gym,3589
+划艇機,rowing machine,Study with Amber,Gym,3590
+藥球,medicine ball,Study with Amber,Gym,3591
+拳擊沙包,punching bag,Study with Amber,Gym,3592
+引體上升單槓,pullup bar,Study with Amber,Gym,3593
+掌上壓,pushup,Study with Amber,Gym,3594
+小食,snack,Study with Amber,Snacks,2882
+貝果包,bagel,Study with Amber,Snacks,3689
+（一）包炸薯片,bag of chips,Study with Amber,Snacks,3690
+爆谷,popcorn,Study with Amber,Snacks,3691
+醃青瓜,pickle,Study with Amber,Snacks,3692
+粟米片,nachos,Study with Amber,Snacks,3693
+奶昔,milkshake,Study with Amber,Snacks,3694
+牛肉乾,beef jerky,Study with Amber,Snacks,3695
+乾果,dried fruit,Study with Amber,Snacks,3696
+啫喱,jelly,Study with Amber,Snacks,3698
+脆片及配醬,chips and dip,Study with Amber,Snacks,3699
+香口膠,chewing gum,Study with Amber,Snacks,3703
+布甸,pudding,Study with Amber,Snacks,3704
+接力棒,relay baton,Study with Amber,Athletics,3815
+跳高,high jump,Study with Amber,Athletics,3816
+跳遠,long jump,Study with Amber,Athletics,3817
+三級跳遠,triple jump,Study with Amber,Athletics,3818
+撐竿跳,pole vaulting,Study with Amber,Athletics,3819
+推鉛球,weight throwing,Study with Amber,Athletics,3820
+擲鏈球,hammer throw,Study with Amber,Athletics,3821
+標槍,javelin,Study with Amber,Athletics,3822
+擲鐵餅,discus,Study with Amber,Athletics,3823
+早晨！,Good morning!,Study with Amber,Meet_&_Greet,5183
+午安！,Good afternoon!,Study with Amber,Meet_&_Greet,5184
+晚安！,Good evening!,Study with Amber,Meet_&_Greet,5185
+早唞！,Good night!,Study with Amber,Meet_&_Greet,5186
+不錯，有心。,"Fine, thank you.",Study with Amber,Meet_&_Greet,5189
+你呢？,And you?,Study with Amber,Meet_&_Greet,5190
+我也是。,Me too.,Study with Amber,Meet_&_Greet,5196
+不好意思！,Excuse me!,Study with Amber,Meet_&_Greet,5179
+不客氣！,You're welcome!,Study with Amber,Meet_&_Greet,5180
+幸會！,Nice to meet you!,Study with Amber,Meet_&_Greet,5181
+你可以幫幫我嗎？,Can you help me?,Study with Amber,Meet_&_Greet,5182
+你好嗎？,How are you?,Study with Amber,Meet_&_Greet,5188
+天氣怎樣？,How's the weather?,Study with Amber,Meet_&_Greet,5191
+不錯。,It's nice.,Study with Amber,Meet_&_Greet,5192
+很差。,It's bad.,Study with Amber,Meet_&_Greet,5193
+很熱。,It's hot.,Study with Amber,Meet_&_Greet,5194
+很冷。,It's cold.,Study with Amber,Meet_&_Greet,5195
+傘,umbrella,Study with Amber,Essential_Products,288
+地圖,map,Study with Amber,Essential_Products,508
+充電器,charger,Study with Amber,Essential_Products,629
+太陽眼鏡,sunglasses,Study with Amber,Essential_Products,724
+鐵路票,rail ticket,Study with Amber,Essential_Products,1282
+防曬霜,sunscreen,Study with Amber,Essential_Products,1627
+轉換器,adaptor,Study with Amber,Essential_Products,3009
+阿士匹靈,aspirin,Study with Amber,Essential_Products,5207
+電話卡,SIM card,Study with Amber,Essential_Products,5208
+地鐵通行證,metro pass,Study with Amber,Essential_Products,5209
+車票,bus ticket,Study with Amber,Essential_Products,5210
+汽油,gasoline,Study with Amber,Essential_Products,5212
+紀念品,souvenir,Study with Amber,Essential_Products,5213
+入場券,entrance ticket,Study with Amber,Essential_Products,5214
+浴室用品,toiletries,Study with Amber,Essential_Products,5215
+記憶卡,memory card,Study with Amber,Essential_Products,5216
+樽裝水,bottled water,Study with Amber,Essential_Products,5217
+飛機場,airport,Study with Amber,Staying_Safe,81
+酒店,hotel,Study with Amber,Staying_Safe,141
+銀行,bank,Study with Amber,Staying_Safe,241
+火車站,train station,Study with Amber,Staying_Safe,253
+郵政局,post office,Study with Amber,Staying_Safe,309
+醫生,doctor,Study with Amber,Staying_Safe,525
+巴士站,bus station,Study with Amber,Staying_Safe,2907
+樓梯,stairs,Study with Amber,Staying_Safe,5218
+緊急出口,emergency exit,Study with Amber,Staying_Safe,5225
+電話,telephone,Study with Amber,Staying_Safe,5226
+地鐵站,metro station,Study with Amber,Staying_Safe,5227
+街市,market,Study with Amber,Staying_Safe,5228
+不要進入！,Keep off!,Study with Amber,Staying_Safe,5219
+不要碰！,Don't touch!,Study with Amber,Staying_Safe,5220
+小心！,Be careful!,Study with Amber,Staying_Safe,5221
+留意！,Watch out!,Study with Amber,Staying_Safe,5222
+我遺失了錢包。,I lost my wallet.,Study with Amber,Staying_Safe,5223
+我可以用你的手機嗎？,Can I use your mobile?,Study with Amber,Staying_Safe,5224
+這裡,here,Study with Amber,Meet_the_Locals,650
+那邊,there,Study with Amber,Meet_the_Locals,660
+一點點,a little,Study with Amber,Meet_the_Locals,5256
+誰？,Who?,Study with Amber,Meet_the_Locals,5259
+甚麼？,What?,Study with Amber,Meet_the_Locals,5260
+甚麼時候？,When?,Study with Amber,Meet_the_Locals,5261
+哪裏？,Where?,Study with Amber,Meet_the_Locals,5262
+為甚麼？,Why?,Study with Amber,Meet_the_Locals,5263
+如何？,How?,Study with Amber,Meet_the_Locals,5264
+在那邊,over there,Study with Amber,Meet_the_Locals,5265
+錯,wrong,Study with Amber,Meet_the_Locals,5266
+正確,correct,Study with Amber,Meet_the_Locals,5267
+你是做甚麼工作的？,What do you do?,Study with Amber,Meet_the_Locals,5253
+你是本地人嗎？,Are you from here?,Study with Amber,Meet_the_Locals,5254
+你幾歲？,How old are you?,Study with Amber,Meet_the_Locals,5257
+我在這裏待了五天。,I have been here 5 days.,Study with Amber,Meet_the_Locals,5258
+再説一次！,Repeat!,Study with Amber,Meet_the_Locals,5268
+慢慢講！,Speak slowly!,Study with Amber,Meet_the_Locals,5269
+星期一,Monday,Study with Amber,Days_of_the_Week,6493
+星期二,Tuesday,Study with Amber,Days_of_the_Week,6494
+星期三,Wednesday,Study with Amber,Days_of_the_Week,6495
+星期四,Thursday,Study with Amber,Days_of_the_Week,6496
+星期五,Friday,Study with Amber,Days_of_the_Week,6497
+星期六,Saturday,Study with Amber,Days_of_the_Week,6498
+星期日,Sunday,Study with Amber,Days_of_the_Week,6499
+一月,January,Study with Amber,Months_of_the_Year,6500
+二月,February,Study with Amber,Months_of_the_Year,6501
+三月,March,Study with Amber,Months_of_the_Year,6502
+四月,April,Study with Amber,Months_of_the_Year,6503
+五月,May,Study with Amber,Months_of_the_Year,6504
+六月,June,Study with Amber,Months_of_the_Year,6505
+七月,July,Study with Amber,Months_of_the_Year,6506
+八月,August,Study with Amber,Months_of_the_Year,6507
+九月,September,Study with Amber,Months_of_the_Year,6508
+十月,October,Study with Amber,Months_of_the_Year,6509
+十一月,November,Study with Amber,Months_of_the_Year,6510
+十二月,December,Study with Amber,Months_of_the_Year,6511
+是,yes,Travel Talk,Essentials_01_-_Daytripper,1
+不,no,Travel Talk,Essentials_01_-_Daytripper,2
+嗨,hi,Travel Talk,Essentials_01_-_Daytripper,4
+多謝,thank you,Travel Talk,Essentials_01_-_Daytripper,5
+請,please,Travel Talk,Essentials_01_-_Daytripper,7
+洗手間,toilet,Travel Talk,Essentials_01_-_Daytripper,390
+餐廳,restaurant,Travel Talk,Essentials_01_-_Daytripper,412
+已關門,closed,Travel Talk,Essentials_01_-_Daytripper,5144
+開門,open,Travel Talk,Essentials_01_-_Daytripper,5145
+埋單，謝謝！,"The bill, please!",Travel Talk,Essentials_01_-_Daytripper,5150
+多少錢？,How much?,Travel Talk,Essentials_01_-_Daytripper,5153
+菜單，謝謝！,"Menu, please!",Travel Talk,Essentials_01_-_Daytripper,5159
+對不起！,Sorry!,Travel Talk,Essentials_01_-_Daytripper,5141
+你會說英語嗎？,Do you speak English?,Travel Talk,Essentials_01_-_Daytripper,5142
+我需要水。,I need water.,Travel Talk,Essentials_01_-_Daytripper,5143
+救命呀！,Help!,Travel Talk,Essentials_01_-_Daytripper,5146
+再見,bye,Travel Talk,Essentials_02_-_Sightseer,6
+提款機,ATM machine,Travel Talk,Essentials_02_-_Sightseer,201
+信用卡,credit card,Travel Talk,Essentials_02_-_Sightseer,205
+醫院,hospital,Travel Talk,Essentials_02_-_Sightseer,310
+男廁,gents,Travel Talk,Essentials_02_-_Sightseer,5148
+女廁,ladies,Travel Talk,Essentials_02_-_Sightseer,5149
+超級市場在哪？,Where is the supermarket?,Travel Talk,Essentials_02_-_Sightseer,5151
+無問題！,No problem!,Travel Talk,Essentials_02_-_Sightseer,5154
+那個！,That one!,Travel Talk,Essentials_02_-_Sightseer,5155
+入口,entrance,Travel Talk,Essentials_02_-_Sightseer,5156
+出口,exit,Travel Talk,Essentials_02_-_Sightseer,5157
+警察,police,Travel Talk,Essentials_02_-_Sightseer,5158
+有多少？,How many?,Travel Talk,Essentials_02_-_Sightseer,5164
+再多一個！,One more!,Travel Talk,Essentials_02_-_Sightseer,5165
+少一個！,One less!,Travel Talk,Essentials_02_-_Sightseer,5166
+請等等！,Please wait!,Travel Talk,Essentials_02_-_Sightseer,5147
+一,one,Travel Talk,Essentials_03_-_Nomad,42
+二,two,Travel Talk,Essentials_03_-_Nomad,43
+三,three,Travel Talk,Essentials_03_-_Nomad,44
+四,four,Travel Talk,Essentials_03_-_Nomad,45
+五,five,Travel Talk,Essentials_03_-_Nomad,46
+六,six,Travel Talk,Essentials_03_-_Nomad,47
+七,seven,Travel Talk,Essentials_03_-_Nomad,48
+八,eight,Travel Talk,Essentials_03_-_Nomad,49
+九,nine,Travel Talk,Essentials_03_-_Nomad,50
+十,ten,Travel Talk,Essentials_03_-_Nomad,51
+你明白嗎？,Do you understand?,Travel Talk,Essentials_03_-_Nomad,5163
+太貴！,Too expensive!,Travel Talk,Essentials_03_-_Nomad,5167
+還要甚麼嗎？,Anything else?,Travel Talk,Essentials_03_-_Nomad,5168
+不，夠了。,"No, that's all.",Travel Talk,Essentials_03_-_Nomad,5169
+我對花生敏感。,I'm allergic to peanuts.,Travel Talk,Essentials_03_-_Nomad,5160
+我好開心。,I am happy.,Travel Talk,Essentials_03_-_Nomad,5161
+二十,twenty,Travel Talk,Essentials_04_-_Globetrotter,54
+百,hundred,Travel Talk,Essentials_04_-_Globetrotter,55
+左,left,Travel Talk,Essentials_04_-_Globetrotter,654
+右,right,Travel Talk,Essentials_04_-_Globetrotter,656
+直前方,straight ahead,Travel Talk,Essentials_04_-_Globetrotter,658
+四十,forty,Travel Talk,Essentials_04_-_Globetrotter,665
+三十,thirty,Travel Talk,Essentials_04_-_Globetrotter,674
+千,thousand,Travel Talk,Essentials_04_-_Globetrotter,675
+不准進入,do not enter,Travel Talk,Essentials_04_-_Globetrotter,3262
+只收現金,cash only,Travel Talk,Essentials_04_-_Globetrotter,5170
+你是哪裏來的？,Where are you from?,Travel Talk,Essentials_04_-_Globetrotter,5175
+你叫甚麼？,What's your name?,Travel Talk,Essentials_04_-_Globetrotter,5177
+我來自,I'm from,Travel Talk,Essentials_04_-_Globetrotter,3057
+我迷路了。,I'm lost.,Travel Talk,Essentials_04_-_Globetrotter,5172
+我病了。,I'm sick.,Travel Talk,Essentials_04_-_Globetrotter,5173
+停在這裏！,Stop here!,Travel Talk,Essentials_04_-_Globetrotter,5174
+我叫 Alex。,My name is Alex.,Travel Talk,Essentials_04_-_Globetrotter,5178
+早晨！,Good morning!,Travel Talk,Meet_&_Greet,5183
+午安！,Good afternoon!,Travel Talk,Meet_&_Greet,5184
+晚安！,Good evening!,Travel Talk,Meet_&_Greet,5185
+早唞！,Good night!,Travel Talk,Meet_&_Greet,5186
+不錯，有心。,"Fine, thank you.",Travel Talk,Meet_&_Greet,5189
+你呢？,And you?,Travel Talk,Meet_&_Greet,5190
+我也是。,Me too.,Travel Talk,Meet_&_Greet,5196
+不好意思！,Excuse me!,Travel Talk,Meet_&_Greet,5179
+不客氣！,You're welcome!,Travel Talk,Meet_&_Greet,5180
+幸會！,Nice to meet you!,Travel Talk,Meet_&_Greet,5181
+你可以幫幫我嗎？,Can you help me?,Travel Talk,Meet_&_Greet,5182
+你好嗎？,How are you?,Travel Talk,Meet_&_Greet,5188
+天氣怎樣？,How's the weather?,Travel Talk,Meet_&_Greet,5191
+不錯。,It's nice.,Travel Talk,Meet_&_Greet,5192
+很差。,It's bad.,Travel Talk,Meet_&_Greet,5193
+很熱。,It's hot.,Travel Talk,Meet_&_Greet,5194
+很冷。,It's cold.,Travel Talk,Meet_&_Greet,5195
+沒有了。,There isn't any.,Travel Talk,Buy_&_Bargain,5197
+便宜一些的。,A cheaper one.,Travel Talk,Buy_&_Bargain,5198
+有幾多？,How much?,Travel Talk,Buy_&_Bargain,5199
+一半,half,Travel Talk,Buy_&_Bargain,5200
+全部。,All of it.,Travel Talk,Buy_&_Bargain,5201
+這個！,This one!,Travel Talk,Buy_&_Bargain,5204
+我可以用信用卡付款嗎？,Can I pay with credit card?,Travel Talk,Buy_&_Bargain,5202
+你有賣明信片嗎？,Do you have postcards?,Travel Talk,Buy_&_Bargain,5203
+我不想。,I don't want.,Travel Talk,Buy_&_Bargain,5205
+寫下來！,Write it down!,Travel Talk,Buy_&_Bargain,5206
+傘,umbrella,Travel Talk,Essential_Products,288
+地圖,map,Travel Talk,Essential_Products,508
+充電器,charger,Travel Talk,Essential_Products,629
+太陽眼鏡,sunglasses,Travel Talk,Essential_Products,724
+鐵路票,rail ticket,Travel Talk,Essential_Products,1282
+防曬霜,sunscreen,Travel Talk,Essential_Products,1627
+轉換器,adaptor,Travel Talk,Essential_Products,3009
+阿士匹靈,aspirin,Travel Talk,Essential_Products,5207
+電話卡,SIM card,Travel Talk,Essential_Products,5208
+地鐵通行證,metro pass,Travel Talk,Essential_Products,5209
+車票,bus ticket,Travel Talk,Essential_Products,5210
+汽油,gasoline,Travel Talk,Essential_Products,5212
+紀念品,souvenir,Travel Talk,Essential_Products,5213
+入場券,entrance ticket,Travel Talk,Essential_Products,5214
+浴室用品,toiletries,Travel Talk,Essential_Products,5215
+記憶卡,memory card,Travel Talk,Essential_Products,5216
+樽裝水,bottled water,Travel Talk,Essential_Products,5217
+飛機場,airport,Travel Talk,Staying_Safe,81
+酒店,hotel,Travel Talk,Staying_Safe,141
+銀行,bank,Travel Talk,Staying_Safe,241
+火車站,train station,Travel Talk,Staying_Safe,253
+郵政局,post office,Travel Talk,Staying_Safe,309
+醫生,doctor,Travel Talk,Staying_Safe,525
+巴士站,bus station,Travel Talk,Staying_Safe,2907
+樓梯,stairs,Travel Talk,Staying_Safe,5218
+緊急出口,emergency exit,Travel Talk,Staying_Safe,5225
+電話,telephone,Travel Talk,Staying_Safe,5226
+地鐵站,metro station,Travel Talk,Staying_Safe,5227
+街市,market,Travel Talk,Staying_Safe,5228
+不要進入！,Keep off!,Travel Talk,Staying_Safe,5219
+不要碰！,Don't touch!,Travel Talk,Staying_Safe,5220
+小心！,Be careful!,Travel Talk,Staying_Safe,5221
+留意！,Watch out!,Travel Talk,Staying_Safe,5222
+我遺失了錢包。,I lost my wallet.,Travel Talk,Staying_Safe,5223
+我可以用你的手機嗎？,Can I use your mobile?,Travel Talk,Staying_Safe,5224
+素食者,vegetarian,Travel Talk,Eat_&_Drink,5248
+你有推薦嗎？,What do you recommend?,Travel Talk,Eat_&_Drink,5249
+美味,delicious,Travel Talk,Eat_&_Drink,5250
+慢用！,Enjoy your meal!,Travel Talk,Eat_&_Drink,5251
+乾杯！,Cheers!,Travel Talk,Eat_&_Drink,5252
+這裡,here,Travel Talk,Meet_the_Locals,650
+那邊,there,Travel Talk,Meet_the_Locals,660
+一點點,a little,Travel Talk,Meet_the_Locals,5256
+誰？,Who?,Travel Talk,Meet_the_Locals,5259
+甚麼？,What?,Travel Talk,Meet_the_Locals,5260
+甚麼時候？,When?,Travel Talk,Meet_the_Locals,5261
+哪裏？,Where?,Travel Talk,Meet_the_Locals,5262
+為甚麼？,Why?,Travel Talk,Meet_the_Locals,5263
+如何？,How?,Travel Talk,Meet_the_Locals,5264
+在那邊,over there,Travel Talk,Meet_the_Locals,5265
+錯,wrong,Travel Talk,Meet_the_Locals,5266
+正確,correct,Travel Talk,Meet_the_Locals,5267
+你是做甚麼工作的？,What do you do?,Travel Talk,Meet_the_Locals,5253
+你是本地人嗎？,Are you from here?,Travel Talk,Meet_the_Locals,5254
+你幾歲？,How old are you?,Travel Talk,Meet_the_Locals,5257
+我在這裏待了五天。,I have been here 5 days.,Travel Talk,Meet_the_Locals,5258
+再説一次！,Repeat!,Travel Talk,Meet_the_Locals,5268
+慢慢講！,Speak slowly!,Travel Talk,Meet_the_Locals,5269
+我坐火車,I take the train,Travel Talk,Train_Travel,7587
+下一站,the next station,Travel Talk,Train_Travel,7588
+右邊車門將會打開。,Doors will open on the right.,Travel Talk,Train_Travel,7589
+靜音車廂,quiet car,Travel Talk,Train_Travel,7590
+頭等,first class,Travel Talk,Train_Travel,7592
+普通,second class,Travel Talk,Train_Travel,7593
+中央車站,central station,Travel Talk,Train_Travel,7594
+請出示車票。,"Your ticket, please.",Travel Talk,Train_Travel,7595
+這去旺角嗎？,Is this headed to Boston?,Travel Talk,Train_Travel,7596
+我喜歡望出窗外。,I like to look out the window.,Travel Talk,Train_Travel,7597
+請問我可否和你交換座位？,Could we switch seats?,Travel Talk,Train_Travel,7598
+向前的座位,a forward-facing seat,Travel Talk,Train_Travel,7599
+你可以幫我看管我的手袋一陣子嗎？,Could you watch my bag for a minute?,Travel Talk,Train_Travel,7600
+我們坐火車去大圍。,We took a train to New York City.,Travel Talk,Describe_Your_Train_Trip,7601
+全程很順利。,It went smoothly.,Travel Talk,Describe_Your_Train_Trip,7602
+沿途很辛苦。,It was stressful.,Travel Talk,Describe_Your_Train_Trip,7603
+我們在網上買了車票。,We bought our tickets online.,Travel Talk,Describe_Your_Train_Trip,7604
+車上沒有 Wi-Fi。,There was no wifi.,Travel Talk,Describe_Your_Train_Trip,7606
+車長,train conductor,Travel Talk,Describe_Your_Train_Trip,7607
+火車幾乎是空的。,The train was almost empty.,Travel Talk,Describe_Your_Train_Trip,7609
+火車上擠滿了人。,The train was packed.,Travel Talk,Describe_Your_Train_Trip,7610
+廁所壞了。,The toilet was out of order.,Travel Talk,Describe_Your_Train_Trip,7611
+火車準時到達。,The train was on time.,Travel Talk,Describe_Your_Train_Trip,7612
+火車延誤了十分鐘。,The train was ten minutes late.,Travel Talk,Describe_Your_Train_Trip,7613
+我們錯過了原本的火車班次。,We missed our train.,Travel Talk,Describe_Your_Train_Trip,7614
+我想租車。,I'd like to rent a car.,Travel Talk,Renting_a_Car,7615
+要租多久？,For how long?,Travel Talk,Renting_a_Car,7616
+一個星期。,For a week.,Travel Talk,Renting_a_Car,7617
+你想租哪種類型的車？,What kind of car would you like?,Travel Talk,Renting_a_Car,7618
+棍波車,manual car,Travel Talk,Renting_a_Car,7619
+自動車,automatic car,Travel Talk,Renting_a_Car,7620
+請出示駕駛執照。,Can I see your driver's license?,Travel Talk,Renting_a_Car,7621
+請稍等。,Hold on a second.,Travel Talk,Renting_a_Car,7622
+請問出租收費如何計算？,What are your rental rates?,Travel Talk,Renting_a_Car,7624
+只接受信用卡付款,credit card only,Travel Talk,Renting_a_Car,7625
+請在這裏簽署。,Please sign here.,Travel Talk,Renting_a_Car,7626
+還車前，請入滿油。,Fill the tank before you return it.,Travel Talk,Renting_a_Car,7627
+請勿在車內吸煙。,Don't smoke in the car.,Travel Talk,Renting_a_Car,7628
+這是你的車匙。,Here are your keys.,Travel Talk,Renting_a_Car,7629
+出租車,rental car,Travel Talk,Renting_a_Car,7630
+小食,snack,Travel Talk,Road_Tripping,2882
+我需要水。,I need water.,Travel Talk,Road_Tripping,5143
+我們去自駕遊！,We're going on a road trip!,Travel Talk,Road_Tripping,7646
+風景路線,scenic route,Travel Talk,Road_Tripping,7647
+快看那裏！,Look at that!,Travel Talk,Road_Tripping,7648
+我們錯過了公路出口。,We missed the exit.,Travel Talk,Road_Tripping,7649
+我們再檢查一次 GPS 吧。,Let's check the GPS again.,Travel Talk,Road_Tripping,7650
+來點音樂怎麼樣？,How about some music?,Travel Talk,Road_Tripping,7651
+在車上唱歌,singing in the car,Travel Talk,Road_Tripping,7652
+我很悶,I'm bored,Travel Talk,Road_Tripping,7653
+我需要伸展雙腳。,I need to stretch my legs.,Travel Talk,Road_Tripping,7654
+我需要去洗手間。,I need a toilet.,Travel Talk,Road_Tripping,7655
+我們就快沒有油了。,We're low on gas.,Travel Talk,Road_Tripping,7657
+領取行李,baggage claim,Travel Talk,At_the_Airport,95
+在機場,at the airport,Travel Talk,At_the_Airport,7674
+二號客運大樓在哪邊？,Which way is terminal two?,Travel Talk,At_the_Airport,7675
+這是排隊的盡頭嗎？,Is this the end of the line?,Travel Talk,At_the_Airport,7676
+你需要寄倉嗎？,Do you want to check a bag?,Travel Talk,At_the_Airport,7677
+我只有隨身行李。,I only have a carry-on.,Travel Talk,At_the_Airport,7678
+護照,passport,Travel Talk,At_the_Airport,7679
+我可以看看你的護照嗎？,Can I see your passport?,Travel Talk,At_the_Airport,7680
+國內航班,domestic flight,Travel Talk,At_the_Airport,7681
+國際航班,international flight,Travel Talk,At_the_Airport,7682
+轉機,layover,Travel Talk,At_the_Airport,7683
+入境,arrivals,Travel Talk,At_the_Airport,7684
+離境,departures,Travel Talk,At_the_Airport,7685
+我的航班,my flight,Travel Talk,At_the_Airport,7686
+有液體嗎？,Do you have any liquids?,Travel Talk,At_the_Airport,7687
+衣服口袋裏有東西嗎？,Do you have anything in your pockets?,Travel Talk,At_the_Airport,7688
+這個袋是你的嗎？,Is this your bag?,Travel Talk,At_the_Airport,7689
+請預備好登機證。,Please have your boarding pass ready.,Travel Talk,At_the_Airport,7690
+閘口,gate,Travel Talk,At_the_Airport,7691
+海關,customs,Travel Talk,At_the_Airport,7692
+飛機上,on the plane,Travel Talk,On_the_Plane,7693
+機師,pilot,Travel Talk,On_the_Plane,7694
+飛機服務員,flight attendant,Travel Talk,On_the_Plane,7695
+飛行模式,flight mode,Travel Talk,On_the_Plane,7696
+窗口位,window seat,Travel Talk,On_the_Plane,7697
+路口位,aisle seat,Travel Talk,On_the_Plane,7698
+中間位,middle seat,Travel Talk,On_the_Plane,7699
+緊急逃生口座位,exit row seat,Travel Talk,On_the_Plane,7700
+我有很多空間。,I have lots of legroom.,Travel Talk,On_the_Plane,7701
+我的位置很擁擠。,I'm cramped.,Travel Talk,On_the_Plane,7702
+行李置物櫃,overhead bin,Travel Talk,On_the_Plane,7703
+把物品放在前面座位下方。,Put your items under the seat in front of you.,Travel Talk,On_the_Plane,7704
+起飛,take-off,Travel Talk,On_the_Plane,7705
+降落,landing,Travel Talk,On_the_Plane,7706
+將椅背豎直。,Put your seat in the upright position.,Travel Talk,On_the_Plane,7707
+請除下耳機。,Please take out your headphones.,Travel Talk,On_the_Plane,7708
+將餐檯收好。,Stow your tray table.,Travel Talk,On_the_Plane,7709
+我現在可以拉下遮光板嗎？,Can I lower my window blind now?,Travel Talk,On_the_Plane,7710
+廁所使用中。,The toilet is occupied.,Travel Talk,On_the_Plane,7711
+扣上安全帶。,Fasten your seatbelt.,Travel Talk,On_the_Plane,7712
+我們正遇到氣流。,We're experiencing some turbulance.,Travel Talk,On_the_Plane,7713
+想飲甚麽呢？,Anything to drink?,Travel Talk,On_the_Plane,7714
+要加冰嗎？,Would you like ice?,Travel Talk,On_the_Plane,7715
+我們正滑行去閘口。,We're taxiing to the gate.,Travel Talk,On_the_Plane,7716
+是,yes,Foundation,Essentials,1
+不,no,Foundation,Essentials,2
+好的,ok,Foundation,Essentials,3
+嗨,hi,Foundation,Essentials,4
+多謝,thank you,Foundation,Essentials,5
+再見,bye,Foundation,Essentials,6
+請,please,Foundation,Essentials,7
+我,I,Foundation,Essentials,9
+和,and,Foundation,Essentials,16
+或者,or,Foundation,Essentials,17
+這個,this,Foundation,Essentials,18
+零,zero,Foundation,Numbers,41
+一,one,Foundation,Numbers,42
+二,two,Foundation,Numbers,43
+三,three,Foundation,Numbers,44
+四,four,Foundation,Numbers,45
+五,five,Foundation,Numbers,46
+六,six,Foundation,Numbers,47
+七,seven,Foundation,Numbers,48
+八,eight,Foundation,Numbers,49
+九,nine,Foundation,Numbers,50
+十,ten,Foundation,Numbers,51
+十一,eleven,Foundation,Numbers,52
+十二,twelve,Foundation,Numbers,53
+二十,twenty,Foundation,Numbers,54
+百,hundred,Foundation,Numbers,55
+我想,I think,Foundation,Numbers,56
+我數,I count,Foundation,Numbers,58
+霧,fog,Foundation,Weather,281
+雨,rain,Foundation,Weather,282
+雪,snow,Foundation,Weather,283
+太陽,sun,Foundation,Weather,284
+風,wind,Foundation,Weather,287
+傘,umbrella,Foundation,Weather,288
+雨衣,raincoat,Foundation,Weather,289
+冰,ice,Foundation,Weather,294
+風暴,storm,Foundation,Weather,295
+黑色,black,Foundation,Colors,559
+藍色,blue,Foundation,Colors,560
+棕色,brown,Foundation,Colors,561
+金色,gold,Foundation,Colors,563
+綠色,green,Foundation,Colors,564
+灰色,gray,Foundation,Colors,565
+橙色,orange,Foundation,Colors,568
+粉紅色,pink,Foundation,Colors,569
+紫色,purple,Foundation,Colors,570
+彩虹,rainbow,Foundation,Colors,571
+紅色,red,Foundation,Colors,572
+銀色,silver,Foundation,Colors,573
+白色,white,Foundation,Colors,574
+黃色,yellow,Foundation,Colors,575
+他,he,Foundation,Pronouns,611
+她的,her,Foundation,Pronouns,612
+他的,his,Foundation,Pronouns,613
+它,it,Foundation,Pronouns,617
+它的,its,Foundation,Pronouns,618
+我的,my,Foundation,Pronouns,619
+她,she,Foundation,Pronouns,621
+他們的,their,Foundation,Pronouns,622
+他們,they,Foundation,Pronouns,623
+我們,we,Foundation,Pronouns,624
+你,you,Foundation,Pronouns,625
+你的,your,Foundation,Pronouns,626
+十一,eleven,Foundation,More_Numbers,52
+十二,twelve,Foundation,More_Numbers,53
+二十,twenty,Foundation,More_Numbers,54
+百,hundred,Foundation,More_Numbers,55
+八十,eighty,Foundation,More_Numbers,661
+五十,fifty,Foundation,More_Numbers,663
+四十,forty,Foundation,More_Numbers,665
+百萬,million,Foundation,More_Numbers,667
+九十,ninety,Foundation,More_Numbers,668
+七十,seventy,Foundation,More_Numbers,670
+六十,sixty,Foundation,More_Numbers,672
+三十,thirty,Foundation,More_Numbers,674
+千,thousand,Foundation,More_Numbers,675
+澳洲,Australia,Foundation,Countries,746
+巴西,Brazil,Foundation,Countries,747
+加拿大,Canada,Foundation,Countries,748
+中國,China,Foundation,Countries,749
+法國,France,Foundation,Countries,751
+德國,Germany,Foundation,Countries,752
+英國,Great Britain,Foundation,Countries,753
+日本,Japan,Foundation,Countries,755
+俄羅斯,Russia,Foundation,Countries,758
+西班牙,Spain,Foundation,Countries,759
+美國,the United States of America,Foundation,Countries,762
+美國人,American,Foundation,Nationalities,916
+澳洲人,Australian,Foundation,Nationalities,917
+巴西人,Brazilian,Foundation,Nationalities,918
+英國人,British,Foundation,Nationalities,919
+加拿大人,Canadian,Foundation,Nationalities,920
+中國人,Chinese,Foundation,Nationalities,921
+法國人,French,Foundation,Nationalities,924
+德國人,German,Foundation,Nationalities,925
+日本人,Japanese,Foundation,Nationalities,927
+俄羅斯人,Russian,Foundation,Nationalities,930
+西班牙人,Spanish,Foundation,Nationalities,931
+拱形,arch,Foundation,Shapes,1154
+圈,circle,Foundation,Shapes,1155
+錐體,cone,Foundation,Shapes,1156
+立方體,cube,Foundation,Shapes,1157
+圓筒,cylinder,Foundation,Shapes,1158
+八角形,octagon,Foundation,Shapes,1160
+橢圓形,oval,Foundation,Shapes,1161
+五角形,pentagon,Foundation,Shapes,1162
+棱錐,pyramid,Foundation,Shapes,1163
+長方形,rectangle,Foundation,Shapes,1164
+六邊形,hexagon,Foundation,Shapes,1165
+環狀,ring,Foundation,Shapes,1166
+球體,sphere,Foundation,Shapes,1167
+正方形,square,Foundation,Shapes,1168
+三角形,triangle,Foundation,Shapes,1169
+楔體,wedge,Foundation,Shapes,1170
+大,big,Foundation,Shapes,7554
+小,small,Foundation,Shapes,7555
+芬蘭人,Finnish,Foundation,More_Nationalities,923
+意大利人,Italian,Foundation,More_Nationalities,926
+墨西哥人,Mexican,Foundation,More_Nationalities,928
+挪威人,Norwegian,Foundation,More_Nationalities,929
+烏克蘭人,Ukranian,Foundation,More_Nationalities,3048
+韓國人,Korean,Foundation,More_Nationalities,3049
+菲律賓人,Filipino,Foundation,More_Nationalities,3051
+泰國人,Thai,Foundation,More_Nationalities,3052
+馬來西亞人,Malaysian,Foundation,More_Nationalities,3053
+印尼人,Indonesian,Foundation,More_Nationalities,3054
+芬蘭,Finland,Foundation,More_Countries,750
+意大利,Italy,Foundation,More_Countries,754
+墨西哥,Mexico,Foundation,More_Countries,756
+挪威,Norway,Foundation,More_Countries,757
+烏克蘭,Ukraine,Foundation,More_Countries,3066
+韓國,South Korea,Foundation,More_Countries,3067
+菲律賓,Philippines,Foundation,More_Countries,3069
+泰國,Thailand,Foundation,More_Countries,3070
+馬來西亞,Malaysia,Foundation,More_Countries,3071
+印尼,Indonesia,Foundation,More_Countries,3072
+十一,eleven,Foundation,Counting,52
+十二,twelve,Foundation,Counting,53
+八十,eighty,Foundation,Counting,661
+五十,fifty,Foundation,Counting,663
+九十,ninety,Foundation,Counting,668
+七十,seventy,Foundation,Counting,670
+六十,sixty,Foundation,Counting,672
+十三,thirteen,Foundation,Counting,5271
+十四,fourteen,Foundation,Counting,5272
+十五,fifteen,Foundation,Counting,5273
+十六,sixteen,Foundation,Counting,5274
+十七,seventeen,Foundation,Counting,5275
+十八,eighteen,Foundation,Counting,5276
+十九,nineteen,Foundation,Counting,5277
+二十五,twenty five,Foundation,Counting,5279
+七十五,seventy five,Foundation,Counting,5280
+一百五十,one hundred fifty,Foundation,Counting_2,5281
+二百,two hundred,Foundation,Counting_2,5282
+三百,three hundred,Foundation,Counting_2,5283
+四百,four hundred,Foundation,Counting_2,5284
+五百,five hundred,Foundation,Counting_2,5285
+二千,two thousand,Foundation,Counting_2,5286
+三千,three thousand,Foundation,Counting_2,5287
+四千,four thousand,Foundation,Counting_2,5288
+五千,five thousand,Foundation,Counting_2,5289
+萬,ten thousand,Foundation,Counting_2,5290
+五萬,fifty thousand,Foundation,Counting_2,5291
+十萬,one hundred thousand,Foundation,Counting_2,5292
+一百萬,one million,Foundation,Counting_2,5293
+上,up,Foundation,Directions,6625
+下,down,Foundation,Directions,6626
+周圍,around,Foundation,Directions,6627
+下,under,Foundation,Directions,6628
+入面,among,Foundation,Directions,6629
+向前,forward,Foundation,Directions,6630
+內,inside,Foundation,Directions,6631
+中間,middle,Foundation,Directions,6632
+上一個,previous,Foundation,Directions,6633
+直,straight,Foundation,Directions,6634
+近,close,Foundation,Directions,6635
+底部,bottom,Foundation,Directions,6636
+巨大,huge,Foundation,Directions,6637
+細小,tiny,Foundation,Directions,6638
+尺寸,size,Foundation,Directions,6639
+指向牌,direction post,Nature & Animals,Outdoor,1684
+能量棒,energy bar,Nature & Animals,Outdoor,1685
+摺櫈,folding chair,Nature & Animals,Outdoor,1686
+全球定位系統,GPS,Nature & Animals,Outdoor,1687
+頭燈,headlamp,Nature & Animals,Outdoor,1688
+驅蟲劑,insect repellent,Nature & Animals,Outdoor,1689
+獨木舟,kayaking,Nature & Animals,Outdoor,1690
+打火機,lighter,Nature & Animals,Outdoor,1691
+雪鞋,snowshoes,Nature & Animals,Outdoor,1695
+行山鞋,trekking boot,Nature & Animals,Outdoor,1696
+行山杖,trekking poles,Nature & Animals,Outdoor,1697
+我爬,I climb,Nature & Animals,Outdoor,558
+雀鳥,bird,Nature & Animals,Animals,780
+貓,cat,Nature & Animals,Animals,782
+狗,dog,Nature & Animals,Animals,785
+鴨,duck,Nature & Animals,Animals,787
+老鼠,mouse,Nature & Animals,Animals,791
+鴿子,pigeon,Nature & Animals,Animals,793
+兔,rabbit,Nature & Animals,Animals,794
+大象,elephant,Nature & Animals,Animals,1195
+猴子,monkey,Nature & Animals,Animals,1197
+我餵,I feed,Nature & Animals,Animals,790
+竹,bamboo,Nature & Animals,Plants,933
+樹枝,branch,Nature & Animals,Plants,934
+仙人掌,cactus,Nature & Animals,Plants,935
+草,grass,Nature & Animals,Plants,937
+葉,leaf,Nature & Animals,Plants,939
+木頭,log,Nature & Animals,Plants,940
+棕櫚樹,palm tree,Nature & Animals,Plants,941
+松樹,pine tree,Nature & Animals,Plants,942
+柴,stick,Nature & Animals,Plants,947
+樹,tree,Nature & Animals,Plants,948
+木材,wood,Nature & Animals,Plants,949
+盆栽,bonsai,Nature & Animals,Plants,1732
+蝙蝠,bat,Nature & Animals,Wild_Animals,1189
+熊,bear,Nature & Animals,Wild_Animals,1190
+駱駝,camel,Nature & Animals,Wild_Animals,1193
+青蛙,frog,Nature & Animals,Wild_Animals,1196
+老鼠,rat,Nature & Animals,Wild_Animals,1198
+蛇,snake,Nature & Animals,Wild_Animals,1201
+海龜,turtle,Nature & Animals,Wild_Animals,1203
+狼,wolf,Nature & Animals,Wild_Animals,1204
+水牛,buffalo,Nature & Animals,Wild_Animals,1545
+變色龍,chameleon,Nature & Animals,Wild_Animals,1546
+眼鏡蛇,cobra,Nature & Animals,Wild_Animals,1547
+鱷魚,crocodile,Nature & Animals,More_Wild_Animals,1548
+恐龍,dinosaur,Nature & Animals,More_Wild_Animals,1549
+壁虎,gecko,Nature & Animals,More_Wild_Animals,1550
+長頸鹿,giraffe,Nature & Animals,More_Wild_Animals,1551
+大猩猩,gorilla,Nature & Animals,More_Wild_Animals,1552
+鬣蜥,iguana,Nature & Animals,More_Wild_Animals,1555
+袋鼠,kangaroo,Nature & Animals,More_Wild_Animals,1556
+蜥蜴,lizard,Nature & Animals,More_Wild_Animals,1557
+豹,panther,Nature & Animals,More_Wild_Animals,1558
+犀牛,rhino,Nature & Animals,More_Wild_Animals,1559
+虎,tiger,Nature & Animals,More_Wild_Animals,1560
+斑馬,zebra,Nature & Animals,More_Wild_Animals,1561
+氣球,balloons,Nature & Animals,Air,1596
+安全氣囊,airbag,Nature & Animals,Air,1597
+蒸發,evaporation,Nature & Animals,Air,1598
+排煙管,exhaust fume,Nature & Animals,Air,1599
+防毒面具,gas mask,Nature & Animals,Air,1601
+熱氣球,hot air balloon,Nature & Animals,Air,1602
+紙巾,tissue,Nature & Animals,Air,1606
+降落傘,parachute,Nature & Animals,Air,1607
+滑翔傘,paraglider,Nature & Animals,Air,1608
+泵,pump,Nature & Animals,Air,1609
+輪胎穿孔,puncture,Nature & Animals,Air,1610
+煙霧,smog,Nature & Animals,Air,1611
+飛艇,airship,Nature & Animals,Air,1612
+沙灘波,beach ball,Nature & Animals,Beach,1613
+沙灘巾,beach towel,Nature & Animals,Beach,1614
+冰箱,cooler,Nature & Animals,Beach,1616
+救生衣,life jacket,Nature & Animals,Beach,1619
+救生員,lifeguard,Nature & Animals,Beach,1620
+太陽傘,parasol,Nature & Animals,Beach,1621
+沙池,sandbox,Nature & Animals,Beach,1622
+滑梯,slide,Nature & Animals,Beach,1623
+浮潛,snorkel,Nature & Animals,Beach,1624
+太陽椅,sun chair,Nature & Animals,Beach,1625
+日光浴,sunbathing,Nature & Animals,Beach,1626
+防曬霜,sunscreen,Nature & Animals,Beach,1627
+衝浪板,surfboard,Nature & Animals,Beach,1628
+千秋,swing,Nature & Animals,Beach,1629
+它滑動,it slides,Nature & Animals,Beach,1618
+鳥巢,birdhouse,Nature & Animals,Birds,1647
+蜂鳥,hummingbird,Nature & Animals,Birds,1648
+烏鴉,crow,Nature & Animals,Birds,1649
+鶻,falcon,Nature & Animals,Birds,1650
+鴕鳥,ostrich,Nature & Animals,Birds,1653
+貓頭鷹,owl,Nature & Animals,Birds,1654
+鸚鵡,parrot,Nature & Animals,Birds,1655
+鵜鶘,pelican,Nature & Animals,Birds,1656
+企鵝,penguin,Nature & Animals,Birds,1657
+紅鶴,flamingo,Nature & Animals,Birds,1660
+燕子,swallow,Nature & Animals,Birds,1661
+天鵝,swan,Nature & Animals,Birds,1662
+鷹,eagle,Nature & Animals,Birds,1663
+螞蟻,ant,Nature & Animals,Insects,1188
+蜜蜂,bee,Nature & Animals,Insects,1191
+蝴蝶,butterfly,Nature & Animals,Insects,1192
+蟑螂,cockroach,Nature & Animals,Insects,1194
+蜘蛛,spider,Nature & Animals,Insects,1202
+養蜂人,beekeeper,Nature & Animals,Insects,1749
+甲蟲,beetle,Nature & Animals,Insects,1750
+毛蟲,caterpillar,Nature & Animals,Insects,1751
+蜻蜓,dragonfly,Nature & Animals,Insects,1752
+螢火蟲,firebug,Nature & Animals,Insects,1753
+跳蚤,flea,Nature & Animals,Insects,1754
+水族館,aquarium,Nature & Animals,Pets,1800
+鳥籠,birdcage,Nature & Animals,Pets,1801
+貓床,cat bed,Nature & Animals,Pets,1803
+寵物袋,pet carrier,Nature & Animals,Pets,1804
+貓糧,cat food,Nature & Animals,Pets,1805
+貓砂,cat litter,Nature & Animals,Pets,1806
+寵物護照,pet passport,Nature & Animals,Pets,1807
+狗頸圈,dog collar,Nature & Animals,Pets,1808
+狗糧,dog food,Nature & Animals,Pets,1809
+狗屋,dog house,Nature & Animals,Pets,1810
+狗糞袋,dog poop bag,Nature & Animals,Pets,1811
+金魚,goldfish,Nature & Animals,Pets,1812
+倉鼠,hamster,Nature & Animals,Pets,1813
+識別標籤,identification tag,Nature & Animals,Pets,1815
+皮帶,leash,Nature & Animals,Pets,1816
+我愛撫,I caress,Nature & Animals,Pets,1802
+我遛狗,I walk the dog,Nature & Animals,Pets,1814
+鯊魚,shark,Nature & Animals,Sea_Life,1199
+錨,anchor,Nature & Animals,Sea_Life,1834
+螃蟹,crab,Nature & Animals,Sea_Life,1835
+海豚,dolphin,Nature & Animals,Sea_Life,1836
+水母,jellyfish,Nature & Animals,Sea_Life,1837
+龍蝦,lobster,Nature & Animals,Sea_Life,1838
+美人魚,mermaid,Nature & Animals,Sea_Life,1839
+章魚,octopus,Nature & Animals,Sea_Life,1840
+槳,paddles,Nature & Animals,Sea_Life,1841
+鰩,ray,Nature & Animals,Sea_Life,1842
+海馬,seahorse,Nature & Animals,Sea_Life,1843
+海草,seaweed,Nature & Animals,Sea_Life,1844
+珊瑚,coral,Nature & Animals,More_Sea_Animals,3635
+海龜,sea turtle,Nature & Animals,More_Sea_Animals,3636
+海膽,sea urchin,Nature & Animals,More_Sea_Animals,3637
+海豹,seal,Nature & Animals,More_Sea_Animals,3638
+海象,walrus,Nature & Animals,More_Sea_Animals,3639
+海獺,sea otter,Nature & Animals,More_Sea_Animals,3640
+鰻魚,eel,Nature & Animals,More_Sea_Animals,3641
+蝦,shrimp,Nature & Animals,More_Sea_Animals,3642
+魟魚,stingray,Nature & Animals,More_Sea_Animals,3643
+青口,mussel,Nature & Animals,More_Sea_Animals,3644
+蛤,clam,Nature & Animals,More_Sea_Animals,3645
+雞泡魚,pufferfish,Nature & Animals,More_Sea_Animals,3646
+虎鯨,orca,Nature & Animals,More_Sea_Animals,3647
+吞拿魚,tuna,Nature & Animals,More_Sea_Animals,3648
+鎚頭鯊,hammerhead shark,Nature & Animals,More_Sea_Animals,3649
+海牛,manatee,Nature & Animals,More_Sea_Animals,3650
+我釣魚,I fish,Nature & Animals,More_Sea_Animals,3651
+我升起,I rise,Nature & Animals,More_Sea_Animals,3652
+飛機場,airport,Transportation & Vehicles,Airport,81
+飛機,airplane,Transportation & Vehicles,Airport,82
+登機報到,check-in,Transportation & Vehicles,Airport,83
+機票,flight ticket,Transportation & Vehicles,Airport,84
+磅秤,scale,Transportation & Vehicles,Airport,85
+目的地,destination,Transportation & Vehicles,Airport,86
+到達,arrival,Transportation & Vehicles,Airport,88
+離開,departure,Transportation & Vehicles,Airport,89
+空中小姐,stewardess,Transportation & Vehicles,Airport,90
+乘客,passenger,Transportation & Vehicles,Airport,91
+行李,suitcase,Transportation & Vehicles,Airport,92
+領取行李,baggage claim,Transportation & Vehicles,Airport,95
+票,ticket,Transportation & Vehicles,Airport,605
+火車,train,Transportation & Vehicles,Transport,181
+貨車,truck,Transportation & Vehicles,Transport,183
+小型客貨車,van,Transportation & Vehicles,Transport,184
+電車,tram,Transportation & Vehicles,Transport,185
+地鐵,underground,Transportation & Vehicles,Transport,186
+電動單車,moped,Transportation & Vehicles,Transport,187
+船,ship,Transportation & Vehicles,Transport,188
+電單車,motorcycle,Transportation & Vehicles,Transport,189
+直升機,helicopter,Transportation & Vehicles,Transport,190
+巴士,bus,Transportation & Vehicles,Transport,191
+汽車,car,Transportation & Vehicles,Transport,192
+單車,bike,Transportation & Vehicles,Transport,193
+小船,boat,Transportation & Vehicles,Transport,194
+交通阻塞,traffic jam,Transportation & Vehicles,Transport,195
+我騎單車,I ride a bicycle,Transportation & Vehicles,Transport,196
+電動單車,moped,Transportation & Vehicles,Mobility,187
+嬰兒車,baby carriage,Transportation & Vehicles,Mobility,593
+渡輪,ferry,Transportation & Vehicles,Mobility,594
+纜車,cable car,Transportation & Vehicles,Mobility,595
+扶手電梯,escalator,Transportation & Vehicles,Mobility,597
+鐵路,railroad,Transportation & Vehicles,Mobility,600
+綿羊仔,scooter,Transportation & Vehicles,Mobility,601
+地鐵,subway,Transportation & Vehicles,Mobility,603
+的士,taxi,Transportation & Vehicles,Mobility,604
+輪椅,wheelchair,Transportation & Vehicles,Mobility,609
+子彈火車,bullet train,Transportation & Vehicles,Mobility,1274
+遊輪,cruise,Transportation & Vehicles,Mobility,1275
+背包客,backpacker,Transportation & Vehicles,Traveling,1273
+入口,entry gate,Transportation & Vehicles,Traveling,1276
+行山人士,hiker,Transportation & Vehicles,Traveling,1277
+搭便車,hitchhiking,Transportation & Vehicles,Traveling,1278
+鐵路票,rail ticket,Transportation & Vehicles,Traveling,1282
+鐵路車,railroad car,Transportation & Vehicles,Traveling,1283
+售票機,ticket machine,Transportation & Vehicles,Traveling,1285
+導遊,tour guide,Transportation & Vehicles,Traveling,1286
+遊客,tourist,Transportation & Vehicles,Traveling,1287
+旅行,travel,Transportation & Vehicles,Traveling,1288
+鐵路貨車,wagon,Transportation & Vehicles,Traveling,1289
+交通阻塞,traffic jam,Transportation & Vehicles,Car,195
+車房,garage,Transportation & Vehicles,Car,596
+停車場,parking lot,Transportation & Vehicles,Car,598
+乘客座椅,passenger seat,Transportation & Vehicles,Car,599
+安全帶,seat belt,Transportation & Vehicles,Car,602
+車尾箱,trunk,Transportation & Vehicles,Car,607
+輪,wheel,Transportation & Vehicles,Car,608
+街,street,Transportation & Vehicles,Car,659
+汽車電池,car battery,Transportation & Vehicles,Car,1324
+汽車出租,car rental,Transportation & Vehicles,Car,1325
+洗車,car wash,Transportation & Vehicles,Car,1326
+月台,platform,Transportation & Vehicles,Railway,2610
+路軌,railroad tracks,Transportation & Vehicles,Railway,2611
+列車長,train conductor,Transportation & Vehicles,Railway,2612
+蒸氣引擎,steam engine,Transportation & Vehicles,Railway,2613
+貨運列車,freight train,Transportation & Vehicles,Railway,2614
+餐卡,dining car,Transportation & Vehicles,Railway,2615
+交界處,junction,Transportation & Vehicles,Railway,2616
+拉繩,pull cord,Transportation & Vehicles,Railway,2617
+火車通票,interrail,Transportation & Vehicles,Railway,2618
+行李架,luggage rack,Transportation & Vehicles,Railway,2619
+高架橋,viaduct,Transportation & Vehicles,Railway,2621
+偷渡者,stowaway,Transportation & Vehicles,Railway,2623
+扶手,handhold,Transportation & Vehicles,Railway,2624
+消防車,firetruck,Transportation & Vehicles,Vehicles,3275
+開篷小型貨車,pickup truck,Transportation & Vehicles,Vehicles,3276
+警車,police car,Transportation & Vehicles,Vehicles,3277
+電動車,electric car,Transportation & Vehicles,Vehicles,3278
+運動休閒車,SUV,Transportation & Vehicles,Vehicles,3279
+開篷車,convertible,Transportation & Vehicles,Vehicles,3280
+人力車,rickshaw,Transportation & Vehicles,Vehicles,3281
+客貨車,minivan,Transportation & Vehicles,Vehicles,3282
+推土機,bulldozer,Transportation & Vehicles,Vehicles,3283
+真的很抱歉，我這麽遲才到！,I'm sorry I'm late!,Transportation & Vehicles,Problems_on_the_Road,7631
+我輸入了錯誤的地址。,I put in the wrong address.,Transportation & Vehicles,Problems_on_the_Road,7633
+我的車無法啟動。,My car wouldn't start.,Transportation & Vehicles,Problems_on_the_Road,7634
+我遇上塞車。,I got stuck in traffic.,Transportation & Vehicles,Problems_on_the_Road,7635
+路面冰封了。,The road was covered in ice.,Transportation & Vehicles,Problems_on_the_Road,7636
+我駛入了死路。,I hit a dead end.,Transportation & Vehicles,Problems_on_the_Road,7637
+我的車壞了。,My car broke down.,Transportation & Vehicles,Problems_on_the_Road,7638
+路上有意外。,There was an accident.,Transportation & Vehicles,Problems_on_the_Road,7639
+我的車爆胎。,I had a flat tire.,Transportation & Vehicles,Problems_on_the_Road,7640
+每個路口都是紅燈。,I hit every red light.,Transportation & Vehicles,Problems_on_the_Road,7641
+我不得不繞道而行。,I had to make a detour.,Transportation & Vehicles,Problems_on_the_Road,7642
+我前面的司機開得很慢。,I was stuck behind a slow driver.,Transportation & Vehicles,Problems_on_the_Road,7643
+我按了喇叭。,I honked at him.,Transportation & Vehicles,Problems_on_the_Road,7644
+找泊車位很難！,Parking was a nightmare!,Transportation & Vehicles,Problems_on_the_Road,7645
+車尾箱,trunk,Transportation & Vehicles,Car_Parts,607
+油門踏板,gas pedal,Transportation & Vehicles,Car_Parts,1330
+汽車油箱,gas tank,Transportation & Vehicles,Car_Parts,1331
+水撥,windshield wipers,Transportation & Vehicles,Car_Parts,1340
+兒童汽車安全椅,car seat,Transportation & Vehicles,Car_Parts,3224
+軚盤,steering wheel,Transportation & Vehicles,Car_Parts,7660
+車匙,ignition key,Transportation & Vehicles,Car_Parts,7661
+剎車,brake,Transportation & Vehicles,Car_Parts,7662
+離合器,clutch,Transportation & Vehicles,Car_Parts,7663
+擋風玻璃,windshield,Transportation & Vehicles,Car_Parts,7664
+倒後鏡,rearview mirror,Transportation & Vehicles,Car_Parts,7665
+儀表板,dashboard,Transportation & Vehicles,Car_Parts,7666
+車頭燈,headlights,Transportation & Vehicles,Car_Parts,7667
+大燈,brights,Transportation & Vehicles,Car_Parts,7668
+頭枕,headrest,Transportation & Vehicles,Car_Parts,7669
+手套箱,glove compartment,Transportation & Vehicles,Car_Parts,7670
+手掣,parking brake,Transportation & Vehicles,Car_Parts,7671
+車牌,license plate,Transportation & Vehicles,Car_Parts,7672
+死火燈,hazard lights,Transportation & Vehicles,Car_Parts,7673
+發動機,engine,Transportation & Vehicles,Formula_1,1328
+司機,driver,Transportation & Vehicles,Formula_1,7717
+賽車,race car,Transportation & Vehicles,Formula_1,7718
+前翼,front wing,Transportation & Vehicles,Formula_1,7719
+後翼,rear wing,Transportation & Vehicles,Formula_1,7720
+輪胎,tires,Transportation & Vehicles,Formula_1,7721
+輪胎起泡脫膠。,The tires are blistering.,Transportation & Vehicles,Formula_1,7722
+車艙,cockpit,Transportation & Vehicles,Formula_1,7723
+賽車頭盔,racing helmet,Transportation & Vehicles,Formula_1,7724
+贊助商,sponsor,Transportation & Vehicles,Formula_1,7725
+跑道,racetrack,Transportation & Vehicles,Formula_1,7726
+起跑排位,starting grid,Transportation & Vehicles,Formula_1,7727
+圈,lap,Transportation & Vehicles,Formula_1,7728
+最快圈速,fastest lap,Transportation & Vehicles,Formula_1,7729
+切彎點,apex,Transportation & Vehicles,Formula_1,7730
+路段,sectors,Transportation & Vehicles,Formula_1,7731
+彎道,chicane,Transportation & Vehicles,Formula_1,7732
+輪胎鎖死,lock-up,Transportation & Vehicles,Formula_1,7733
+他撞上了屏障。,He crashed into the barrier.,Transportation & Vehicles,Formula_1,7734
+坑,pits,Transportation & Vehicles,Formula_1,7735
+他進入維修區。,He's making a pit stop.,Transportation & Vehicles,Formula_1,7736
+維修站人員,pit crew,Transportation & Vehicles,Formula_1,7737
+她正試圖超越他。,She's trying to overtake him.,Transportation & Vehicles,Formula_1,7738
+空氣動力學,aerodynamics,Transportation & Vehicles,Formula_1,7739
+他們勝出了比賽！,They won the race!,Transportation & Vehicles,Formula_1,7740
+方格旗,checkered flag,Transportation & Vehicles,Formula_1,7741
+頒獎台,podium,Transportation & Vehicles,Formula_1,7742
+第一名,first place,Transportation & Vehicles,Formula_1,7743
+最後一名,last place,Transportation & Vehicles,Formula_1,7744
+獎杯,trophy,Transportation & Vehicles,Formula_1,7745
+世界冠軍,world champion,Transportation & Vehicles,Formula_1,7746
+浴室,bathroom,Home & Garden,House,481
+睡房,bedroom,Home & Garden,House,483
+餐廳,dining room,Home & Garden,House,485
+門,door,Home & Garden,House,486
+屋,house,Home & Garden,House,487
+廚房,kitchen,Home & Garden,House,488
+花園,garden,Home & Garden,House,490
+鄰居,neighbor,Home & Garden,House,491
+辦公室,office,Home & Garden,House,492
+閣樓,attic,Home & Garden,House,2627
+客廳,living room,Home & Garden,House,2637
+焗爐,oven,Home & Garden,Kitchen,493
+雪櫃,refrigerator,Home & Garden,Kitchen,494
+砧板,cutting board,Home & Garden,Kitchen,1002
+水龍頭,faucet,Home & Garden,Kitchen,1003
+平底鑊,frying pan,Home & Garden,Kitchen,1004
+玻璃杯,glass,Home & Garden,Kitchen,1005
+烤架,grill,Home & Garden,Kitchen,1006
+水壺,jug,Home & Garden,Kitchen,1009
+水煲,kettle,Home & Garden,Kitchen,1010
+蓋,lid,Home & Garden,Kitchen,1011
+洗碗機,dishwasher,Home & Garden,Kitchen,1124
+微波爐,microwave,Home & Garden,Kitchen,1232
+斧頭,axe,Home & Garden,Tools,1018
+電鑽,drill,Home & Garden,Tools,1019
+膠水,glue,Home & Garden,Tools,1020
+錘,hammer,Home & Garden,Tools,1021
+爬梯,ladder,Home & Garden,Tools,1022
+釘,nail,Home & Garden,Tools,1023
+堅果,nut,Home & Garden,Tools,1024
+鉗,pliers,Home & Garden,Tools,1025
+耙,rake,Home & Garden,Tools,1026
+剃刀,razor,Home & Garden,Tools,1027
+鋸,saw,Home & Garden,Tools,1028
+公寓,apartment,Home & Garden,Shelters,1069
+海濱別墅,beach house,Home & Garden,Shelters,1070
+小屋,cottage,Home & Garden,Shelters,1071
+農舍,farmhouse,Home & Garden,Shelters,1072
+堡壘,fortress,Home & Garden,Shelters,1073
+船屋,houseboat,Home & Garden,Shelters,1074
+棚屋,hut,Home & Garden,Shelters,1075
+木屋,log cabin,Home & Garden,Shelters,1078
+大屋,mansion,Home & Garden,Shelters,1079
+帳篷,tent,Home & Garden,Shelters,1081
+拖車,trailer,Home & Garden,Shelters,1082
+樹屋,treehouse,Home & Garden,Shelters,1083
+別墅,villa,Home & Garden,Shelters,1084
+背囊,backpack,Home & Garden,Containers,1103
+桶,barrel,Home & Garden,Containers,1104
+盒,box,Home & Garden,Containers,1105
+公事包,briefcase,Home & Garden,Containers,1106
+桶,bucket,Home & Garden,Containers,1107
+箱,chest,Home & Garden,Containers,1108
+小酒壺,flask,Home & Garden,Containers,1110
+文件夾,folder,Home & Garden,Containers,1111
+手袋,handbag,Home & Garden,Containers,1112
+儲物櫃,locker,Home & Garden,Containers,1114
+錢包,purse,Home & Garden,Containers,1116
+行李,suitcase,Home & Garden,Containers,1117
+腰包,fanny pack,Home & Garden,Containers,1119
+椅,chair,Home & Garden,Furniture,484
+檯,table,Home & Garden,Furniture,495
+扶手椅,armchair,Home & Garden,Furniture,1120
+書架,bookshelf,Home & Garden,Furniture,1121
+櫃櫥,cabinet,Home & Garden,Furniture,1122
+地氈,carpet,Home & Garden,Furniture,1123
+辦公椅,office chair,Home & Garden,Furniture,1129
+暖爐,radiator,Home & Garden,Furniture,1131
+梳化,sofa,Home & Garden,Furniture,1132
+牆,wall,Home & Garden,Furniture,1133
+洗衣機,washing machine,Home & Garden,Furniture,1135
+電熱水壺,electric kettle,Home & Garden,Household_Items,1222
+吹風機,hair dryer,Home & Garden,Household_Items,1224
+熨斗,iron,Home & Garden,Household_Items,1228
+燙衫板,ironing board,Home & Garden,Household_Items,1229
+剪草機,lawnmower,Home & Garden,Household_Items,1230
+燈泡,lightbulb,Home & Garden,Household_Items,1231
+針,needle,Home & Garden,Household_Items,1234
+縫紉機,sewing machine,Home & Garden,Household_Items,1235
+電髮器,hair iron,Home & Garden,Household_Items,1236
+線,thread,Home & Garden,Household_Items,1237
+吸塵機,vacuum cleaner,Home & Garden,Household_Items,1238
+空氣清新劑,air freshener,Home & Garden,Toilet,1256
+浴盆,bidet,Home & Garden,Toilet,1257
+烘乾機,hand dryer,Home & Garden,Toilet,1258
+抹手紙,hand towel,Home & Garden,Toilet,1259
+體味,odor,Home & Garden,Toilet,1263
+外屋,outhouse,Home & Garden,Toilet,1264
+通渠,plumbing,Home & Garden,Toilet,1265
+廁所泵,plunger,Home & Garden,Toilet,1266
+大便,poop,Home & Garden,Toilet,1267
+氣味,smell,Home & Garden,Toilet,1268
+馬桶刷,toilet brush,Home & Garden,Toilet,1269
+厠紙,toilet paper,Home & Garden,Toilet,1270
+燒烤,barbecue,Home & Garden,In_Case_of_Fire,1392
+火,fire,Home & Garden,In_Case_of_Fire,1393
+火警鐘,fire alarm,Home & Garden,In_Case_of_Fire,1394
+火警掣,fire alarm button,Home & Garden,In_Case_of_Fire,1395
+逃生通道,fire exit,Home & Garden,In_Case_of_Fire,1396
+滅火器,fire extinguisher,Home & Garden,In_Case_of_Fire,1397
+消防喉,fire hose,Home & Garden,In_Case_of_Fire,1398
+消防栓,fire hydrant,Home & Garden,In_Case_of_Fire,1399
+消防噴頭,fire sprinkler,Home & Garden,In_Case_of_Fire,1400
+森林火災,forest fire,Home & Garden,In_Case_of_Fire,1401
+房屋火災,house fire,Home & Garden,In_Case_of_Fire,1402
+濃煙,smoke,Home & Garden,In_Case_of_Fire,1405
+煙霧探測器,smoke detector,Home & Garden,In_Case_of_Fire,1406
+火花,spark,Home & Garden,In_Case_of_Fire,1407
+火炬,torch,Home & Garden,In_Case_of_Fire,1408
+我熄滅,I extinguish,Home & Garden,In_Case_of_Fire,1403
+我點起,I light up,Home & Garden,In_Case_of_Fire,1404
+花,flower,Home & Garden,Flowers,936
+甘菊,chamomile,Home & Garden,Flowers,1733
+蒲公英,dandelion,Home & Garden,Flowers,1734
+花盆,flowerpot,Home & Garden,Flowers,1735
+勿忘我花,forget me not,Home & Garden,Flowers,1736
+蓮花,lotus,Home & Garden,Flowers,1738
+蘭花,orchid,Home & Garden,Flowers,1739
+修枝剪,pruner,Home & Garden,Flowers,1741
+玫瑰,rose,Home & Garden,Flowers,1742
+廁所板,toilet seat,Home & Garden,More_Toilet,1271
+尿兜,urinal,Home & Garden,More_Toilet,1272
+廁格,bathroom stall,Home & Garden,More_Toilet,2483
+廁紙架,toilet paper holder,Home & Garden,More_Toilet,2484
+馬桶蓋,toilet seat cover,Home & Garden,More_Toilet,2485
+蹲便器,squatting pan,Home & Garden,More_Toilet,2486
+毛巾架,towel rack,Home & Garden,More_Toilet,2489
+溢出,overflow,Home & Garden,More_Toilet,2491
+漏,leak,Home & Garden,More_Toilet,2492
+排水管堵塞,clogged drain,Home & Garden,More_Toilet,2493
+使用中,occupied,Home & Garden,More_Toilet,2494
+閒置的,vacant,Home & Garden,More_Toilet,2495
+玄關,hallway,Home & Garden,More_House,2628
+儲物櫃,storage closet,Home & Garden,More_House,2629
+前院,front yard,Home & Garden,More_House,2630
+車道,driveway,Home & Garden,More_House,2631
+食品儲藏室,pantry,Home & Garden,More_House,2632
+庭院,patio,Home & Garden,More_House,2633
+露台,balcony,Home & Garden,More_House,2634
+屋頂,roof,Home & Garden,More_House,2635
+煙囪,chimney,Home & Garden,More_House,2636
+門鐘,doorbell,Home & Garden,More_House,2638
+樓梯,stairwell,Home & Garden,More_House,2639
+排水系統,drainage,Home & Garden,More_House,2640
+台階,doorstep,Home & Garden,More_House,2642
+削皮器,peeler,Home & Garden,More_Kitchen,1012
+碟,plate,Home & Garden,More_Kitchen,1013
+鍋,pot,Home & Garden,More_Kitchen,1014
+錫罐,tin,Home & Garden,More_Kitchen,1015
+水槽,sink,Home & Garden,More_Kitchen,1016
+爐,stove,Home & Garden,More_Kitchen,1017
+茶匙,teaspoon,Home & Garden,More_Kitchen,2883
+匙羹,tablespoon,Home & Garden,More_Kitchen,2884
+量杯,measuring cup,Home & Garden,More_Kitchen,2885
+雪櫃,freezer,Home & Garden,More_Kitchen,2886
+螺絲釘,screw,Home & Garden,More_Tools,1029
+螺絲批,screwdriver,Home & Garden,More_Tools,1030
+鏟,shovel,Home & Garden,More_Tools,1031
+鏟,spade,Home & Garden,More_Tools,1032
+膠帶,tape,Home & Garden,More_Tools,1033
+工具箱,toolbox,Home & Garden,More_Tools,1034
+捲尺,tape measure,Home & Garden,More_Tools,3095
+扳手,wrench,Home & Garden,More_Tools,3096
+套筒扳手,socket wrench,Home & Garden,More_Tools,3097
+剪線鉗,wire cutters,Home & Garden,More_Tools,3098
+門鈴,doorbell,Home & Garden,More_Household_Items,3599
+蠟燭台,candle holder,Home & Garden,More_Household_Items,3600
+牆壁裝飾,wall decor,Home & Garden,More_Household_Items,3601
+牆架,wall shelf,Home & Garden,More_Household_Items,3602
+窗簾棍,curtain rod,Home & Garden,More_Household_Items,3603
+油炸鍋,fryer,Home & Garden,More_Household_Items,3604
+抹手紙,paper towel,Home & Garden,More_Household_Items,3605
+餐巾座,napkin holder,Home & Garden,More_Household_Items,3606
+洗衣籃,laundry basket,Home & Garden,More_Household_Items,3607
+草藥,herbs,Home & Garden,Gardening,938
+根,root,Home & Garden,Gardening,943
+種子,seed,Home & Garden,Gardening,944
+土壤,soil,Home & Garden,Gardening,945
+發芽,sprout,Home & Garden,Gardening,946
+草叉,pitchfork,Home & Garden,Gardening,1740
+淋水器,watering pot,Home & Garden,Gardening,1747
+獨輪車,wheelbarrow,Home & Garden,Gardening,1748
+苗,seedlings,Home & Garden,Gardening,3744
+酒店,hotel,City & Shops,Hotel,141
+住宿,accommodation,City & Shops,Hotel,143
+鑰匙卡,key card,City & Shops,Hotel,144
+客房服務,room service,City & Shops,Hotel,145
+保險櫃,the safe,City & Shops,Hotel,146
+淋浴,shower,City & Shops,Hotel,147
+房間,room,City & Shops,Hotel,148
+冷氣機,air conditioner,City & Shops,Hotel,149
+客人,guest,City & Shops,Hotel,151
+鑰匙,key,City & Shops,Hotel,152
+升降機,elevator,City & Shops,Hotel,153
+接待處,reception,City & Shops,Hotel,154
+鈔票,banknote,City & Shops,Shopping,202
+硬幣,coin,City & Shops,Shopping,203
+優惠券,coupon,City & Shops,Shopping,204
+信用卡,credit card,City & Shops,Shopping,205
+貨幣,currency,City & Shops,Shopping,206
+顧客,customer,City & Shops,Shopping,207
+購物籃,shopping basket,City & Shops,Shopping,208
+收銀員,cashier,City & Shops,Shopping,209
+錢包,wallet,City & Shops,Shopping,210
+美元,dollar,City & Shops,Shopping,211
+歐元,euro,City & Shops,Shopping,212
+商店,shop,City & Shops,Shopping,214
+錢,money,City & Shops,Shopping,215
+網上購物,online shopping,City & Shops,Shopping,3738
+銀行,bank,City & Shops,City,241
+巴士站,bus stop,City & Shops,City,244
+公園,park,City & Shops,City,251
+大教堂,cathedral,City & Shops,City,255
+教會,church,City & Shops,City,301
+圖書館,library,City & Shops,City,303
+博物館,museum,City & Shops,City,305
+劇院,theater,City & Shops,City,307
+郵政局,post office,City & Shops,City,309
+醫院,hospital,City & Shops,City,310
+警察局,police station,City & Shops,City,312
+學校,school,City & Shops,City,314
+消防署,fire station,City & Shops,City,837
+廠,factory,City & Shops,Buildings,304
+摩天大廈,skyscraper,City & Shops,Buildings,306
+咖啡店,cafe,City & Shops,Buildings,308
+藥房,pharmacy,City & Shops,Buildings,311
+主題公園,theme park,City & Shops,Buildings,313
+健身房,gym,City & Shops,Buildings,838
+旅館,hostel,City & Shops,Buildings,839
+監獄,prison,City & Shops,Buildings,842
+市政廳,town hall,City & Shops,Buildings,845
+宮殿,palace,City & Shops,Buildings,1080
+風車,windmill,City & Shops,Buildings,1085
+會議中心,convention center,City & Shops,Buildings,2902
+圓形劇場,amphitheater,City & Shops,Buildings,2910
+市政廳,city hall,City & Shops,Buildings,2911
+後面,behind,City & Shops,Navigation,644
+中間,between,City & Shops,Navigation,645
+中心,center,City & Shops,Navigation,646
+角落,corner,City & Shops,Navigation,647
+方向,direction,City & Shops,Navigation,648
+距離,distance,City & Shops,Navigation,649
+這裡,here,City & Shops,Navigation,650
+左,left,City & Shops,Navigation,654
+對面,opposite,City & Shops,Navigation,655
+右,right,City & Shops,Navigation,656
+路,road,City & Shops,Navigation,657
+直前方,straight ahead,City & Shops,Navigation,658
+那邊,there,City & Shops,Navigation,660
+提款機,ATM machine,City & Shops,More_City,201
+橋,bridge,City & Shops,More_City,243
+城堡,castle,City & Shops,More_City,245
+墳場,cemetery,City & Shops,More_City,246
+的士高,disco,City & Shops,More_City,247
+行人過路處,crosswalk,City & Shops,More_City,248
+十字路口,crossroad,City & Shops,More_City,249
+洗衣店,laundry,City & Shops,More_City,250
+紅綠燈,traffic light,City & Shops,More_City,252
+火車站,train station,City & Shops,More_City,253
+噴泉,fountain,City & Shops,More_City,254
+加油站,gas station,City & Shops,More_City,302
+農墟,farmer's market,City & Shops,More_City,3728
+跳蚤市場,flea market,City & Shops,More_City,3737
+理髮師,barber,City & Shops,Shops,866
+美容院,beauty salon,City & Shops,Shops,867
+單車店,bike shop,City & Shops,Shops,868
+書店,book shop,City & Shops,Shops,869
+糖果店,confectionery,City & Shops,Shops,870
+魚販,fishmonger,City & Shops,Shops,872
+花店,florist,City & Shops,Shops,873
+蔬菜水果商,greengrocery,City & Shops,Shops,874
+理髮師,hairdresser,City & Shops,Shops,875
+珠寶店,jewelry,City & Shops,Shops,877
+鎖匠,key smith,City & Shops,Shops,878
+眼鏡店,optician,City & Shops,Shops,879
+裁縫,tailor,City & Shops,Shops,880
+地址,address,City & Shops,Post_Office,899
+航空郵件,airmail,City & Shops,Post_Office,900
+信封,envelope,City & Shops,Post_Office,902
+信,letter,City & Shops,Post_Office,903
+郵箱,mailbox,City & Shops,Post_Office,905
+明信片,postcard,City & Shops,Post_Office,907
+優先郵件,priority mail,City & Shops,Post_Office,909
+退信,returned mail,City & Shops,Post_Office,910
+密封,seal,City & Shops,Post_Office,911
+寄件人,sender,City & Shops,Post_Office,912
+簽名,signature,City & Shops,Post_Office,913
+郵票,stamp,City & Shops,Post_Office,914
+重物,weight,City & Shops,Post_Office,915
+血液,blood,City & Shops,Hospital,1426
+拐杖,crutch,City & Shops,Hospital,1427
+檢查,examination,City & Shops,Hospital,1428
+心跳,heartbeat,City & Shops,Hospital,1429
+輸液,infusion,City & Shops,Hospital,1432
+醫療帳單,medical bill,City & Shops,Hospital,1433
+醫療記錄,medical record,City & Shops,Hospital,1434
+病人,patient,City & Shops,Hospital,1435
+病人入院,patient admission,City & Shops,Hospital,1436
+脈搏,pulse,City & Shops,Hospital,1437
+注射器,syringe,City & Shops,Hospital,1438
+聽筒,stethoscope,City & Shops,Hospital,1439
+擔架,stretcher,City & Shops,Hospital,1440
+外科醫生,surgeon,City & Shops,Hospital,1441
+X光,x-ray,City & Shops,Hospital,1442
+我咳,I cough,City & Shops,Hospital,1430
+我等,I wait,City & Shops,Hospital,1431
+燈塔,lighthouse,City & Shops,More_Buildings,1077
+水塔,water tower,City & Shops,More_Buildings,2897
+亭,kiosk,City & Shops,More_Buildings,2898
+大樓,tower,City & Shops,More_Buildings,2899
+廢墟,ruins,City & Shops,More_Buildings,2900
+磨坊,mill,City & Shops,More_Buildings,2901
+啤酒廠,brewery,City & Shops,More_Buildings,2903
+澡堂,bathhouse,City & Shops,More_Buildings,2904
+汽車旅館,motel,City & Shops,More_Buildings,2905
+寶塔,pagoda,City & Shops,More_Buildings,2906
+巴士站,bus station,City & Shops,More_Buildings,2907
+校園,campus,City & Shops,More_Buildings,2908
+尖頂帳篷,tepee,City & Shops,More_Buildings,2909
+釀酒廠,winery,City & Shops,More_Buildings,2912
+交通標誌,traffic sign,City & Shops,Signs,606
+鐵路交叉,rail crossing,City & Shops,Signs,1281
+時間表,timetable,City & Shops,Signs,2609
+資料顯示板,information board,City & Shops,Signs,2620
+地下通道,underground crossing,City & Shops,Signs,2622
+斜路,steep road,City & Shops,Signs,3257
+危險物品,hazardous materials,City & Shops,Signs,3258
+停止標誌,stop sign,City & Shops,Signs,3259
+不得擅入,no trespassing,City & Shops,Signs,3260
+生物危害,biohazard,City & Shops,Signs,3261
+不准進入,do not enter,City & Shops,Signs,3262
+購物車,shopping cart,City & Shops,Supermarket,3725
+條碼,barcode,City & Shops,Supermarket,3726
+收銀機,cash register,City & Shops,Supermarket,3727
+冷藏食品,frozen food,City & Shops,Supermarket,3729
+輸送帶,conveyor belt,City & Shops,Supermarket,3730
+條碼掃描器,barcode scanner,City & Shops,Supermarket,3731
+購物袋,shopping bag,City & Shops,Supermarket,3732
+購物清單,shopping list,City & Shops,Supermarket,3733
+有效期,expiration date,City & Shops,Supermarket,3734
+會員卡,loyalty card,City & Shops,Supermarket,3735
+自助服務,self-service,City & Shops,Supermarket,3736
+櫥窗,display window,City & Shops,Supermarket,3739
+價錢牌,price tag,City & Shops,Supermarket,3740
+鍵盤,keyboard,Business & Tech,.com,347
+筆記本電腦,laptop,Business & Tech,.com,348
+滑鼠,mouse,Business & Tech,.com,349
+網絡,network,Business & Tech,.com,350
+密碼,password,Business & Tech,.com,351
+插頭,plug,Business & Tech,.com,352
+打印機,printer,Business & Tech,.com,353
+屏幕,screen,Business & Tech,.com,354
+USB記憶棒,USB stick,Business & Tech,.com,355
+運動員,athlete,Business & Tech,Jobs,521
+廚師,cook,Business & Tech,Jobs,522
+記者,journalist,Business & Tech,Jobs,523
+律師,lawyer,Business & Tech,Jobs,524
+醫生,doctor,Business & Tech,Jobs,525
+技工,mechanic,Business & Tech,Jobs,526
+牧師,priest,Business & Tech,Jobs,527
+科學家,scientist,Business & Tech,Jobs,528
+秘書,secretary,Business & Tech,Jobs,529
+老師,teacher,Business & Tech,Jobs,530
+職員,office worker,Business & Tech,Jobs,531
+附件,attachment,Business & Tech,Computers,627
+電線,cable,Business & Tech,Computers,628
+充電器,charger,Business & Tech,Computers,629
+控制器,controller,Business & Tech,Computers,630
+下載,download,Business & Tech,Computers,631
+耳筒,earphones,Business & Tech,Computers,632
+互聯網,internet,Business & Tech,Computers,635
+插座,socket,Business & Tech,Computers,639
+平板電腦,tablet,Business & Tech,Computers,640
+上載,upload,Business & Tech,Computers,641
+網站,website,Business & Tech,Computers,642
+無線上網,Wi-Fi,Business & Tech,Computers,643
+音樂家,musician,Business & Tech,More_Jobs,532
+電腦程式員,programmer,Business & Tech,More_Jobs,533
+學生,student,Business & Tech,More_Jobs,534
+男侍應,waiter,Business & Tech,More_Jobs,535
+會計,accountant,Business & Tech,More_Jobs,967
+建築師,architect,Business & Tech,More_Jobs,968
+鐵匠,blacksmith,Business & Tech,More_Jobs,969
+汽車維修員,car mechanic,Business & Tech,More_Jobs,970
+木匠,carpenter,Business & Tech,More_Jobs,971
+化學家,chemist,Business & Tech,More_Jobs,972
+消防員,firefighter,Business & Tech,More_Jobs,973
+業務,business,Business & Tech,Business,6773
+成本,cost,Business & Tech,Business,6774
+出售,sale,Business & Tech,Business,6778
+產品,product,Business & Tech,Business,6780
+戶口,account,Business & Tech,Business,6781
+發展,development,Business & Tech,Business,6785
+我花費,I spend,Business & Tech,Business,6779
+穀倉,barn,Business & Tech,Agriculture,1579
+結合,combine,Business & Tech,Agriculture,1580
+農場,farm,Business & Tech,Agriculture,1581
+農民,farmer,Business & Tech,Agriculture,1582
+溫室,greenhouse,Business & Tech,Agriculture,1583
+果園,orchard,Business & Tech,Agriculture,1586
+牧場,pasture,Business & Tech,Agriculture,1587
+農藥,pesticides,Business & Tech,Agriculture,1588
+鎬,pick axe,Business & Tech,Agriculture,1589
+犁,plow,Business & Tech,Agriculture,1590
+犁田,plow field,Business & Tech,Agriculture,1591
+稻草人,scarecrow,Business & Tech,Agriculture,1592
+草包,straw bale,Business & Tech,Agriculture,1593
+拖拉機,tractor,Business & Tech,Agriculture,1594
+水箱,water tank,Business & Tech,Agriculture,1595
+握手,handshake,Business & Tech,Etiquette,2789
+個人空間,personal space,Business & Tech,Etiquette,2790
+飛吻,air kiss,Business & Tech,Etiquette,2791
+衣著規定,dress code,Business & Tech,Etiquette,2792
+擊掌,high five,Business & Tech,Etiquette,2793
+擊拳,fist bump,Business & Tech,Etiquette,2794
+屈膝禮,curtsy,Business & Tech,Etiquette,2795
+鞠躬,bowing,Business & Tech,Etiquette,2796
+女士優先,ladies first,Business & Tech,Etiquette,2797
+眼神接觸,eye contact,Business & Tech,Etiquette,2798
+鬧人,cursing,Business & Tech,Etiquette,2799
+插嘴,interruption,Business & Tech,Etiquette,2800
+手勢,hand gesture,Business & Tech,Etiquette,2801
+音樂播放器,music player,Business & Tech,More_Computers,636
+掃描機,scanner,Business & Tech,More_Computers,637
+電源按鈕,power button,Business & Tech,More_Computers,3005
+記憶卡讀卡器,memory card reader,Business & Tech,More_Computers,3006
+電線,power cable,Business & Tech,More_Computers,3007
+試算表,spreadsheet,Business & Tech,More_Computers,3008
+轉換器,adaptor,Business & Tech,More_Computers,3009
+USB 電線,USB cable,Business & Tech,More_Computers,3011
+外置磁碟機,external drive,Business & Tech,More_Computers,3012
+觸控板,trackpad,Business & Tech,More_Computers,3013
+傳真機,fax machine,Business & Tech,Workspace,1310
+簡報,presentation,Business & Tech,Workspace,1315
+工作時間,work hours,Business & Tech,Workspace,1323
+辦公桌,desk,Business & Tech,Workspace,3870
+影印機,photocopier,Business & Tech,Workspace,3872
+會議室,conference room,Business & Tech,Workspace,3873
+快餐店,cafeteria,Business & Tech,Workspace,3875
+站立式辦公桌,standing desk,Business & Tech,Workspace,3877
+板間位,cubicle,Business & Tech,Workspace,3878
+資料,information,Business & Tech,Media,6669
+信息,message,Business & Tech,Media,6670
+演講,speech,Business & Tech,Media,6671
+廣告,advertisement,Business & Tech,Media,6672
+文字,text,Business & Tech,Media,6673
+雜誌,magazine,Business & Tech,Media,6674
+頻道,channel,Business & Tech,Media,6675
+主持,host,Business & Tech,Media,6676
+紙張,paper,Business & Tech,Media,6677
+新聞,news,Business & Tech,Media,6678
+成功,success,Business & Tech,Media,6679
+顏色,color,Business & Tech,Media,6680
+市場,market,Business & Tech,Media,6681
+詳情,detail,Business & Tech,Media,6682
+頁,page,Business & Tech,Media,6683
+成長,growth,Business & Tech,Success,6717
+過程,process,Business & Tech,Success,6718
+大學,college,Business & Tech,Success,6720
+專家,expert,Business & Tech,Success,6721
+錯誤,mistake,Business & Tech,Success,6722
+目標,focus,Business & Tech,Success,6714
+我練習,I practice,Business & Tech,Success,6715
+我發現,I spot,Business & Tech,Success,6719
+我成為,I emerge,Business & Tech,Success,6723
+我比較,I compare,Business & Tech,Success,6724
+我增廣,I expand,Business & Tech,Success,6726
+我專心,I concentrate,Business & Tech,Success,6727
+我教,I teach,Business & Tech,Success,6728
+胸罩,bra,Fashion & Clothing,Clothes,443
+外套,coat,Fashion & Clothing,Clothes,444
+連身裙,dress,Fashion & Clothing,Clothes,445
+襪,socks,Fashion & Clothing,Clothes,448
+內衣,underwear,Fashion & Clothing,Clothes,449
+短褲,shorts,Fashion & Clothing,Clothes,450
+襯衫,shirt,Fashion & Clothing,Clothes,452
+T恤,t-shirt,Fashion & Clothing,Clothes,454
+長褲,trousers,Fashion & Clothing,Clothes,455
+外套,jacket,Fashion & Clothing,Clothes,714
+女裝內褲,panties,Fashion & Clothing,Clothes,716
+裙,skirt,Fashion & Clothing,More_Clothes,720
+絲襪,tights,Fashion & Clothing,More_Clothes,722
+西裝,suit,Fashion & Clothing,More_Clothes,723
+內褲,underpants,Fashion & Clothing,More_Clothes,726
+雨衣,raincoat,Fashion & Clothing,More_Clothes,2952
+長袍,robe,Fashion & Clothing,More_Clothes,2953
+睡衣,pyjamas,Fashion & Clothing,More_Clothes,2956
+套頭衫,pullover,Fashion & Clothing,More_Clothes,2962
+頭巾,bandana,Fashion & Clothing,Headwear,1409
+豆豆帽,beanie,Fashion & Clothing,Headwear,1410
+貝雷帽,beret,Fashion & Clothing,Headwear,1411
+牛仔帽,cowboy hat,Fashion & Clothing,Headwear,1412
+耳套,earmuffs,Fashion & Clothing,Headwear,1413
+平頂帽,flat hat,Fashion & Clothing,Headwear,1414
+板帽,fullcap,Fashion & Clothing,Headwear,1415
+安全帽,hard hat,Fashion & Clothing,Headwear,1417
+游泳帽,swimming cap,Fashion & Clothing,Headwear,1421
+游泳鏡,swimming goggles,Fashion & Clothing,Headwear,1422
+高頂禮帽,tophat,Fashion & Clothing,Headwear,1423
+頭巾,turban,Fashion & Clothing,Headwear,1424
+帽舌,visor,Fashion & Clothing,Headwear,1425
+眼鏡,glasses,Fashion & Clothing,Jewelry_&_Accessories,446
+手套,gloves,Fashion & Clothing,Jewelry_&_Accessories,447
+圍巾,scarf,Fashion & Clothing,Jewelry_&_Accessories,451
+耳環,earrings,Fashion & Clothing,Jewelry_&_Accessories,712
+頸鏈,necklace,Fashion & Clothing,Jewelry_&_Accessories,715
+太陽眼鏡,sunglasses,Fashion & Clothing,Jewelry_&_Accessories,724
+手錶,wristwatch,Fashion & Clothing,Jewelry_&_Accessories,727
+手鈪,bracelet,Fashion & Clothing,Jewelry_&_Accessories,1443
+水晶,crystal,Fashion & Clothing,Jewelry_&_Accessories,1445
+袖口鈕,cufflinks,Fashion & Clothing,Jewelry_&_Accessories,1446
+鑽石,diamond,Fashion & Clothing,Jewelry_&_Accessories,1447
+寶石,gemstone,Fashion & Clothing,Jewelry_&_Accessories,1448
+獎章,medal,Fashion & Clothing,Jewelry_&_Accessories,1453
+珍珠,pearl,Fashion & Clothing,Jewelry_&_Accessories,1454
+身體穿孔,piercing,Fashion & Clothing,Jewelry_&_Accessories,1455
+懷錶,pocket watch,Fashion & Clothing,Jewelry_&_Accessories,1456
+鼻環,nose ring,Fashion & Clothing,Jewelry_&_Accessories,2966
+化妝,makeup,Fashion & Clothing,Makeup,383
+睫毛,eyelash,Fashion & Clothing,Makeup,1343
+潤唇膏,lip balm,Fashion & Clothing,Makeup,1346
+唇膏,lipstick,Fashion & Clothing,Makeup,1347
+化妝刷,makeup brush,Fashion & Clothing,Makeup,1348
+睫毛膏,mascara,Fashion & Clothing,Makeup,1350
+眼影,eye shadow,Fashion & Clothing,Makeup,2519
+眼線,eye liner,Fashion & Clothing,Makeup,2520
+化妝袋,makeup bag,Fashion & Clothing,Makeup,2521
+假睫毛,fake eyelashes,Fashion & Clothing,Makeup,2522
+潤唇膏,chapstick,Fashion & Clothing,Makeup,2523
+胭脂,blush,Fashion & Clothing,Makeup,2524
+卸妝水,makeup remover,Fashion & Clothing,Makeup,2525
+唇彩,lip gloss,Fashion & Clothing,Makeup,2527
+髮箍,hairband,Fashion & Clothing,Beauty_Salon,2533
+捲髮器,curling iron,Fashion & Clothing,Beauty_Salon,2717
+吹乾,blowdry,Fashion & Clothing,Beauty_Salon,2722
+直髮夾,straightening iron,Fashion & Clothing,Beauty_Salon,2724
+噴髮膠,hairspray,Fashion & Clothing,Beauty_Salon,2725
+染髮劑,hair dye,Fashion & Clothing,Beauty_Salon,2726
+髮膠,hair gel,Fashion & Clothing,Beauty_Salon,2727
+髮捲,hair roller,Fashion & Clothing,Beauty_Salon,2728
+理髮器,hair clipper,Fashion & Clothing,Beauty_Salon,2729
+直立式吹風機,stand dryer,Fashion & Clothing,Beauty_Salon,2730
+造型梳,styling brush,Fashion & Clothing,Beauty_Salon,2731
+髮帶,hair band,Fashion & Clothing,Even_More_Clothes,1416
+頭帶,headband,Fashion & Clothing,Even_More_Clothes,1418
+四角褲,boxer shorts,Fashion & Clothing,Even_More_Clothes,2954
+內褲,briefs,Fashion & Clothing,Even_More_Clothes,2955
+家居服,loungewear,Fashion & Clothing,Even_More_Clothes,2958
+西裝外套,blazer,Fashion & Clothing,Even_More_Clothes,2959
+斗篷,poncho,Fashion & Clothing,Even_More_Clothes,2960
+針織套衫,jumper,Fashion & Clothing,Even_More_Clothes,2961
+開襟毛衣,cardigan,Fashion & Clothing,Even_More_Clothes,2963
+鼻環,nose ring,Fashion & Clothing,Even_More_Clothes,2966
+遊艇,yacht,Fashion & Clothing,Luxury,3959
+豪華轎車,limousine,Fashion & Clothing,Luxury,3960
+侍酒師,sommelier,Fashion & Clothing,Luxury,3961
+私人廚師,personal chef,Fashion & Clothing,Luxury,3962
+香檳,champagne,Fashion & Clothing,Luxury,3963
+蠔,oyster,Fashion & Clothing,Luxury,3964
+司機,chauffeur,Fashion & Clothing,Luxury,3965
+魚子醬,caviar,Fashion & Clothing,Luxury,3966
+男管家,butler,Fashion & Clothing,Luxury,3968
+富有,rich,Fashion & Clothing,Luxury,3970
+私人飛機,private jet,Fashion & Clothing,Luxury,3971
+保鏢,bodyguard,Fashion & Clothing,Luxury,3972
+拍賣,auction,Fashion & Clothing,Luxury,3973
+精緻餐飲,fine dining,Fashion & Clothing,Luxury,3974
+靴,boots,Fashion & Clothing,Shoes_&_More,442
+襪,socks,Fashion & Clothing,Shoes_&_More,448
+鞋,shoe,Fashion & Clothing,Shoes_&_More,453
+涼鞋,sandals,Fashion & Clothing,Shoes_&_More,719
+拖鞋,slippers,Fashion & Clothing,Shoes_&_More,721
+絲襪,tights,Fashion & Clothing,Shoes_&_More,722
+高踭鞋,high heels,Fashion & Clothing,Shoes_&_More,1383
+運動鞋,sneaker,Fashion & Clothing,Shoes_&_More,1390
+雪鞋,snowshoes,Fashion & Clothing,Shoes_&_More,1695
+行山鞋,trekking boot,Fashion & Clothing,Shoes_&_More,1696
+蛙鞋,fins,Fashion & Clothing,Shoes_&_More,2682
+跑鞋,running shoes,Fashion & Clothing,Shoes_&_More,3828
+卡,cards,Fun & Recreation,Fun,401
+電影院,cinema,Fun & Recreation,Fun,403
+演唱會,concert,Fun & Recreation,Fun,404
+展覽會,exhibition,Fun & Recreation,Fun,405
+報紙,newspaper,Fun & Recreation,Fun,406
+派對,party,Fun & Recreation,Fun,407
+比賽,match,Fun & Recreation,Fun,409
+談天,chat,Fun & Recreation,Fun,410
+電子遊戲,video games,Fun & Recreation,Fun,411
+餐廳,restaurant,Fun & Recreation,Fun,412
+觀光,sightseeing,Fun & Recreation,Fun,414
+舞蹈,dance,Fun & Recreation,Fun,415
+掌聲,applause,Fun & Recreation,Music,1052
+觀眾,audience,Fun & Recreation,Music,1053
+唱詩班,choir,Fun & Recreation,Music,1054
+指揮,conductor,Fun & Recreation,Music,1055
+唱片騎師,DJ,Fun & Recreation,Music,1056
+鼓,drum,Fun & Recreation,Music,1057
+米高風,microphone,Fun & Recreation,Music,1059
+音樂專輯,music album,Fun & Recreation,Music,1060
+搖滾明星,rockstar,Fun & Recreation,Music,1062
+歌手,singer,Fun & Recreation,Music,1063
+歌,song,Fun & Recreation,Music,1064
+舞台,stage,Fun & Recreation,Music,1065
+鐘,bell,Fun & Recreation,Festivals,1086
+生日,birthday,Fun & Recreation,Festivals,1087
+嘉年華,carnival,Fun & Recreation,Festivals,1088
+聖誕節,Christmas,Fun & Recreation,Festivals,1089
+聖誕樹,Christmas tree,Fun & Recreation,Festivals,1090
+煙花,fireworks,Fun & Recreation,Festivals,1091
+葬禮,funeral,Fun & Recreation,Festivals,1092
+禮物,gift,Fun & Recreation,Festivals,1093
+萬聖節,Halloween,Fun & Recreation,Festivals,1094
+婚姻,marriage,Fun & Recreation,Festivals,1096
+母親節,mother's day,Fun & Recreation,Festivals,1097
+除夕,New Year's Eve,Fun & Recreation,Festivals,1098
+聖誕老人,Santa Claus,Fun & Recreation,Festivals,1099
+雪人,snowman,Fun & Recreation,Festivals,1100
+情人節,Valentine's day,Fun & Recreation,Festivals,1101
+婚禮,wedding,Fun & Recreation,Festivals,1102
+營地,camp,Fun & Recreation,Camping,541
+蚊帳,mosquito net,Fun & Recreation,Camping,542
+睡袋,sleeping bag,Fun & Recreation,Camping,548
+營火,campfire,Fun & Recreation,Camping,549
+火柴,matches,Fun & Recreation,Camping,554
+露營爐,camp stove,Fun & Recreation,Camping,1682
+大篷車,caravan,Fun & Recreation,Camping,1683
+棉花糖,marshmallow,Fun & Recreation,Camping,1692
+戶外烹飪,outdoor cooking,Fun & Recreation,Camping,1693
+野餐桌,picnic table,Fun & Recreation,Camping,1694
+鹿角,antlers,Fun & Recreation,Fishing_and_Hunting,1715
+餌,bait,Fun & Recreation,Fishing_and_Hunting,1716
+魚骨,fishbone,Fun & Recreation,Fishing_and_Hunting,1717
+漁船,fishing boat,Fun & Recreation,Fishing_and_Hunting,1718
+鹿,deer,Fun & Recreation,Fishing_and_Hunting,1719
+釣竿,fishing rod,Fun & Recreation,Fishing_and_Hunting,1720
+魚漂,fishing float,Fun & Recreation,Fishing_and_Hunting,1721
+鉤,hook,Fun & Recreation,Fishing_and_Hunting,1722
+獵人,hunter,Fun & Recreation,Fishing_and_Hunting,1723
+結,knot,Fun & Recreation,Fishing_and_Hunting,1724
+爪,paw,Fun & Recreation,Fishing_and_Hunting,1725
+沙丁魚,sardines,Fun & Recreation,Fishing_and_Hunting,1726
+矛捕魚,spear fishing,Fun & Recreation,Fishing_and_Hunting,1727
+狐狸,fox,Fun & Recreation,Fishing_and_Hunting,1728
+目標,target,Fun & Recreation,Fishing_and_Hunting,1729
+狩獵戰利品,hunting trophy,Fun & Recreation,Fishing_and_Hunting,1730
+我打獵,I hunt,Fun & Recreation,Fishing_and_Hunting,1731
+掃把,broom,Fun & Recreation,Magic_and_Fantasy,1767
+龍,dragon,Fun & Recreation,Magic_and_Fantasy,1768
+矮人,dwarf,Fun & Recreation,Magic_and_Fantasy,1769
+童話,fairy,Fun & Recreation,Magic_and_Fantasy,1770
+精靈,genie,Fun & Recreation,Magic_and_Fantasy,1771
+鬼,ghost,Fun & Recreation,Magic_and_Fantasy,1772
+魔術棒,magic wand,Fun & Recreation,Magic_and_Fantasy,1774
+魔術師,magician,Fun & Recreation,Magic_and_Fantasy,1775
+鐮刀,scythe,Fun & Recreation,Magic_and_Fantasy,1777
+吸血鬼,vampire,Fun & Recreation,Magic_and_Fantasy,1779
+女巫,witch,Fun & Recreation,Magic_and_Fantasy,1780
+巫師,wizard,Fun & Recreation,Magic_and_Fantasy,1781
+小丑,jester,Fun & Recreation,Tales,2501
+英雄,hero,Fun & Recreation,Tales,2505
+壞人,villain,Fun & Recreation,Tales,2506
+詛咒,curse,Fun & Recreation,Tales,2507
+故事書,storybook,Fun & Recreation,Tales,2508
+雪怪,yeti,Fun & Recreation,Tales,2511
+飛馬,pegasus,Fun & Recreation,Tales,2513
+英雌,heroine,Fun & Recreation,Tales,2514
+盔甲,armor,Fun & Recreation,Tales,2515
+神燈,magic lamp,Fun & Recreation,Tales,2516
+縫紉,sewing,Fun & Recreation,Hobbies,2645
+編織,knitting,Fun & Recreation,Hobbies,2647
+木工,woodworking,Fun & Recreation,Hobbies,2648
+砌模型,model building,Fun & Recreation,Hobbies,2649
+首飾製作,jewelry making,Fun & Recreation,Hobbies,2650
+觀鳥,birdwatching,Fun & Recreation,Hobbies,2651
+學外語,foreign language learning,Fun & Recreation,Hobbies,2652
+刺繡,embroidery,Fun & Recreation,Hobbies,2655
+陶藝,pottery,Fun & Recreation,Hobbies,2656
+集郵,collecting stamps,Fun & Recreation,Hobbies,2657
+大提琴,cello,Fun & Recreation,Musical_Instruments,3203
+管風琴,organ,Fun & Recreation,Musical_Instruments,3204
+豎琴,harp,Fun & Recreation,Musical_Instruments,3205
+長笛,flute,Fun & Recreation,Musical_Instruments,3206
+雙簧管,oboe,Fun & Recreation,Musical_Instruments,3207
+長號,trombone,Fun & Recreation,Musical_Instruments,3208
+單簧管,clarinet,Fun & Recreation,Musical_Instruments,3209
+低音號,tuba,Fun & Recreation,Musical_Instruments,3210
+口琴,harmonica,Fun & Recreation,Musical_Instruments,3211
+低音結他,bass,Fun & Recreation,Musical_Instruments,3212
+鼓棒,drum sticks,Fun & Recreation,Musical_Instruments,3213
+原聲結他,acoustic guitar,Fun & Recreation,Musical_Instruments,3214
+電結他,electric guitar,Fun & Recreation,Musical_Instruments,3215
+薩克管,saxophone,Fun & Recreation,Musical_Instruments,3216
+合成器,synthesizer,Fun & Recreation,Musical_Instruments,3217
+鼓,drums,Fun & Recreation,Musical_Instruments,3218
+彈撥,I pluck,Fun & Recreation,Musical_Instruments,3219
+作曲,I compose,Fun & Recreation,Musical_Instruments,3220
+毛絨動物玩具,stuffed animal,Fun & Recreation,Toys,3401
+積木,building blocks,Fun & Recreation,Toys,3403
+沐浴玩具,bath toy,Fun & Recreation,Toys,3404
+玩具水槍,squirt gun,Fun & Recreation,Toys,3405
+玩具車,toy car,Fun & Recreation,Toys,3406
+彈力球,bouncy ball,Fun & Recreation,Toys,3407
+跳繩,jump rope,Fun & Recreation,Toys,3408
+塗鴉粉筆,sidewalk chalk,Fun & Recreation,Toys,3411
+人物模型,action figure,Fun & Recreation,Toys,3413
+玩具娃娃,doll,Fun & Recreation,Toys,3414
+玩具火車,toy train,Fun & Recreation,Toys,3416
+音樂,music,Fun & Recreation,Sound,6655
+聲音,sound,Fun & Recreation,Sound,6656
+電影,film,Fun & Recreation,Sound,6657
+電話,phone,Fun & Recreation,Sound,6658
+聲音,voice,Fun & Recreation,Sound,6659
+電影,movie,Fun & Recreation,Sound,6660
+電視,television,Fun & Recreation,Sound,6661
+收音機,radio,Fun & Recreation,Sound,6662
+聲量,volume,Fun & Recreation,Sound,6663
+工作室,studio,Fun & Recreation,Sound,6664
+音樂劇,musical,Fun & Recreation,Sound,6665
+著名,famous,Fun & Recreation,Sound,6666
+演員,actor,Fun & Recreation,Sound,6667
+獎項,award,Fun & Recreation,Sound,6668
+比賽,competition,Fun & Recreation,Song_Contest,7572
+準決賽,semifinal,Fun & Recreation,Song_Contest,7573
+決賽,final,Fun & Recreation,Song_Contest,7574
+歌手,music artist,Fun & Recreation,Song_Contest,7575
+表演,performance,Fun & Recreation,Song_Contest,7576
+舞蹈員,dancer,Fun & Recreation,Song_Contest,7577
+主持人,presenter,Fun & Recreation,Song_Contest,7578
+旁述,commentator,Fun & Recreation,Song_Contest,7579
+觀眾,viewers,Fun & Recreation,Song_Contest,7580
+投票人,voters,Fun & Recreation,Song_Contest,7581
+他是我最喜歡的歌手。,He is my favorite singer.,Fun & Recreation,Song_Contest,7582
+她代表國家參加歌唱比賽。,She is representing her country in a song contest.,Fun & Recreation,Song_Contest,7583
+取消資格,disqualified,Fun & Recreation,Song_Contest,7584
+歌謠,ballad,Fun & Recreation,Song_Contest,7585
+歌詞,lyrics,Fun & Recreation,Song_Contest,7586
+地圖,map,Science & Wisdom,Geography,508
+路徑,path,Science & Wisdom,Geography,510
+風景,scenery,Science & Wisdom,Geography,512
+雪崩,avalanche,Science & Wisdom,Geography,984
+首都,capital city,Science & Wisdom,Geography,985
+沙漠,desert,Science & Wisdom,Geography,987
+沙丘,dunes,Science & Wisdom,Geography,988
+全球,globe,Science & Wisdom,Geography,990
+滑雪坡,ski slope,Science & Wisdom,Geography,994
+龍捲風,tornado,Science & Wisdom,Geography,995
+隧道,tunnel,Science & Wisdom,Geography,996
+世界,world,Science & Wisdom,Geography,1000
+書,book,Science & Wisdom,School,797
+計算機,calculator,Science & Wisdom,School,798
+文憑,diploma,Science & Wisdom,School,800
+考試,exam,Science & Wisdom,School,802
+畢業,graduation,Science & Wisdom,School,803
+演講,lecture,Science & Wisdom,School,805
+學生證,student id,Science & Wisdom,School,812
+雪崩,avalanche,Science & Wisdom,More_Geography,984
+首都,capital city,Science & Wisdom,More_Geography,985
+懸崖,cliff,Science & Wisdom,More_Geography,986
+沙漠,desert,Science & Wisdom,More_Geography,987
+沙丘,dunes,Science & Wisdom,More_Geography,988
+水災,flood,Science & Wisdom,More_Geography,989
+全球,globe,Science & Wisdom,More_Geography,990
+山頂,peak,Science & Wisdom,More_Geography,991
+石頭,rock,Science & Wisdom,More_Geography,992
+大海,sea,Science & Wisdom,More_Geography,993
+滑雪坡,ski slope,Science & Wisdom,More_Geography,994
+龍捲風,tornado,Science & Wisdom,More_Geography,995
+隧道,tunnel,Science & Wisdom,More_Geography,996
+火山,volcano,Science & Wisdom,More_Geography,997
+瀑布,waterfall,Science & Wisdom,More_Geography,998
+波浪,wave,Science & Wisdom,More_Geography,999
+世界,world,Science & Wisdom,More_Geography,1000
+月亮,moon,Science & Wisdom,Astronomy,1208
+彗星,comet,Science & Wisdom,Astronomy,1209
+地球,Earth,Science & Wisdom,Astronomy,1210
+星系,galaxy,Science & Wisdom,Astronomy,1213
+星球,planet,Science & Wisdom,Astronomy,1215
+宇宙,space,Science & Wisdom,Astronomy,1217
+望遠鏡,telescope,Science & Wisdom,Astronomy,1219
+時區,time zone,Science & Wisdom,Astronomy,1220
+原子,atom,Science & Wisdom,Biology,1630
+菌,bacteria,Science & Wisdom,Biology,1631
+細胞,cell,Science & Wisdom,Biology,1632
+化學,chemistry,Science & Wisdom,Biology,1633
+消化系統,digestive system,Science & Wisdom,Biology,1634
+滴管,dropper,Science & Wisdom,Biology,1635
+進化,evolution,Science & Wisdom,Biology,1636
+實驗,experiment,Science & Wisdom,Biology,1637
+暈,faint,Science & Wisdom,Biology,1638
+顯微鏡,microscope,Science & Wisdom,Biology,1639
+分子,molecule,Science & Wisdom,Biology,1640
+清潔能源,clean energy,Science & Wisdom,Ecology,1698
+堆肥,compost,Science & Wisdom,Ecology,1699
+堆肥,composting,Science & Wisdom,Ecology,1700
+森林砍伐,deforestation,Science & Wisdom,Ecology,1701
+旱災,drought,Science & Wisdom,Ecology,1702
+垃圾車,garbage truck,Science & Wisdom,Ecology,1703
+轉基因生物,GMO,Science & Wisdom,Ecology,1705
+垃圾堆填區,landfill,Science & Wisdom,Ecology,1707
+漏油,oil spill,Science & Wisdom,Ecology,1710
+加法,addition,Science & Wisdom,Mathematics,1783
+角度,angle,Science & Wisdom,Mathematics,1784
+除法,division,Science & Wisdom,Mathematics,1785
+等於,equal,Science & Wisdom,Mathematics,1786
+方程,equation,Science & Wisdom,Mathematics,1787
+函數,function,Science & Wisdom,Mathematics,1788
+無限,infinite,Science & Wisdom,Mathematics,1789
+乘法,multiplication,Science & Wisdom,Mathematics,1790
+括號,parentheses,Science & Wisdom,Mathematics,1791
+百分率,percentage,Science & Wisdom,Mathematics,1792
+方根,root,Science & Wisdom,Mathematics,1793
+平方,square,Science & Wisdom,Mathematics,1794
+減法,subtraction,Science & Wisdom,Mathematics,1795
+新月,new moon,Science & Wisdom,Lunar_Phases,7976
+娥眉月,waxing crescent,Science & Wisdom,Lunar_Phases,7977
+上弦月,first quarter,Science & Wisdom,Lunar_Phases,7978
+盈凸月,waxing gibbous,Science & Wisdom,Lunar_Phases,7979
+滿月,full moon,Science & Wisdom,Lunar_Phases,7980
+虧凸月,waning gibbous,Science & Wisdom,Lunar_Phases,7981
+下弦月,third quarter,Science & Wisdom,Lunar_Phases,7982
+殘月,waning crescent,Science & Wisdom,Lunar_Phases,7983
+月食,lunar eclipse,Science & Wisdom,Lunar_Phases,7984
+隕石坑,crater,Science & Wisdom,Lunar_Phases,7985
+月相,phases of the moon,Science & Wisdom,Lunar_Phases,7986
+狗,dog,Science & Wisdom,Chinese_Zodiac,785
+山羊,goat,Science & Wisdom,Chinese_Zodiac,788
+馬,horse,Science & Wisdom,Chinese_Zodiac,789
+豬,pig,Science & Wisdom,Chinese_Zodiac,792
+兔,rabbit,Science & Wisdom,Chinese_Zodiac,794
+猴子,monkey,Science & Wisdom,Chinese_Zodiac,1197
+老鼠,rat,Science & Wisdom,Chinese_Zodiac,1198
+蛇,snake,Science & Wisdom,Chinese_Zodiac,1201
+虎,tiger,Science & Wisdom,Chinese_Zodiac,1560
+公雞,rooster,Science & Wisdom,Chinese_Zodiac,1658
+龍,dragon,Science & Wisdom,Chinese_Zodiac,1768
+牛,ox,Science & Wisdom,Chinese_Zodiac,7987
+兔年,the year of the Rabbit,Science & Wisdom,Chinese_Zodiac,7988
+白羊座,Aries,Science & Wisdom,Astrological_Signs,7989
+金牛座,Taurus,Science & Wisdom,Astrological_Signs,7990
+雙子座,Gemini,Science & Wisdom,Astrological_Signs,7991
+巨蟹座,Cancer,Science & Wisdom,Astrological_Signs,7992
+獅子座,Leo,Science & Wisdom,Astrological_Signs,7993
+處女座,Virgo,Science & Wisdom,Astrological_Signs,7994
+天秤座,Libra,Science & Wisdom,Astrological_Signs,7995
+天蠍座,Scorpio,Science & Wisdom,Astrological_Signs,7996
+射手座,Sagittarius,Science & Wisdom,Astrological_Signs,7997
+山羊座,Capricorn,Science & Wisdom,Astrological_Signs,7998
+水瓶座,Aquarius,Science & Wisdom,Astrological_Signs,7999
+雙魚座,Pisces,Science & Wisdom,Astrological_Signs,8000
+你的星座是甚麼？,What's your sign?,Science & Wisdom,Astrological_Signs,8001
+棒球,baseball,Sports & Fitness,Sports,882
+籃球,basketball,Sports & Fitness,Sports,883
+拳擊,boxing,Sports & Fitness,Sports,884
+足球,football,Sports & Fitness,Sports,887
+足球,soccer,Sports & Fitness,Sports,894
+網球,tennis,Sports & Fitness,Sports,897
+瑜伽,yoga,Sports & Fitness,Sports,898
+哥爾夫球,golf,Sports & Fitness,Sports,1174
+體操,gymnastics,Sports & Fitness,Sports,1175
+排球,volleyball,Sports & Fitness,Sports,1186
+箭,arrow,Sports & Fitness,Sports_Equipment,1137
+球,ball,Sports & Fitness,Sports_Equipment,1138
+弓,bow,Sports & Fitness,Sports_Equipment,1139
+龍門,goal,Sports & Fitness,Sports_Equipment,1140
+頭盔,helmet,Sports & Fitness,Sports_Equipment,1142
+網,net,Sports & Fitness,Sports_Equipment,1144
+球拍,racket,Sports & Fitness,Sports_Equipment,1147
+滑板,skateboard,Sports & Fitness,Sports_Equipment,1149
+泳裝,swimsuit,Sports & Fitness,Sports_Equipment,1153
+飛碟,frisbee,Sports & Fitness,Sports_Equipment,1617
+蛙鞋,fins,Sports & Fitness,Sports_Equipment,2682
+鞋釘,cleats,Sports & Fitness,Sports_Equipment,3368
+棋,chess,Sports & Fitness,More_Sports,885
+劍擊,fencing,Sports & Fitness,More_Sports,886
+賽馬,horse racing,Sports & Fitness,More_Sports,888
+羽毛球,badminton,Sports & Fitness,More_Sports,1171
+攀岩,climbing,Sports & Fitness,More_Sports,1173
+手球,handball,Sports & Fitness,More_Sports,1176
+電單車,motorcycling,Sports & Fitness,More_Sports,1180
+滑翔傘,paragliding,Sports & Fitness,More_Sports,1181
+乒乓球,table tennis,Sports & Fitness,More_Sports,1185
+單車,bike,Sports & Fitness,Bicycle,193
+單車鈴,bike bell,Sports & Fitness,Bicycle,1664
+單車前叉,bike fork,Sports & Fitness,Bicycle,1665
+單車鎖,bike lock,Sports & Fitness,Bicycle,1666
+單車輪,bike wheel,Sports & Fitness,Bicycle,1667
+單車刹車,bike brake,Sports & Fitness,Bicycle,1668
+單車鏈條,bike chain,Sports & Fitness,Bicycle,1669
+單車手套,bike gloves,Sports & Fitness,Bicycle,1670
+剎車變速把,brake lever,Sports & Fitness,Bicycle,1672
+飛輪,cassette,Sports & Fitness,Bicycle,1673
+牙盤,chainring,Sports & Fitness,Bicycle,1674
+曲柄,crank,Sports & Fitness,Bicycle,1675
+鞍座,saddle,Sports & Fitness,Bicycle,1679
+自由式,freestyle stroke,Sports & Fitness,Swimming,2684
+蛙式,breaststroke,Sports & Fitness,Swimming,2685
+背泳,backstroke,Sports & Fitness,Swimming,2686
+蝶式,butterfly stroke,Sports & Fitness,Swimming,2687
+鼻夾,nose clip,Sports & Fitness,Swimming,2688
+浮床,floaties,Sports & Fitness,Swimming,2689
+充氣橡皮艇,inflatable raft,Sports & Fitness,Swimming,2691
+公開水域游泳,open water swimming,Sports & Fitness,Swimming,2692
+救生圈,life saver,Sports & Fitness,Swimming,2693
+跳水板,diving board,Sports & Fitness,Swimming,2694
+滑雪杖,ski poles,Sports & Fitness,Skiing_&_Ice_Hockey,3347
+滑雪靴,ski boots,Sports & Fitness,Skiing_&_Ice_Hockey,3348
+滑雪镜,ski goggles,Sports & Fitness,Skiing_&_Ice_Hockey,3349
+登山吊椅,chairlift,Sports & Fitness,Skiing_&_Ice_Hockey,3350
+滑雪小屋,ski lodge,Sports & Fitness,Skiing_&_Ice_Hockey,3351
+滑雪通行證,ski pass,Sports & Fitness,Skiing_&_Ice_Hockey,3352
+人造雪,fake snow,Sports & Fitness,Skiing_&_Ice_Hockey,3353
+冰球,puck,Sports & Fitness,Skiing_&_Ice_Hockey,3354
+曲棍球棍,hockey stick,Sports & Fitness,Skiing_&_Ice_Hockey,3355
+溜冰鞋,ice skates,Sports & Fitness,Skiing_&_Ice_Hockey,3356
+護牙套,teeth guard,Sports & Fitness,Skiing_&_Ice_Hockey,3357
+溜冰場,ice rink,Sports & Fitness,Skiing_&_Ice_Hockey,3358
+網格頭盔,mask cage,Sports & Fitness,Skiing_&_Ice_Hockey,3359
+接球手套,catcher glove,Sports & Fitness,Skiing_&_Ice_Hockey,3360
+計分板,scoreboard,Sports & Fitness,Skiing_&_Ice_Hockey,3361
+觀眾,spectators,Sports & Fitness,Skiing_&_Ice_Hockey,3362
+我滑,I glide,Sports & Fitness,Skiing_&_Ice_Hockey,3363
+我得分,I score,Sports & Fitness,Skiing_&_Ice_Hockey,3364
+球衣,jersey,Sports & Fitness,Soccer_&_Basketball,3365
+角球,corner,Sports & Fitness,Soccer_&_Basketball,3367
+黃牌,yellow card,Sports & Fitness,Soccer_&_Basketball,3369
+紅牌,red card,Sports & Fitness,Soccer_&_Basketball,3370
+犯規,foul,Sports & Fitness,Soccer_&_Basketball,3371
+頭槌,header,Sports & Fitness,Soccer_&_Basketball,3372
+開球,kick off,Sports & Fitness,Soccer_&_Basketball,3373
+灌籃,slam dunk,Sports & Fitness,Soccer_&_Basketball,3375
+罰球,free throw,Sports & Fitness,Soccer_&_Basketball,3376
+籃球網,basketball net,Sports & Fitness,Soccer_&_Basketball,3377
+三分線,three-point line,Sports & Fitness,Soccer_&_Basketball,3378
+跳射,jump shot,Sports & Fitness,Soccer_&_Basketball,3379
+開界外球,throw in,Sports & Fitness,Soccer_&_Basketball,3380
+壺鈴,kettlebell,Sports & Fitness,Gym,3581
+啞鈴,dumbbell,Sports & Fitness,Gym,3582
+槓鈴,barbell,Sports & Fitness,Gym,3584
+健身球,exercise ball,Sports & Fitness,Gym,3587
+拉力帶,resistance band,Sports & Fitness,Gym,3588
+瑜伽墊,yoga mat,Sports & Fitness,Gym,3589
+划艇機,rowing machine,Sports & Fitness,Gym,3590
+藥球,medicine ball,Sports & Fitness,Gym,3591
+拳擊沙包,punching bag,Sports & Fitness,Gym,3592
+引體上升單槓,pullup bar,Sports & Fitness,Gym,3593
+掌上壓,pushup,Sports & Fitness,Gym,3594
+跳傘,skydiving,Sports & Fitness,Extreme_Sports,3707
+自由潛水,free diving,Sports & Fitness,Extreme_Sports,3708
+高空彈跳,bungee jumping,Sports & Fitness,Extreme_Sports,3709
+飛躍道,parkour,Sports & Fitness,Extreme_Sports,3711
+踩直排輪,rollerblading,Sports & Fitness,Extreme_Sports,3712
+越野電單車,motocross,Sports & Fitness,Extreme_Sports,3713
+滑翔,hang gliding,Sports & Fitness,Extreme_Sports,3714
+定點跳傘,base jumping,Sports & Fitness,Extreme_Sports,3715
+趴板衝浪,bodyboarding,Sports & Fitness,Extreme_Sports,3716
+花式滑水,wakeboarding,Sports & Fitness,Extreme_Sports,3717
+走扁帶,slacklining,Sports & Fitness,Extreme_Sports,3718
+風箏滑浪,kitesurfing,Sports & Fitness,Extreme_Sports,3721
+滑水,waterskiing,Sports & Fitness,Extreme_Sports,3722
+接力棒,relay baton,Sports & Fitness,Athletics,3815
+跳高,high jump,Sports & Fitness,Athletics,3816
+跳遠,long jump,Sports & Fitness,Athletics,3817
+三級跳遠,triple jump,Sports & Fitness,Athletics,3818
+撐竿跳,pole vaulting,Sports & Fitness,Athletics,3819
+推鉛球,weight throwing,Sports & Fitness,Athletics,3820
+擲鏈球,hammer throw,Sports & Fitness,Athletics,3821
+標槍,javelin,Sports & Fitness,Athletics,3822
+擲鐵餅,discus,Sports & Fitness,Athletics,3823
+太空人,astronaut,Society & Politics,Leaders,1035
+船長,captain,Society & Politics,Leaders,1036
+教練,coach,Society & Politics,Leaders,1037
+導演,director,Society & Politics,Leaders,1040
+國王,king,Society & Politics,Leaders,1041
+騎士,knight,Society & Politics,Leaders,1042
+房東,landlord,Society & Politics,Leaders,1043
+王子,prince,Society & Politics,Leaders,1047
+公主,princess,Society & Politics,Leaders,1048
+女皇,queen,Society & Politics,Leaders,1049
+叛軍,rebel,Society & Politics,Leaders,1050
+警長,sheriff,Society & Politics,Leaders,1051
+縱火犯,arsonist,Society & Politics,Crime,1358
+單車盜竊,bike theft,Society & Politics,Crime,1359
+賄賂,bribe,Society & Politics,Crime,1360
+閉路電視,CCTV,Society & Politics,Crime,1361
+信用卡詐騙,credit card fraud,Society & Politics,Crime,1362
+犯罪現場,crime scene,Society & Politics,Crime,1363
+偵探,detective,Society & Politics,Crime,1364
+黑客,hacker,Society & Politics,Crime,1365
+調查,investigation,Society & Politics,Crime,1368
+我闖入,I break in,Society & Politics,Crime,1366
+我偷,I steal,Society & Politics,Crime,1367
+指揮官,commander,Society & Politics,Politics,1038
+獨裁者,dictator,Society & Politics,Politics,1039
+政治家,politician,Society & Politics,Politics,1044
+總統,president,Society & Politics,Politics,1046
+選票,ballot,Society & Politics,Politics,1511
+路障,barricade,Society & Politics,Politics,1512
+貪污,corruption,Society & Politics,Politics,1513
+政變,coup,Society & Politics,Politics,1514
+辯論,debate,Society & Politics,Politics,1515
+遊行,demonstration,Society & Politics,Politics,1516
+廢黜,dethrone,Society & Politics,Politics,1517
+警棍,baton,Society & Politics,Prison,1818
+指紋,fingerprint,Society & Politics,Prison,1820
+手銬,handcuffs,Society & Politics,Prison,1822
+法官,judge,Society & Politics,Prison,1824
+陪審團,jury,Society & Politics,Prison,1825
+法律,law,Society & Politics,Prison,1826
+越獄,prison break,Society & Politics,Prison,1827
+牢房,prison cell,Society & Politics,Prison,1828
+獄警,prison guard,Society & Politics,Prison,1829
+囚犯,prisoner,Society & Politics,Prison,1830
+通緝,wanted,Society & Politics,Prison,1833
+人,people,Society & Politics,Community,6640
+朋友,friend,Society & Politics,Community,6641
+父母,parent,Society & Politics,Community,6642
+人,human,Society & Politics,Community,6643
+笑聲,laughter,Society & Politics,Community,6700
+村莊,village,Society & Politics,Community,6703
+介紹,introduction,Society & Politics,Community,6705
+力量,strength,Society & Politics,Community,6707
+訪客,visitor,Society & Politics,Community,6708
+身份,identity,Society & Politics,Community,6710
+重要,important,Society & Politics,Community,6711
+城市,city,Society & Politics,Community,6713
+我聯繫,I connect,Society & Politics,Community,6699
+我掛念,I miss,Society & Politics,Community,6701
+我接近,I approach,Society & Politics,Community,6702
+我交換,I exchange,Society & Politics,Community,6704
+我包圍,I surround,Society & Politics,Community,6706
+我度過,I survive,Society & Politics,Community,6709
+我感謝,I thank,Society & Politics,Community,6712
+村莊,village,Society & Politics,Society,6703
+城市,city,Society & Politics,Society,6713
+地方,place,Society & Politics,Society,6769
+小鎮,town,Society & Politics,Society,6771
+會員,member,Society & Politics,Society,6775
+歷史,history,Society & Politics,Society,6776
+保安,security,Society & Politics,Society,6787
+星期一,Monday,Time & Date,Days_of_the_Week,6493
+星期二,Tuesday,Time & Date,Days_of_the_Week,6494
+星期三,Wednesday,Time & Date,Days_of_the_Week,6495
+星期四,Thursday,Time & Date,Days_of_the_Week,6496
+星期五,Friday,Time & Date,Days_of_the_Week,6497
+星期六,Saturday,Time & Date,Days_of_the_Week,6498
+星期日,Sunday,Time & Date,Days_of_the_Week,6499
+一月,January,Time & Date,Months_of_the_Year,6500
+二月,February,Time & Date,Months_of_the_Year,6501
+三月,March,Time & Date,Months_of_the_Year,6502
+四月,April,Time & Date,Months_of_the_Year,6503
+五月,May,Time & Date,Months_of_the_Year,6504
+六月,June,Time & Date,Months_of_the_Year,6505
+七月,July,Time & Date,Months_of_the_Year,6506
+八月,August,Time & Date,Months_of_the_Year,6507
+九月,September,Time & Date,Months_of_the_Year,6508
+十月,October,Time & Date,Months_of_the_Year,6509
+十一月,November,Time & Date,Months_of_the_Year,6510
+十二月,December,Time & Date,Months_of_the_Year,6511
+今天,today,Time & Date,Measuring_Time,5237
+明天,tomorrow,Time & Date,Measuring_Time,5238
+昨天,yesterday,Time & Date,Measuring_Time,5239
+現在,now,Time & Date,Measuring_Time,5240
+遲些,later,Time & Date,Measuring_Time,5241
+秒鐘,second,Time & Date,Measuring_Time,6512
+分鐘,minute,Time & Date,Measuring_Time,6513
+小時,hour,Time & Date,Measuring_Time,6514
+日出,sunrise,Time & Date,Parts_of_the_Day,6522
+早上,morning,Time & Date,Parts_of_the_Day,6523
+中午,noon,Time & Date,Parts_of_the_Day,6524
+下午,afternoon,Time & Date,Parts_of_the_Day,6525
+日落,sunset,Time & Date,Parts_of_the_Day,6526
+傍晚,evening,Time & Date,Parts_of_the_Day,6527
+晚間,night,Time & Date,Parts_of_the_Day,6528
+午夜,midnight,Time & Date,Parts_of_the_Day,6529
+半夜,middle of the night,Time & Date,Parts_of_the_Day,6530
+現在是甚麼時間？,What time is it?,Time & Date,Talking_about_Time,5242
+甚麼時間？,At what time?,Time & Date,Talking_about_Time,6531
+上午八時半。,It's at 8.30 am.,Time & Date,Talking_about_Time,6532
+需時多久？,How long does it take?,Time & Date,Talking_about_Time,6535
+這需要三小時五十五分鐘。,It takes 3 hours and 55 minutes.,Time & Date,Talking_about_Time,6536
+現在是3點鐘。,It's 3 o'clock.,Time & Date,Talking_about_Time,5243
+雪,snow,Time & Date,Winter,283
+冬天,winter,Time & Date,Winter,290
+冰,ice,Time & Date,Winter,294
+暴風雪,blizzard,Time & Date,Winter,2743
+落雪,it snows,Time & Date,Winter,298
+很冷。,It's cold.,Time & Date,Winter,5195
+雪花,snowflake,Time & Date,Winter,7150
+葉,leaf,Time & Date,Autumn,939
+很冷。,It's cold.,Time & Date,Autumn,5195
+秋天,autumn,Time & Date,Autumn,7171
+舒適,cozy,Time & Date,Autumn,7172
+松鼠,squirrel,Time & Date,Autumn,7174
+橡子,acorn,Time & Date,Autumn,7175
+我耙樹葉,I rake leaves,Time & Date,Autumn,7176
+落葉,falling leaves,Time & Date,Autumn,7178
+八點零七分,eight o seven,Time & Date,Telling_Time,7556
+早上五時正,five in the morning,Time & Date,Telling_Time,7557
+九時零五分,five past nine,Time & Date,Telling_Time,7558
+一時五十五分,five to two,Time & Date,Telling_Time,7559
+七時半,half past seven,Time & Date,Telling_Time,7560
+七時二十五分,seven twenty-five,Time & Date,Telling_Time,7561
+六時十五分,quarter after six,Time & Date,Telling_Time,7562
+七時四十五分,quarter to eight,Time & Date,Telling_Time,7563
+四時零七分,seven minutes after four,Time & Date,Telling_Time,7564
+六時三十分,six thirty,Time & Date,Telling_Time,7565
+十時十分,ten after ten,Time & Date,Telling_Time,7566
+晚上十時正,ten at night,Time & Date,Telling_Time,7567
+一時三十三分,one thirty-three,Time & Date,Telling_Time,7568
+三時十分,three ten,Time & Date,Telling_Time,7569
+二時十五分,two fifteen,Time & Date,Telling_Time,7570
+二時,two o'clock,Time & Date,Telling_Time,7571
+清潔能源,clean energy,Climate Awareness,Ecology,1698
+堆肥,compost,Climate Awareness,Ecology,1699
+堆肥,composting,Climate Awareness,Ecology,1700
+森林砍伐,deforestation,Climate Awareness,Ecology,1701
+旱災,drought,Climate Awareness,Ecology,1702
+垃圾車,garbage truck,Climate Awareness,Ecology,1703
+轉基因生物,GMO,Climate Awareness,Ecology,1705
+垃圾堆填區,landfill,Climate Awareness,Ecology,1707
+漏油,oil spill,Climate Awareness,Ecology,1710
+火山爆發,volcanic eruption,Climate Awareness,Natural_Disasters,2735
+山泥傾瀉,landslide,Climate Awareness,Natural_Disasters,2736
+冰雹,hailstorm,Climate Awareness,Natural_Disasters,2737
+海嘯,tsunami,Climate Awareness,Natural_Disasters,2738
+颱風,typhoon,Climate Awareness,Natural_Disasters,2739
+地震,earthquake,Climate Awareness,Natural_Disasters,2740
+岩滑,rockslide,Climate Awareness,Natural_Disasters,2741
+熔岩流,lava flow,Climate Awareness,Natural_Disasters,2742
+暴風雪,blizzard,Climate Awareness,Natural_Disasters,2743
+雷暴,thunderstorm,Climate Awareness,Natural_Disasters,2744
+颶風,hurricane,Climate Awareness,Natural_Disasters,2745
+隕石撞擊,meteor impact,Climate Awareness,Natural_Disasters,2746
+難民,refugee,Climate Awareness,Natural_Disasters,2747
+熱浪,heat wave,Climate Awareness,Natural_Disasters,2748
+飢荒,famine,Climate Awareness,Natural_Disasters,2749
+風,wind,Climate Awareness,Mother_Nature,287
+波浪,wave,Climate Awareness,Mother_Nature,999
+陽光,sunlight,Climate Awareness,Mother_Nature,6542
+天氣,weather,Climate Awareness,Mother_Nature,6543
+氣候,climate,Climate Awareness,Mother_Nature,6544
+地熱,geothermal heat,Climate Awareness,Mother_Nature,6545
+二氧化碳,carbon dioxide,Climate Awareness,Mother_Nature,6546
+溫室氣體,greenhouse gas,Climate Awareness,Mother_Nature,6547
+棲息地,habitat,Climate Awareness,Mother_Nature,6548
+生態系統,ecosystem,Climate Awareness,Mother_Nature,6549
+化石燃料,fossil fuels,Climate Awareness,Mother_Nature,6550
+非再生能源,non-renewable energy,Climate Awareness,Mother_Nature,6551
+煤,coal,Climate Awareness,Mother_Nature,6553
+油,oil,Climate Awareness,Mother_Nature,6554
+天然氣,natural gas,Climate Awareness,Mother_Nature,6555
+紫外線輻射,ultraviolet radiation,Climate Awareness,Mother_Nature,6556
+入侵物種,invasive species,Climate Awareness,Mother_Nature,6557
+傳染病,infectious diseases,Climate Awareness,Mother_Nature,6558
+臭氧層,ozone,Climate Awareness,Mother_Nature,6559
+溫室效應,greenhouse effect,Climate Awareness,Climate_Crisis,6560
+氣候變化,climate change,Climate Awareness,Climate_Crisis,6561
+平均表面溫度,average surface temperature,Climate Awareness,Climate_Crisis,6562
+污染物,pollutants,Climate Awareness,Climate_Crisis,6563
+生物燃料,biofuel,Climate Awareness,Climate_Crisis,6564
+海平面上升,sea-level rise,Climate Awareness,Climate_Crisis,6565
+全球平均溫度,global average temperature,Climate Awareness,Climate_Crisis,6566
+天氣模式,weather patterns,Climate Awareness,Climate_Crisis,6567
+碳中和,carbon neutral,Climate Awareness,Climate_Crisis,6568
+極端天氣事件,extreme weather event,Climate Awareness,Climate_Crisis,6569
+絕種,extinction,Climate Awareness,Climate_Crisis,6570
+適應,adaptation,Climate Awareness,Climate_Crisis,6571
+高效節能,energy-efficient,Climate Awareness,Climate_Crisis,6572
+排放物,emissions,Climate Awareness,Climate_Crisis,6573
+碳足跡,carbon footprint,Climate Awareness,Climate_Crisis,6574
+環境,environment,Climate Awareness,Climate_Crisis,6575
+資源回收,recycling,Climate Awareness,Climate_Crisis,6576
+可持續性,sustainability,Climate Awareness,Climate_Crisis,6577
+環保,eco-friendly,Climate Awareness,Climate_Crisis,6578
+浪費食物,food waste,Climate Awareness,Climate_Crisis,6579
+可重用,reusable,Climate Awareness,Making_an_Impact,6594
+可持續,sustainable,Climate Awareness,Making_an_Impact,6595
+植物性飲食,plant-based diet,Climate Awareness,Making_an_Impact,6598
+我減少,I reduce,Climate Awareness,Making_an_Impact,6581
+我節省能源。,I save energy.,Climate Awareness,Making_an_Impact,6585
+我改變我的飲食習慣。,I change my diet.,Climate Awareness,Making_an_Impact,6586
+我消耗少一點,I consume less,Climate Awareness,Making_an_Impact,6589
+我幫助,I help,Climate Awareness,Making_an_Impact,6593
+LGBTQ+ 社群,the LGBTQ+ community,Pride,Celebrating_Pride,8035
+盟友,ally,Pride,Celebrating_Pride,8036
+我對自己感到自豪,I am proud,Pride,Celebrating_Pride,8037
+支持,to support,Pride,Celebrating_Pride,8038
+公民權利,civil rights,Pride,Celebrating_Pride,8039
+彩虹旗,pride flag,Pride,Celebrating_Pride,8040
+巡遊,parade,Pride,Celebrating_Pride,8041
+平等,equality,Pride,Celebrating_Pride,8042
+多元交織,intersectionality,Pride,Celebrating_Pride,8043
+對口型唱歌,lip sync,Pride,Celebrating_Pride,8044
+我出櫃了,I came out,Pride,Celebrating_Pride,8046
+選擇的家庭,chosen family,Pride,Celebrating_Pride,8047
+變裝王,drag king,Pride,Celebrating_Pride,8048
+變裝皇后,drag queen,Pride,Celebrating_Pride,8049
+我被……吸引,I am attracted to...,Pride,Love_Who_You_Love,8056
+性取向,sexual orientation,Pride,Love_Who_You_Love,8057
+我是女同性戀者。,I'm a lesbian.,Pride,Love_Who_You_Love,8058
+我是男同性戀者。,I'm gay.,Pride,Love_Who_You_Love,8059
+我是雙性戀者。,I'm bisexual.,Pride,Love_Who_You_Love,8060
+我是泛性戀者。,I'm pansexual.,Pride,Love_Who_You_Love,8061
+我是異性戀者。,I'm straight.,Pride,Love_Who_You_Love,8062
+無性,asexual,Pride,Love_Who_You_Love,8063
+無浪漫傾向,aromantic,Pride,Love_Who_You_Love,8064
+性別,gender,Pride,Gender_&_Pronouns,8066
+我是順性別者。,I'm cisgender.,Pride,Gender_&_Pronouns,8072
+我是跨性別人士。,I'm trans.,Pride,Gender_&_Pronouns,8073
+我是非二元性別人士。,I'm non-binary.,Pride,Gender_&_Pronouns,8074
+我是雙性人。,I'm intersex.,Pride,Gender_&_Pronouns,8075
+我是性別流動的。,I'm gender fluid.,Pride,Gender_&_Pronouns,8076
+性別認同,gender identity,Pride,Gender_&_Pronouns,8077
+出生時的生理性別,sex assigned at birth,Pride,Gender_&_Pronouns,8078
+性別表現,gender expression,Pride,Gender_&_Pronouns,8079
+男性化,masculine,Pride,Gender_&_Pronouns,8080
+女性化,feminine,Pride,Gender_&_Pronouns,8081
+二元性別,gender binary,Pride,Gender_&_Pronouns,8082
+荷爾蒙,hormones,Pride,Gender_Transitioning,7351
+自愛,self-love,Pride,Gender_Transitioning,7363
+我是跨性別人士。,I'm trans.,Pride,Gender_Transitioning,8073
+我是非二元性別人士。,I'm non-binary.,Pride,Gender_Transitioning,8074
+我是性別流動的。,I'm gender fluid.,Pride,Gender_Transitioning,8076
+我正在變性,I'm transitioning,Pride,Gender_Transitioning,8083
+性別不安,gender dysphoria,Pride,Gender_Transitioning,8084
+名稱變更,name change,Pride,Gender_Transitioning,8085
+請叫我阿 Sam。,Please call me Sam.,Pride,Gender_Transitioning,8086
+性別確認手術,gender-affirming surgery,Pride,Gender_Transitioning,8088
+睾酮,testosterone,Pride,Gender_Transitioning,8089
+雌激素,estrogen,Pride,Gender_Transitioning,8090
+激素替代療法,hormone replacement therapy,Pride,Gender_Transitioning,8091
+內分泌學家,endocrinologist,Pride,Gender_Transitioning,8092
+麵包,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+早餐,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+蛋,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+叉,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+湯,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+蘑菇,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+刀,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+白菜,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+洋蔥,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+米飯,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+湯殼,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+蘆筍,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+抱子甘藍,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+茄子,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+我食,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+我剁,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+我嘗,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+霧,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+雨,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+雪,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+太陽,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+天氣預報,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+風,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+冬天,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+夏天,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+秋天,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+春天,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+風暴,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+旱災,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+冰雹,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+暴風雪,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+雷暴,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+熱浪,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+很熱。,It's hot.,Welcome To Drops,Welcome_2_-_Weather_&_Earth,5194
+女朋友,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+男朋友,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+頭暈,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+冷靜,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+失望,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+興奮,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+害怕,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+暴躁,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+快樂,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+戀愛中,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+驚訝,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+相親,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+一見鍾情,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+心碎,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+我說,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+我們手牽手,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+我們分手,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+膠布,band-aid,Welcome To Drops,Welcome_4_-_Health_&_Body,382
+咳嗽,cough,Welcome To Drops,Welcome_4_-_Health_&_Body,386
+牙疼,toothache,Welcome To Drops,Welcome_4_-_Health_&_Body,391
+宿醉,hangover,Welcome To Drops,Welcome_4_-_Health_&_Body,413
+身體,body,Welcome To Drops,Welcome_4_-_Health_&_Body,421
+頭髮,hair,Welcome To Drops,Welcome_4_-_Health_&_Body,423
+臉,face,Welcome To Drops,Welcome_4_-_Health_&_Body,424
+牙齒,tooth,Welcome To Drops,Welcome_4_-_Health_&_Body,429
+腳踝,ankle,Welcome To Drops,Welcome_4_-_Health_&_Body,814
+手臂,arm,Welcome To Drops,Welcome_4_-_Health_&_Body,815
+手肘,elbow,Welcome To Drops,Welcome_4_-_Health_&_Body,819
+脊椎,spine,Welcome To Drops,Welcome_4_-_Health_&_Body,829
+牙床,gum,Welcome To Drops,Welcome_4_-_Health_&_Body,1484
+腋窩,armpit,Welcome To Drops,Welcome_4_-_Health_&_Body,2927
+我嘔吐,I vomit,Welcome To Drops,Welcome_4_-_Health_&_Body,1646
+我梳頭,I comb my hair,Welcome To Drops,Welcome_4_-_Health_&_Body,3528
+我洗面,I wash my face,Welcome To Drops,Welcome_4_-_Health_&_Body,3533
+藍色,blue,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,560
+金色,gold,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,563
+灰色,gray,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,565
+橙色,orange,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,568
+銀色,silver,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,573
+黃色,yellow,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,575
+拱形,arch,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1154
+圈,circle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1155
+錐體,cone,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1156
+立方體,cube,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1157
+八角形,octagon,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1160
+長方形,rectangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1164
+環狀,ring,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1166
+球體,sphere,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1167
+正方形,square,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1168
+三角形,triangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1169
+楔體,wedge,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1170
+我喜歡,I like,Welcome To Drops,Welcome_6_-_Activities,11
+我遇到,I meet,Welcome To Drops,Welcome_6_-_Activities,13
+我不喜歡,I dislike,Welcome To Drops,Welcome_6_-_Activities,37
+我煮,I cook,Welcome To Drops,Welcome_6_-_Activities,138
+我拉,I pull,Welcome To Drops,Welcome_6_-_Activities,317
+我推,I push,Welcome To Drops,Welcome_6_-_Activities,318
+我介紹,I introduce,Welcome To Drops,Welcome_6_-_Activities,615
+我說,I speak,Welcome To Drops,Welcome_6_-_Activities,616
+我拖地,I mop,Welcome To Drops,Welcome_6_-_Activities,1226
+我清理,I clean,Welcome To Drops,Welcome_6_-_Activities,1345
+我睡過頭,I oversleep,Welcome To Drops,Welcome_6_-_Activities,2482
+我梳頭,I comb my hair,Welcome To Drops,Welcome_6_-_Activities,3528
+我設定鬧鐘,I set an alarm,Welcome To Drops,Welcome_6_-_Activities,3529
+我起床,I wake up,Welcome To Drops,Welcome_6_-_Activities,3530
+我倒垃圾,I take out the trash,Welcome To Drops,Welcome_6_-_Activities,3539
+我搭車,I commute,Welcome To Drops,Welcome_6_-_Activities,3542
+我抹,I wipe,Welcome To Drops,Welcome_6_-_Activities,3616
+是,yes,Welcome To Drops,Welcome_7_-_Interacting,1
+不,no,Welcome To Drops,Welcome_7_-_Interacting,2
+嗨,hi,Welcome To Drops,Welcome_7_-_Interacting,4
+多謝,thank you,Welcome To Drops,Welcome_7_-_Interacting,5
+再見,bye,Welcome To Drops,Welcome_7_-_Interacting,6
+請,please,Welcome To Drops,Welcome_7_-_Interacting,7
+你明白嗎？,Do you understand?,Welcome To Drops,Welcome_7_-_Interacting,5163
+你是哪裏來的？,Where are you from?,Welcome To Drops,Welcome_7_-_Interacting,5175
+這叫甚麼？,What's this called?,Welcome To Drops,Welcome_7_-_Interacting,5229
+對不起！,Sorry!,Welcome To Drops,Welcome_7_-_Interacting,5141
+救命呀！,Help!,Welcome To Drops,Welcome_7_-_Interacting,5146
+幸會！,Nice to meet you!,Welcome To Drops,Welcome_7_-_Interacting,5181
+你可以幫幫我嗎？,Can you help me?,Welcome To Drops,Welcome_7_-_Interacting,5182
+天氣怎樣？,How's the weather?,Welcome To Drops,Welcome_7_-_Interacting,5191
+你是做甚麼工作的？,What do you do?,Welcome To Drops,Welcome_7_-_Interacting,5253
+你是本地人嗎？,Are you from here?,Welcome To Drops,Welcome_7_-_Interacting,5254
+麵包,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+早餐,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+蛋,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+叉,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+湯,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+蘑菇,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+刀,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+白菜,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+洋蔥,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+米飯,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+湯殼,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+蘆筍,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+抱子甘藍,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+茄子,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+我食,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+我剁,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+我嘗,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+霧,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+雨,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+雪,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+太陽,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+天氣預報,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+風,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+冬天,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+夏天,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+秋天,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+春天,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+風暴,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+旱災,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+冰雹,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+暴風雪,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+雷暴,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+熱浪,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+很熱。,It's hot.,Welcome To Drops,Welcome_2_-_Weather_&_Earth,5194
+女朋友,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+男朋友,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+頭暈,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+冷靜,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+失望,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+興奮,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+害怕,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+暴躁,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+快樂,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+戀愛中,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+驚訝,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+相親,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+一見鍾情,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+心碎,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+我說,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+我們手牽手,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+我們分手,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+膠布,band-aid,Welcome To Drops,Welcome_4_-_Health_&_Body,382
+咳嗽,cough,Welcome To Drops,Welcome_4_-_Health_&_Body,386
+牙疼,toothache,Welcome To Drops,Welcome_4_-_Health_&_Body,391
+宿醉,hangover,Welcome To Drops,Welcome_4_-_Health_&_Body,413
+身體,body,Welcome To Drops,Welcome_4_-_Health_&_Body,421
+頭髮,hair,Welcome To Drops,Welcome_4_-_Health_&_Body,423
+臉,face,Welcome To Drops,Welcome_4_-_Health_&_Body,424
+牙齒,tooth,Welcome To Drops,Welcome_4_-_Health_&_Body,429
+腳踝,ankle,Welcome To Drops,Welcome_4_-_Health_&_Body,814
+手臂,arm,Welcome To Drops,Welcome_4_-_Health_&_Body,815
+手肘,elbow,Welcome To Drops,Welcome_4_-_Health_&_Body,819
+脊椎,spine,Welcome To Drops,Welcome_4_-_Health_&_Body,829
+牙床,gum,Welcome To Drops,Welcome_4_-_Health_&_Body,1484
+腋窩,armpit,Welcome To Drops,Welcome_4_-_Health_&_Body,2927
+我嘔吐,I vomit,Welcome To Drops,Welcome_4_-_Health_&_Body,1646
+我梳頭,I comb my hair,Welcome To Drops,Welcome_4_-_Health_&_Body,3528
+我洗面,I wash my face,Welcome To Drops,Welcome_4_-_Health_&_Body,3533
+藍色,blue,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,560
+金色,gold,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,563
+灰色,gray,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,565
+橙色,orange,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,568
+銀色,silver,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,573
+黃色,yellow,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,575
+拱形,arch,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1154
+圈,circle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1155
+錐體,cone,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1156
+立方體,cube,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1157
+八角形,octagon,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1160
+長方形,rectangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1164
+環狀,ring,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1166
+球體,sphere,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1167
+正方形,square,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1168
+三角形,triangle,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1169
+楔體,wedge,Welcome To Drops,Welcome_5_-_Shapes_&_Colors,1170
+我喜歡,I like,Welcome To Drops,Welcome_6_-_Activities,11
+我遇到,I meet,Welcome To Drops,Welcome_6_-_Activities,13
+我不喜歡,I dislike,Welcome To Drops,Welcome_6_-_Activities,37
+我煮,I cook,Welcome To Drops,Welcome_6_-_Activities,138
+我拉,I pull,Welcome To Drops,Welcome_6_-_Activities,317
+我推,I push,Welcome To Drops,Welcome_6_-_Activities,318
+我介紹,I introduce,Welcome To Drops,Welcome_6_-_Activities,615
+我說,I speak,Welcome To Drops,Welcome_6_-_Activities,616
+我拖地,I mop,Welcome To Drops,Welcome_6_-_Activities,1226
+我清理,I clean,Welcome To Drops,Welcome_6_-_Activities,1345
+我睡過頭,I oversleep,Welcome To Drops,Welcome_6_-_Activities,2482
+我梳頭,I comb my hair,Welcome To Drops,Welcome_6_-_Activities,3528
+我設定鬧鐘,I set an alarm,Welcome To Drops,Welcome_6_-_Activities,3529
+我起床,I wake up,Welcome To Drops,Welcome_6_-_Activities,3530
+我倒垃圾,I take out the trash,Welcome To Drops,Welcome_6_-_Activities,3539
+我搭車,I commute,Welcome To Drops,Welcome_6_-_Activities,3542
+我抹,I wipe,Welcome To Drops,Welcome_6_-_Activities,3616
+是,yes,Welcome To Drops,Welcome_7_-_Interacting,1
+不,no,Welcome To Drops,Welcome_7_-_Interacting,2
+嗨,hi,Welcome To Drops,Welcome_7_-_Interacting,4
+多謝,thank you,Welcome To Drops,Welcome_7_-_Interacting,5
+再見,bye,Welcome To Drops,Welcome_7_-_Interacting,6
+請,please,Welcome To Drops,Welcome_7_-_Interacting,7
+你明白嗎？,Do you understand?,Welcome To Drops,Welcome_7_-_Interacting,5163
+你是哪裏來的？,Where are you from?,Welcome To Drops,Welcome_7_-_Interacting,5175
+這叫甚麼？,What's this called?,Welcome To Drops,Welcome_7_-_Interacting,5229
+對不起！,Sorry!,Welcome To Drops,Welcome_7_-_Interacting,5141
+救命呀！,Help!,Welcome To Drops,Welcome_7_-_Interacting,5146
+幸會！,Nice to meet you!,Welcome To Drops,Welcome_7_-_Interacting,5181
+你可以幫幫我嗎？,Can you help me?,Welcome To Drops,Welcome_7_-_Interacting,5182
+天氣怎樣？,How's the weather?,Welcome To Drops,Welcome_7_-_Interacting,5191
+你是做甚麼工作的？,What do you do?,Welcome To Drops,Welcome_7_-_Interacting,5253
+你是本地人嗎？,Are you from here?,Welcome To Drops,Welcome_7_-_Interacting,5254
+麵包,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+早餐,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+蛋,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+叉,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+湯,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+蘑菇,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+刀,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+白菜,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+洋蔥,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+米飯,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+湯殼,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+蘆筍,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+抱子甘藍,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+茄子,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+我食,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+我剁,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+我嘗,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+霧,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+雨,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+雪,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+太陽,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+天氣預報,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+風,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+冬天,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+夏天,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+秋天,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+春天,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+風暴,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+旱災,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+冰雹,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+暴風雪,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+雷暴,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+熱浪,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+很熱。,It's hot.,Welcome To Drops,Welcome_2_-_Weather_&_Earth,5194
+女朋友,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+男朋友,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+頭暈,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+冷靜,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+失望,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+興奮,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+害怕,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+暴躁,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+快樂,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+戀愛中,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+驚訝,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+相親,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+一見鍾情,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+心碎,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+我說,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+我們手牽手,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+我們分手,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+麵包,bread,Welcome To Drops,Welcome_1_-_Food_&_Drink,121
+早餐,breakfast,Welcome To Drops,Welcome_1_-_Food_&_Drink,122
+蛋,egg,Welcome To Drops,Welcome_1_-_Food_&_Drink,125
+叉,fork,Welcome To Drops,Welcome_1_-_Food_&_Drink,127
+湯,soup,Welcome To Drops,Welcome_1_-_Food_&_Drink,128
+蘑菇,mushroom,Welcome To Drops,Welcome_1_-_Food_&_Drink,129
+刀,knife,Welcome To Drops,Welcome_1_-_Food_&_Drink,130
+白菜,cabbage,Welcome To Drops,Welcome_1_-_Food_&_Drink,698
+洋蔥,onion,Welcome To Drops,Welcome_1_-_Food_&_Drink,705
+米飯,rice,Welcome To Drops,Welcome_1_-_Food_&_Drink,710
+湯殼,ladle,Welcome To Drops,Welcome_1_-_Food_&_Drink,956
+蘆筍,asparagus,Welcome To Drops,Welcome_1_-_Food_&_Drink,3186
+抱子甘藍,brussels sprout,Welcome To Drops,Welcome_1_-_Food_&_Drink,3188
+茄子,eggplant,Welcome To Drops,Welcome_1_-_Food_&_Drink,3191
+我食,I eat,Welcome To Drops,Welcome_1_-_Food_&_Drink,136
+我剁,I chop,Welcome To Drops,Welcome_1_-_Food_&_Drink,1007
+我嘗,I taste,Welcome To Drops,Welcome_1_-_Food_&_Drink,1862
+霧,fog,Welcome To Drops,Welcome_2_-_Weather_&_Earth,281
+雨,rain,Welcome To Drops,Welcome_2_-_Weather_&_Earth,282
+雪,snow,Welcome To Drops,Welcome_2_-_Weather_&_Earth,283
+太陽,sun,Welcome To Drops,Welcome_2_-_Weather_&_Earth,284
+天氣預報,weather forecast,Welcome To Drops,Welcome_2_-_Weather_&_Earth,286
+風,wind,Welcome To Drops,Welcome_2_-_Weather_&_Earth,287
+冬天,winter,Welcome To Drops,Welcome_2_-_Weather_&_Earth,290
+夏天,summer,Welcome To Drops,Welcome_2_-_Weather_&_Earth,291
+秋天,fall,Welcome To Drops,Welcome_2_-_Weather_&_Earth,292
+春天,spring,Welcome To Drops,Welcome_2_-_Weather_&_Earth,293
+風暴,storm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,295
+旱災,drought,Welcome To Drops,Welcome_2_-_Weather_&_Earth,1702
+冰雹,hailstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2737
+暴風雪,blizzard,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2743
+雷暴,thunderstorm,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2744
+熱浪,heat wave,Welcome To Drops,Welcome_2_-_Weather_&_Earth,2748
+很熱。,It's hot.,Welcome To Drops,Welcome_2_-_Weather_&_Earth,5194
+女朋友,girlfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,369
+男朋友,boyfriend,Welcome To Drops,Welcome_3_-_Love_&_Emotions,375
+頭暈,dizzy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,385
+冷靜,calm,Welcome To Drops,Welcome_3_-_Love_&_Emotions,578
+失望,disappointed,Welcome To Drops,Welcome_3_-_Love_&_Emotions,580
+興奮,excited,Welcome To Drops,Welcome_3_-_Love_&_Emotions,582
+害怕,frightened,Welcome To Drops,Welcome_3_-_Love_&_Emotions,583
+暴躁,grumpy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,584
+快樂,happy,Welcome To Drops,Welcome_3_-_Love_&_Emotions,585
+戀愛中,in love,Welcome To Drops,Welcome_3_-_Love_&_Emotions,586
+驚訝,surprised,Welcome To Drops,Welcome_3_-_Love_&_Emotions,591
+相親,blind date,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2771
+一見鍾情,love at first sight,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2772
+心碎,heartbroken,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2773
+我說,I speak,Welcome To Drops,Welcome_3_-_Love_&_Emotions,616
+我們手牽手,we hold hands,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2781
+我們分手,we break up,Welcome To Drops,Welcome_3_-_Love_&_Emotions,2788
+我睡覺,I sleep,Verbs & Phrases,"As_a_human,_I...",156
+我坐,I sit,Verbs & Phrases,"As_a_human,_I...",157
+我吐,I spit,Verbs & Phrases,"As_a_human,_I...",256
+我唱歌,I sing,Verbs & Phrases,"As_a_human,_I...",416
+我流血,I bleed,Verbs & Phrases,"As_a_human,_I...",822
+我放屁,I fart,Verbs & Phrases,"As_a_human,_I...",1260
+我小便,I pee,Verbs & Phrases,"As_a_human,_I...",1261
+我大便,I poop,Verbs & Phrases,"As_a_human,_I...",1262
+我咳,I cough,Verbs & Phrases,"As_a_human,_I...",1430
+我碰,I touch,Verbs & Phrases,"As_a_human,_I...",1521
+我聞到,I smell,Verbs & Phrases,"As_a_human,_I...",1554
+我呼吸,I breathe,Verbs & Phrases,"As_a_human,_I...",1603
+我聽講,I hear,Verbs & Phrases,"As_a_human,_I...",1773
+我打鼻鼾,I snore,Verbs & Phrases,"As_a_human,_I...",2481
+我閉氣,I hold my breath,Verbs & Phrases,"As_a_human,_I...",2698
+我發冷,I shiver,Verbs & Phrases,"As_a_human,_I...",3922
+我病了。,I'm sick.,Verbs & Phrases,"As_a_human,_I...",5173
+我騎單車,I ride a bicycle,Verbs & Phrases,How_I_Move,196
+我行路,I walk,Verbs & Phrases,How_I_Move,258
+我跳舞,I dance,Verbs & Phrases,How_I_Move,417
+我跳,I jump,Verbs & Phrases,How_I_Move,437
+我跑,I run,Verbs & Phrases,How_I_Move,438
+我游泳,I swim,Verbs & Phrases,How_I_Move,517
+爬樓梯,I climb the stairs,Verbs & Phrases,How_I_Move,651
+我滑倒,I slip,Verbs & Phrases,How_I_Move,1280
+我摔倒,I fall,Verbs & Phrases,How_I_Move,1451
+我跌倒,I fell over,Verbs & Phrases,How_I_Move,1553
+我暈倒,I collapse,Verbs & Phrases,How_I_Move,2750
+我進入,I enter,Verbs & Phrases,How_I_Move,2913
+我轉,I turn,Verbs & Phrases,How_I_Move,2931
+我畫,I paint,Verbs & Phrases,How_I_Act,566
+我寫,I write,Verbs & Phrases,How_I_Act,567
+我讀書,I study,Verbs & Phrases,How_I_Act,811
+我慶祝,I celebrate,Verbs & Phrases,How_I_Act,1095
+我選擇,I choose,Verbs & Phrases,How_I_Act,1225
+我搜索,I search,Verbs & Phrases,How_I_Act,1452
+我問,I ask,Verbs & Phrases,How_I_Act,1465
+我投票,I vote,Verbs & Phrases,How_I_Act,1522
+我調情,I flirt,Verbs & Phrases,How_I_Act,1573
+我聽音樂,I listen to music,Verbs & Phrases,How_I_Act,2660
+我喜歡,I enjoy,Verbs & Phrases,How_I_Act,2662
+我想像,I imagine,Verbs & Phrases,How_I_Act,3418
+我在乎,I care,Verbs & Phrases,How_I_Act,3845
+我偷,I steal,Verbs & Phrases,What_I_Do,1367
+我捉住,I catch,Verbs & Phrases,What_I_Do,1450
+我填補,I fill,Verbs & Phrases,What_I_Do,1489
+我烤,I bake,Verbs & Phrases,What_I_Do,1501
+我沖廁,I flush,Verbs & Phrases,What_I_Do,2499
+我刷洗,I scrub,Verbs & Phrases,What_I_Do,2500
+我拯救,I rescue,Verbs & Phrases,What_I_Do,2517
+我整理,I arrange,Verbs & Phrases,What_I_Do,2644
+我製作,I make,Verbs & Phrases,What_I_Do,2661
+我拉住門,I hold the door,Verbs & Phrases,What_I_Do,2805
+我壓,I press,Verbs & Phrases,What_I_Do,3310
+我收起,I put away,Verbs & Phrases,What_I_Do,3417
+我舉起,I lift,Verbs & Phrases,What_I_Do,3597
+我抹,I wipe,Verbs & Phrases,What_I_Do,3616
+我掉了,I drop,Verbs & Phrases,What_I_Do,3706
+我修剪,I prune,Verbs & Phrases,What_I_Do,3760
+我包,I wrap,Verbs & Phrases,What_I_Do,3958
+它滑動,it slides,Verbs & Phrases,What_It_Does,1618
+它滾動,It rolls,Verbs & Phrases,What_It_Does,1680
+它脫軌,it derails,Verbs & Phrases,What_It_Does,2625
+它當機,it crashes,Verbs & Phrases,What_It_Does,3020
+嗨,hi,Verbs & Phrases,Basic_Phrases,4
+多謝,thank you,Verbs & Phrases,Basic_Phrases,5
+再見,bye,Verbs & Phrases,Basic_Phrases,6
+請,please,Verbs & Phrases,Basic_Phrases,7
+你叫甚麼？,What's your name?,Verbs & Phrases,Basic_Phrases,5177
+不錯，有心。,"Fine, thank you.",Verbs & Phrases,Basic_Phrases,5189
+我好開心。,I am happy.,Verbs & Phrases,Basic_Phrases,5161
+我叫 Alex。,My name is Alex.,Verbs & Phrases,Basic_Phrases,5178
+幸會！,Nice to meet you!,Verbs & Phrases,Basic_Phrases,5181
+你好嗎？,How are you?,Verbs & Phrases,Basic_Phrases,5188
+天氣怎樣？,How's the weather?,Verbs & Phrases,Basic_Phrases,5191
+乾杯！,Cheers!,Verbs & Phrases,Basic_Phrases,5252
+你是做甚麼工作的？,What do you do?,Verbs & Phrases,Basic_Phrases,5253
+你是本地人嗎？,Are you from here?,Verbs & Phrases,Basic_Phrases,5254
+你幾歲？,How old are you?,Verbs & Phrases,Basic_Phrases,5257
+這叫甚麼？,What's this called?,Verbs & Phrases,More_Basic_Phrases,5229
+現在是甚麼時間？,What time is it?,Verbs & Phrases,More_Basic_Phrases,5242
+你會說英語嗎？,Do you speak English?,Verbs & Phrases,More_Basic_Phrases,5142
+我需要水。,I need water.,Verbs & Phrases,More_Basic_Phrases,5143
+救命呀！,Help!,Verbs & Phrases,More_Basic_Phrases,5146
+我迷路了。,I'm lost.,Verbs & Phrases,More_Basic_Phrases,5172
+你可以幫幫我嗎？,Can you help me?,Verbs & Phrases,More_Basic_Phrases,5182
+寫下來！,Write it down!,Verbs & Phrases,More_Basic_Phrases,5206
+留意！,Watch out!,Verbs & Phrases,More_Basic_Phrases,5222
+我遺失了錢包。,I lost my wallet.,Verbs & Phrases,More_Basic_Phrases,5223
+我可以用你的手機嗎？,Can I use your mobile?,Verbs & Phrases,More_Basic_Phrases,5224
+慢一點！,Slow down!,Verbs & Phrases,More_Basic_Phrases,5235
+現在是3點鐘。,It's 3 o'clock.,Verbs & Phrases,More_Basic_Phrases,5243
+你是本地人嗎？,Are you from here?,Verbs & Phrases,More_Basic_Phrases,5254
+再説一次！,Repeat!,Verbs & Phrases,More_Basic_Phrases,5268
+慢慢講！,Speak slowly!,Verbs & Phrases,More_Basic_Phrases,5269
+超級市場在哪？,Where is the supermarket?,Verbs & Phrases,Challenging_Phrases,5151
+你有推薦嗎？,What do you recommend?,Verbs & Phrases,Challenging_Phrases,5249
+你的生日是幾月幾號？,When is your birthday?,Verbs & Phrases,Challenging_Phrases,6533
+我的生日是五月二十一日。,My birthday is on May 21st.,Verbs & Phrases,Challenging_Phrases,6534
+需時多久？,How long does it take?,Verbs & Phrases,Challenging_Phrases,6535
+我對花生敏感。,I'm allergic to peanuts.,Verbs & Phrases,Challenging_Phrases,5160
+你能幫我拍照嗎？,Can you take my photo?,Verbs & Phrases,Challenging_Phrases,5246
+我今星期要上班。,I am working this week.,Verbs & Phrases,Challenging_Phrases,6538
+今天是二零一六年八月三日。,"Today is August 3, 2016.",Verbs & Phrases,Challenging_Phrases,6541
+去機場要多久？,How long to get to the airport?,Verbs & Phrases,More_Challenging_Phrases,5232
+這需要三小時五十五分鐘。,It takes 3 hours and 55 minutes.,Verbs & Phrases,More_Challenging_Phrases,6536
+我可以用信用卡付款嗎？,Can I pay with credit card?,Verbs & Phrases,More_Challenging_Phrases,5202
+我在這裏待了五天。,I have been here 5 days.,Verbs & Phrases,More_Challenging_Phrases,5258
+我逢星期一跑步。,I go running on Mondays.,Verbs & Phrases,More_Challenging_Phrases,6537
+我會每個月見父母。,I see my parents every month.,Verbs & Phrases,More_Challenging_Phrases,6539
+我今年八月會去意大利。,I am going to Italy this year in August.,Verbs & Phrases,More_Challenging_Phrases,6540
+請遮掩你的嘴巴！,"Cover your mouth, please!",Verbs & Phrases,More_Challenging_Phrases,6624
+我睡覺,I sleep,Verbs & Phrases,"As_a_human,_I...",156
+我坐,I sit,Verbs & Phrases,"As_a_human,_I...",157
+我吐,I spit,Verbs & Phrases,"As_a_human,_I...",256
+我唱歌,I sing,Verbs & Phrases,"As_a_human,_I...",416
+我流血,I bleed,Verbs & Phrases,"As_a_human,_I...",822
+我放屁,I fart,Verbs & Phrases,"As_a_human,_I...",1260
+我小便,I pee,Verbs & Phrases,"As_a_human,_I...",1261
+我大便,I poop,Verbs & Phrases,"As_a_human,_I...",1262
+我咳,I cough,Verbs & Phrases,"As_a_human,_I...",1430
+我碰,I touch,Verbs & Phrases,"As_a_human,_I...",1521
+我聞到,I smell,Verbs & Phrases,"As_a_human,_I...",1554
+我呼吸,I breathe,Verbs & Phrases,"As_a_human,_I...",1603
+我聽講,I hear,Verbs & Phrases,"As_a_human,_I...",1773
+我打鼻鼾,I snore,Verbs & Phrases,"As_a_human,_I...",2481
+我閉氣,I hold my breath,Verbs & Phrases,"As_a_human,_I...",2698
+我發冷,I shiver,Verbs & Phrases,"As_a_human,_I...",3922
+我病了。,I'm sick.,Verbs & Phrases,"As_a_human,_I...",5173
+我騎單車,I ride a bicycle,Verbs & Phrases,How_I_Move,196
+我行路,I walk,Verbs & Phrases,How_I_Move,258
+我跳舞,I dance,Verbs & Phrases,How_I_Move,417
+我跳,I jump,Verbs & Phrases,How_I_Move,437
+我跑,I run,Verbs & Phrases,How_I_Move,438
+我游泳,I swim,Verbs & Phrases,How_I_Move,517
+爬樓梯,I climb the stairs,Verbs & Phrases,How_I_Move,651
+我滑倒,I slip,Verbs & Phrases,How_I_Move,1280
+我摔倒,I fall,Verbs & Phrases,How_I_Move,1451
+我跌倒,I fell over,Verbs & Phrases,How_I_Move,1553
+我暈倒,I collapse,Verbs & Phrases,How_I_Move,2750
+我進入,I enter,Verbs & Phrases,How_I_Move,2913
+我轉,I turn,Verbs & Phrases,How_I_Move,2931
+我畫,I paint,Verbs & Phrases,How_I_Act,566
+我寫,I write,Verbs & Phrases,How_I_Act,567
+我讀書,I study,Verbs & Phrases,How_I_Act,811
+我慶祝,I celebrate,Verbs & Phrases,How_I_Act,1095
+我選擇,I choose,Verbs & Phrases,How_I_Act,1225
+我搜索,I search,Verbs & Phrases,How_I_Act,1452
+我問,I ask,Verbs & Phrases,How_I_Act,1465
+我投票,I vote,Verbs & Phrases,How_I_Act,1522
+我調情,I flirt,Verbs & Phrases,How_I_Act,1573
+我聽音樂,I listen to music,Verbs & Phrases,How_I_Act,2660
+我喜歡,I enjoy,Verbs & Phrases,How_I_Act,2662
+我想像,I imagine,Verbs & Phrases,How_I_Act,3418
+我在乎,I care,Verbs & Phrases,How_I_Act,3845
+我偷,I steal,Verbs & Phrases,What_I_Do,1367
+我捉住,I catch,Verbs & Phrases,What_I_Do,1450
+我填補,I fill,Verbs & Phrases,What_I_Do,1489
+我烤,I bake,Verbs & Phrases,What_I_Do,1501
+我沖廁,I flush,Verbs & Phrases,What_I_Do,2499
+我刷洗,I scrub,Verbs & Phrases,What_I_Do,2500
+我拯救,I rescue,Verbs & Phrases,What_I_Do,2517
+我整理,I arrange,Verbs & Phrases,What_I_Do,2644
+我製作,I make,Verbs & Phrases,What_I_Do,2661
+我拉住門,I hold the door,Verbs & Phrases,What_I_Do,2805
+我壓,I press,Verbs & Phrases,What_I_Do,3310
+我收起,I put away,Verbs & Phrases,What_I_Do,3417
+我舉起,I lift,Verbs & Phrases,What_I_Do,3597
+我抹,I wipe,Verbs & Phrases,What_I_Do,3616
+我掉了,I drop,Verbs & Phrases,What_I_Do,3706
+我修剪,I prune,Verbs & Phrases,What_I_Do,3760
+我包,I wrap,Verbs & Phrases,What_I_Do,3958
+它滑動,it slides,Verbs & Phrases,What_It_Does,1618
+它滾動,It rolls,Verbs & Phrases,What_It_Does,1680
+它脫軌,it derails,Verbs & Phrases,What_It_Does,2625
+它當機,it crashes,Verbs & Phrases,What_It_Does,3020
+嗨,hi,Verbs & Phrases,Basic_Phrases,4
+多謝,thank you,Verbs & Phrases,Basic_Phrases,5
+再見,bye,Verbs & Phrases,Basic_Phrases,6
+請,please,Verbs & Phrases,Basic_Phrases,7
+你叫甚麼？,What's your name?,Verbs & Phrases,Basic_Phrases,5177
+不錯，有心。,"Fine, thank you.",Verbs & Phrases,Basic_Phrases,5189
+我好開心。,I am happy.,Verbs & Phrases,Basic_Phrases,5161
+我叫 Alex。,My name is Alex.,Verbs & Phrases,Basic_Phrases,5178
+幸會！,Nice to meet you!,Verbs & Phrases,Basic_Phrases,5181
+你好嗎？,How are you?,Verbs & Phrases,Basic_Phrases,5188
+天氣怎樣？,How's the weather?,Verbs & Phrases,Basic_Phrases,5191
+乾杯！,Cheers!,Verbs & Phrases,Basic_Phrases,5252
+你是做甚麼工作的？,What do you do?,Verbs & Phrases,Basic_Phrases,5253
+你是本地人嗎？,Are you from here?,Verbs & Phrases,Basic_Phrases,5254
+你幾歲？,How old are you?,Verbs & Phrases,Basic_Phrases,5257
+這叫甚麼？,What's this called?,Verbs & Phrases,More_Basic_Phrases,5229
+現在是甚麼時間？,What time is it?,Verbs & Phrases,More_Basic_Phrases,5242
+你會說英語嗎？,Do you speak English?,Verbs & Phrases,More_Basic_Phrases,5142
+我需要水。,I need water.,Verbs & Phrases,More_Basic_Phrases,5143
+救命呀！,Help!,Verbs & Phrases,More_Basic_Phrases,5146
+我迷路了。,I'm lost.,Verbs & Phrases,More_Basic_Phrases,5172
+你可以幫幫我嗎？,Can you help me?,Verbs & Phrases,More_Basic_Phrases,5182
+寫下來！,Write it down!,Verbs & Phrases,More_Basic_Phrases,5206
+留意！,Watch out!,Verbs & Phrases,More_Basic_Phrases,5222
+我遺失了錢包。,I lost my wallet.,Verbs & Phrases,More_Basic_Phrases,5223
+我可以用你的手機嗎？,Can I use your mobile?,Verbs & Phrases,More_Basic_Phrases,5224
+慢一點！,Slow down!,Verbs & Phrases,More_Basic_Phrases,5235
+現在是3點鐘。,It's 3 o'clock.,Verbs & Phrases,More_Basic_Phrases,5243
+你是本地人嗎？,Are you from here?,Verbs & Phrases,More_Basic_Phrases,5254
+再説一次！,Repeat!,Verbs & Phrases,More_Basic_Phrases,5268
+慢慢講！,Speak slowly!,Verbs & Phrases,More_Basic_Phrases,5269
+超級市場在哪？,Where is the supermarket?,Verbs & Phrases,Challenging_Phrases,5151
+你有推薦嗎？,What do you recommend?,Verbs & Phrases,Challenging_Phrases,5249
+你的生日是幾月幾號？,When is your birthday?,Verbs & Phrases,Challenging_Phrases,6533
+我的生日是五月二十一日。,My birthday is on May 21st.,Verbs & Phrases,Challenging_Phrases,6534
+需時多久？,How long does it take?,Verbs & Phrases,Challenging_Phrases,6535
+我對花生敏感。,I'm allergic to peanuts.,Verbs & Phrases,Challenging_Phrases,5160
+你能幫我拍照嗎？,Can you take my photo?,Verbs & Phrases,Challenging_Phrases,5246
+我今星期要上班。,I am working this week.,Verbs & Phrases,Challenging_Phrases,6538
+今天是二零一六年八月三日。,"Today is August 3, 2016.",Verbs & Phrases,Challenging_Phrases,6541
+去機場要多久？,How long to get to the airport?,Verbs & Phrases,More_Challenging_Phrases,5232
+這需要三小時五十五分鐘。,It takes 3 hours and 55 minutes.,Verbs & Phrases,More_Challenging_Phrases,6536
+我可以用信用卡付款嗎？,Can I pay with credit card?,Verbs & Phrases,More_Challenging_Phrases,5202
+我在這裏待了五天。,I have been here 5 days.,Verbs & Phrases,More_Challenging_Phrases,5258
+我逢星期一跑步。,I go running on Mondays.,Verbs & Phrases,More_Challenging_Phrases,6537
+我會每個月見父母。,I see my parents every month.,Verbs & Phrases,More_Challenging_Phrases,6539
+我今年八月會去意大利。,I am going to Italy this year in August.,Verbs & Phrases,More_Challenging_Phrases,6540
+請遮掩你的嘴巴！,"Cover your mouth, please!",Verbs & Phrases,More_Challenging_Phrases,6624
+我睡覺,I sleep,Verbs,"As_a_human,_I...",156
+我坐,I sit,Verbs,"As_a_human,_I...",157
+我吐,I spit,Verbs,"As_a_human,_I...",256
+我唱歌,I sing,Verbs,"As_a_human,_I...",416
+我流血,I bleed,Verbs,"As_a_human,_I...",822
+我放屁,I fart,Verbs,"As_a_human,_I...",1260
+我小便,I pee,Verbs,"As_a_human,_I...",1261
+我大便,I poop,Verbs,"As_a_human,_I...",1262
+我咳,I cough,Verbs,"As_a_human,_I...",1430
+我碰,I touch,Verbs,"As_a_human,_I...",1521
+我聞到,I smell,Verbs,"As_a_human,_I...",1554
+我呼吸,I breathe,Verbs,"As_a_human,_I...",1603
+我聽講,I hear,Verbs,"As_a_human,_I...",1773
+我打鼻鼾,I snore,Verbs,"As_a_human,_I...",2481
+我閉氣,I hold my breath,Verbs,"As_a_human,_I...",2698
+我發冷,I shiver,Verbs,"As_a_human,_I...",3922
+我病了。,I'm sick.,Verbs,"As_a_human,_I...",5173
+我騎單車,I ride a bicycle,Verbs,How_I_Move,196
+我行路,I walk,Verbs,How_I_Move,258
+我跳舞,I dance,Verbs,How_I_Move,417
+我跳,I jump,Verbs,How_I_Move,437
+我跑,I run,Verbs,How_I_Move,438
+我游泳,I swim,Verbs,How_I_Move,517
+爬樓梯,I climb the stairs,Verbs,How_I_Move,651
+我滑倒,I slip,Verbs,How_I_Move,1280
+我摔倒,I fall,Verbs,How_I_Move,1451
+我跌倒,I fell over,Verbs,How_I_Move,1553
+我暈倒,I collapse,Verbs,How_I_Move,2750
+我進入,I enter,Verbs,How_I_Move,2913
+我轉,I turn,Verbs,How_I_Move,2931
+我畫,I paint,Verbs,How_I_Act,566
+我寫,I write,Verbs,How_I_Act,567
+我讀書,I study,Verbs,How_I_Act,811
+我慶祝,I celebrate,Verbs,How_I_Act,1095
+我選擇,I choose,Verbs,How_I_Act,1225
+我搜索,I search,Verbs,How_I_Act,1452
+我問,I ask,Verbs,How_I_Act,1465
+我投票,I vote,Verbs,How_I_Act,1522
+我調情,I flirt,Verbs,How_I_Act,1573
+我聽音樂,I listen to music,Verbs,How_I_Act,2660
+我喜歡,I enjoy,Verbs,How_I_Act,2662
+我想像,I imagine,Verbs,How_I_Act,3418
+我在乎,I care,Verbs,How_I_Act,3845
+我偷,I steal,Verbs,What_I_Do,1367
+我捉住,I catch,Verbs,What_I_Do,1450
+我填補,I fill,Verbs,What_I_Do,1489
+我烤,I bake,Verbs,What_I_Do,1501
+我沖廁,I flush,Verbs,What_I_Do,2499
+我刷洗,I scrub,Verbs,What_I_Do,2500
+我拯救,I rescue,Verbs,What_I_Do,2517
+我整理,I arrange,Verbs,What_I_Do,2644
+我製作,I make,Verbs,What_I_Do,2661
+我拉住門,I hold the door,Verbs,What_I_Do,2805
+我壓,I press,Verbs,What_I_Do,3310
+我收起,I put away,Verbs,What_I_Do,3417
+我舉起,I lift,Verbs,What_I_Do,3597
+我抹,I wipe,Verbs,What_I_Do,3616
+我掉了,I drop,Verbs,What_I_Do,3706
+我修剪,I prune,Verbs,What_I_Do,3760
+我包,I wrap,Verbs,What_I_Do,3958
+它滑動,it slides,Verbs,What_It_Does,1618
+它滾動,It rolls,Verbs,What_It_Does,1680
+它脫軌,it derails,Verbs,What_It_Does,2625
+它當機,it crashes,Verbs,What_It_Does,3020
+嗨,hi,Phrases,Basic_Phrases,4
+多謝,thank you,Phrases,Basic_Phrases,5
+再見,bye,Phrases,Basic_Phrases,6
+請,please,Phrases,Basic_Phrases,7
+你叫甚麼？,What's your name?,Phrases,Basic_Phrases,5177
+不錯，有心。,"Fine, thank you.",Phrases,Basic_Phrases,5189
+我好開心。,I am happy.,Phrases,Basic_Phrases,5161
+我叫 Alex。,My name is Alex.,Phrases,Basic_Phrases,5178
+幸會！,Nice to meet you!,Phrases,Basic_Phrases,5181
+你好嗎？,How are you?,Phrases,Basic_Phrases,5188
+天氣怎樣？,How's the weather?,Phrases,Basic_Phrases,5191
+乾杯！,Cheers!,Phrases,Basic_Phrases,5252
+你是做甚麼工作的？,What do you do?,Phrases,Basic_Phrases,5253
+你是本地人嗎？,Are you from here?,Phrases,Basic_Phrases,5254
+你幾歲？,How old are you?,Phrases,Basic_Phrases,5257
+這叫甚麼？,What's this called?,Phrases,More_Basic_Phrases,5229
+現在是甚麼時間？,What time is it?,Phrases,More_Basic_Phrases,5242
+你會說英語嗎？,Do you speak English?,Phrases,More_Basic_Phrases,5142
+我需要水。,I need water.,Phrases,More_Basic_Phrases,5143
+救命呀！,Help!,Phrases,More_Basic_Phrases,5146
+我迷路了。,I'm lost.,Phrases,More_Basic_Phrases,5172
+你可以幫幫我嗎？,Can you help me?,Phrases,More_Basic_Phrases,5182
+寫下來！,Write it down!,Phrases,More_Basic_Phrases,5206
+留意！,Watch out!,Phrases,More_Basic_Phrases,5222
+我遺失了錢包。,I lost my wallet.,Phrases,More_Basic_Phrases,5223
+我可以用你的手機嗎？,Can I use your mobile?,Phrases,More_Basic_Phrases,5224
+慢一點！,Slow down!,Phrases,More_Basic_Phrases,5235
+現在是3點鐘。,It's 3 o'clock.,Phrases,More_Basic_Phrases,5243
+你是本地人嗎？,Are you from here?,Phrases,More_Basic_Phrases,5254
+再説一次！,Repeat!,Phrases,More_Basic_Phrases,5268
+慢慢講！,Speak slowly!,Phrases,More_Basic_Phrases,5269
+超級市場在哪？,Where is the supermarket?,Phrases,Challenging_Phrases,5151
+你有推薦嗎？,What do you recommend?,Phrases,Challenging_Phrases,5249
+你的生日是幾月幾號？,When is your birthday?,Phrases,Challenging_Phrases,6533
+我的生日是五月二十一日。,My birthday is on May 21st.,Phrases,Challenging_Phrases,6534
+需時多久？,How long does it take?,Phrases,Challenging_Phrases,6535
+我對花生敏感。,I'm allergic to peanuts.,Phrases,Challenging_Phrases,5160
+你能幫我拍照嗎？,Can you take my photo?,Phrases,Challenging_Phrases,5246
+我今星期要上班。,I am working this week.,Phrases,Challenging_Phrases,6538
+今天是二零一六年八月三日。,"Today is August 3, 2016.",Phrases,Challenging_Phrases,6541
+去機場要多久？,How long to get to the airport?,Phrases,More_Challenging_Phrases,5232
+這需要三小時五十五分鐘。,It takes 3 hours and 55 minutes.,Phrases,More_Challenging_Phrases,6536
+我可以用信用卡付款嗎？,Can I pay with credit card?,Phrases,More_Challenging_Phrases,5202
+我在這裏待了五天。,I have been here 5 days.,Phrases,More_Challenging_Phrases,5258
+我逢星期一跑步。,I go running on Mondays.,Phrases,More_Challenging_Phrases,6537
+我會每個月見父母。,I see my parents every month.,Phrases,More_Challenging_Phrases,6539
+我今年八月會去意大利。,I am going to Italy this year in August.,Phrases,More_Challenging_Phrases,6540
+請遮掩你的嘴巴！,"Cover your mouth, please!",Phrases,More_Challenging_Phrases,6624
+電話,phone call,Workplace Talk,Talking_on_the_Phone,7033
+短信,text message,Workplace Talk,Talking_on_the_Phone,7034
+鈴聲,ringtone,Workplace Talk,Talking_on_the_Phone,7035
+未接電話,missed call,Workplace Talk,Talking_on_the_Phone,7036
+我打電話,I make a phone call,Workplace Talk,Talking_on_the_Phone,7037
+我聽電話,I answer the phone,Workplace Talk,Talking_on_the_Phone,7038
+您好，我是 Sam Smith。,"Hello, this is Sam Smith.",Workplace Talk,Talking_on_the_Phone,7039
+請問有甚麽可以為您效勞？,How can I help you?,Workplace Talk,Talking_on_the_Phone,7040
+請問我可否和 Alex 交談？,"Can I speak to Alex, please?",Workplace Talk,Talking_on_the_Phone,7041
+請稍候。,Can you just hold a second?,Workplace Talk,Talking_on_the_Phone,7042
+不好意思，他現在不方便。,I'm afraid he's not available.,Workplace Talk,Talking_on_the_Phone,7043
+我可以幫您留個口訊嗎？,Can I take a message?,Workplace Talk,Talking_on_the_Phone,7044
+我稍後回電。,I'll call back later.,Workplace Talk,Talking_on_the_Phone,7045
+麻煩您再講一次？,Can you say that again?,Workplace Talk,Talking_on_the_Phone,7046
+感謝您提供協助。,Thanks for your help.,Workplace Talk,Talking_on_the_Phone,7047
+電郵地址,email address,Workplace Talk,Writing_Emails,7048
+主題,subject line,Workplace Talk,Writing_Emails,7049
+我傳送電郵,I send an email,Workplace Talk,Writing_Emails,7050
+我查看電郵,I check my email,Workplace Talk,Writing_Emails,7051
+我收到電郵,I get an email,Workplace Talk,Writing_Emails,7052
+我回覆電郵,I reply to an email,Workplace Talk,Writing_Emails,7053
+我刪除電郵,I delete an email,Workplace Talk,Writing_Emails,7054
+我轉寄電郵,I forward an email,Workplace Talk,Writing_Emails,7055
+親愛的 Miller 先生：,Dear Alex Miller,Workplace Talk,Writing_Emails,7056
+感謝您的電郵。,Thank you for your email.,Workplace Talk,Writing_Emails,7057
+請問您可否將它傳送給我？,Could you send it to me?,Workplace Talk,Writing_Emails,7058
+我已將其附件。,I have attached it.,Workplace Talk,Writing_Emails,7059
+靜候賜覆。,I hope to hear from you soon.,Workplace Talk,Writing_Emails,7060
+敬頌商祺,Best wishes,Workplace Talk,Writing_Emails,7061
+下個會議,the next meeting,Workplace Talk,Phrases_for_Meetings,7063
+我們開會,we have a meeting,Workplace Talk,Phrases_for_Meetings,7062
+我將會議排期,I schedule a meeting,Workplace Talk,Phrases_for_Meetings,7064
+我出席會議,I go to a meeting,Workplace Talk,Phrases_for_Meetings,7065
+我取消會議,I cancel a meeting,Workplace Talk,Phrases_for_Meetings,7066
+每週例會,weekly meeting,Workplace Talk,Phrases_for_Meetings,7067
+會議於十時開始,the meeting starts at 10,Workplace Talk,Phrases_for_Meetings,7068
+會議於十一時結束,the meeting ends at 11,Workplace Talk,Phrases_for_Meetings,7069
+輕鬆的會議,informal meeting,Workplace Talk,Phrases_for_Meetings,7070
+非常抱歉我來遲了。,Sorry I'm late.,Workplace Talk,Phrases_for_Meetings,7071
+您認為呢？,What do you think?,Workplace Talk,Phrases_for_Meetings,7072
+我非常同意。,I totally agree.,Workplace Talk,Phrases_for_Meetings,7073
+我可能不太同意。,I'm afraid I don't agree.,Workplace Talk,Phrases_for_Meetings,7074
+我不太明白您的意思。,I'm not sure what you mean.,Workplace Talk,Phrases_for_Meetings,7075
+今天到此為止。,That will be all for today.,Workplace Talk,Phrases_for_Meetings,7076
+簡報幻燈片,presentation slides,Workplace Talk,Giving_Presentations,7078
+來賓,audience,Workplace Talk,Giving_Presentations,7079
+問答環節,Q and A session,Workplace Talk,Giving_Presentations,7080
+演講技巧,presentation skills,Workplace Talk,Giving_Presentations,7081
+我做一個簡報,I give a presentation,Workplace Talk,Giving_Presentations,7077
+歡迎各位,"Welcome, everyone.",Workplace Talk,Giving_Presentations,7082
+讓我自我介紹一下。,Let me introduce myself.,Workplace Talk,Giving_Presentations,7083
+我的演講主題是科技。,The subject of my talk is technology.,Workplace Talk,Giving_Presentations,7084
+演講分三部分。,My talk will be in three parts.,Workplace Talk,Giving_Presentations,7085
+最後,Finally,Workplace Talk,Giving_Presentations,7086
+那我就進入下一點。,I'd like to move on.,Workplace Talk,Giving_Presentations,7087
+為各位舉個例子。,"To give you an example,",Workplace Talk,Giving_Presentations,7088
+我們的數據顯示,Our data shows that,Workplace Talk,Giving_Presentations,7089
+請問各位有提問嗎？,Do you have any questions?,Workplace Talk,Giving_Presentations,7090
+感謝各位來賓。,Thank you all for listening.,Workplace Talk,Giving_Presentations,7091
+一杯咖啡,cup of coffee,Workplace Talk,Coffee_Break_Chats,7092
+黑啡,black coffee,Workplace Talk,Coffee_Break_Chats,7093
+低因咖啡,decaf coffee,Workplace Talk,Coffee_Break_Chats,7094
+杯,mug,Workplace Talk,Coffee_Break_Chats,7095
+即溶咖啡,instant coffee,Workplace Talk,Coffee_Break_Chats,7096
+即磨咖啡,fresh coffee,Workplace Talk,Coffee_Break_Chats,7097
+請問要加糖嗎？,Do you take sugar?,Workplace Talk,Coffee_Break_Chats,7098
+您想加奶嗎？,Would you like some milk?,Workplace Talk,Coffee_Break_Chats,7099
+我很喜歡您的杯子。,I really like your mug.,Workplace Talk,Coffee_Break_Chats,7100
+您別來無恙嗎？,How are you doing?,Workplace Talk,Coffee_Break_Chats,7101
+您週末過得怎樣？,How was your weekend?,Workplace Talk,Coffee_Break_Chats,7102
+不錯啊，有心。,"It was OK, thanks.",Workplace Talk,Coffee_Break_Chats,7103
+恭喜您升職！,Congratulations on the promotion!,Workplace Talk,Coffee_Break_Chats,7104
+您有聽到消息嗎？,Have you heard the news?,Workplace Talk,Coffee_Break_Chats,7105
+您覺得這次的聚會怎樣？,What did you think of the party?,Workplace Talk,Coffee_Break_Chats,7106
+嬰兒奶樽,baby bottle,People & Relationships,Baby,1290
+嬰兒床,baby crib,People & Relationships,Baby,1291
+嬰兒撥浪鼓,baby rattle,People & Relationships,Baby,1292
+嬰兒座椅,bouncer,People & Relationships,Baby,1293
+圍兜,bib,People & Relationships,Baby,1294
+分娩,birth,People & Relationships,Baby,1295
+哺乳,breastfeeding,People & Relationships,Baby,1296
+紙尿片,diaper,People & Relationships,Baby,1298
+換尿片,diaper change,People & Relationships,Baby,1299
+胎兒,fetus,People & Relationships,Baby,1300
+花束,bouquet,People & Relationships,Marriage,1460
+度蜜月,honeymoon,People & Relationships,Marriage,1464
+求婚,proposal,People & Relationships,Marriage,1467
+乾杯,toast,People & Relationships,Marriage,1469
+結婚蛋糕,wedding cake,People & Relationships,Marriage,1470
+婚約,wedding contract,People & Relationships,Marriage,1471
+婚禮日,wedding day,People & Relationships,Marriage,1472
+婚紗禮服,wedding dress,People & Relationships,Marriage,1473
+結婚禮物,wedding gift,People & Relationships,Marriage,1474
+婚禮請柬,wedding invitation,People & Relationships,Marriage,1475
+結婚戒指,wedding ring,People & Relationships,Marriage,1476
+神壇,altar,People & Relationships,Marriage,2783
+奶嘴,pacifier,People & Relationships,More_Baby,1303
+便盆,potty,People & Relationships,More_Baby,1304
+懷孕,pregnancy,People & Relationships,More_Baby,1305
+雙胞胎,twins,People & Relationships,More_Baby,1306
+高腳椅,high chair,People & Relationships,More_Baby,3221
+摺合式嬰兒車,stroller,People & Relationships,More_Baby,3222
+嬰兒車,pram,People & Relationships,More_Baby,3223
+兒童汽車安全椅,car seat,People & Relationships,More_Baby,3224
+嬰兒爽身粉,baby powder,People & Relationships,More_Baby,3225
+保母,babysitter,People & Relationships,More_Baby,3226
+我們是網上認識的,we met online,People & Relationships,We_Met_Online,7189
+我已登記,I signed up,People & Relationships,We_Met_Online,7190
+交友檔案,dating profile,People & Relationships,We_Met_Online,7191
+個人頭像,profile picture,People & Relationships,We_Met_Online,7192
+自拍,selfie,People & Relationships,We_Met_Online,7193
+描述,caption,People & Relationships,We_Met_Online,7194
+我向左掃,I swiped left,People & Relationships,We_Met_Online,7195
+我會挑剔,I'm picky,People & Relationships,We_Met_Online,7196
+我向右掃,I swiped right,People & Relationships,We_Met_Online,7197
+我們匹配,we matched,People & Relationships,We_Met_Online,7198
+訊息,messages,People & Relationships,We_Met_Online,7199
+我給他發了訊息,I sent him a message,People & Relationships,We_Met_Online,7200
+收件箱,inbox,People & Relationships,We_Met_Online,7201
+我檢查了收件箱,I checked my inbox,People & Relationships,We_Met_Online,7202
+他很幽默,he's funny,People & Relationships,We_Met_Online,7203
+我們有很多共同點,we have a lot in common,People & Relationships,We_Met_Online,7204
+求婚,proposal,People & Relationships,We're_engaged!,1467
+乾杯！,Cheers!,People & Relationships,We're_engaged!,5252
+我買了戒指,I bought a ring,People & Relationships,We're_engaged!,7221
+訂婚戒指,engagement ring,People & Relationships,We're_engaged!,7222
+秘密,secret,People & Relationships,We're_engaged!,7223
+我計劃,I plan,People & Relationships,We're_engaged!,7224
+我們去哪？,Where are we going?,People & Relationships,We're_engaged!,7225
+這是個驚喜。,It's a surprise.,People & Relationships,We're_engaged!,7226
+我們的週年紀念,our anniversary,People & Relationships,We're_engaged!,7227
+我們最喜歡的地方,our favorite place,People & Relationships,We're_engaged!,7228
+我們的歌,our song,People & Relationships,We're_engaged!,7229
+我們一起的生活,our life together,People & Relationships,We're_engaged!,7230
+我單膝跪地,I got down on one knee,People & Relationships,We're_engaged!,7231
+我求婚了,I proposed marriage,People & Relationships,We're_engaged!,7232
+你帶給我快樂。,You make me happy.,People & Relationships,We're_engaged!,7233
+她說願意！,She said yes!,People & Relationships,We're_engaged!,7234
+你願意嫁給我嗎？,Will you marry me?,People & Relationships,We're_engaged!,7235
+我們訂婚了！,We're engaged!,People & Relationships,We're_engaged!,7236
+我們慶祝,we celebrate,People & Relationships,We're_engaged!,7237
+花束,bouquet,People & Relationships,Wedding_Day,1460
+新娘,bride,People & Relationships,Wedding_Day,1461
+新郎,groom,People & Relationships,Wedding_Day,1463
+度蜜月,honeymoon,People & Relationships,Wedding_Day,1464
+結婚蛋糕,wedding cake,People & Relationships,Wedding_Day,1470
+婚禮日,wedding day,People & Relationships,Wedding_Day,1472
+婚紗禮服,wedding dress,People & Relationships,Wedding_Day,1473
+結婚戒指,wedding ring,People & Relationships,Wedding_Day,1476
+神壇,altar,People & Relationships,Wedding_Day,2783
+燕尾服,tuxedo,People & Relationships,Wedding_Day,7238
+走道,aisle,People & Relationships,Wedding_Day,7239
+監禮人,officiant,People & Relationships,Wedding_Day,7240
+見證人,witness,People & Relationships,Wedding_Day,7241
+結婚誓詞,wedding vows,People & Relationships,Wedding_Day,7242
+我願意,I do,People & Relationships,Wedding_Day,7243
+我們結婚了,we're married,People & Relationships,Wedding_Day,7244
+婚宴,wedding reception,People & Relationships,Wedding_Day,7245
+第一支舞,first dance,People & Relationships,Wedding_Day,7246
+父母,parents,People & Relationships,My_Family,364
+父親,father,People & Relationships,My_Family,366
+祖父,grandfather,People & Relationships,My_Family,370
+祖母,grandmother,People & Relationships,My_Family,371
+母親,mother,People & Relationships,My_Family,374
+擁抱,hug,People & Relationships,My_Family,1571
+妹妹,sister,People & Relationships,My_Family,6649
+哥哥,brother,People & Relationships,My_Family,6651
+我愛你！,I love you!,People & Relationships,My_Family,7185
+我的家人,my family,People & Relationships,My_Family,7275
+基因,genes,People & Relationships,Family_Tree,2774
+族譜,family tree,People & Relationships,Family_Tree,2775
+侄女,niece,People & Relationships,Family_Tree,2776
+侄,nephew,People & Relationships,Family_Tree,2777
+姐夫,brother-in-law,People & Relationships,Family_Tree,2778
+姨仔,sister-in-law,People & Relationships,Family_Tree,2779
+外母,mother-in-law,People & Relationships,Family_Tree,2780
+教父,godfather,People & Relationships,Family_Tree,2786
+舅父,uncle,People & Relationships,Family_Tree,2787
+契媽,godmother,People & Relationships,Family_Tree,7277
+後母,stepmother,People & Relationships,Family_Tree,7279
+繼父,stepfather,People & Relationships,Family_Tree,7280
+我們正在領養,We are adopting,People & Relationships,Adopting_and_Fostering,7283
+我是領養的。,I am adopted,People & Relationships,Adopting_and_Fostering,7284
+領養人,adoptee,People & Relationships,Adopting_and_Fostering,7285
+養父母,adoptive parent,People & Relationships,Adopting_and_Fostering,7286
+親生父母,biological parent,People & Relationships,Adopting_and_Fostering,7287
+在家學習,home study,People & Relationships,Adopting_and_Fostering,7288
+社工,social worker,People & Relationships,Adopting_and_Fostering,7289
+領養過程,the adoption process,People & Relationships,Adopting_and_Fostering,7290
+耐性,patience,People & Relationships,Adopting_and_Fostering,7291
+機密,confidential,People & Relationships,Adopting_and_Fostering,7292
+寄養,foster care,People & Relationships,Adopting_and_Fostering,7293
+培養感情,bonding,People & Relationships,Adopting_and_Fostering,7296
+我相信你,I trust you,People & Relationships,Adopting_and_Fostering,7297
+救護車,ambulance,Health & Wellness,Health,381
+檢查,examination,Health & Wellness,Health,1428
+心跳,heartbeat,Health & Wellness,Health,1429
+醫療帳單,medical bill,Health & Wellness,Health,1433
+醫療記錄,medical record,Health & Wellness,Health,1434
+病人,patient,Health & Wellness,Health,1435
+病人入院,patient admission,Health & Wellness,Health,1436
+脈搏,pulse,Health & Wellness,Health,1437
+外科醫生,surgeon,Health & Wellness,Health,1441
+普通外科醫生,general surgeon,Health & Wellness,Health,3911
+心臟科醫生,cardiologist,Health & Wellness,Health,3912
+兒科醫生,pediatrician,Health & Wellness,Health,3913
+皮膚科醫生,dermatologist,Health & Wellness,Health,3914
+麻醉師,anesthesiologist,Health & Wellness,Health,3915
+我對待,I treat,Health & Wellness,Health,3759
+身體,body,Health & Wellness,Body,421
+頭,head,Health & Wellness,Body,422
+頭髮,hair,Health & Wellness,Body,423
+臉,face,Health & Wellness,Body,424
+耳朵,ears,Health & Wellness,Body,425
+眼睛,eyes,Health & Wellness,Body,426
+鼻子,nose,Health & Wellness,Body,427
+口,mouth,Health & Wellness,Body,428
+牙齒,tooth,Health & Wellness,Body,429
+嘴唇,lips,Health & Wellness,Body,431
+手,hand,Health & Wellness,Body,432
+手指,finger,Health & Wellness,Body,433
+手指甲,nail,Health & Wellness,Body,434
+腳,foot,Health & Wellness,Body,435
+我跳,I jump,Health & Wellness,Body,437
+我跑,I run,Health & Wellness,Body,438
+生氣,angry,Health & Wellness,Emotions,576
+無聊,bored,Health & Wellness,Emotions,577
+冷靜,calm,Health & Wellness,Emotions,578
+癲,crazy,Health & Wellness,Emotions,579
+興奮,excited,Health & Wellness,Emotions,582
+快樂,happy,Health & Wellness,Emotions,585
+緊張,nervous,Health & Wellness,Emotions,587
+累,tired,Health & Wellness,Emotions,592
+身體,body,Health & Wellness,Body_Parts,421
+手,hand,Health & Wellness,Body_Parts,432
+手指,finger,Health & Wellness,Body_Parts,433
+手指甲,nail,Health & Wellness,Body_Parts,434
+腳,foot,Health & Wellness,Body_Parts,435
+腳踝,ankle,Health & Wellness,Body_Parts,814
+手臂,arm,Health & Wellness,Body_Parts,815
+手肘,elbow,Health & Wellness,Body_Parts,819
+腳跟,heel,Health & Wellness,Body_Parts,821
+膝蓋,knee,Health & Wellness,Body_Parts,823
+腿,leg,Health & Wellness,Body_Parts,824
+肩,shoulder,Health & Wellness,Body_Parts,2921
+鬧鐘,alarm clock,Health & Wellness,Sleep,1239
+百葉簾,blinds,Health & Wellness,Sleep,1240
+雙層床,bunk bed,Health & Wellness,Sleep,1241
+夢,dream,Health & Wellness,Sleep,1242
+吊床,hammock,Health & Wellness,Sleep,1243
+加濕器,humidifier,Health & Wellness,Sleep,1244
+失眠,insomnia,Health & Wellness,Sleep,1245
+小睡,nap,Health & Wellness,Sleep,1246
+夜晚,night,Health & Wellness,Sleep,1247
+噩夢,nightmare,Health & Wellness,Sleep,1248
+床頭櫃,nightstand,Health & Wellness,Sleep,1249
+痲醉劑,anesthetic,Health & Wellness,Oral_Care,1477
+牙套,braces,Health & Wellness,Oral_Care,1478
+牙洞,cavity,Health & Wellness,Oral_Care,1479
+假牙,denture,Health & Wellness,Oral_Care,1480
+牙床,gum,Health & Wellness,Oral_Care,1484
+牙髓治療,root canal treatment,Health & Wellness,Oral_Care,1486
+牙橋,teeth bridge,Health & Wellness,Oral_Care,1487
+牙齒美白,teeth whitening,Health & Wellness,Oral_Care,1488
+牙冠,tooth crown,Health & Wellness,Oral_Care,1490
+牙鑽,tooth drilling,Health & Wellness,Oral_Care,1491
+拔牙,tooth extraction,Health & Wellness,Oral_Care,1492
+植牙,tooth implant,Health & Wellness,Oral_Care,1493
+躺椅,deck chair,Health & Wellness,Spa,1904
+熱水浴缸,hot tub,Health & Wellness,Spa,1905
+更衣室,locker room,Health & Wellness,Spa,1909
+桑拿,sauna,Health & Wellness,Spa,1911
+蒸汽房,steam room,Health & Wellness,Spa,1912
+游泳池,swimming pool,Health & Wellness,Spa,1913
+溫泉浴,thermal bath,Health & Wellness,Spa,1914
+溫泉水,thermal water,Health & Wellness,Spa,1915
+水上滑梯,water slide,Health & Wellness,Spa,1917
+睡眠面罩,sleep mask,Health & Wellness,More_Sleep,1250
+夢遊,sleep walking,Health & Wellness,More_Sleep,1251
+瞓覺,sleeping,Health & Wellness,More_Sleep,1252
+安眠藥,sleeping pill,Health & Wellness,More_Sleep,1253
+打鼻鼾,snoring,Health & Wellness,More_Sleep,1254
+打哈欠,yawn,Health & Wellness,More_Sleep,1255
+耳塞,ear plugs,Health & Wellness,More_Sleep,2465
+頸枕,neck pillow,Health & Wellness,More_Sleep,2466
+搖籃,cradle,Health & Wellness,More_Sleep,2467
+渴睡症,narcolepsy,Health & Wellness,More_Sleep,2468
+昏昏沉沉,groggy,Health & Wellness,More_Sleep,2469
+牙齒,tooth,Health & Wellness,More_Body_Parts,429
+腰背,lower back,Health & Wellness,More_Body_Parts,2917
+腰背,waistline,Health & Wellness,More_Body_Parts,2918
+指甲,fingernail,Health & Wellness,More_Body_Parts,2919
+指關節,knuckle,Health & Wellness,More_Body_Parts,2920
+手腕,wrist,Health & Wellness,More_Body_Parts,2923
+面頰,cheeks,Health & Wellness,More_Body_Parts,2924
+喉結,Adam's apple,Health & Wellness,More_Body_Parts,2925
+腳趾甲,toenail,Health & Wellness,More_Body_Parts,2926
+腋窩,armpit,Health & Wellness,More_Body_Parts,2927
+腹肌,abs,Health & Wellness,More_Body_Parts,2928
+下巴,jaw,Health & Wellness,More_Body_Parts,2929
+肚臍,belly button,Health & Wellness,More_Body_Parts,2930
+我梳頭,I comb my hair,Health & Wellness,Daily_Routines,3528
+我設定鬧鐘,I set an alarm,Health & Wellness,Daily_Routines,3529
+我起床,I wake up,Health & Wellness,Daily_Routines,3530
+我去睡覺,I go to bed,Health & Wellness,Daily_Routines,3531
+我洗面,I wash my face,Health & Wellness,Daily_Routines,3533
+我去上班,I go to work,Health & Wellness,Daily_Routines,3535
+我吃午餐,I have lunch,Health & Wellness,Daily_Routines,3536
+我回家,I return home,Health & Wellness,Daily_Routines,3537
+我完成,I finish,Health & Wellness,Daily_Routines,3538
+牙疼,toothache,Health & Wellness,Aches_&_Pains,391
+耳痛,earache,Health & Wellness,Aches_&_Pains,3833
+肚痛,stomachache,Health & Wellness,Aches_&_Pains,3834
+背痛,backache,Health & Wellness,Aches_&_Pains,3835
+瘀傷,bruise,Health & Wellness,Aches_&_Pains,3836
+落枕,stiff neck,Health & Wellness,Aches_&_Pains,3838
+起水疱,blister,Health & Wellness,Aches_&_Pains,3839
+嘴唇乾裂,chapped lips,Health & Wellness,Aches_&_Pains,3840
+曬傷,sunburn,Health & Wellness,Aches_&_Pains,3841
+蚊叮蟲咬,insect bite,Health & Wellness,Aches_&_Pains,3844
+骨折,bone fracture,Health & Wellness,Aches_&_Pains,3847
+肌肉拉傷,muscle strain,Health & Wellness,Aches_&_Pains,3848
+抽筋,cramp,Health & Wellness,Aches_&_Pains,3849
+過敏,allergy,Health & Wellness,Illnesses,3905
+流鼻水,runny nose,Health & Wellness,Illnesses,3906
+哮喘,asthma,Health & Wellness,Illnesses,3907
+高血壓,high blood pressure,Health & Wellness,Illnesses,3908
+流感,flu,Health & Wellness,Illnesses,3909
+糖尿病,diabetes,Health & Wellness,Illnesses,3910
+普通外科醫生,general surgeon,Health & Wellness,Illnesses,3911
+心臟科醫生,cardiologist,Health & Wellness,Illnesses,3912
+兒科醫生,pediatrician,Health & Wellness,Illnesses,3913
+皮膚科醫生,dermatologist,Health & Wellness,Illnesses,3914
+麻醉師,anesthesiologist,Health & Wellness,Illnesses,3915
+潤喉糖,throat lozenges,Health & Wellness,Illnesses,3917
+止痛藥,pain killer,Health & Wellness,Illnesses,3918
+維他命,vitamins,Health & Wellness,Illnesses,3919
+疫苗,vaccine,Health & Wellness,Illnesses,3920
+抗生素,antibiotics,Health & Wellness,Illnesses,3921
+我發冷,I shiver,Health & Wellness,Illnesses,3922
+口罩,face mask,Health & Wellness,Stay_healthy!,6600
+感染,infection,Health & Wellness,Stay_healthy!,6601
+症狀,symptom,Health & Wellness,Stay_healthy!,6602
+免疫,immunity,Health & Wellness,Stay_healthy!,6603
+病毒,virus,Health & Wellness,Stay_healthy!,6604
+傳播,transmission,Health & Wellness,Stay_healthy!,6605
+疾病,disease,Health & Wellness,Stay_healthy!,6606
+接觸傳染,contagious,Health & Wellness,Stay_healthy!,6607
+潛伏期,incubation period,Health & Wellness,Stay_healthy!,6608
+治療,treatment,Health & Wellness,Stay_healthy!,6609
+搶購,panic buying,Health & Wellness,Stay_healthy!,6610
+隔離,isolation,Health & Wellness,Stay_healthy!,6611
+社交隔離,social distancing,Health & Wellness,Stay_healthy!,6612
+隔離檢疫,quarantine,Health & Wellness,Stay_healthy!,6613
+消毒搓手液,hand sanitizer,Health & Wellness,Stay_healthy!,6614
+乳膠手套,latex gloves,Health & Wellness,Stay_healthy!,6615
+歇斯底里,hysteria,Health & Wellness,Stay_healthy!,6616
+全球大流行,pandemic,Health & Wellness,Stay_healthy!,6617
+我量度自己的體溫。,I take my temperature.,Health & Wellness,Stay_healthy!,6618
+我診斷。,I diagnose,Health & Wellness,Stay_healthy!,6619
+我洗手。,I wash my hands.,Health & Wellness,Stay_healthy!,6620
+我去看醫生。,I go to the doctor.,Health & Wellness,Stay_healthy!,6621
+我吃藥,I take medicine.,Health & Wellness,Stay_healthy!,6622
+我清潔消毒。,I clean and disinfect.,Health & Wellness,Stay_healthy!,6623
+請遮掩你的嘴巴！,"Cover your mouth, please!",Health & Wellness,Stay_healthy!,6624
+乞嗤,achoo,Health & Wellness,Human_Sounds,6819
+嘰哩咕嚕,babble,Health & Wellness,Human_Sounds,6822
+嘔,retch,Health & Wellness,Human_Sounds,6823
+嚎哭,bawl,Health & Wellness,Human_Sounds,6824
+顫抖,brrr,Health & Wellness,Human_Sounds,6825
+打嗝,burp,Health & Wellness,Human_Sounds,6826
+咯咯,cackle,Health & Wellness,Human_Sounds,6827
+咬,chomp,Health & Wellness,Human_Sounds,6828
+吓,huh,Health & Wellness,Human_Sounds,6829
+嗯,hmm,Health & Wellness,Human_Sounds,6830
+咕嚕,gulp,Health & Wellness,Human_Sounds,6831
+哈哈,haha,Health & Wellness,Human_Sounds,6832
+咕嚕,gargle,Health & Wellness,Human_Sounds,6833
+哼,grrr,Health & Wellness,Human_Sounds,6834
+哼,hum,Health & Wellness,Human_Sounds,6835
+寂靜,hush,Health & Wellness,Human_Sounds,6836
+咀嚼聲,munch,Health & Wellness,Human_Sounds,6837
+哎呀,oops,Health & Wellness,Human_Sounds,6838
+噓,shush,Health & Wellness,Human_Sounds,6840
+抽鼻子,sniffle,Health & Wellness,Human_Sounds,6841
+啪,smack,Health & Wellness,Human_Sounds,6842
+唧,tsk,Health & Wellness,Human_Sounds,6843
+哎呀,ouch,Health & Wellness,Human_Sounds,6844
+嘩,wow,Health & Wellness,Human_Sounds,6845
+打嗝,hiccup,Health & Wellness,Human_Sounds,6847
+嘻嘻,giggle,Health & Wellness,Human_Sounds,6848
+颼颼,whoosh,Health & Wellness,Noises,6849
+吱吱斟斟,blah blah blah,Health & Wellness,Noises,6850
+轟,boom,Health & Wellness,Noises,6851
+咔嗒,click,Health & Wellness,Noises,6852
+砰,bang,Health & Wellness,Noises,6853
+咿,creak,Health & Wellness,Noises,6854
+咚,thump,Health & Wellness,Noises,6856
+嗞,sizzle,Health & Wellness,Noises,6857
+叮噹,ding dong,Health & Wellness,Noises,6859
+咇,beep,Health & Wellness,Noises,6860
+哼,clink,Health & Wellness,Noises,6861
+錚鏘,jingle,Health & Wellness,Noises,6862
+噗咚,plop,Health & Wellness,Noises,6863
+滴嗒,drip-drop,Health & Wellness,Noises,6864
+卜,pop,Health & Wellness,Noises,6865
+隆隆,rumble,Health & Wellness,Noises,6866
+滴答,tick tock,Health & Wellness,Noises,6867
+喀嚓,zap,Health & Wellness,Noises,6869
+嗞,fizz,Health & Wellness,Noises,6870
+竊笑,snicker,Health & Wellness,Noises,6872
+敲,knock,Health & Wellness,Noises,6873
+吟吟哦哦,mumble,Health & Wellness,Noises,6874
+拍掌聲,clap,Health & Wellness,Noises,6875
+哎呀,oof,Health & Wellness,Noises,6876
+卡啦,crunch,Health & Wellness,Noises,6877
+呼,phew,Health & Wellness,Noises,6878
+冥想,meditation,Health & Wellness,Mindfulness,1538
+意識,mindfulness,Health & Wellness,Mindfulness,6596
+目標,focus,Health & Wellness,Mindfulness,6714
+自我意識,self-awareness,Health & Wellness,Mindfulness,7356
+自言自語,self-talk,Health & Wellness,Mindfulness,7359
+壓力,stress,Health & Wellness,Mindfulness,7360
+同情心,empathy,Health & Wellness,Mindfulness,7362
+自愛,self-love,Health & Wellness,Mindfulness,7363
+茶,tea,Health & Wellness,Natural_Remedies,33
+我睡覺,I sleep,Health & Wellness,Natural_Remedies,156
+自然療法,natural remedies,Health & Wellness,Natural_Remedies,7387
+免疫系統,immune system,Health & Wellness,Natural_Remedies,7388
+我喝茶,I drink tea,Health & Wellness,Natural_Remedies,7390
+我洗澡,I take a bath,Health & Wellness,Natural_Remedies,7391
+足浴,foot bath,Health & Wellness,Natural_Remedies,7392
+香精油,essential oil,Health & Wellness,Natural_Remedies,7393
+咳嗽,cough,Health & Wellness,COVID_Talk,386
+發燒,fever,Health & Wellness,COVID_Talk,387
+你曾否確診新型冠狀病毒？,Have you had COVID?,Health & Wellness,COVID_Talk,7747
+核酸檢測,PCR test,Health & Wellness,COVID_Talk,7748
+抗原測試,antigen test,Health & Wellness,COVID_Talk,7749
+我測試結果呈陽性。,I tested positive.,Health & Wellness,COVID_Talk,7750
+我是密切接觸者。,I was a close contact.,Health & Wellness,COVID_Talk,7751
+我好累。,I was tired.,Health & Wellness,COVID_Talk,7752
+我沒有症狀。,I had no symptoms.,Health & Wellness,COVID_Talk,7753
+新型冠狀病毒變種病毒,COVID variant,Health & Wellness,COVID_Talk,7754
+我需要隔離五日。,I had to quarantine for five days.,Health & Wellness,COVID_Talk,7755
+我很快便康復了。,I recovered quickly.,Health & Wellness,COVID_Talk,7756
+我們當時封城。,We were in lockdown.,Health & Wellness,COVID_Talk,7757
+他們關閉了邊境。,They closed the borders.,Health & Wellness,COVID_Talk,7758
+醫用口罩,medical mask,Health & Wellness,COVID_Talk,7759
+布口罩,cloth mask,Health & Wellness,COVID_Talk,7760
+戴口罩規定,mask mandate,Health & Wellness,COVID_Talk,7761
+加強針,booster shot,Health & Wellness,COVID_Talk,7762
+疫苗接種證明,proof of vaccination,Health & Wellness,COVID_Talk,7763
+骨架,skeleton,Holidays,Halloween,827
+萬聖節,Halloween,Holidays,Halloween,1094
+蝙蝠,bat,Holidays,Halloween,1189
+怪物,monster,Holidays,Halloween,1776
+門鐘,doorbell,Holidays,Halloween,2638
+戲服,costume,Holidays,Halloween,7107
+南瓜燈,jack-o'-lantern,Holidays,Halloween,7108
+不給糖就搗蛋,trick or treat,Holidays,Halloween,7109
+蜘蛛網,spider web,Holidays,Halloween,7110
+面具,mask,Holidays,Halloween,7111
+雞皮疙瘩,goosebumps,Holidays,Halloween,7112
+陰森恐怖,spooky,Holidays,Halloween,7113
+我雕刻,I carve,Holidays,Halloween,7114
+鬼屋,haunted house,Holidays,Halloween,7115
+糖果,sweets,Holidays,Halloween,7116
+我打扮,I dress up,Holidays,Halloween,7117
+禮物,gift,Holidays,Winter_Holidays,1093
+薑餅,gingerbread,Holidays,Winter_Holidays,3702
+我慶祝,I celebrate,Holidays,Winter_Holidays,1095
+我烤,I bake,Holidays,Winter_Holidays,1501
+光明節快樂！,Happy Hanukkah!,Holidays,Winter_Holidays,7122
+聖誕節快樂！,Merry Christmas!,Holidays,Winter_Holidays,7130
+派對,party,Holidays,New_Years,407
+煙花,fireworks,Holidays,New_Years,1091
+除夕,New Year's Eve,Holidays,New_Years,1098
+乾杯,toast,Holidays,New_Years,1469
+午夜,midnight,Holidays,New_Years,6529
+乾杯！,Cheers!,Holidays,New_Years,5252
+新年,new year,Holidays,New_Years,7131
+倒數,countdown,Holidays,New_Years,7132
+晚禮服,evening gown,Holidays,New_Years,7134
+新年快樂！,Happy New Year!,Holidays,New_Years,7135
+新年目標,resolution,Holidays,New_Years,7136
+我決心,I resolve,Holidays,New_Years,7137
+我回顧,I reflect,Holidays,New_Years,7138
+回憶,memories,Holidays,New_Years,7139
+年,year,Holidays,Lunar_New_Year,6518
+農曆新年,Lunar New Year,Holidays,Lunar_New_Year,7140
+新月,new moon,Holidays,Lunar_New_Year,7144
+滿月,full moon,Holidays,Lunar_New_Year,7145
+情人節,Valentine's day,Holidays,Valentine's_Day,1101
+花束,bouquet,Holidays,Valentine's_Day,1460
+我們手牽手,we hold hands,Holidays,Valentine's_Day,2781
+我稱讚,I compliment,Holidays,Valentine's_Day,2802
+問候卡,greeting card,Holidays,Valentine's_Day,7179
+盒裝朱古力,box of chocolates,Holidays,Valentine's_Day,7180
+我愛你！,I love you!,Holidays,Valentine's_Day,7185
+情人節快樂！,Happy Valentine's Day!,Holidays,Valentine's_Day,7187
+國王,king,Gaming,Deck_of_Cards,1041
+女皇,queen,Gaming,Deck_of_Cards,1049
+啤牌,deck of cards,Gaming,Deck_of_Cards,7770
+花色,suits,Gaming,Deck_of_Cards,7771
+梅花,clubs,Gaming,Deck_of_Cards,7772
+階磚,diamonds,Gaming,Deck_of_Cards,7773
+红心,hearts,Gaming,Deck_of_Cards,7774
+葵扇,spades,Gaming,Deck_of_Cards,7775
+積,jack,Gaming,Deck_of_Cards,7777
+A 史,ace,Gaming,Deck_of_Cards,7778
+小丑牌,joker,Gaming,Deck_of_Cards,7779
+洗好牌,shuffle the cards well,Gaming,Deck_of_Cards,7780
+我有一手好牌。,I have a good hand.,Gaming,Deck_of_Cards,7781
+我手牌好差。,I have a terrible hand.,Gaming,Deck_of_Cards,7782
+面朝下,face down,Gaming,Deck_of_Cards,7783
+面朝上,face up,Gaming,Deck_of_Cards,7784
+我喜歡玩紙牌遊戲。,I like to play card games.,Gaming,Card_Games,7785
+輪到我了。,It's my turn.,Gaming,Card_Games,7786
+到你了。,Your turn.,Gaming,Card_Games,7787
+我無牌。,I pass.,Gaming,Card_Games,7788
+荷 river 官,dealer,Gaming,Card_Games,7789
+輪到誰來派牌？,Whose turn is it to deal?,Gaming,Card_Games,7790
+我不會洗牌。,I can’t shuffle.,Gaming,Card_Games,7791
+多少張卡？,How many cards?,Gaming,Card_Games,7792
+我們每人會有三張牌。,We each get three cards.,Gaming,Card_Games,7793
+抽一張牌,draw a card,Gaming,Card_Games,7794
+棄牌,discard a card,Gaming,Card_Games,7795
+出牌,play a card,Gaming,Card_Games,7796
+棄牌堆,discard pile,Gaming,Card_Games,7797
+賭注,bet,Gaming,Card_Games,7798
+全押,all-in,Gaming,Card_Games,7799
+我在虛張聲勢,I was bluffing,Gaming,Card_Games,7800
+我喜歡解謎,I like solving puzzles,Gaming,Puzzles,7801
+填字遊戲,crossword puzzle,Gaming,Puzzles,7802
+線索,clues,Gaming,Puzzles,7803
+砌圖,jigsaw puzzle,Gaming,Puzzles,7805
+一塊砌圖,puzzle piece,Gaming,Puzzles,7806
+我們一起拼砌圖吧！,Let's put a puzzle together.,Gaming,Puzzles,7807
+這幅砌圖有多少塊？,How many pieces are in this puzzle?,Gaming,Puzzles,7810
+一千塊,one thousand pieces,Gaming,Puzzles,7811
+砌圖墊,puzzle mat,Gaming,Puzzles,7812
+這幅砌圖屬高難度。,This puzzle is difficult.,Gaming,Puzzles,7813
+這幅砌圖很簡單。,This puzzle is easy.,Gaming,Puzzles,7814
+我喜歡玩桌上遊戲。,I like to play board games.,Gaming,Board_Game_Lingo,7815
+桌上遊戲,board game,Gaming,Board_Game_Lingo,7816
+二至四個玩家,two to four players,Gaming,Board_Game_Lingo,7817
+骰子,dice,Gaming,Board_Game_Lingo,7818
+棋子,counter,Gaming,Board_Game_Lingo,7819
+規則,rules,Gaming,Board_Game_Lingo,7820
+我怎樣贏？,How do I win?,Gaming,Board_Game_Lingo,7821
+你可以先出。,You can go first.,Gaming,Board_Game_Lingo,7822
+在這裏開始,start here,Gaming,Board_Game_Lingo,7823
+擲骰,roll the dice,Gaming,Board_Game_Lingo,7824
+向前行三步,move forward three spaces,Gaming,Board_Game_Lingo,7825
+這是甚麼意思？,What does this mean?,Gaming,Board_Game_Lingo,7826
+跳過一個回合,skip a turn,Gaming,Board_Game_Lingo,7827
+該輪到誰啦？,Whose turn is it?,Gaming,Board_Game_Lingo,7828
+那值五分。,That was worth five points.,Gaming,Board_Game_Lingo,7829
+這是違反規則的。,That’s against the rules.,Gaming,Board_Game_Lingo,7830
+回到起點,back to square one,Gaming,Board_Game_Lingo,7831
+扣一分,minus one point,Gaming,Board_Game_Lingo,7832
+最終得分是多少？,What's the final score?,Gaming,Board_Game_Lingo,7833
+擴 KWong 充,expansion pack,Gaming,Board_Game_Lingo,7834
+再玩一次？,Play again?,Gaming,Board_Game_Lingo,7835
+圖書館,library,All Things School,Naming_Things_at_School,303
+課堂,classroom,All Things School,Naming_Things_at_School,799
+白板,whiteboard,All Things School,Naming_Things_at_School,813
+垃圾桶,trash can,All Things School,Naming_Things_at_School,1001
+儲物櫃,locker,All Things School,Naming_Things_at_School,1114
+通告板,bulletin board,All Things School,Naming_Things_at_School,7836
+箱頭筆,markers,All Things School,Naming_Things_at_School,7837
+投影器,projector,All Things School,Naming_Things_at_School,7838
+學校體育館,school gym,All Things School,Naming_Things_at_School,7839
+禮堂,auditorium,All Things School,Naming_Things_at_School,7840
+科學實驗室,science lab,All Things School,Naming_Things_at_School,7841
+音樂室,music room,All Things School,Naming_Things_at_School,7842
+操場,playground,All Things School,Naming_Things_at_School,7843
+校長室,principal's office,All Things School,Naming_Things_at_School,7844
+粉筆,chalk,All Things School,Naming_Things_at_School,7845
+黑板,blackboard,All Things School,Naming_Things_at_School,7846
+校刊,yearbook,All Things School,Naming_Things_at_School,7847
+學生相,school photos,All Things School,Naming_Things_at_School,7848
+海報,poster,All Things School,Naming_Things_at_School,7849
+校長,principal,All Things School,Naming_Things_at_School,7850
+教練,coach,All Things School,Naming_Things_at_School,7851
+校工,janitor,All Things School,Naming_Things_at_School,7852
+計算機,calculator,All Things School,In_My_Backpack,798
+擦字膠,eraser,All Things School,In_My_Backpack,801
+墨水,ink,All Things School,In_My_Backpack,804
+筆記簿,notebook,All Things School,In_My_Backpack,806
+萬字夾,paper clip,All Things School,In_My_Backpack,807
+鋼筆,pen,All Things School,In_My_Backpack,808
+鉛筆,pencil,All Things School,In_My_Backpack,809
+尺,ruler,All Things School,In_My_Backpack,810
+學生證,student id,All Things School,In_My_Backpack,812
+背囊,backpack,All Things School,In_My_Backpack,1103
+教科書,textbooks,All Things School,In_My_Backpack,7853
+文件夾,binder,All Things School,In_My_Backpack,7854
+鉛筆刨,pencil sharpener,All Things School,In_My_Backpack,7855
+字典,dictionary,All Things School,In_My_Backpack,7856
+鉛筆盒,pencil case,All Things School,In_My_Backpack,7857
+熒光筆,highlighter,All Things School,In_My_Backpack,7858
+剪刀,scissors,All Things School,In_My_Backpack,7859
+量角器,protractor,All Things School,In_My_Backpack,7860
+打孔器,hole punch,All Things School,In_My_Backpack,7861
+釘書機,staples,All Things School,In_My_Backpack,7862
+課外活動,extracurricular activities,All Things School,After_School_Activities,7863
+我在話劇社演戲,I act with the drama club,All Things School,After_School_Activities,7864
+我做運動,I play sports,All Things School,After_School_Activities,7865
+我和樂隊一起步操,I march with the band,All Things School,After_School_Activities,7866
+我和管弦樂團一起演奏,I play with the orchestra,All Things School,After_School_Activities,7867
+我在合唱團唱歌,I sing in the choir,All Things School,After_School_Activities,7868
+我做義工,I volunteer,All Things School,After_School_Activities,7869
+我為校報撰稿,I write for the newspaper,All Things School,After_School_Activities,7870
+我嘅興趣係攝影,I take photos for fun,All Things School,After_School_Activities,7871
+我上音樂堂,I take music lessons,All Things School,After_School_Activities,7872
+我睡午覺,I take a nap,All Things School,After_School_Activities,7873
+收銀員,cashier,All Things School,At_the_Cafeteria,209
+餐巾,napkin,All Things School,At_the_Cafeteria,739
+托盤,tray,All Things School,At_the_Cafeteria,744
+快餐店,cafeteria,All Things School,At_the_Cafeteria,3875
+午飯時間,lunch break,All Things School,At_the_Cafeteria,7874
+自助餐,buffet,All Things School,At_the_Cafeteria,7875
+我想要意粉，謝謝。,"I would like the pasta, please.",All Things School,At_the_Cafeteria,7876
+沙律吧,salad bar,All Things School,At_the_Cafeteria,7877
+銀器餐具,silverware,All Things School,At_the_Cafeteria,7878
+你想喝點甚麼嗎？,Would you like a drink?,All Things School,At_the_Cafeteria,7879
+這含有牛奶嗎？,Does this contain milk?,All Things School,At_the_Cafeteria,7880
+掃學生證付款,swipe your ID to pay,All Things School,At_the_Cafeteria,7881
+沒有餘額,out of money,All Things School,At_the_Cafeteria,7882
+你可不可以將我的卡增值十元？,Can you add ten dollars to my card?,All Things School,At_the_Cafeteria,7883
+我可不可以坐這位子？,Can I sit here?,All Things School,At_the_Cafeteria,7885
+可以，這個座位是空的。,"Sure, it's free.",All Things School,At_the_Cafeteria,7886
+考試,exam,All Things School,Study_Routine,802
+我讀書,I study,All Things School,Study_Routine,811
+我研究,I research,All Things School,Study_Routine,7440
+我強調,I highlight,All Things School,Study_Routine,7453
+功課,homework,All Things School,Study_Routine,7887
+認字卡,flashcards,All Things School,Study_Routine,7888
+我寫筆記,I take notes,All Things School,Study_Routine,7889
+我考試不合格。,I failed the exam.,All Things School,Study_Routine,7890
+我考試合格。,I passed the exam.,All Things School,Study_Routine,7891
+我有進步！,I'm making progress!,All Things School,Study_Routine,7892
+成績表,grade report,All Things School,Study_Routine,7893
+我成績不錯。,I have good grades.,All Things School,Study_Routine,7894
+段落,paragraph,All Things School,Study_Routine,7895
+舉手。,Raise your hand.,All Things School,In_the_Classroom,7896
+請關上門。,Please shut the door.,All Things School,In_the_Classroom,7897
+請坐。,Please take a seat.,All Things School,In_the_Classroom,7898
+請仔細按指示做。,Follow the instructions carefully.,All Things School,In_the_Classroom,7899
+完成習作。,Complete the exercise.,All Things School,In_the_Classroom,7900
+用生詞填空。,Fill in the blanks with the new words.,All Things School,In_the_Classroom,7901
+劃掉錯誤的答案。,Cross out the wrong answer.,All Things School,In_the_Classroom,7902
+圈出正確答案。,Circle the correct answer.,All Things School,In_the_Classroom,7903
+打開第五十四頁。,Turn to page fifty-four.,All Things School,In_the_Classroom,7904
+我可以去洗手間嗎？,May I use the restroom?,All Things School,In_the_Classroom,7905
+你可以重複一次嗎？,Can you repeat that?,All Things School,In_the_Classroom,7906
+...怎樣讀？,How do you pronounce ...?,All Things School,In_the_Classroom,7907
+朗讀故事。,Read the story aloud.,All Things School,In_the_Classroom,7908
+我不知道。,I don't know.,All Things School,In_the_Classroom,7909
+請兩人一組合作。,Please work in pairs.,All Things School,In_the_Classroom,7910
+按上下文意推理。,Use context clues.,All Things School,In_the_Classroom,7911
+實驗,experiment,All Things School,Science_Lab,1637
+科學實驗室,science lab,All Things School,Science_Lab,7841
+假設,hypothesis,All Things School,Science_Lab,7912
+研究員,researcher,All Things School,Science_Lab,7914
+我預測,I predict,All Things School,Science_Lab,7915
+燒杯,beaker,All Things School,Science_Lab,7916
+漏斗,funnel,All Things School,Science_Lab,7917
+磁鐵,magnet,All Things School,Science_Lab,7918
+培養皿,Petri dish,All Things School,Science_Lab,7919
+吸管,pipette,All Things School,Science_Lab,7920
+塞,stopper,All Things School,Science_Lab,7921
+試管,test tube,All Things School,Science_Lab,7922
+試管架,test tube rack,All Things School,Science_Lab,7923
+實驗報告,lab reports,All Things School,Science_Lab,7924
+實驗室助理,lab assistant,All Things School,Science_Lab,7925
+化學,chemistry,All Things School,School_Subjects,1633
+我的第一堂課九點開始。,My first class starts at nine.,All Things School,School_Subjects,7926
+我每星期二早上有生物課。,I have biology on Tuesday mornings.,All Things School,School_Subjects,7927
+我正在學習外語。,I'm learning a language.,All Things School,School_Subjects,7928
+我擅長數學。,I'm good at math.,All Things School,School_Subjects,7929
+我的化學課很難。,My chemistry class is hard.,All Things School,School_Subjects,7930
+數學,maths,All Things School,School_Subjects,7931
+文學,literature,All Things School,School_Subjects,7932
+生物學,biology,All Things School,School_Subjects,7933
+體育,physical education,All Things School,School_Subjects,7934
+樂理,music theory,All Things School,School_Subjects,7935
+電腦課,computer class,All Things School,School_Subjects,7936
+歷史,history,All Things School,School_Subjects,7937
+我們明天放假！,We have the day off tomorrow!,All Things School,School_Subjects,7938
+寒假,winter break,All Things School,School_Subjects,7939
+春假,spring break,All Things School,School_Subjects,7940
+我曠課。,I skipped class.,All Things School,School_Subjects,7941
+我有病假紙。,I have a doctor's note.,All Things School,School_Subjects,7942
+文憑,diploma,All Things School,University_Studies,800
+畢業,graduation,All Things School,University_Studies,803
+演講,lecture,All Things School,University_Studies,805
+職業教育,vocational education,All Things School,University_Studies,7943
+作為我的事業，我想成為……。,I want to be ... as my career.,All Things School,University_Studies,7944
+研究生,graduate studies,All Things School,University_Studies,7945
+學位,degree,All Things School,University_Studies,7946
+學費,tuition,All Things School,University_Studies,7947
+院長,dean,All Things School,University_Studies,7948
+學院,faculty,All Things School,University_Studies,7949
+空檔年,gap year,All Things School,University_Studies,7950
+宿舍,dormitories,All Things School,University_Studies,7951
+實習生,intern,All Things School,University_Studies,7952
+教授,professor,All Things School,University_Studies,7953
+助學貸款,student loans,All Things School,University_Studies,7954
+資格,qualifications,All Things School,University_Studies,7955
+旅館,hostel,All Things School,I_Will_Study_Abroad,839
+交流生,exchange students,All Things School,I_Will_Study_Abroad,7956
+國外,abroad,All Things School,I_Will_Study_Abroad,7957
+寄宿家庭,host family,All Things School,I_Will_Study_Abroad,7958
+思鄉,homesick,All Things School,I_Will_Study_Abroad,7959
+住宿,accommodation,All Things School,I_Will_Study_Abroad,7960
+迷失方向,disoriented,All Things School,I_Will_Study_Abroad,7961
+預算,budget,All Things School,I_Will_Study_Abroad,7962
+獎學金,scholarship,All Things School,I_Will_Study_Abroad,7963
+開支,expenses,All Things School,I_Will_Study_Abroad,7964
+旅程,journey,All Things School,I_Will_Study_Abroad,7965
+幼稚園,kindergarten,All Things School,Primary_School,7966
+學前班,preschool,All Things School,Primary_School,7967
+零食時間,snack time,All Things School,Primary_School,7969
+小息,recess,All Things School,Primary_School,7970
+課後看管,after-school care,All Things School,Primary_School,7971
+我玩捉迷藏,I play hide and seek,All Things School,Primary_School,7972
+我捉伊人,I play tag,All Things School,Primary_School,7973
+我玩跳飛機,I play hopscotch,All Things School,Primary_School,7974
+我與同學交換閃卡,I trade cards,All Things School,Primary_School,7975
+我們是網上認識的,we met online,My Romantic Relationships,We_Met_Online,7189
+我已登記,I signed up,My Romantic Relationships,We_Met_Online,7190
+交友檔案,dating profile,My Romantic Relationships,We_Met_Online,7191
+個人頭像,profile picture,My Romantic Relationships,We_Met_Online,7192
+自拍,selfie,My Romantic Relationships,We_Met_Online,7193
+描述,caption,My Romantic Relationships,We_Met_Online,7194
+我向左掃,I swiped left,My Romantic Relationships,We_Met_Online,7195
+我會挑剔,I'm picky,My Romantic Relationships,We_Met_Online,7196
+我向右掃,I swiped right,My Romantic Relationships,We_Met_Online,7197
+我們匹配,we matched,My Romantic Relationships,We_Met_Online,7198
+訊息,messages,My Romantic Relationships,We_Met_Online,7199
+我給他發了訊息,I sent him a message,My Romantic Relationships,We_Met_Online,7200
+收件箱,inbox,My Romantic Relationships,We_Met_Online,7201
+我檢查了收件箱,I checked my inbox,My Romantic Relationships,We_Met_Online,7202
+他很幽默,he's funny,My Romantic Relationships,We_Met_Online,7203
+我們有很多共同點,we have a lot in common,My Romantic Relationships,We_Met_Online,7204
+求婚,proposal,My Romantic Relationships,We're_engaged!,1467
+乾杯！,Cheers!,My Romantic Relationships,We're_engaged!,5252
+我買了戒指,I bought a ring,My Romantic Relationships,We're_engaged!,7221
+訂婚戒指,engagement ring,My Romantic Relationships,We're_engaged!,7222
+秘密,secret,My Romantic Relationships,We're_engaged!,7223
+我計劃,I plan,My Romantic Relationships,We're_engaged!,7224
+我們去哪？,Where are we going?,My Romantic Relationships,We're_engaged!,7225
+這是個驚喜。,It's a surprise.,My Romantic Relationships,We're_engaged!,7226
+我們的週年紀念,our anniversary,My Romantic Relationships,We're_engaged!,7227
+我們最喜歡的地方,our favorite place,My Romantic Relationships,We're_engaged!,7228
+我們的歌,our song,My Romantic Relationships,We're_engaged!,7229
+我們一起的生活,our life together,My Romantic Relationships,We're_engaged!,7230
+我單膝跪地,I got down on one knee,My Romantic Relationships,We're_engaged!,7231
+我求婚了,I proposed marriage,My Romantic Relationships,We're_engaged!,7232
+你帶給我快樂。,You make me happy.,My Romantic Relationships,We're_engaged!,7233
+她說願意！,She said yes!,My Romantic Relationships,We're_engaged!,7234
+你願意嫁給我嗎？,Will you marry me?,My Romantic Relationships,We're_engaged!,7235
+我們訂婚了！,We're engaged!,My Romantic Relationships,We're_engaged!,7236
+我們慶祝,we celebrate,My Romantic Relationships,We're_engaged!,7237
+花束,bouquet,My Romantic Relationships,Wedding_Day,1460
+新娘,bride,My Romantic Relationships,Wedding_Day,1461
+新郎,groom,My Romantic Relationships,Wedding_Day,1463
+度蜜月,honeymoon,My Romantic Relationships,Wedding_Day,1464
+結婚蛋糕,wedding cake,My Romantic Relationships,Wedding_Day,1470
+婚禮日,wedding day,My Romantic Relationships,Wedding_Day,1472
+婚紗禮服,wedding dress,My Romantic Relationships,Wedding_Day,1473
+結婚戒指,wedding ring,My Romantic Relationships,Wedding_Day,1476
+神壇,altar,My Romantic Relationships,Wedding_Day,2783
+燕尾服,tuxedo,My Romantic Relationships,Wedding_Day,7238
+走道,aisle,My Romantic Relationships,Wedding_Day,7239
+監禮人,officiant,My Romantic Relationships,Wedding_Day,7240
+見證人,witness,My Romantic Relationships,Wedding_Day,7241
+結婚誓詞,wedding vows,My Romantic Relationships,Wedding_Day,7242
+我願意,I do,My Romantic Relationships,Wedding_Day,7243
+我們結婚了,we're married,My Romantic Relationships,Wedding_Day,7244
+婚宴,wedding reception,My Romantic Relationships,Wedding_Day,7245
+第一支舞,first dance,My Romantic Relationships,Wedding_Day,7246
